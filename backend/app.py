@@ -140,14 +140,14 @@ def send_notification():
 def get_welcome_audio():
     try:
         welcome_text = """
-Hey, I'm Anty
+Hey there, I'm Anty!
 your personal daily planner for the magical city of Antwerp! ✨
 
 Whether you're tired of visiting the same old spots or you're eager to discover hidden gems around the city, I'm here to craft a unique journey for you, one day at a time.
 
 But first tell me a bit about your typical day, and I'll take care of the rest.
 
-Let's make your everyday... a little more interesting!. 🚲✨
+Let's make your everyday... a little more interesting. 🚲✨
         """
         
         # Generate audio

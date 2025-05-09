@@ -29,8 +29,15 @@
         Let's make your everyday... a little more interesting. 🚲✨
       </p>
       
-      <button class="confirm-button" @click="$emit('start')">
-        Start helping me!
+      <button 
+        class="confirm-button" 
+        @click="$emit('start')"
+        :disabled="isAudioPlaying || !isAudioAlreadyPlayed"
+        :class="{ 'disabled': isAudioPlaying || !isAudioAlreadyPlayed }"
+      >
+        {{ !isAudioAlreadyPlayed ? 'Click the bubble to hear Anty first!' : 
+           isAudioPlaying ? 'Please listen to Anty...' : 
+           'Start helping me!' }}
       </button>
     </div>
   </div>
@@ -43,6 +50,7 @@ defineEmits(['start']);
 
 const isSphereAnimated = ref(false);
 const isAudioPlaying = ref(false);
+const isAudioAlreadyPlayed = ref(false);
 const audio = ref<HTMLAudioElement | null>(null);
 
 const toggleAnimation = () => {
@@ -64,6 +72,7 @@ const playWelcomeAudio = async () => {
       audio.value.addEventListener('ended', () => {
         isAudioPlaying.value = false;
         isSphereAnimated.value = false;
+        isAudioAlreadyPlayed.value = true;
       });
     }
     
@@ -78,8 +87,21 @@ const playWelcomeAudio = async () => {
 };
 
 onMounted(() => {
-  // Auto-play audio when component mounts
-  playWelcomeAudio();
+  // Initialize audio without auto-playing
+  audio.value = new Audio('/api/welcome-audio');
+  audio.value.addEventListener('play', () => {
+    isAudioPlaying.value = true;
+    isSphereAnimated.value = true;
+  });
+  audio.value.addEventListener('pause', () => {
+    isAudioPlaying.value = false;
+    isSphereAnimated.value = false;
+  });
+  audio.value.addEventListener('ended', () => {
+    isAudioPlaying.value = false;
+    isSphereAnimated.value = false;
+    isAudioAlreadyPlayed.value = true;
+  });
 });
 </script>
 
@@ -171,16 +193,23 @@ p {
   border-radius: 8px;
   font-size: 1rem;
   cursor: pointer;
-  transition: transform 0.2s, background-color 0.2s;
+  transition: transform 0.2s, background-color 0.2s, opacity 0.2s;
 }
 
-.confirm-button:hover {
+.confirm-button:not(.disabled):hover {
   transform: translateY(-2px);
   background-color: #444;
 }
 
-.confirm-button:active {
+.confirm-button:not(.disabled):active {
   transform: translateY(0);
+}
+
+.confirm-button.disabled {
+  background-color: #999;
+  cursor: not-allowed;
+  transform: none;
+  opacity: 0.7;
 }
 
 /* Fade transition */

@@ -25,7 +25,7 @@ class ElevenLabsAPI:
     def text_to_speech(
         self,
         text: str,
-        voice_id: str = "21m00Tcm4TlvDq8ikWAM",  # Default voice (Rachel)
+        voice_id: str = "pNInz6obpgDQGcFmaJgB",  # Changed to Adam (more energetic voice)
         model_id: str = "eleven_monolingual_v1",
         output_path: Optional[str] = None
     ) -> bytes:
@@ -46,8 +46,10 @@ class ElevenLabsAPI:
             "text": text,
             "model_id": model_id,
             "voice_settings": {
-                "stability": 0.5,
-                "similarity_boost": 0.5
+                "stability": 0.35,  # Lower stability for more expressiveness
+                "similarity_boost": 0.75,  # Higher similarity boost for more character
+                "style": 0.85,  # Added style parameter for more excitement
+                "use_speaker_boost": True  # Enable speaker boost for clearer voice
             }
         }
 
@@ -77,30 +79,3 @@ class ElevenLabsAPI:
         )
         response.raise_for_status()
         return response.json()
-
-
-# Example usage
-if __name__ == "__main__":
-    # Initialize the API client
-    tts = ElevenLabsAPI()
-    
-    # Example 2: Convert text to speech and save to file
-    text = """ 
-Hey, I'm Anty
-your personal daily planner for the magical city of Antwerp! ✨
-
-Whether you're tired of visiting the same old spots or you're eager to discover hidden gems around the city, I'm here to craft a unique journey for you, one day at a time.
-
-But first tell me a bit about your typical day, and I'll take care of the rest.
-
-Let's make your everyday... a little more interesting!. 🚲✨
-
-    """
-    tts.text_to_speech(
-        text=text,
-        output_path="test_speech.mp3"
-    )
-    
-    # Example 3: Get user subscription info
-    user_info = tts.get_user_info()
-    print("User info:", user_info)
