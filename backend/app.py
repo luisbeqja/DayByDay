@@ -1,9 +1,11 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_file
 from flask_cors import CORS
 import os
 import json
 from dotenv import load_dotenv
 from pywebpush import webpush, WebPushException
+from agent.speech.ElevenLabs import ElevenLabsAPI
+from io import BytesIO
 
 # Load environment variables
 load_dotenv()
@@ -46,6 +48,9 @@ def save_subscriptions():
 
 # Load subscriptions on startup
 load_subscriptions()
+
+# Initialize ElevenLabs API
+tts = ElevenLabsAPI()
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -130,6 +135,36 @@ def send_notification():
         return jsonify({"success": True, "recipients": len(subscriptions)})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/welcome-audio', methods=['GET'])
+def get_welcome_audio():
+    try:
+        welcome_text = """
+Hey there, I'm Anty!
+your personal daily planner for the magical city of Antwerp! ✨
+
+Whether you're tired of visiting the same old spots or you're eager to discover hidden gems around the city, I'm here to craft a unique journey for you, one day at a time.
+
+But first tell me a bit about your typical day, and I'll take care of the rest.
+
+Let's make your everyday... a little more interesting. 🚲✨
+        """
+        
+        # Generate audio
+        audio_data = tts.text_to_speech(text=welcome_text)
+        
+        # Create a BytesIO object
+        audio_buffer = BytesIO(audio_data)
+        audio_buffer.seek(0)
+        
+        return send_file(
+            audio_buffer,
+            mimetype='audio/mpeg',
+            as_attachment=False,
+            download_name='welcome.mp3'
+        )
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 # Add your API endpoints here
 
