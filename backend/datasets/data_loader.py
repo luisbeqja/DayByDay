@@ -16,7 +16,7 @@ def load_and_process_osm_data(dataset_name="ns2agi/antwerp-osm-navigator"):
 
 
 def extract_data(dataset, amenity_categories, shop_categories,
-                 output_dir="backend/data/maps_dataset"):
+                 output_dir="data/maps_dataset"):
     print("\nFiltering categories for amenities and shops")
     filtered_amenities = defaultdict(list)
     filtered_shops = defaultdict(list)
@@ -77,7 +77,7 @@ if __name__ == "__main__":
         "fashion_accessories", "gift"
     }
 
-    output_dir = "backend/data/maps_dataset"
+    output_dir = "data/maps_dataset"
 
     # Run the optimized extraction process
     extract_data(dataset, amenity_categories, shop_categories, output_dir)
