@@ -1,7 +1,7 @@
 <template>
   <div class="welcome-screen">
     <div class="logo">
-      <div class="bubble" @click="toggleAnimation">
+      <div class="bubble" @click="playWelcomeAudio">
         <Transition name="fade" mode="out-in">
           <img 
             :key="isSphereAnimated ? 'animated' : 'static'"
@@ -30,23 +30,57 @@
       </p>
       
       <button class="confirm-button" @click="$emit('start')">
-        confirm
+        Start helping me!
       </button>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 
 defineEmits(['start']);
 
 const isSphereAnimated = ref(false);
+const isAudioPlaying = ref(false);
+const audio = ref<HTMLAudioElement | null>(null);
 
 const toggleAnimation = () => {
   isSphereAnimated.value = !isSphereAnimated.value;
 };
 
+const playWelcomeAudio = async () => {
+  try {
+    if (!audio.value) {
+      audio.value = new Audio('/api/welcome-audio');
+      audio.value.addEventListener('play', () => {
+        isAudioPlaying.value = true;
+        isSphereAnimated.value = true;
+      });
+      audio.value.addEventListener('pause', () => {
+        isAudioPlaying.value = false;
+        isSphereAnimated.value = false;
+      });
+      audio.value.addEventListener('ended', () => {
+        isAudioPlaying.value = false;
+        isSphereAnimated.value = false;
+      });
+    }
+    
+    if (!isAudioPlaying.value) {
+      await audio.value.play();
+    } else {
+      audio.value.pause();
+    }
+  } catch (error) {
+    console.error('Error playing audio:', error);
+  }
+};
+
+onMounted(() => {
+  // Auto-play audio when component mounts
+  playWelcomeAudio();
+});
 </script>
 
 <style scoped>
@@ -76,7 +110,7 @@ const toggleAnimation = () => {
   backdrop-filter: blur(10px);
   overflow: hidden;
   cursor: pointer;
-  transition: transform 0.3s ease;
+  position: relative;
 }
 
 .bubble:hover {
