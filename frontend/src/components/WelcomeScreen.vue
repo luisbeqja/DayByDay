@@ -13,32 +13,35 @@
       </div>
     </div>
     <div class="message-box">
-      <h1>Hey, I'm Anty</h1>
-      <p>your personal daily planner for the magical city of Antwerp! ✨</p>
+      <div class="text-content">
+        <h1 class="typing-text">{{ displayedText.title }}</h1>
+        <p class="typing-text">{{ displayedText.subtitle }}</p>
+        
+        <p class="description typing-text">
+          {{ displayedText.description }}
+        </p>
+        
+        <p class="prompt typing-text">
+          {{ displayedText.prompt }}
+        </p>
+        
+        <p class="tagline typing-text">
+          {{ displayedText.tagline }}
+        </p>
+      </div>
       
-      <p class="description">
-        Whether you're tired of visiting the same old spots or you're eager to discover hidden gems
-        around the city, I'm here to craft a unique journey for you, one day at a time.
-      </p>
-      
-      <p class="prompt">
-        But first tell me a bit about your typical day, and I'll take care of the rest.
-      </p>
-      
-      <p class="tagline">
-        Let's make your everyday... a little more interesting. 🚲✨
-      </p>
-      
-      <button 
-        class="confirm-button" 
-        @click="$emit('start')"
-        :disabled="isAudioPlaying || !isAudioAlreadyPlayed"
-        :class="{ 'disabled': isAudioPlaying || !isAudioAlreadyPlayed }"
-      >
-        {{ !isAudioAlreadyPlayed ? 'Click the bubble to hear Anty first!' : 
-           isAudioPlaying ? 'Please listen to Anty...' : 
-           'Start helping me!' }}
-      </button>
+      <div class="button-container">
+        <button 
+          class="confirm-button" 
+          @click="$emit('start')"
+          :disabled="isAudioPlaying || !isAudioAlreadyPlayed"
+          :class="{ 'disabled': isAudioPlaying || !isAudioAlreadyPlayed }"
+        >
+          {{ !isAudioAlreadyPlayed ? 'Click the bubble to hear Anty first!' : 
+             isAudioPlaying ? 'Please listen to Anty...' : 
+             'Start helping me!' }}
+        </button>
+      </div>
     </div>
   </div>
 </template>
@@ -53,8 +56,62 @@ const isAudioPlaying = ref(false);
 const isAudioAlreadyPlayed = ref(false);
 const audio = ref<HTMLAudioElement | null>(null);
 
-const toggleAnimation = () => {
-  isSphereAnimated.value = !isSphereAnimated.value;
+// Full text content
+const fullText = {
+  title: "Hey, I'm Anty",
+  subtitle: "your personal daily planner for the magical city of Antwerp! ✨",
+  description: "Whether you're tired of visiting the same old spots or you're eager to discover hidden gems around the city, I'm here to craft a unique journey for you, one day at a time.",
+  prompt: "But first tell me a bit about your typical day, and I'll take care of the rest.",
+  tagline: "Let's make your everyday... a little more interesting. 🚲✨"
+};
+
+// Displayed text (will be updated character by character)
+const displayedText = ref({
+  title: "",
+  subtitle: "",
+  description: "",
+  prompt: "",
+  tagline: ""
+});
+
+// Typing animation control
+const typeSpeed = 50; // milliseconds per character
+
+const typeText = async (text: string, target: keyof typeof displayedText.value): Promise<void> => {
+  return new Promise((resolve) => {
+    let currentIndex = 0;
+    const interval = setInterval(() => {
+      if (currentIndex <= text.length) {
+        displayedText.value[target] = text.slice(0, currentIndex);
+        currentIndex++;
+      } else {
+        clearInterval(interval);
+        resolve();
+      }
+    }, typeSpeed);
+  });
+};
+
+const startTypingAnimation = async () => {
+  // Reset all text
+  Object.keys(displayedText.value).forEach(key => {
+    displayedText.value[key as keyof typeof displayedText.value] = "";
+  });
+
+  // Type each section with delays
+  await typeText(fullText.title, "title");
+  await new Promise(resolve => setTimeout(resolve, 500));
+  
+  await typeText(fullText.subtitle, "subtitle");
+  await new Promise(resolve => setTimeout(resolve, 1000));
+  
+  await typeText(fullText.description, "description");
+  await new Promise(resolve => setTimeout(resolve, 1000));
+  
+  await typeText(fullText.prompt, "prompt");
+  await new Promise(resolve => setTimeout(resolve, 1000));
+  
+  await typeText(fullText.tagline, "tagline");
 };
 
 const playWelcomeAudio = async () => {
@@ -64,6 +121,7 @@ const playWelcomeAudio = async () => {
       audio.value.addEventListener('play', () => {
         isAudioPlaying.value = true;
         isSphereAnimated.value = true;
+        startTypingAnimation();
       });
       audio.value.addEventListener('pause', () => {
         isAudioPlaying.value = false;
@@ -80,6 +138,10 @@ const playWelcomeAudio = async () => {
       await audio.value.play();
     } else {
       audio.value.pause();
+      // Reset text when audio is paused
+      Object.keys(displayedText.value).forEach(key => {
+        displayedText.value[key as keyof typeof displayedText.value] = "";
+      });
     }
   } catch (error) {
     console.error('Error playing audio:', error);
@@ -92,6 +154,7 @@ onMounted(() => {
   audio.value.addEventListener('play', () => {
     isAudioPlaying.value = true;
     isSphereAnimated.value = true;
+    startTypingAnimation();
   });
   audio.value.addEventListener('pause', () => {
     isAudioPlaying.value = false;
@@ -154,17 +217,48 @@ onMounted(() => {
   background-color: rgba(255, 255, 255, 0.9);
   padding: 2rem;
   border-radius: 20px;
-  text-align: center;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  min-height: 70vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
 }
 
-h1 {
+.text-content {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 1rem;
+  text-align: left;
+  padding: 0 1rem;
+}
+
+.button-container {
+  position: sticky;
+  bottom: 0;
+  padding-top: 1rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+}
+
+.text-section {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.text-section.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+h1.typing-text {
   font-size: 1.8rem;
   color: #333;
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 
-p {
+p.typing-text {
   margin: 1rem 0;
   line-height: 1.6;
   color: #666;
@@ -182,6 +276,7 @@ p {
 .tagline {
   font-style: italic;
   margin-top: 2rem;
+  text-align: center;
 }
 
 .confirm-button {
@@ -228,5 +323,13 @@ p {
 .fade-leave-from {
   opacity: 1;
   transform: scale(1);
+}
+
+.typing-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+  min-height: 1.2em;
+  position: relative;
+  overflow: hidden;
 }
 </style> 
