@@ -1,0 +1,52 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv
+env/
+
+# Environment files
+.env
+.env.*
+
+# Application data
+subscriptions.json
+private_key.pem
+.python-version
+instance/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.sw?
+*.sublime-workspace 
+.venv/
+venv/
