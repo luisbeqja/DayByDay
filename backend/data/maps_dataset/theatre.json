@@ -1,0 +1,177 @@
+[
+  {
+    "id": 375916930,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"check_date\": \"2024-04-06\", \"created_by\": \"Potlatch 0.10f\", \"name\": \"Het Paleis\", \"wikidata\": \"Q2237610\"}",
+    "lat": 51.2155815,
+    "lon": 4.4102735
+  },
+  {
+    "id": 845787522,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"3\", \"addr:postcode\": \"2018\", \"addr:street\": \"Montignystraat\", \"amenity\": \"theatre\", \"name\": \"Monty\", \"operator\": \"Monty KultuurFaktorij\", \"website\": \"https://www.monty.be/\", \"wikidata\": \"Q33100530\"}",
+    "lat": 51.2051007,
+    "lon": 4.3924644
+  },
+  {
+    "id": 1121941451,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"28\", \"addr:street\": \"Arenbergstraat\", \"amenity\": \"theatre\", \"name\": \"Arenbergschouwburg\", \"website\": \"https://www.arenbergschouwburg.be/\", \"wikidata\": \"Q26257439\", \"wikimedia_commons\": \"Category:Arenbergschouwburg\", \"wikipedia\": \"nl:Arenbergschouwburg\"}",
+    "lat": 51.2152454,
+    "lon": 4.4079628
+  },
+  {
+    "id": 1297671034,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Parochiaanstraat\", \"amenity\": \"theatre\", \"name\": \"Theater Klokhuis\", \"operator\": \"Kunsten Centrum Vlaams Fruit\", \"website\": \"https://www.vlaamsfruit.be\"}",
+    "lat": 51.219962,
+    "lon": 4.4113917
+  },
+  {
+    "id": 1310784870,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Theater Zuidpool\"}",
+    "lat": 51.2244165,
+    "lon": 4.4060263
+  },
+  {
+    "id": 1320530214,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Theater Het Appeltje\"}",
+    "lat": 51.2194152,
+    "lon": 4.4112781
+  },
+  {
+    "id": 1467594578,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"80\", \"addr:street\": \"Halewijnlaan\", \"amenity\": \"theatre\", \"name\": \"Leftbanq\"}",
+    "lat": 51.225,
+    "lon": 4.377735
+  },
+  {
+    "id": 1618702910,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"FROE FROE\", \"website\": \"https://www.froefroe.be\", \"wikidata\": \"Q2199839\"}",
+    "lat": 51.2078686,
+    "lon": 4.3858086
+  },
+  {
+    "id": 1678534633,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"check_date\": \"2024-12-07\", \"name\": \"EWT theater\", \"source\": \"survey\", \"wikidata\": \"Q33100313\"}",
+    "lat": 51.2200387,
+    "lon": 4.456071
+  },
+  {
+    "id": 2405454345,
+    "type": "node",
+    "tags": "{\"OnroerendErfgoed:criteria\": \"M\", \"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"12\", \"addr:street\": \"Palingbrug\", \"amenity\": \"theatre\", \"check_date\": \"2024-11-10\", \"heritage\": \"4\", \"heritage:operator\": \"OnroerendErfgoed\", \"heritage:website\": \"https://inventaris.onroerenderfgoed.be/dibe/relict/4483\", \"name\": \"Poppentheater De Poesje\", \"ref:OnroerendErfgoed\": \"4483\", \"wikidata\": \"Q2129690\"}",
+    "lat": 51.2225305,
+    "lon": 4.3988159
+  },
+  {
+    "id": 2611566447,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"email\": \"info@novonov.be\", \"name\": \"novonov\", \"website\": \"https://www.novonov.be/\"}",
+    "lat": 51.1781837,
+    "lon": 4.3535074
+  },
+  {
+    "id": 3697620415,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Cultureel Centrum Steytelinck\"}",
+    "lat": 51.1705915,
+    "lon": 4.4033387
+  },
+  {
+    "id": 4719379743,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"18\", \"addr:postcode\": \"2600\", \"addr:street\": \"Vredestraat\", \"amenity\": \"theatre\", \"name\": \"De Nieuwe Vrede\", \"note\": \"Theaterzaal, repetitieruimtes, vergaderzalen, foyer en theatercafe\", \"operator\": \"VZW de Nieuwe Vrede\", \"website\": \"https://denieuwevrede.be\", \"wikidata\": \"Q33100574\"}",
+    "lat": 51.1947046,
+    "lon": 4.421017
+  },
+  {
+    "id": 4729915983,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"111\", \"addr:postcode\": \"2000\", \"addr:street\": \"Paardenmarkt\", \"amenity\": \"theatre\", \"name\": \"Bats English Theatre\", \"website\": \"https://www.batsantwerp.be\"}",
+    "lat": 51.2248689,
+    "lon": 4.4135708
+  },
+  {
+    "id": 4732866328,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"32\", \"addr:postcode\": \"2060\", \"addr:street\": \"Vliegenstraat\", \"amenity\": \"theatre\", \"check_date\": \"2024-10-16\", \"name\": \"Theater PEG\", \"operator\": \"Theater PEG\"}",
+    "lat": 51.2254424,
+    "lon": 4.421432
+  },
+  {
+    "id": 4732872287,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"81\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lange Nieuwstraat\", \"amenity\": \"theatre\", \"name\": \"Theater Het Appeltje\", \"operator\": \"Kunsten Centrum Vlaams Fruit\", \"website\": \"https://www.vlaamsfruit.be\", \"wheelchair\": \"no\", \"wikidata\": \"Q33100155\"}",
+    "lat": 51.2196104,
+    "lon": 4.4108164
+  },
+  {
+    "id": 4809730099,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Maarschalk G\\u00e9rardstraat\", \"amenity\": \"theatre\", \"name\": \"DE Studio\", \"old_name\": \"Studio Herman Teirlinck\", \"operator\": \"Provincie Antwerpen; Villanella\", \"phone\": \"+32 3 260 96 10\", \"website\": \"https://www.destudio.com/\", \"wikidata\": \"Q26972754\", \"wikimedia_commons\": \"Category:DE Studio\", \"wikipedia\": \"nl:DE Studio\"}",
+    "lat": 51.213319,
+    "lon": 4.4042508
+  },
+  {
+    "id": 5111167465,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Blauwe Zaal\", \"name:en\": \"Blue Hall\", \"operator\": \"deSingel\", \"theatre:genre\": \"philharmonic\"}",
+    "lat": 51.1927885,
+    "lon": 4.4037521
+  },
+  {
+    "id": 6237548283,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"check_date\": \"2024-10-15\", \"name\": \"Fakkeltheater\", \"website\": \"https://fakkeltheater.be\"}",
+    "lat": 51.2194635,
+    "lon": 4.398577
+  },
+  {
+    "id": 6274853392,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"check_date\": \"2024-10-15\", \"name\": \"Fakkeltheater\", \"website\": \"https://fakkeltheater.be\"}",
+    "lat": 51.220406,
+    "lon": 4.398791
+  },
+  {
+    "id": 6387315787,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Madame Fortuna\", \"website\": \"https://madamfortuna.be/\"}",
+    "lat": 51.2128421,
+    "lon": 4.4330485
+  },
+  {
+    "id": 6734933779,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"27\", \"addr:postcode\": \"2140\", \"addr:street\": \"Wijnegemstraat\", \"amenity\": \"theatre\", \"name\": \"Rataplan\", \"operator\": \"Rataplan vzw\", \"phone\": \"+32 3 600 16 60\", \"website\": \"https://www.rataplanvzw.be\"}",
+    "lat": 51.219661,
+    "lon": 4.4425011
+  },
+  {
+    "id": 6828645218,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Seeftheater\", \"website\": \"http://www.seeftheater.be\"}",
+    "lat": 51.2242666,
+    "lon": 4.422857
+  },
+  {
+    "id": 7414968424,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Elckerlyc\", \"website\": \"https://www.elckerlyc.be\", \"wikidata\": \"Q33100205\"}",
+    "lat": 51.2143376,
+    "lon": 4.4128776
+  },
+  {
+    "id": 12051652055,
+    "type": "node",
+    "tags": "{\"amenity\": \"theatre\", \"name\": \"Studio\", \"website\": \"https://blikfabriek.be/home-2/ruimte/ruimte-foyer/\"}",
+    "lat": 51.1871166,
+    "lon": 4.3663322
+  }
+]

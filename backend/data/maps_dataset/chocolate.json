@@ -1,0 +1,121 @@
+[
+  {
+    "id": 401309938,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Grote Markt\", \"check_date\": \"2024-03-05\", \"email\": \"elisa.chocolates@skynet.be\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.7\", \"name\": \"Elisa Pralines\", \"opening_hours\": \"Mo-Su 10:00-19:00\", \"payment:cash\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 3 231 87 58\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.elisa-pralines.com/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2206177,
+    "lon": 4.3994048
+  },
+  {
+    "id": 1538266371,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:country\": \"BE\", \"addr:housenumber\": \"271\", \"addr:street\": \"Jules Moretuslei\", \"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"name\": \"Leonidas\", \"operator\": \"Marie & Manon\", \"phone\": \"+32 3 830 66 04\", \"shop\": \"chocolate\", \"website\": \"https://www.leonidas.com/be_en/shops/wilrijk/marie-manon-1\"}",
+    "lat": 51.1726469,
+    "lon": 4.3944011
+  },
+  {
+    "id": 1811210853,
+    "type": "node",
+    "tags": "{\"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"name\": \"Leonidas\", \"shop\": \"chocolate\", \"website\": \"https://leonidasantwerp.be\"}",
+    "lat": 51.217519,
+    "lon": 4.4027304
+  },
+  {
+    "id": 2409413919,
+    "type": "node",
+    "tags": "{\"OnroerendErfgoed:criteria\": \"M\", \"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"21\", \"addr:street\": \"Groenplaats\", \"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-02-15\", \"description\": \"Hoekhuis\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.1\", \"heritage\": \"4\", \"heritage:operator\": \"OnroerendErfgoed\", \"heritage:website\": \"https://inventaris.onroerenderfgoed.be/dibe/relict/4004\", \"name\": \"Leonidas\", \"opening_hours\": \"Mo 11:00-17:00; We-Sa 11:00-18:00; Su,PH 13:00-18:00; Tu off\", \"ref:OnroerendErfgoed\": \"4004\", \"shop\": \"chocolate\", \"website\": \"https://www.leonidas.com\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2197918,
+    "lon": 4.4015338
+  },
+  {
+    "id": 3844298159,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"20\", \"addr:postcode\": \"2180\", \"addr:street\": \"Dorpstraat\", \"alt_name\": \"Leonidas De Vos\", \"brand\": \"Leonidas\", \"name\": \"Confiserie De Vos\", \"opening_hours\": \"Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su off\", \"phone\": \"+32 3 541 84 22\", \"shop\": \"chocolate\", \"url\": \"http://www.leonidas.com\", \"website\": \"https://www.leonidas.com/be_nl/shops/confiserie-de-vos\"}",
+    "lat": 51.2787076,
+    "lon": 4.4185214
+  },
+  {
+    "id": 5260976154,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2-4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hoogstraat\", \"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.96\", \"name\": \"Leonidas\", \"opening_hours\": \"Mo-We 10:00-18:30; Th-Su 10:00-19:30\", \"phone\": \"+32 3 213 16 41\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"website\": \"https://leonidas.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.220609,
+    "lon": 4.3990175
+  },
+  {
+    "id": 5428385429,
+    "type": "node",
+    "tags": "{\"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"name\": \"Leonidas\", \"shop\": \"chocolate\", \"website\": \"https://www.leonidas.com/be\"}",
+    "lat": 51.1900807,
+    "lon": 4.3787399
+  },
+  {
+    "id": 5484856686,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Korte Gasthuisstraat\", \"brand\": \"Neuhaus\", \"brand:wikidata\": \"Q1813801\", \"check_date\": \"2024-03-05\", \"email\": \"Antwerpen.KorteGasthuisstraat@neuhaus.be\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.93\", \"name\": \"Neuhaus\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su off\", \"phone\": \"+32 3 227 07 98\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.neuhauschocolates.com/\", \"wheelchair\": \"limited\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174911,
+    "lon": 4.4041565
+  },
+  {
+    "id": 5640748855,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Van Schoonbekeplein\", \"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"name\": \"Leonidas\", \"opening_hours\": \"Mo-Sa 10:00-19:00; Su  11:00-17:00\", \"shop\": \"chocolate\", \"url\": \"http://leonidas.be/\"}",
+    "lat": 51.2276751,
+    "lon": 4.4054941
+  },
+  {
+    "id": 5835027607,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"433\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"alt_name\": \"Leonidas Pralines & Chocolats\", \"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"confectionery\": \"chocolate\", \"name\": \"Leonidas\", \"opening_hours\": \"Mo-Sa 09:30-18:00; Su off\", \"phone\": \"+32 3 646 01 61\", \"shop\": \"chocolate\", \"website\": \"https://www.leonidas.com/\"}",
+    "lat": 51.2440041,
+    "lon": 4.4448585
+  },
+  {
+    "id": 6179181376,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-03-05\", \"name\": \"Nello\", \"shop\": \"chocolate\", \"website\": \"https://www.chocolatesnello.be\"}",
+    "lat": 51.2203977,
+    "lon": 4.3999232
+  },
+  {
+    "id": 6381859514,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.91\", \"name\": \"Chocolaterie Sweertvaegher\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.sweertvaegher.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2174933,
+    "lon": 4.4044605
+  },
+  {
+    "id": 6388582529,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.85\", \"name\": \"Mary\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.mary.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2166471,
+    "lon": 4.4043463
+  },
+  {
+    "id": 6839805365,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-12-15\", \"check_date:opening_hours\": \"2024-12-15\", \"name\": \"Chateau Blanc\", \"opening_hours\": \"Mo,Tu 12:00-18:00; Th-Su,PH 12:00-18:00\", \"shop\": \"chocolate\"}",
+    "lat": 51.2209936,
+    "lon": 4.4017208
+  },
+  {
+    "id": 7342460224,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"28\", \"addr:postcode\": \"2018\", \"addr:street\": \"De Keyserlei\", \"brand\": \"Leonidas\", \"brand:wikidata\": \"Q80335\", \"brand:wikipedia\": \"en:Leonidas (chocolate maker)\", \"changing_table\": \"no\", \"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.85\", \"name\": \"Leonidas\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174731,
+    "lon": 4.4174205
+  },
+  {
+    "id": 10702613842,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"25\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schrijnwerkersstraat\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.73\", \"name\": \"Pierre Marcolini\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su 11:00-17:00\", \"phone\": \"+32 3 226 78 28\", \"shop\": \"chocolate\", \"toilets:wheelchair\": \"no\", \"website\": \"https://eu.marcolini.com\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2175642,
+    "lon": 4.4040177
+  },
+  {
+    "id": 10709358306,
+    "type": "node",
+    "tags": "{\"level\": \"0\", \"name\": \"MADS\", \"shop\": \"chocolate\"}",
+    "lat": 51.2178942,
+    "lon": 4.4111037
+  }
+]

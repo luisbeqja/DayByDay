@@ -1,0 +1,415 @@
+[
+  {
+    "id": 741373293,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"addr:unit\": \"230\", \"brand\": \"Snipes\", \"brand:wikidata\": \"Q42306166\", \"level\": \"0\", \"name\": \"Snipes\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off\", \"phone\": \"+32 3 232 93 10\", \"shop\": \"shoes\", \"website\": \"https://www.snipes.com\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2179603,
+    "lon": 4.4115701
+  },
+  {
+    "id": 1811214434,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.94\", \"name\": \"Monar\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:level\": \"ground_floor\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217477,
+    "lon": 4.4035219
+  },
+  {
+    "id": 2069162604,
+    "type": "node",
+    "tags": "{\"name\": \"Studio play\", \"shop\": \"shoes\"}",
+    "lat": 51.2161332,
+    "lon": 4.4015501
+  },
+  {
+    "id": 3498517267,
+    "type": "node",
+    "tags": "{\"brand\": \"Chaussea\", \"brand:wikidata\": \"Q62082044\", \"name\": \"Chaussea\", \"old_name\": \"Charles V\\u00f6gele\", \"opening_hours\": \"Mo-Sa 09:30-18:00\", \"shop\": \"shoes\", \"website\": \"https://www.chaussea.com/be/nl/magasin/9910-antwerpen-merksem\"}",
+    "lat": 51.2551307,
+    "lon": 4.4626544
+  },
+  {
+    "id": 3877899769,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"95\", \"addr:postcode\": \"2180\", \"addr:street\": \"Driehoekstraat\", \"email\": \"info@schoenendemeyer.be\", \"name\": \"Schoenen De Meyer\", \"opening_hours\": \"Mo,Tu,Th-Sa 10:00-18:00; We 09:00-18:00; Su,PH off\", \"phone\": \"+32 3 542 62 65\", \"shop\": \"shoes\", \"website\": \"http://www.schoenendemeyer.be/\"}",
+    "lat": 51.2826742,
+    "lon": 4.4211221
+  },
+  {
+    "id": 4394870897,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-06\", \"name\": \"Thiron\", \"shop\": \"shoes\", \"website\": \"https://thiron.com\"}",
+    "lat": 51.2157174,
+    "lon": 4.399123
+  },
+  {
+    "id": 4397817190,
+    "type": "node",
+    "tags": "{\"name\": \"De Schepper\", \"shop\": \"shoes\"}",
+    "lat": 51.1967,
+    "lon": 4.4220648
+  },
+  {
+    "id": 4983904792,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"809B\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"name\": \"Torfs\", \"opening_hours\": \"Tu-Sa 09:30-18:30; Su 10:00-18:00; Mo,PH off\", \"phone\": \"+32 3 685 15 96\", \"shop\": \"shoes\", \"url\": \"https://www.torfs.be\"}",
+    "lat": 51.2517359,
+    "lon": 4.4589366
+  },
+  {
+    "id": 5428397049,
+    "type": "node",
+    "tags": "{\"name\": \"Missy Schoenen\", \"shop\": \"shoes\"}",
+    "lat": 51.1900444,
+    "lon": 4.378824
+  },
+  {
+    "id": 5428465788,
+    "type": "node",
+    "tags": "{\"name\": \"Dennis\", \"shop\": \"shoes\"}",
+    "lat": 51.1898742,
+    "lon": 4.3796238
+  },
+  {
+    "id": 5428709808,
+    "type": "node",
+    "tags": "{\"name\": \"Silya Mode\", \"shop\": \"shoes\"}",
+    "lat": 51.1894977,
+    "lon": 4.3804523
+  },
+  {
+    "id": 5594612543,
+    "type": "node",
+    "tags": "{\"name\": \"Berca\", \"shop\": \"shoes\"}",
+    "lat": 51.2550193,
+    "lon": 4.4605024
+  },
+  {
+    "id": 5594630371,
+    "type": "node",
+    "tags": "{\"brand\": \"Schoenen Torfs\", \"brand:wikidata\": \"Q2547484\", \"name\": \"Schoenen Torfs\", \"opening_hours\": \"Tu-Sa 09:30-18:30; Su 10:00-18:00\", \"phone\": \"+32 3 375 67 04\", \"shop\": \"shoes\", \"website\": \"https://www.torfs.be/nl/torfs-schoenenwinkels-in-je-buurt/detail?location=Merksem\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2640797,
+    "lon": 4.4620944
+  },
+  {
+    "id": 5986863749,
+    "type": "node",
+    "tags": "{\"name\": \"Shoe class\", \"shop\": \"shoes\", \"website\": \"https://www.shoeclass.be\"}",
+    "lat": 51.2196756,
+    "lon": 4.4051358
+  },
+  {
+    "id": 6050674986,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"40\", \"addr:street\": \"Kipdorpvest\", \"name\": \"de schoenen outlet\", \"opening_hours\": \"Mo-Sa 10:30-18:30\", \"shop\": \"shoes\"}",
+    "lat": 51.2176686,
+    "lon": 4.4138793
+  },
+  {
+    "id": 6302208729,
+    "type": "node",
+    "tags": "{\"name\": \"Limonsoda\", \"shop\": \"shoes\", \"website\": \"https://www.limonsoda.be\"}",
+    "lat": 51.2125197,
+    "lon": 4.3939076
+  },
+  {
+    "id": 6306769619,
+    "type": "node",
+    "tags": "{\"name\": \"Sneaker District\", \"shop\": \"shoes\", \"website\": \"https://www.sneakerdistrict.com\"}",
+    "lat": 51.2158414,
+    "lon": 4.3950324
+  },
+  {
+    "id": 6350933592,
+    "type": "node",
+    "tags": "{\"brand\": \"Omoda\", \"brand:wikidata\": \"Q64139027\", \"brand:wikipedia\": \"nl:Omoda\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1\", \"name\": \"Omoda\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.omoda.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173642,
+    "lon": 4.4030449
+  },
+  {
+    "id": 6355306346,
+    "type": "node",
+    "tags": "{\"brand\": \"Sacha\", \"brand:wikidata\": \"Q58328925\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2\", \"name\": \"Sacha\", \"shop\": \"shoes\", \"website\": \"https://www.sacha.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2176284,
+    "lon": 4.4037365
+  },
+  {
+    "id": 6372299256,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0.07\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.91\", \"name\": \"Ambiorix\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ambiorix.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2153534,
+    "lon": 4.4067012
+  },
+  {
+    "id": 6372299260,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.92\", \"name\": \"Fratelli Rosetti\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2166274,
+    "lon": 4.4056985
+  },
+  {
+    "id": 6374558001,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-10-13\", \"name\": \"Unisa\", \"shop\": \"shoes\", \"website\": \"https://www.unisa-europa.com\"}",
+    "lat": 51.2176543,
+    "lon": 4.4040974
+  },
+  {
+    "id": 6374558003,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.19\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.81\", \"name\": \"Exit\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.exit-and-co.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2174922,
+    "lon": 4.4043198
+  },
+  {
+    "id": 6374558007,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-10-13\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Gabor shoes\", \"opening_hours\": \"Tu-Fr 10:30-13:00,13:30-17:30\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.gabor-shoes.be\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2177156,
+    "lon": 4.4041505
+  },
+  {
+    "id": 6431461395,
+    "type": "node",
+    "tags": "{\"brand\": \"Dr. Martens\", \"brand:wikidata\": \"Q1126126\", \"brand:wikipedia\": \"en:Dr. Martens\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Dr. Martens\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.drmartens.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2171925,
+    "lon": 4.4008638
+  },
+  {
+    "id": 6432685617,
+    "type": "node",
+    "tags": "{\"brand\": \"Vans\", \"brand:wikidata\": \"Q1135366\", \"brand:wikipedia\": \"en:Vans\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Vans\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.vans.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.216977,
+    "lon": 4.4010504
+  },
+  {
+    "id": 6439639117,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Zappa\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.zappa-footwear.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2160316,
+    "lon": 4.4016461
+  },
+  {
+    "id": 6441387150,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.94\", \"name\": \"Aveneu\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.avenuestore.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2168838,
+    "lon": 4.4001594
+  },
+  {
+    "id": 6441448411,
+    "type": "node",
+    "tags": "{\"name\": \"Drip Drops\", \"shop\": \"shoes\"}",
+    "lat": 51.2169848,
+    "lon": 4.4007843
+  },
+  {
+    "id": 6441448413,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"name\": \"Shoe Class\", \"shop\": \"shoes\", \"website\": \"https://www.shoeclass.be\"}",
+    "lat": 51.2167563,
+    "lon": 4.4010209
+  },
+  {
+    "id": 6449892263,
+    "type": "node",
+    "tags": "{\"brand\": \"Jimmy Choo\", \"brand:wikidata\": \"Q5213855\", \"brand:wikipedia\": \"en:Jimmy Choo (fashion house)\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.28\", \"name\": \"Jimmy Choo\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://row.jimmychoo.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2165365,
+    "lon": 4.4068476
+  },
+  {
+    "id": 6452995019,
+    "type": "node",
+    "tags": "{\"brand\": \"Karl Lagerfeld\", \"brand:wikidata\": \"Q108024274\", \"check_date\": \"2023-11-11\", \"clothes\": \"unisex\", \"name\": \"Alexandre\", \"shop\": \"shoes\", \"wheelchair\": \"no\"}",
+    "lat": 51.21658,
+    "lon": 4.4084668
+  },
+  {
+    "id": 6456346675,
+    "type": "node",
+    "tags": "{\"brand\": \"Mephisto\", \"brand:wikidata\": \"Q822975\", \"brand:wikipedia\": \"fr:Mephisto (chaussure)\", \"name\": \"Mephisto\", \"shop\": \"shoes\", \"website\": \"https://www.mephisto-shop.be\"}",
+    "lat": 51.2167388,
+    "lon": 4.4103273
+  },
+  {
+    "id": 6466069097,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.8\", \"name\": \"Hogan\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.hogan.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2167714,
+    "lon": 4.4042689
+  },
+  {
+    "id": 6489265748,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.66\", \"name\": \"Floris van Bommel\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://nl.florisvanbommel.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2180092,
+    "lon": 4.4052878
+  },
+  {
+    "id": 6635802851,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-05-22\", \"name\": \"Schoenmakerij New Marino\", \"shoes:repair\": \"yes\", \"shop\": \"shoes\"}",
+    "lat": 51.2249824,
+    "lon": 4.4059041
+  },
+  {
+    "id": 6818217807,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1.0\", \"entrance:width\": \"1.55\", \"name\": \"Colman\", \"shoes:repair\": \"yes\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2246977,
+    "lon": 4.4214134
+  },
+  {
+    "id": 6818217812,
+    "type": "node",
+    "tags": "{\"name\": \"Ara\", \"shop\": \"shoes\", \"website\": \"https://www.vago-schoenen.be\"}",
+    "lat": 51.2248591,
+    "lon": 4.4211136
+  },
+  {
+    "id": 6818217818,
+    "type": "node",
+    "tags": "{\"name\": \"Mersin Shoe\", \"shop\": \"shoes\"}",
+    "lat": 51.2246569,
+    "lon": 4.4205896
+  },
+  {
+    "id": 6974997919,
+    "type": "node",
+    "tags": "{\"name\": \"Colman Schoenmakerij\", \"shoes:repair\": \"yes\", \"shop\": \"shoes\"}",
+    "lat": 51.2145681,
+    "lon": 4.4354178
+  },
+  {
+    "id": 6977881014,
+    "type": "node",
+    "tags": "{\"name\": \"De Schoenen Outlet\", \"opening_hours\": \"Mo-Sa 10:30-18:30\", \"phone\": \"+32 3 290 71 77\", \"shop\": \"shoes\", \"website\": \"https://www.deschoenenoutlet.be/\"}",
+    "lat": 51.2140328,
+    "lon": 4.4380764
+  },
+  {
+    "id": 7005714193,
+    "type": "node",
+    "tags": "{\"name\": \"Mimosa\", \"shop\": \"shoes\"}",
+    "lat": 51.2161509,
+    "lon": 4.4311109
+  },
+  {
+    "id": 7009730436,
+    "type": "node",
+    "tags": "{\"name\": \"Schoenwereld\", \"shop\": \"shoes\"}",
+    "lat": 51.2178784,
+    "lon": 4.4273796
+  },
+  {
+    "id": 7009730438,
+    "type": "node",
+    "tags": "{\"name\": \"Entari\", \"shop\": \"shoes\"}",
+    "lat": 51.217784,
+    "lon": 4.4277283
+  },
+  {
+    "id": 7159597188,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"35\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"vanHaren\", \"brand:wikidata\": \"Q62390668\", \"name\": \"vanHaren\", \"opening_hours\": \"Mo-Sa 10:00-19:00; Su[1] 12:00-18:00; Su[2,3,4], PH off\", \"shop\": \"shoes\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2183292,
+    "lon": 4.407658
+  },
+  {
+    "id": 7289129923,
+    "type": "node",
+    "tags": "{\"name\": \"Huisfried\", \"shop\": \"shoes\", \"wheelchair\": \"no\"}",
+    "lat": 51.2123561,
+    "lon": 4.4209039
+  },
+  {
+    "id": 7340616840,
+    "type": "node",
+    "tags": "{\"brand\": \"Skechers\", \"brand:wikidata\": \"Q2945643\", \"changing_table\": \"no\", \"check_date:opening_hours\": \"2023-11-13\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.06\", \"name\": \"Skechers\", \"opening_hours:signed\": \"no\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2182135,
+    "lon": 4.4114763
+  },
+  {
+    "id": 7340616844,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2.58\", \"name\": \"West-End\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2181749,
+    "lon": 4.4098742
+  },
+  {
+    "id": 7340634042,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.45\", \"name\": \"Avance\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2183531,
+    "lon": 4.4071313
+  },
+  {
+    "id": 7427401556,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-11-11\", \"name\": \"Fortuna\", \"shop\": \"shoes\"}",
+    "lat": 51.2173936,
+    "lon": 4.414433
+  },
+  {
+    "id": 8354297972,
+    "type": "node",
+    "tags": "{\"name\": \"Keiser shoes\", \"shop\": \"shoes\", \"website\": \"https://keisershoes.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2097829,
+    "lon": 4.4221342
+  },
+  {
+    "id": 8440217572,
+    "type": "node",
+    "tags": "{\"name\": \"Toni Taloni\", \"shoes:repair\": \"yes\", \"shop\": \"shoes\", \"website\": \"https://www.tonitaloni.be\"}",
+    "lat": 51.2073038,
+    "lon": 4.4096843
+  },
+  {
+    "id": 9445654830,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"56\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Foot Locker\", \"brand:wikidata\": \"Q63335\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.1\", \"name\": \"Foot Locker\", \"opening_hours\": \"Mo-Th 10:00-18:00, Fr-Sa 10:00-18:30; Su, PH off\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2179648,
+    "lon": 4.409661
+  },
+  {
+    "id": 10704063438,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"49\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Courir\", \"brand:wikidata\": \"Q3001258\", \"check_date:opening_hours\": \"2023-11-16\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.86\", \"name\": \"Courir\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off\", \"phone\": \"+32 3 808 19 63\", \"shop\": \"shoes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2182375,
+    "lon": 4.4085093
+  },
+  {
+    "id": 10710864564,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"11\", \"addr:postcode\": \"2000\", \"addr:street\": \"Korte Gasthuisstraat\", \"check_date\": \"2024-03-05\", \"name\": \"Nubikk\", \"opening_hours\": \"Mo-Sa 11:00-18:00\", \"phone\": \"+32 3 808 64 47\", \"shop\": \"shoes\", \"website\": \"https://www.nubikk.com/\"}",
+    "lat": 51.2172039,
+    "lon": 4.4041989
+  },
+  {
+    "id": 11074261395,
+    "type": "node",
+    "tags": "{\"brand\": \"Sebago\", \"brand:wikidata\": \"Q3476844\", \"name\": \"Sebago\", \"shop\": \"shoes\"}",
+    "lat": 51.21738,
+    "lon": 4.4001379
+  },
+  {
+    "id": 11343490548,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-11-12\", \"shop\": \"shoes\"}",
+    "lat": 51.1866823,
+    "lon": 4.4367812
+  },
+  {
+    "id": 11898635364,
+    "type": "node",
+    "tags": "{\"brand\": \"Chaussea\", \"brand:wikidata\": \"Q62082044\", \"name\": \"Chaussea\", \"opening_hours\": \"Mo-Sa 10:00-18:00\", \"phone\": \"+32 3 257 37 65\", \"shop\": \"shoes\", \"website\": \"https://www.chaussea.com/be/nl/magasin/9948-antwerpen-den-tir\"}",
+    "lat": 51.1908688,
+    "lon": 4.3769425
+  },
+  {
+    "id": 12402847098,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"45\", \"addr:place\": \"Meir\", \"addr:postcode\": \"2000\", \"brand\": \"Dr. Martens\", \"brand:wikidata\": \"Q1126126\", \"name\": \"Dr. Martens\", \"shop\": \"shoes\"}",
+    "lat": 51.2182726,
+    "lon": 4.4083017
+  }
+]

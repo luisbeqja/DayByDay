@@ -1,0 +1,9 @@
+[
+  {
+    "id": 5059044070,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:postcode\": \"2018\", \"addr:street\": \"Dageraadplaats\", \"amenity\": \"wine_bar\", \"cuisine\": \"streetfood;asian\", \"disused:amenity\": \"restaurant\", \"name\": \"Murukutum\", \"website\": \"https://www.murukutum.be/\"}",
+    "lat": 51.2072067,
+    "lon": 4.4308753
+  }
+]

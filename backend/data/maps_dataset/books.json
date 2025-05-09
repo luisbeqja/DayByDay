@@ -1,0 +1,191 @@
+[
+  {
+    "id": 738839933,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wapper\", \"branch\": \"Antwerpen\", \"brand\": \"De Slegte\", \"brand:website\": \"https://www.deslegte.com/\", \"brand:wikidata\": \"Q2176175\", \"check_date\": \"2023-11-11\", \"email\": \"antwerpen.wapper@deslegte.com\", \"name\": \"De Slegte\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su 11:00-17:00\", \"phone\": \"+32 3 231 66 27\", \"second_hand\": \"yes\", \"shop\": \"books\", \"website\": \"https://www.deslegte.com/antwerpen-wapper/\", \"wheelchair\": \"no\"}",
+    "lat": 51.2173614,
+    "lon": 4.4092212
+  },
+  {
+    "id": 1086875204,
+    "type": "node",
+    "tags": "{\"name\": \"Universitas\", \"opening_hours\": \"Mo-Th 09:00-17:00; Fr 09:00-16:00; PH,Sa,Su off\", \"shop\": \"books\"}",
+    "lat": 51.2218268,
+    "lon": 4.4107934
+  },
+  {
+    "id": 1299726035,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"21\", \"addr:postcode\": \"2000\", \"addr:street\": \"Prinsstraat\", \"check_date:opening_hours\": \"2022-10-16\", \"name\": \"Acco\", \"opening_hours\": \"Mo-Fr 09:00-17:00\", \"operator\": \"Acco\", \"shop\": \"books\"}",
+    "lat": 51.2222052,
+    "lon": 4.4110668
+  },
+  {
+    "id": 1678544892,
+    "type": "node",
+    "tags": "{\"name\": \"Den Boekenhoek\", \"shop\": \"books\"}",
+    "lat": 51.2247464,
+    "lon": 4.4542959
+  },
+  {
+    "id": 3844298165,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"31\", \"addr:postcode\": \"2180\", \"addr:street\": \"Dorpstraat\", \"brand\": \"Standaard Boekhandel\", \"brand:wikidata\": \"Q3496554\", \"email\": \"sb.ekeren@standaardboekhandel.be\", \"name\": \"Standaard Boekhandel\", \"opening_hours\": \"Mo-Sa 09:00-18:00; Su off\", \"phone\": \"+32 3 541 33 74\", \"shop\": \"books\", \"url\": \"http://www.standaardboekhandel.be/\", \"website\": \"https://www2.standaardboekhandel.be/nl/winkels/ekeren\"}",
+    "lat": 51.27925,
+    "lon": 4.4191801
+  },
+  {
+    "id": 4448476367,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"16;18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schoenmarkt\", \"brand\": \"Standaard Boekhandel\", \"brand:wikidata\": \"Q3496554\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.2\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Standaard Boekhandel\", \"opening_hours\": \"Mo-Sa 09:30-18:00, Su[1] 13:00-17:00, PH off\", \"operator\": \"Standaard Boekhandel\", \"shop\": \"books\", \"website\": \"https://www2.standaardboekhandel.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2182905,
+    "lon": 4.4040508
+  },
+  {
+    "id": 5248850310,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"28A\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nationalestraat\", \"changing_table\": \"no\", \"check_date\": \"2024-01-27\", \"contact:facebook\": \"https://www.facebook.com/Copyright-Bookshop-201783393166134/\", \"elevator:depth\": \"1.3\", \"elevator:width\": \"0.77\", \"email\": \"info@copyrightbookshop.be\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2.4\", \"name\": \"Copyright\", \"opening_hours\": \"Tu-Sa 11:00-18:30; Su 14:00-18:00; Mo off\", \"phone\": \"+32 3 232 94 16\", \"shop\": \"books\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"elevator\", \"toilets:wheelchair:space_side\": \"1.0\", \"website\": \"https://www.copyrightbookshop.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173923,
+    "lon": 4.399841
+  },
+  {
+    "id": 5300736828,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"151\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nationalestraat\", \"email\": \"dedrielelien@kerknet.be\", \"name\": \"De 3 Leli\\u00ebn\", \"opening_hours\": \"Tu-Sa 10:00-17:00; Mo,Su,PH off\", \"phone\": \"+32 3 231 03 39\", \"shop\": \"books\", \"website\": \"https://www.de3lelien.be\"}",
+    "lat": 51.2129234,
+    "lon": 4.39776
+  },
+  {
+    "id": 5300736832,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wolstraat\", \"email\": \"groenewaterman@groenewaterman.be\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.9\", \"fax\": \"+32 3 234 16 36\", \"name\": \"De Groene Waterman\", \"opening_hours\": \"Mo-Sa 09:30-18:00; Su off; Jul-Aug Mo off\", \"phone\": \"+32 3 232 93 94\", \"shop\": \"books\", \"toilets:wheelchair\": \"no\", \"website\": \"http://groenewaterman.mijnboekhandelaar.com/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2217091,
+    "lon": 4.4028137
+  },
+  {
+    "id": 6157459790,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"name\": \"Stripwinkel Beo\", \"shop\": \"books\", \"website\": \"https://www.stripwinkelbeo.be\"}",
+    "lat": 51.2147629,
+    "lon": 4.4089192
+  },
+  {
+    "id": 6222396048,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.83\", \"name\": \"Philadelphia Bookshop\", \"shop\": \"books\", \"toilets:wheelchair\": \"no\", \"website\": \"https://philadelphia-bookshop.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2192623,
+    "lon": 4.4005907
+  },
+  {
+    "id": 6296388369,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.87\", \"name\": \"Erik Tonen Books\", \"shop\": \"books\", \"toilets:wheelchair\": \"no\", \"website\": \"https://erik-tonen-books.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2160275,
+    "lon": 4.3948779
+  },
+  {
+    "id": 6436940009,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.97\", \"name\": \"Standaard\", \"shop\": \"books\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.standaardboekhandel.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.214878,
+    "lon": 4.4026837
+  },
+  {
+    "id": 7244668776,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"21\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kasteelpleinstraat\", \"email\": \"info@cronopio.be\", \"name\": \"Cronopio\", \"opening_hours\": \"We-Sa 11:00-19:00; Su 13:00-19:00\", \"shop\": \"books\", \"website\": \"https://cronopio.be\"}",
+    "lat": 51.2111466,
+    "lon": 4.4015057
+  },
+  {
+    "id": 7673005251,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"31\", \"addr:postcode\": \"2000\", \"addr:street\": \"Melkmarkt\", \"check_date\": \"2024-01-27\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1\", \"name\": \"The Other Shop\", \"shop\": \"books\", \"toilets:wheelchair\": \"no\", \"website\": \"https://theothershop.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2199914,
+    "lon": 4.4028416
+  },
+  {
+    "id": 7887319984,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudaan\", \"brand:website\": \"https://libris.nl\", \"name\": \"'t Stad Leest\", \"network\": \"Libris\", \"opening_hours\": \"PH,Su 11:00-18:00; Mo-Fr 10:00-18:00; Sa 10:00-18:30\", \"operator\": \"'t Stad Leest\", \"shop\": \"books\", \"website\": \"https://libris.nl/antwerpen-stadleest\", \"wheelchair\": \"no\"}",
+    "lat": 51.2157222,
+    "lon": 4.403558
+  },
+  {
+    "id": 8442213615,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"27\", \"addr:street\": \"Mevrouw Courtmansstraat\", \"name\": \"MERS Antique Books\", \"phone\": \"+32 475 20 95 00\", \"shop\": \"books\", \"website\": \"https://www.mers.be/\"}",
+    "lat": 51.1852188,
+    "lon": 4.4250357
+  },
+  {
+    "id": 8612407173,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:street\": \"Vlaamsekaai\", \"check_date\": \"2024-02-10\", \"name\": \"WAFT\", \"shop\": \"books\", \"shop:art\": \"yes\", \"website\": \"https://waft.be/\"}",
+    "lat": 51.2116764,
+    "lon": 4.3933147
+  },
+  {
+    "id": 8911051196,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"34\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hopland\", \"image\": \"https://luddites.be/img/containers/main/1d8a9783.jpg/41778e04f2f665e1eeaee853158db3b1.jpg\", \"name\": \"Luddites | Books & Wine\", \"opening_hours\": \"We-Su 11:00-20:00\", \"operator\": \"Luddites | Books & Wine\", \"payment:cash\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 3 298 55 33\", \"shop\": \"books\", \"website\": \"https://luddites.be\"}",
+    "lat": 51.2166663,
+    "lon": 4.4121435
+  },
+  {
+    "id": 10657232468,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.72\", \"name\": \"Panoply\", \"opening_hours\": \"Mo-Sa 11:00-18:00; Su 13:00-18:00\", \"shop\": \"books\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.221672,
+    "lon": 4.4025276
+  },
+  {
+    "id": 11897083595,
+    "type": "node",
+    "tags": "{\"name\": \"FNAC\", \"shop\": \"books\"}",
+    "lat": 51.217912,
+    "lon": 4.4104932
+  },
+  {
+    "id": 11928368395,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.23\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Vitrine\", \"shop\": \"books\"}",
+    "lat": 51.225588,
+    "lon": 4.4021413
+  },
+  {
+    "id": 12402640256,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"29\", \"addr:street\": \"Nassaustraat\", \"books\": \"travel\", \"contact:email\": \"dirk@altaviatravelbooks.be\", \"contact:phone\": \"+3232938733\", \"email\": \"dirk@altaviatravelbooks.be\", \"name\": \"AltaVia Reisboekhandel\", \"phone\": \"+3232938733\", \"shop\": \"books\", \"website\": \"https://www.altaviatravelbooks.be\"}",
+    "lat": 51.2302991,
+    "lon": 4.4057052
+  },
+  {
+    "id": 12404683652,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Korte Vlierstraat\", \"description\": \"art space for books and resources\", \"email\": \"space@tique.art\", \"name\": \"Tique\", \"opening_hours\": \"Fr-Sa 13:00-18:00\", \"shop\": \"books\", \"website\": \"https://tique.space/\"}",
+    "lat": 51.2153856,
+    "lon": 4.3951508
+  },
+  {
+    "id": 12419933155,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"140\", \"addr:street\": \"Statiestraat\", \"contact:instagram\": \"https://www.instagram.com/doublebill.design/\", \"email\": \"hello@howdyantwerp.be\", \"name\": \"Howdy\", \"opening_hours\": \"Mo-Fr 09:00-17:00\", \"shop\": \"books\", \"website\": \"https://doublebill.design/\", \"wheelchair\": \"no\"}",
+    "lat": 51.1995713,
+    "lon": 4.4298311
+  },
+  {
+    "id": 12542569925,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"65A\", \"addr:street\": \"Heistraat\", \"brand\": \"Standaard Boekhandel\", \"brand:wikidata\": \"Q3496554\", \"email\": \"sb.wilrijk@standaardboekhandel.be\", \"name\": \"Standaard Boekhandel\", \"opening_hours\": \"Mo-Sa 09:00-18:00\", \"phone\": \"+32 3 828 28 48\", \"shop\": \"books\", \"website\": \"https://www.standaardboekhandel.be/winkels/wilrijk\"}",
+    "lat": 51.1722336,
+    "lon": 4.393909
+  },
+  {
+    "id": 12542606451,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1A\", \"addr:street\": \"Quellinstraat\", \"brand\": \"Standaard Boekhandel\", \"brand:wikidata\": \"Q3496554\", \"email\": \"sb.antwerpenquellinstraat@standaardboekhandel.be\", \"name\": \"Standaard Boekhandel\", \"opening_hours\": \"Mo-Sa 09:00-18:00\", \"phone\": \"+32 3 226 14 30\", \"shop\": \"books\", \"website\": \"https://www.standaardboekhandel.be/winkels/antwerpen-quellinstraat\"}",
+    "lat": 51.2173962,
+    "lon": 4.4168143
+  }
+]

@@ -1,0 +1,905 @@
+[
+  {
+    "id": 290173235,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"130\", \"addr:street\": \"Diksmuidelaan\", \"name\": \"Gommers\", \"shop\": \"bakery\"}",
+    "lat": 51.196535,
+    "lon": 4.4432662
+  },
+  {
+    "id": 1111364886,
+    "type": "node",
+    "tags": "{\"name\": \"Smouts\", \"shop\": \"bakery\"}",
+    "lat": 51.2532514,
+    "lon": 4.4628741
+  },
+  {
+    "id": 1261968962,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"70\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lange Lozanastraat\", \"check_date\": \"2024-02-10\", \"name\": \"Emi\", \"shop\": \"bakery\", \"website\": \"http://www.patisserie-emi.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.204602,
+    "lon": 4.4043592
+  },
+  {
+    "id": 1419031829,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"35\", \"addr:street\": \"Jan Moorkensstraat\", \"check_date\": \"2023-11-11\", \"name\": \"Alexandra\", \"opening_hours\": \"Mo,Tu,Th,Fr 05:30-18:00; Sa,Su 06:30-16:00\", \"payment:cash\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 3 645 93 12\", \"shop\": \"bakery\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1875677,
+    "lon": 4.4316741
+  },
+  {
+    "id": 1419031831,
+    "type": "node",
+    "tags": "{\"name\": \"Le Bleu\", \"shop\": \"bakery\"}",
+    "lat": 51.1831032,
+    "lon": 4.4254943
+  },
+  {
+    "id": 1419031836,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"62\", \"addr:postcode\": \"2600\", \"addr:street\": \"Marie-Jos\\u00e9laan\", \"name\": \"Bakkerij Neirynck\", \"shop\": \"bakery\"}",
+    "lat": 51.1868296,
+    "lon": 4.4252916
+  },
+  {
+    "id": 1523377841,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"31\", \"addr:postcode\": \"2000\", \"addr:street\": \"Korte Gasthuisstraat\", \"alt_name\": \"Bakkerij Goossens\", \"check_date\": \"2024-03-05\", \"name\": \"Goossens\", \"opening_hours\": \"Tu-Sa 07:00-19:00; Su,Mo off\", \"phone\": \"+32 3 226 07 91\", \"shop\": \"bakery\", \"website\": \"https://www.cityzine.be/hotspot/bakkerij-goossens\"}",
+    "lat": 51.2166603,
+    "lon": 4.404558
+  },
+  {
+    "id": 1538266340,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Lina\", \"shop\": \"bakery\"}",
+    "lat": 51.1705085,
+    "lon": 4.4018003
+  },
+  {
+    "id": 1580433465,
+    "type": "node",
+    "tags": "{\"check_date\": \"2025-03-29\", \"contact:facebook\": \"https://www.facebook.com/BDBlapin/\", \"name\": \"Biologisch Dynamische Bakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.2086483,
+    "lon": 4.4083339
+  },
+  {
+    "id": 1638728152,
+    "type": "node",
+    "tags": "{\"name\": \"St.Anna Food\", \"origin\": \"chinese\", \"shop\": \"bakery\"}",
+    "lat": 51.2198758,
+    "lon": 4.4206151
+  },
+  {
+    "id": 1639530493,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"23\", \"addr:postcode\": \"2060\", \"addr:street\": \"De Coninckplein\", \"cuisine\": \"sandwich\", \"level\": \"0\", \"name\": \"Bakkerij De Coninck\", \"opening_hours\": \"Mo-Sa 06:00-20:00\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"payment:debit_cards\": \"yes\", \"shop\": \"bakery\", \"stroller\": \"yes\", \"website\": \"https://bakkerij-de-conick.eatbu.com\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2218882,
+    "lon": 4.4204604
+  },
+  {
+    "id": 1701465469,
+    "type": "node",
+    "tags": "{\"name\": \"Lucas\", \"shop\": \"bakery\"}",
+    "lat": 51.1975558,
+    "lon": 4.4416814
+  },
+  {
+    "id": 1732233557,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"25\", \"addr:postcode\": \"2040\", \"addr:street\": \"Putsebaan\", \"name\": \"'t Brood Huys\", \"opening_hours\": \"Mo-Fr 07:00-18:00; Sa 07:00-15:00; Su, PH 07:00-14:00; Tu off\", \"phone\": \"+32 3 288 91 71\", \"shop\": \"bakery\", \"website\": \"https://www.tbroodhuyszandvliet.be\"}",
+    "lat": 51.359056,
+    "lon": 4.3172752
+  },
+  {
+    "id": 1732704125,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23/1\", \"addr:postcode\": \"2040\", \"addr:street\": \"De Keyserhoeve\", \"contact:facebook\": \"https://facebook.com/Bakkerij-De-Schutter-De-Zandwich-Bar-316926529072770/\", \"name\": \"De Schutter\", \"opening_hours\": \"Mo,Tu,Th,Fr 07:00-14:00; Sa,Su 07:00-13:00; We off\", \"phone\": \"+32 3 290 65 03\", \"shop\": \"bakery\", \"url\": \"https://www.dezandwichbar.be/\", \"website\": \"https://bakkerijdeschutter.com/\"}",
+    "lat": 51.3598797,
+    "lon": 4.3095197
+  },
+  {
+    "id": 1816671272,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"366\", \"addr:postcode\": \"2180\", \"addr:street\": \"Schriek\", \"contact:facebook\": \"https://www.facebook.com/Bakkerij-Wouters-Mariaburg-115004690331410/\", \"email\": \"info@bakkerij-wouters.be\", \"name\": \"Bakkerij Wouters\", \"old_name\": \"Brioche\", \"opening_hours\": \"Mo-We 07:00-17:00; Fr-Sa 07:00-15:00; Su 07:00-13:00; Th off\", \"phone\": \"+32 3 665 41 42\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerij-wouters.be/\"}",
+    "lat": 51.2916256,
+    "lon": 4.4432277
+  },
+  {
+    "id": 1816672355,
+    "type": "node",
+    "tags": "{\"name\": \"Van Landeghem\", \"shop\": \"bakery\"}",
+    "lat": 51.2886469,
+    "lon": 4.4388609
+  },
+  {
+    "id": 1911858005,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Frabak\", \"shop\": \"bakery\"}",
+    "lat": 51.180618,
+    "lon": 4.3580469
+  },
+  {
+    "id": 1911862213,
+    "type": "node",
+    "tags": "{\"branch\": \"Kiel\", \"brand\": \"Bakker Bart\", \"brand:wikidata\": \"Q2177445\", \"brand:wikipedia\": \"nl:Bakker Bart\", \"name\": \"Bakker Bart\", \"shop\": \"bakery\"}",
+    "lat": 51.1901976,
+    "lon": 4.3789298
+  },
+  {
+    "id": 2419216964,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"9\", \"addr:street\": \"Pieter Doorlantlaan\", \"name\": \"Doorland\", \"shop\": \"bakery\"}",
+    "lat": 51.2303736,
+    "lon": 4.3850536
+  },
+  {
+    "id": 3455028860,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2018\", \"addr:street\": \"Arthur Goemaerelei\", \"name\": \"Brood en banket Jacobs\", \"shop\": \"bakery\"}",
+    "lat": 51.1978873,
+    "lon": 4.4037729
+  },
+  {
+    "id": 3528391992,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"28\", \"addr:street\": \"'s-Herenstraat\", \"name\": \"Van Bogaert\", \"shop\": \"bakery\", \"website\": \"http://bakkerijvanbogaertborgerhout.be\"}",
+    "lat": 51.2118681,
+    "lon": 4.4362566
+  },
+  {
+    "id": 3528400957,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Roma\", \"shop\": \"bakery\"}",
+    "lat": 51.2136743,
+    "lon": 4.4405157
+  },
+  {
+    "id": 3532887029,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"60\", \"addr:postcode\": \"2040\", \"addr:street\": \"Monnikenhofstraat\", \"cuisine\": \"sandwich;italian;pizza;pasta\", \"name\": \"La Casa De Schutter\", \"old_name\": \"De Schutter\", \"opening_hours\": \"Tu-Su 07:00-14:00 open \\\"bakkerij\\\" || Tu-Fr 17:00-21:00, Sa,Su 15:00-22:00 open \\\"pizza, pasta\\\"; Mo off\", \"phone\": \"+32 3 568 11 52\", \"shop\": \"bakery\", \"takeaway\": \"yes\", \"website\": \"https://www.lacasadeschutter.be/\"}",
+    "lat": 51.3451314,
+    "lon": 4.3191718
+  },
+  {
+    "id": 3601230617,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"88\", \"addr:postcode\": \"2040\", \"addr:street\": \"Monnikenhofstraat\", \"name\": \"Brood&Banket Marina\", \"old_name\": \"'t Moleken\", \"opening_hours\": \"Mo,Tu,We,Fr 07:00-17:30; Sa,Su 07:00-15:00; Th off\", \"phone\": \"+32 3 569 04 69\", \"shop\": \"bakery\"}",
+    "lat": 51.3457069,
+    "lon": 4.3214254
+  },
+  {
+    "id": 3640692388,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Speedy Snack\", \"shop\": \"bakery\"}",
+    "lat": 51.1645389,
+    "lon": 4.3975862
+  },
+  {
+    "id": 3867223265,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"122\", \"addr:postcode\": \"2180\", \"addr:street\": \"Oorderseweg\", \"name\": \"Bakkerij Bossuyt\", \"opening_hours\": \"We-Fr 07:00-12:30,13:30-18:00; Sa 07:00-18:00; Su 07:00-17:00\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerijbossuyt.be\"}",
+    "lat": 51.2811916,
+    "lon": 4.412587
+  },
+  {
+    "id": 3873111879,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:postcode\": \"2180\", \"addr:street\": \"Driehoekstraat\", \"name\": \"Banketbakkerij Spanoghe\", \"phone\": \"+32 3 541 15 89\", \"shop\": \"bakery\"}",
+    "lat": 51.2796979,
+    "lon": 4.4195786
+  },
+  {
+    "id": 3877899763,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"83\", \"addr:postcode\": \"2180\", \"addr:street\": \"August Scheyvaertslaan\", \"name\": \"Bakkerij Mariman\", \"opening_hours\": \"Mo,We-Fr 07:00-13:00,14:00-18:00; Sa,Su 07:00-18:00; Tu off\", \"phone\": \"+32 3 541 09 28\", \"shop\": \"bakery\", \"website\": \"http://www.bakkerijtimmariman.be\"}",
+    "lat": 51.2815272,
+    "lon": 4.4224387
+  },
+  {
+    "id": 3880817286,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"150\", \"addr:postcode\": \"2180\", \"addr:street\": \"Groot Hagelkruis\", \"email\": \"bakkerijceuppens@hotmail.com\", \"name\": \"Bakkerij Ceuppens\", \"opening_hours\": \"Mo-Th,Sa,Su 07:00-18:00; Fr off\", \"phone\": \"+32 3 542 42 43\", \"shop\": \"bakery\"}",
+    "lat": 51.2755697,
+    "lon": 4.4125387
+  },
+  {
+    "id": 4065132114,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"139\", \"addr:street\": \"Mechelsesteenweg\", \"name\": \"De Vloere Pistol\\u00e9e\", \"shop\": \"bakery\"}",
+    "lat": 51.2054875,
+    "lon": 4.4104883
+  },
+  {
+    "id": 4127542712,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"9\", \"addr:postcode\": \"2018\", \"addr:street\": \"Dageraadplaats\", \"alt_name\": \"Bakkerij Gijbels\", \"email\": \"info@bakkerijgijbels.be\", \"name\": \"Gijbels\", \"phone\": \"+32 3 235 59 42\", \"shop\": \"bakery\", \"website\": \"https://gijbelsbakkerij.be\"}",
+    "lat": 51.2074483,
+    "lon": 4.430953
+  },
+  {
+    "id": 4146451375,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.93\", \"name\": \"Bakker Alain Boonen\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.bakkerijboonen.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2082117,
+    "lon": 4.3907591
+  },
+  {
+    "id": 4167938739,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"139\", \"addr:postcode\": \"2100\", \"addr:street\": \"Gallifortlei\", \"name\": \"Andr\\u00e9 Patisserie\", \"shop\": \"bakery\"}",
+    "lat": 51.222918,
+    "lon": 4.4633793
+  },
+  {
+    "id": 4167938742,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"125\", \"addr:postcode\": \"2100\", \"addr:street\": \"Gallifortlei\", \"name\": \"Bakkerij Vanherck\", \"shop\": \"bakery\"}",
+    "lat": 51.2226511,
+    "lon": 4.4630596
+  },
+  {
+    "id": 4180605741,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"87\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kloosterstraat\", \"name\": \"'t Bakkerke\", \"opening_hours\": \"Mo,Th-Su 07:00-18:00; Tu,We off\", \"phone\": \"+32 3 541 15 90\", \"shop\": \"bakery\"}",
+    "lat": 51.2821363,
+    "lon": 4.4176032
+  },
+  {
+    "id": 4397773289,
+    "type": "node",
+    "tags": "{\"name\": \"Antep'lim baklavalari\", \"shop\": \"bakery\"}",
+    "lat": 51.1960232,
+    "lon": 4.4201682
+  },
+  {
+    "id": 4398872405,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Patisserie Gijbels\", \"shop\": \"bakery\"}",
+    "lat": 51.1967588,
+    "lon": 4.4225143
+  },
+  {
+    "id": 4398872406,
+    "type": "node",
+    "tags": "{\"name\": \"Yusuf Bakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.196898,
+    "lon": 4.4227977
+  },
+  {
+    "id": 4399038263,
+    "type": "node",
+    "tags": "{\"name\": \"'t Croisanneke\", \"shop\": \"bakery\"}",
+    "lat": 51.196983,
+    "lon": 4.4229729
+  },
+  {
+    "id": 4399075674,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-17\", \"name\": \"Bakkerij Croissanterie Charif\", \"shop\": \"bakery\"}",
+    "lat": 51.1971938,
+    "lon": 4.4234843
+  },
+  {
+    "id": 4399075676,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Sevli\", \"shop\": \"bakery\"}",
+    "lat": 51.1973191,
+    "lon": 4.4234183
+  },
+  {
+    "id": 4401608590,
+    "type": "node",
+    "tags": "{\"name\": \"Cagdas Bakery\", \"shop\": \"bakery\"}",
+    "lat": 51.2280419,
+    "lon": 4.4795188
+  },
+  {
+    "id": 4418156090,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"10\", \"addr:street\": \"Oudestraat\", \"name\": \"Bakkerij De Swaene\", \"shop\": \"bakery\"}",
+    "lat": 51.1683101,
+    "lon": 4.3937289
+  },
+  {
+    "id": 4434106300,
+    "type": "node",
+    "tags": "{\"name\": \"Turkse Bakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.1978002,
+    "lon": 4.4247548
+  },
+  {
+    "id": 4434127380,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Lotus\", \"shop\": \"bakery\"}",
+    "lat": 51.198786,
+    "lon": 4.4280103
+  },
+  {
+    "id": 4448476376,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"D\\u00e9lifrance\", \"brand:wikidata\": \"Q5320229\", \"level\": \"0\", \"name\": \"D\\u00e9lifrance\", \"shop\": \"bakery\", \"website\": \"https://www.delifrance.com/be\"}",
+    "lat": 51.2169081,
+    "lon": 4.4109647
+  },
+  {
+    "id": 4474332735,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"17\", \"addr:street\": \"De Gryspeerstraat\", \"name\": \"Bonni\", \"shop\": \"bakery\"}",
+    "lat": 51.2267452,
+    "lon": 4.4534714
+  },
+  {
+    "id": 4560359484,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"21\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kristus-Koningplein\", \"name\": \"Bakkerij Bossuyt\", \"opening_hours\": \"Tu-Fr 06:30-18:00; Sa 06:30-17:00; Su 06:30-12:30; Mo off\", \"phone\": \"+32 3 542 08 50\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerijbossuyt.be\"}",
+    "lat": 51.2781382,
+    "lon": 4.4195543
+  },
+  {
+    "id": 4634314347,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:street\": \"De Gryspeerstraat\", \"name\": \"Bakkerij Karadag\", \"shop\": \"bakery\"}",
+    "lat": 51.2267121,
+    "lon": 4.4542512
+  },
+  {
+    "id": 4741248772,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"28\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kattendijkdok-Westkaai\", \"amenity\": \"cafe\", \"name\": \"Bakkerij Toon de Klerck\", \"opening_hours\": \"Mo,We-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:00-15:00; Tu off\", \"phone\": \"+32 3 225 36 57\", \"shop\": \"bakery\", \"website\": \"https://www.toondeklerckbakkerij.be/\"}",
+    "lat": 51.2318164,
+    "lon": 4.404921
+  },
+  {
+    "id": 4811694743,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"5\", \"addr:postcode\": \"2030\", \"addr:street\": \"Dublinstraat\", \"name\": \"Bakkerij Ceuppens\", \"opening_hours\": \"Mo-Th,Sa,Su 07:00-18:00; Fr off\", \"phone\": \"+32 3 542 34 55\", \"shop\": \"bakery\"}",
+    "lat": 51.2581279,
+    "lon": 4.4246236
+  },
+  {
+    "id": 4825491337,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Zahnoun\", \"shop\": \"bakery\"}",
+    "lat": 51.2118195,
+    "lon": 4.4260504
+  },
+  {
+    "id": 4825491338,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Nour\", \"shop\": \"bakery\"}",
+    "lat": 51.2110903,
+    "lon": 4.4259262
+  },
+  {
+    "id": 4825491339,
+    "type": "node",
+    "tags": "{\"description\": \"Jewish bakery\", \"name\": \"Kleinblatt\", \"shop\": \"bakery\"}",
+    "lat": 51.2114917,
+    "lon": 4.4260496
+  },
+  {
+    "id": 4826741837,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"10\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"alt_name\": \"Kris Van Calster\", \"check_date\": \"2024-08-31\", \"name\": \"Bakker Kris\", \"opening_hours\": \"Mo-Th,Su 05:00-16:00; Fr 05:00-14:00; Sa off\", \"phone\": \"+32 3 232 22 54\", \"shop\": \"bakery\"}",
+    "lat": 51.2307527,
+    "lon": 4.4086096
+  },
+  {
+    "id": 5116858790,
+    "type": "node",
+    "tags": "{\"name\": \"Gijbels\", \"opening_hours\": \"Mo-Th 06:30-14:00; Fr 06:30-13:30; PH,Sa,Su off\", \"shop\": \"bakery\"}",
+    "lat": 51.1755979,
+    "lon": 4.418609
+  },
+  {
+    "id": 5126644136,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"name\": \"Bakkerij Londen\", \"shop\": \"bakery\"}",
+    "lat": 51.2311586,
+    "lon": 4.4125265
+  },
+  {
+    "id": 5155096077,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2018\", \"addr:street\": \"Boomgaardstraat\", \"alt_name\": \"The Bakery by Kenney Van Hoorick\", \"check_date\": \"2023-11-09\", \"contact:facebook\": \"https://nl-nl.facebook.com/thebakerybykenneyvanhoorick/\", \"email\": \"info@thebakery-bdk.be\", \"name\": \"The Bakery\", \"opening_hours\": \"Mo off; Tu-Fr 07:30-17:30; Sa 07:30-16:30; Su 07:30-13:00\", \"phone\": \"+32 3 230 12 01\", \"shop\": \"bakery\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1994386,
+    "lon": 4.4157575
+  },
+  {
+    "id": 5225661256,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"68\", \"addr:postcode\": \"2000\", \"addr:street\": \"Vleminckveld\", \"amenity\": \"cafe\", \"check_date\": \"2023-04-08\", \"email\": \"info@lints.be\", \"name\": \"Lints\", \"opening_hours\": \"Tu-Sa 07:00-18:00; Su 07:00-16:30; Mo off\", \"phone\": \"+32 3 226 91 34\", \"shop\": \"bakery\", \"website\": \"https://lints.be/\"}",
+    "lat": 51.2137802,
+    "lon": 4.4043119
+  },
+  {
+    "id": 5236436690,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:postcode\": \"2000\", \"addr:street\": \"Volkstraat\", \"alt_name\": \"Brood- en Banketbakkerij Vervecken;Patisserie Vervecken\", \"email\": \"info@bakkerij-vervecken.be\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.98\", \"name\": \"Bakkerij Vervecken\", \"phone\": \"+32 3 237 54 80\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"website\": \"https://bakkerij-vervecken.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2117171,
+    "lon": 4.3965027
+  },
+  {
+    "id": 5236453540,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"17\", \"addr:postcode\": \"2000\", \"addr:street\": \"Volkstraat\", \"alt_name\": \"De Biologisch-Dynamische Bakkerij\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/pg/debiologischebakkerij/\", \"email\": \"debiologischebakkerij@gmail.com\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"De Biologische Bakkerij\", \"opening_hours\": \"Mo,Tu,Th-Sa 08:00-18:00; Su 09:00-17:00; We off\", \"phone\": \"+32 3 216 00 42\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2113044,
+    "lon": 4.396557
+  },
+  {
+    "id": 5236591548,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Volkstraat\", \"diet:gluten_free\": \"yes\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Eug\\u00e8ne Glutenvrije Bakkerij\", \"opening_hours\": \"Tu 14:00-18:00; We-Fr 11:00-18:00; Sa 11:00-17:00; Su,Mo, PH off\", \"phone\": \"+32 3 233 19 89\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.zondergluten.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2113709,
+    "lon": 4.3966451
+  },
+  {
+    "id": 5325481095,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"46\", \"addr:postcode\": \"2100\", \"addr:street\": \"Eksterlaar\", \"contact:facebook\": \"https://nl-nl.facebook.com/pg/Bakkerij-Van-den-Bogaert-An-496227387211506/\", \"email\": \"bakkerij@anvandenbogaert.be\", \"name\": \"Bakkerij Van den Bogaert\", \"opening_hours\": \"Mo,Tu,Th,Fr 06:30-18:30; Sa 06:30-17:00; Su 06:30-13:30; We off\", \"phone\": \"+32 3 321 67 95\", \"shop\": \"bakery\"}",
+    "lat": 51.1995908,
+    "lon": 4.4674457
+  },
+  {
+    "id": 5428457252,
+    "type": "node",
+    "tags": "{\"name\": \"Rayan\", \"shop\": \"bakery\"}",
+    "lat": 51.1899001,
+    "lon": 4.3795686
+  },
+  {
+    "id": 5428784286,
+    "type": "node",
+    "tags": "{\"name\": \"Istambul 34\", \"shop\": \"bakery\"}",
+    "lat": 51.1890904,
+    "lon": 4.3809131
+  },
+  {
+    "id": 5619249621,
+    "type": "node",
+    "tags": "{\"name\": \"van Opstal van Boxel\", \"shop\": \"bakery\"}",
+    "lat": 51.2175839,
+    "lon": 4.4194857
+  },
+  {
+    "id": 5696578744,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"246\", \"addr:street\": \"Dambruggestraat\", \"name\": \"Drie Sterren\", \"phone\": \"+32 3 232 21 76\", \"shop\": \"bakery\"}",
+    "lat": 51.2256466,
+    "lon": 4.4221687
+  },
+  {
+    "id": 5834334114,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"395\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"changing_table\": \"no\", \"cuisine\": \"sandwich\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.76\", \"name\": \"Panos\", \"opening_hours\": \"Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off\", \"phone\": \"+32 3 646 73 82\", \"shop\": \"bakery\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"url\": \"http://panos.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2432706,
+    "lon": 4.4430906
+  },
+  {
+    "id": 6019292253,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-17\", \"name\": \"Domestic\", \"shop\": \"bakery\"}",
+    "lat": 51.2064205,
+    "lon": 4.4265426
+  },
+  {
+    "id": 6139977763,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Museumstraat\", \"alt_name\": \"Bakkerij Dellafaille\", \"email\": \"vanessa@dellafaille.net\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.06\", \"fax\": \"+32 3 257 37 06\", \"name\": \"Dellafaille\", \"opening_hours\": \"Mo,Sa 07:30-18:30; We-Fr 07:30-18:30; Su 07:30-16:30; Tu off\", \"phone\": \"+32 3 257 37 08\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.dellafaille.net/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2100675,
+    "lon": 4.3913359
+  },
+  {
+    "id": 6283893285,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"check_date\": \"2025-03-09\", \"email\": \"info@bakkeraldo.be\", \"name\": \"Bakker Aldo\", \"opening_hours\": \"Sa-Tu 07:00-14:00\", \"phone\": \"+32 3 239 21 25\", \"shop\": \"bakery\", \"website\": \"http://bakkeraldo.be/\"}",
+    "lat": 51.2031091,
+    "lon": 4.4279671
+  },
+  {
+    "id": 6340041437,
+    "type": "node",
+    "tags": "{\"check_date\": \"2025-03-09\", \"name\": \"De Broodnatie\", \"shop\": \"bakery\"}",
+    "lat": 51.2032633,
+    "lon": 4.4247542
+  },
+  {
+    "id": 6502366179,
+    "type": "node",
+    "tags": "{\"name\": \"Domestic\", \"shop\": \"bakery\", \"website\": \"https://www.domestic-bakkerij.be\"}",
+    "lat": 51.2160362,
+    "lon": 4.4050446
+  },
+  {
+    "id": 6503263588,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"108\", \"addr:postcode\": \"2140\", \"addr:street\": \"Turnhoutsebaan\", \"email\": \"info@bakkerij-xavier.be\", \"name\": \"Bakkerij Xavier\", \"phone\": \"+32 3 236 29 76\", \"shop\": \"bakery\", \"website\": \"http://www.bakkerij-xavier.be\"}",
+    "lat": 51.2152888,
+    "lon": 4.4326444
+  },
+  {
+    "id": 6503263785,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2060\", \"addr:street\": \"Potgieterstraat\", \"name\": \"Puur Brood\", \"payment:cash\": \"yes\", \"shop\": \"bakery\", \"website\": \"https://www.puurbrood.be\"}",
+    "lat": 51.2215745,
+    "lon": 4.4369577
+  },
+  {
+    "id": 6537356364,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-01-18\", \"name\": \"Bakkerij Charif\", \"shop\": \"bakery\"}",
+    "lat": 51.2142876,
+    "lon": 4.3981008
+  },
+  {
+    "id": 6604992780,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"43\", \"addr:street\": \"De Keyserlei\", \"amenity\": \"cafe\", \"brand\": \"Paul\", \"brand:wikidata\": \"Q3370417\", \"brand:wikipedia\": \"en:Paul (bakery)\", \"entrance:kerb:height\": \"0.0\", \"entrance:step_count\": \"0.0\", \"entrance:width\": \"0.78\", \"indoor_seating\": \"yes\", \"name\": \"Paul\", \"outdoor_seating\": \"yes\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2176548,
+    "lon": 4.4190326
+  },
+  {
+    "id": 6635802850,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Din\\u00e9\", \"shop\": \"bakery\"}",
+    "lat": 51.2249324,
+    "lon": 4.4046864
+  },
+  {
+    "id": 6641528069,
+    "type": "node",
+    "tags": "{\"name\": \"Kris\", \"shop\": \"bakery\"}",
+    "lat": 51.2252533,
+    "lon": 4.4094736
+  },
+  {
+    "id": 6655019467,
+    "type": "node",
+    "tags": "{\"name\": \"Delicia\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerijdelicia.be\"}",
+    "lat": 51.2246058,
+    "lon": 4.4192314
+  },
+  {
+    "id": 6681680607,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij elif\", \"shop\": \"bakery\", \"website\": \"http://www.elifbakkerij.info\"}",
+    "lat": 51.2249906,
+    "lon": 4.4168309
+  },
+  {
+    "id": 6716416076,
+    "type": "node",
+    "tags": "{\"name\": \"9\", \"shop\": \"bakery\"}",
+    "lat": 51.2231188,
+    "lon": 4.4259346
+  },
+  {
+    "id": 6720972432,
+    "type": "node",
+    "tags": "{\"name\": \"riyad\", \"shop\": \"bakery\"}",
+    "lat": 51.2233799,
+    "lon": 4.4277223
+  },
+  {
+    "id": 6720972443,
+    "type": "node",
+    "tags": "{\"name\": \"Mezaga\", \"shop\": \"bakery\"}",
+    "lat": 51.2232143,
+    "lon": 4.4267279
+  },
+  {
+    "id": 6724799316,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Akram\", \"shop\": \"bakery\"}",
+    "lat": 51.223815,
+    "lon": 4.4295385
+  },
+  {
+    "id": 6727682423,
+    "type": "node",
+    "tags": "{\"name\": \"Eylem Eirini\", \"shop\": \"bakery\"}",
+    "lat": 51.225205,
+    "lon": 4.4307504
+  },
+  {
+    "id": 6727682432,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Tafarsit\", \"shop\": \"bakery\"}",
+    "lat": 51.2241211,
+    "lon": 4.4307718
+  },
+  {
+    "id": 6727682434,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Essaada\", \"shop\": \"bakery\"}",
+    "lat": 51.2239901,
+    "lon": 4.4309673
+  },
+  {
+    "id": 6727682439,
+    "type": "node",
+    "tags": "{\"name\": \"Lyoubibakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.223882,
+    "lon": 4.4305531
+  },
+  {
+    "id": 6778906737,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-09-22\", \"name\": \"Bakkerij De Hert\", \"shop\": \"bakery\"}",
+    "lat": 51.171344,
+    "lon": 4.3943435
+  },
+  {
+    "id": 6816082611,
+    "type": "node",
+    "tags": "{\"name\": \"Patos bakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.224642,
+    "lon": 4.4199361
+  },
+  {
+    "id": 6818217820,
+    "type": "node",
+    "tags": "{\"name\": \"Istanbul\", \"shop\": \"bakery\"}",
+    "lat": 51.2248297,
+    "lon": 4.4205034
+  },
+  {
+    "id": 6828645225,
+    "type": "node",
+    "tags": "{\"name\": \"Ozgunes bakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.2246713,
+    "lon": 4.422073
+  },
+  {
+    "id": 6835438266,
+    "type": "node",
+    "tags": "{\"name\": \"Noord\", \"shop\": \"bakery\"}",
+    "lat": 51.2217936,
+    "lon": 4.4260362
+  },
+  {
+    "id": 6835438270,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Royal\", \"shop\": \"bakery\"}",
+    "lat": 51.2219791,
+    "lon": 4.4261708
+  },
+  {
+    "id": 6835438279,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Elisabeth\", \"shop\": \"bakery\"}",
+    "lat": 51.2225239,
+    "lon": 4.4256933
+  },
+  {
+    "id": 6934964781,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"30\", \"addr:street\": \"Kioskplaats\", \"contact:email\": \"info@bakkerijarif.be\", \"contact:phone\": \"+32 485 13 97 48\", \"contact:website\": \"https://www.bakkerijarif.be/\", \"cuisine\": \"moroccan\", \"name\": \"Bakkerij Arif\", \"opening_hours\": \"Mo-Sa 07:00-20:00\", \"shop\": \"bakery\"}",
+    "lat": 51.1752483,
+    "lon": 4.3509133
+  },
+  {
+    "id": 6942490594,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Charif\", \"shop\": \"bakery\"}",
+    "lat": 51.2184406,
+    "lon": 4.423832
+  },
+  {
+    "id": 6977881011,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Farine\", \"shop\": \"bakery\"}",
+    "lat": 51.2138751,
+    "lon": 4.4391084
+  },
+  {
+    "id": 6984389201,
+    "type": "node",
+    "tags": "{\"name\": \"Driessen Peter\", \"shop\": \"bakery\"}",
+    "lat": 51.214725,
+    "lon": 4.4432766
+  },
+  {
+    "id": 6993621878,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Zonnebloem\", \"shop\": \"bakery\"}",
+    "lat": 51.2140712,
+    "lon": 4.4396049
+  },
+  {
+    "id": 6997352311,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij den drink\", \"shop\": \"bakery\"}",
+    "lat": 51.2145454,
+    "lon": 4.4369338
+  },
+  {
+    "id": 7006782013,
+    "type": "node",
+    "tags": "{\"name\": \"Anatolia turkse bakkerij\", \"shop\": \"bakery\"}",
+    "lat": 51.2179742,
+    "lon": 4.4288067
+  },
+  {
+    "id": 7006782025,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Roma\", \"shop\": \"bakery\"}",
+    "lat": 51.2176434,
+    "lon": 4.4288193
+  },
+  {
+    "id": 7018065123,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Elif\", \"shop\": \"bakery\"}",
+    "lat": 51.219028,
+    "lon": 4.4197634
+  },
+  {
+    "id": 7280009065,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-08-24\", \"name\": \"Schoenaers\", \"shop\": \"bakery\"}",
+    "lat": 51.2053877,
+    "lon": 4.4178742
+  },
+  {
+    "id": 7302456195,
+    "type": "node",
+    "tags": "{\"name\": \"L'\\u00eele Gourmande\", \"shop\": \"bakery\"}",
+    "lat": 51.2064074,
+    "lon": 4.3983576
+  },
+  {
+    "id": 7321150182,
+    "type": "node",
+    "tags": "{\"name\": \"Bakery\", \"shop\": \"bakery\"}",
+    "lat": 51.1995987,
+    "lon": 4.4343196
+  },
+  {
+    "id": 7342847517,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-01-31\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Patisserie Willem Verlooy\", \"shop\": \"bakery\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.212021,
+    "lon": 4.4036248
+  },
+  {
+    "id": 7406366440,
+    "type": "node",
+    "tags": "{\"name\": \"Bakkerij Idriss\", \"shop\": \"bakery\"}",
+    "lat": 51.2112303,
+    "lon": 4.4336128
+  },
+  {
+    "id": 8151682371,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4\", \"addr:postcode\": \"2170\", \"addr:street\": \"Zilvermeeuwstraat\", \"contact:facebook\": \"https://www.facebook.com/bakkerijandriesmerksem/\", \"email\": \"bakkerijandries@telenet.be\", \"name\": \"Bakkerij Andries\", \"opening_hours\": \"Mo-We,Sa,Su 07:00-14:00; Th,Fr off\", \"phone\": \"+32 3 645 61 74\", \"shop\": \"bakery\"}",
+    "lat": 51.2558595,
+    "lon": 4.442976
+  },
+  {
+    "id": 8151821145,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:postcode\": \"2180\", \"addr:street\": \"Molenstraat\", \"contact:facebook\": \"https://www.facebook.com/BakkerJens/\", \"email\": \"info@bakker-jens.be\", \"name\": \"Bakker Jens\", \"opening_hours\": \"Tu-Su,PH 06:30-16:30; Mo off\", \"phone\": \"+32 3 502 30 02\", \"shop\": \"bakery\", \"website\": \"https://www.bakker-jens.be/\"}",
+    "lat": 51.2808947,
+    "lon": 4.4164395
+  },
+  {
+    "id": 8411419513,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:street\": \"Museumstraat\", \"comment\": \"You need help, very tight\", \"entrance:kerb:height\": \"0.13\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.81\", \"name\": \"Dellafaille MAS\", \"shop\": \"bakery\", \"website\": \"https://dellafaille.net\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2291911,
+    "lon": 4.4056173
+  },
+  {
+    "id": 8590054410,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"13\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"D\\u00e9lifrance\", \"brand:wikidata\": \"Q5320229\", \"check_date:opening_hours\": \"2023-11-16\", \"name\": \"D\\u00e9lifrance\", \"opening_hours:signed\": \"no\", \"shop\": \"bakery\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2184623,
+    "lon": 4.4059421
+  },
+  {
+    "id": 9026011845,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Beddenstraat\", \"alt_name\": \"Bakkerij Wouters\", \"contact:facebook\": \"https://www.facebook.com/bakkerijwoutersantwerpen/\", \"email\": \"info@bakkerij-wouters.be\", \"level\": \"-1\", \"name\": \"Wouters\", \"opening_hours\": \"Mo-Sa 08:30-18:30; Su off\", \"phone\": \"+32 3 233 71 54\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerij-wouters.be/\"}",
+    "lat": 51.2186075,
+    "lon": 4.4032016
+  },
+  {
+    "id": 9026011846,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"109\", \"addr:postcode\": \"2170\", \"addr:street\": \"Lambrechtshoekenlaan\", \"contact:facebook\": \"https://www.facebook.com/bakkerijwoutersinmerksem/\", \"email\": \"info@bakkerij-wouters.be\", \"name\": \"Bakkerij Wouters\", \"opening_hours\": \"Mo-We,Fr 06:45-17:00; Th off; Sa 07:00-17:00; Su 07:00-12:30\", \"phone\": \"+32 3 646 70 46\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerij-wouters.be/\"}",
+    "lat": 51.2473194,
+    "lon": 4.4312924
+  },
+  {
+    "id": 9176356749,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"193\", \"addr:postcode\": \"2020\", \"addr:street\": \"Abdijstraat\", \"email\": \"info@bakkerij-zahnounxl.be\", \"name\": \"BAKKERIJ ZAHNOUN XL\", \"operator\": \"Abdellah Zahnoun\", \"shop\": \"bakery\", \"website\": \"https://www.bakkerij-zahnounxl.be/\"}",
+    "lat": 51.1874061,
+    "lon": 4.385053
+  },
+  {
+    "id": 9375738317,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2610\", \"name\": \"Bakery Robin\", \"name:en\": \"Bakery Robin\", \"opening_hours\": \"We-Sa 06:00-18:00; Su 06:00-15:00\", \"shop\": \"bakery\"}",
+    "lat": 51.1725253,
+    "lon": 4.3917999
+  },
+  {
+    "id": 9878587366,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kloosterstraat\", \"alt_name\": \"Bakkerij Driehoek; 3HB\", \"contact:facebook\": \"https://www.facebook.com/people/Bakkerij-Driehoek/\", \"name\": \"Bakkerij 3Hoek\", \"opening_hours\": \"Tu off\", \"phone\": \"+32 493 48 85 07\", \"shop\": \"bakery\"}",
+    "lat": 51.2797157,
+    "lon": 4.4191566
+  },
+  {
+    "id": 9920679684,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"95\", \"addr:postcode\": \"2018\", \"addr:street\": \"Markgravelei\", \"name\": \"Domestic Markgravelei\", \"phone\": \"+32 3 239 34 04\", \"shop\": \"bakery\", \"website\": \"https://www.domestic-bakkerij.be\"}",
+    "lat": 51.1982913,
+    "lon": 4.4036281
+  },
+  {
+    "id": 10651481218,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"9\", \"addr:street\": \"Muizenstraat\", \"contact:website\": \"https://www.linasbakkerij.be/\", \"name\": \"Lina's\", \"opening_hours\": \"We-Sa 08:30-16:00\", \"shop\": \"bakery\", \"start_date\": \"2022\"}",
+    "lat": 51.2222909,
+    "lon": 4.4211489
+  },
+  {
+    "id": 10780746743,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:postcode\": \"2020\", \"addr:street\": \"Boomsesteenweg\", \"name\": \"Bakkerij Amine\", \"shop\": \"bakery\"}",
+    "lat": 51.1869755,
+    "lon": 4.3881636
+  },
+  {
+    "id": 10790029227,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oude Beurs\", \"contact:facebook\": \"https://www.facebook.com/profile.php?id=100057379903953\", \"name\": \"Brood en Spelen\", \"opening_hours\": \"We-Sa 07:30-18:30\", \"shop\": \"bakery\"}",
+    "lat": 51.2220241,
+    "lon": 4.4006588
+  },
+  {
+    "id": 10792472158,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"10\", \"addr:street\": \"Lode Zielenslaan\", \"name\": \"Bakkerij Bezekoek\", \"phone\": \"+32 3 219 04 31\", \"shop\": \"bakery\", \"website\": \"https://webshop.bezekoek.be\"}",
+    "lat": 51.2217944,
+    "lon": 4.3853763
+  },
+  {
+    "id": 11146305006,
+    "type": "node",
+    "tags": "{\"name\": \"'t graantje\", \"shop\": \"bakery\"}",
+    "lat": 51.2183237,
+    "lon": 4.4371928
+  },
+  {
+    "id": 11221431669,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"156\", \"addr:postcode\": \"2020\", \"addr:street\": \"Abdijstraat\", \"name\": \"Bakkerij Charif\", \"operator\": \"Bakkerij Charif\", \"payment:cash\": \"yes\", \"payment:debit_cards\": \"yes\", \"shop\": \"bakery\"}",
+    "lat": 51.1873576,
+    "lon": 4.3847501
+  },
+  {
+    "id": 11338529014,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"169\", \"addr:street\": \"Statiestraat\", \"name\": \"Bakkerij Goeiemorhen\", \"opening_hours\": \"Mo-Fr 06:30-14:00; Sa 07:30-14:00\", \"shop\": \"bakery\"}",
+    "lat": 51.199535,
+    "lon": 4.4303877
+  },
+  {
+    "id": 11340824920,
+    "type": "node",
+    "tags": "{\"name\": \"The swirl bakery\", \"shop\": \"bakery\"}",
+    "lat": 51.1970601,
+    "lon": 4.4421302
+  },
+  {
+    "id": 11928434329,
+    "type": "node",
+    "tags": "{\"entrance:step_count\": \"0\", \"entrance:width\": \"0.84\", \"name\": \"Framboise pattiserie\", \"shop\": \"bakery\"}",
+    "lat": 51.2245909,
+    "lon": 4.404998
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 247528899,
+    "type": "node",
+    "tags": "{\"amenity\": \"cinema\", \"brand\": \"UGC\", \"brand:wikidata\": \"Q1643241\", \"brand:wikipedia\": \"fr:Union g\\u00e9n\\u00e9rale cin\\u00e9matographique\", \"name\": \"UGC\", \"wikidata\": \"Q37936340\"}",
+    "lat": 51.218372,
+    "lon": 4.4175344
+  },
+  {
+    "id": 1087916196,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4-6\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kaasstraat\", \"alt_name\": \"Stadsbioscoop Cartoon's; Cinema Cartoon's\", \"amenity\": \"cinema\", \"check_date:opening_hours\": \"2024-11-10\", \"email\": \"info@cinemacartoons.be\", \"name\": \"Cartoon's\", \"opening_hours\": \"Mo-Su 14:00-22:00\", \"phone\": \"+32 3 232 96 32\", \"website\": \"https://cinemacartoons.be\", \"wikidata\": \"Q23374687\"}",
+    "lat": 51.2215436,
+    "lon": 4.3980373
+  },
+  {
+    "id": 4666184981,
+    "type": "node",
+    "tags": "{\"amenity\": \"cinema\", \"name\": \"De Klappei\", \"website\": \"https://www.klappei.be\"}",
+    "lat": 51.2211541,
+    "lon": 4.4290692
+  },
+  {
+    "id": 5118534122,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"47\", \"addr:street\": \"Waalsekaai\", \"amenity\": \"cinema\", \"changing_table\": \"yes\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2.07\", \"name\": \"Cinema Lumi\\u00e8re\", \"old_name\": \"Cinema Zuid\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"toilets:wheelchair:door_width\": \"0.89\", \"website\": \"https://www.lumiere-antwerpen.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2090643,
+    "lon": 4.3877187
+  }
+]

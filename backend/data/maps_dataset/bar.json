@@ -1,0 +1,576 @@
+[
+  {
+    "id": 385181448,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:postcode\": \"2000\", \"addr:street\": \"Marnixplaats\", \"amenity\": \"bar\", \"check_date\": \"2024-02-07\", \"email\": \"info@bar-soho.be\", \"name\": \"Soho\", \"opening_hours\": \"Tu-Su 16:00-00:00+; Mo off\", \"phone\": \"+32 3 246 60 69\", \"website\": \"https://www.bar-soho.be/\"}",
+    "lat": 51.210364,
+    "lon": 4.397943
+  },
+  {
+    "id": 1123563110,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Baco\"}",
+    "lat": 51.246454,
+    "lon": 4.4503049
+  },
+  {
+    "id": 1291769767,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"3\", \"addr:postcode\": \"2030\", \"addr:street\": \"Straatsburgdok-Noordkaai\", \"amenity\": \"bar\", \"name\": \"IKON\", \"website\": \"https://ikonantwerp.com/\"}",
+    "lat": 51.242872,
+    "lon": 4.4189257
+  },
+  {
+    "id": 1523336728,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Pelgrimstraat\", \"amenity\": \"bar\", \"email\": \"info@vertico-antwerpen.be\", \"name\": \"Vertigo Cocktailbar\", \"opening_hours\": \"We 17:00-00:00; Th 00:00-01:00,17:00-00:00, Fr 00:00-01:00,17:00-00:00, Sa 00:00-05:00,17:00-00:00; Su 00:00-05:00,17:00-00:00; Mo 00:00-01:00\", \"website\": \"https://vertigo-antwerpen.be/\"}",
+    "lat": 51.2195964,
+    "lon": 4.3995545
+  },
+  {
+    "id": 1532446447,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"9\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lange Gasthuisstraat\", \"amenity\": \"bar\", \"entrance:kerb:height\": \"0.16\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.08\", \"name\": \"Verso\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.verso.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2158803,
+    "lon": 4.4050906
+  },
+  {
+    "id": 1589699313,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:street\": \"Stadswaag\", \"amenity\": \"bar\", \"heritage\": \"4\"}",
+    "lat": 51.2237492,
+    "lon": 4.4076805
+  },
+  {
+    "id": 1618702909,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Cocktailbar Sips\", \"website\": \"https://www.sips-cocktails.com/\"}",
+    "lat": 51.207864,
+    "lon": 4.3886136
+  },
+  {
+    "id": 1641068381,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Tipanan Karaoke\"}",
+    "lat": 51.2187444,
+    "lon": 4.4192864
+  },
+  {
+    "id": 1644770040,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"N'joy\"}",
+    "lat": 51.2179863,
+    "lon": 4.4194144
+  },
+  {
+    "id": 2266031812,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"22\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wolstraat\", \"amenity\": \"bar\", \"changing_table\": \"no\", \"contact:facebook\": \"https://www.facebook.com/cafeDeKat\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.05\", \"indoor_seating\": \"yes\", \"internet_access\": \"wlan\", \"name\": \"De Kat\", \"name:en\": \"The Cat\", \"name:nl\": \"De Kat\", \"opening_hours\": \"Mo-Su 17:00+\", \"outdoor_seating\": \"no\", \"phone\": \"+32 3 233 08 92\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2214777,
+    "lon": 4.4036527
+  },
+  {
+    "id": 2348355297,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"222\", \"addr:postcode\": \"2140\", \"addr:street\": \"Karel De Preterlei\", \"amenity\": \"bar\", \"check_date\": \"2023-09-25\", \"contact:facebook\": \"https://www.facebook.com/pg/barbrul\", \"email\": \"welkom@barbrul.be\", \"name\": \"Bar Brul\", \"old_name\": \"Wilson\", \"opening_hours\": \"Mo off; Tu,Th 12:00-01:00, Fr,Sa 12:00-02:00, We,Su 10:00-01:00\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2001564,
+    "lon": 4.4497581
+  },
+  {
+    "id": 2405726695,
+    "type": "node",
+    "tags": "{\"OnroerendErfgoed:criteria\": \"M\", \"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"3\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wijngaardstraat\", \"amenity\": \"bar\", \"description\": \"Breedhuis\", \"heritage\": \"4\", \"heritage:operator\": \"OnroerendErfgoed\", \"heritage:website\": \"https://inventaris.onroerenderfgoed.be/dibe/relict/4390\", \"name\": \"Sueno Latino\", \"ref:OnroerendErfgoed\": \"4390\", \"smoking\": \"outside\"}",
+    "lat": 51.2211386,
+    "lon": 4.4028376
+  },
+  {
+    "id": 2587617312,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1\", \"name\": \"De Schelde\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2126097,
+    "lon": 4.3923826
+  },
+  {
+    "id": 3025797732,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"14\", \"addr:street\": \"Godefriduskaai\", \"amenity\": \"bar\", \"name\": \"BelRoy's MAS\", \"opening_hours\": \"Mo-Su 16:00+\", \"website\": \"https://www.belroys.com/belroys-mas\"}",
+    "lat": 51.2278948,
+    "lon": 4.4061376
+  },
+  {
+    "id": 3250760461,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-01-17\", \"name\": \"Absinthbar\"}",
+    "lat": 51.2198088,
+    "lon": 4.4006078
+  },
+  {
+    "id": 3500045790,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"89\", \"addr:postcode\": \"2140\", \"addr:street\": \"Kattenberg\", \"amenity\": \"bar\", \"name\": \"Plaza Real\", \"opening_hours\": \"We-Su 20:00+\", \"website\": \"http://plazareal.be\"}",
+    "lat": 51.2153904,
+    "lon": 4.4381289
+  },
+  {
+    "id": 3724746562,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"468\", \"addr:postcode\": \"2600\", \"addr:street\": \"Uitbreidingstraat\", \"amenity\": \"bar\", \"check_date\": \"2023-11-10\", \"name\": \"De Lijmstok\", \"outdoor_seating\": \"yes\", \"wheelchair\": \"no\"}",
+    "lat": 51.2008701,
+    "lon": 4.4326753
+  },
+  {
+    "id": 3767559206,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"30\", \"addr:street\": \"Ossenmarkt\", \"amenity\": \"bar\", \"name\": \"Copain\"}",
+    "lat": 51.221925,
+    "lon": 4.4131721
+  },
+  {
+    "id": 3857286072,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"De Vagant\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.devagant.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2192216,
+    "lon": 4.399235
+  },
+  {
+    "id": 4167938746,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2100\", \"addr:street\": \"Pieter De Ridderstraat\", \"amenity\": \"bar\", \"name\": \"De nieuwe cup\"}",
+    "lat": 51.223389,
+    "lon": 4.4615783
+  },
+  {
+    "id": 4317178590,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"23\", \"addr:postcode\": \"2000\", \"addr:street\": \"Groenplaats\", \"amenity\": \"bar\", \"cuisine\": \"ontbijt;lunch;diner;cocktails;local\", \"email\": \"info@cafehetgroenehart.be\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.15\", \"name\": \"Caf\\u00e9 Het Groene Hart\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 312 10 97\", \"toilets:wheelchair\": \"no\", \"website\": \"https://cafehetgroenehart.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2197798,
+    "lon": 4.4016149
+  },
+  {
+    "id": 4348464390,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"34\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kempischdok-Westkaai\", \"alt_name\": \"Caf\\u00e9 Cosmopolite\", \"amenity\": \"bar\", \"disused\": \"yes\", \"name\": \"Cosmopolite\"}",
+    "lat": 51.2335516,
+    "lon": 4.4127107
+  },
+  {
+    "id": 4358942101,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"21B\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kattendijkdok-Oostkaai\", \"amenity\": \"bar\", \"contact:facebook\": \"https://nl-nl.facebook.com/pg/Bar-Paniek-191089027696018/\", \"name\": \"Bar Paniek\", \"opening_hours\": \"Mo-Su 11:00-23:00\"}",
+    "lat": 51.2340787,
+    "lon": 4.4081929
+  },
+  {
+    "id": 4730767336,
+    "type": "node",
+    "tags": "{\"alt_name\": \"Bar Festiv\", \"amenity\": \"bar\", \"name\": \"Festiv\", \"opening_hours\": \"Su,Mo off; Tu-Fr 12:00-00:00; Sa 18:00-01:00\", \"phone\": \"+32 3 225 00 50\", \"website\": \"http://www.festivantwerp.com\"}",
+    "lat": 51.2278131,
+    "lon": 4.4031471
+  },
+  {
+    "id": 4826852692,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"August Michielsstraat\", \"amenity\": \"bar\", \"contact:facebook\": \"https://www.facebook.com/bartikila/\", \"email\": \"bartikila@gmail.com\", \"name\": \"Bar Tikila\", \"opening_hours\": \"We-Th 17:00-00:00; Fr 17:00-02:30, Sa 16:00-02:30, Su 16:00-00:00; Mo,Tu off\", \"phone\": \"+32 470 01 17 41\", \"website\": \"https://www.bar-tikila.be/\"}",
+    "lat": 51.2315619,
+    "lon": 4.4096992
+  },
+  {
+    "id": 4876586922,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:street\": \"Blauwmoezelstraat\", \"air_conditioning\": \"yes\", \"amenity\": \"bar\", \"brewery\": \"various\", \"level\": \"0\", \"microbrewery\": \"no\", \"name\": \"Witzli-Poetzli\", \"opening_hours\": \"12:00-02:30\", \"outdoor_seating\": \"yes\", \"payment:american_express\": \"yes\", \"payment:cash\": \"yes\", \"payment:coins\": \"no\", \"payment:contactless\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"payment:mastercard\": \"yes\", \"payment:notes\": \"no\", \"payment:visa\": \"yes\", \"website\": \"https://www.witzlipoetzli.com/\"}",
+    "lat": 51.2207051,
+    "lon": 4.4010259
+  },
+  {
+    "id": 4935674426,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Rijnkaai\", \"alt_name\": \"Velvet Lounge Dinner & Dance\", \"amenity\": \"bar\", \"contact:facebook\": \"https://www.facebook.com/velvetloungeantwerp/\", \"name\": \"Velvet Lounge\", \"opening_hours\": \"Th,Fr,Sa 18:30-22:30; Mo-We,Su off\", \"phone\": \"+32 3 246 60 60\", \"website\": \"http://www.velvetlounge.be\"}",
+    "lat": 51.2341147,
+    "lon": 4.4036289
+  },
+  {
+    "id": 5105473021,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:postcode\": \"2000\", \"addr:street\": \"Grote Markt\", \"alt_name\": \"Caf\\u00e9 Ultimatum\", \"amenity\": \"bar\", \"check_date\": \"2024-03-05\", \"email\": \"info@ultimatumfoodbar.com\", \"entrance:kerb:height\": \"0.19\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Ultimatum\", \"opening_hours\": \"Mo-Th,Su 11:00-00:00; Fr-Sa 11:00-02:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 232 58 53\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ultimatumfoodbar.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2208052,
+    "lon": 4.3993973
+  },
+  {
+    "id": 5188619545,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\"}",
+    "lat": 51.2060682,
+    "lon": 4.3903054
+  },
+  {
+    "id": 5225626690,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2-4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Jorispoort\", \"amenity\": \"bar\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-04-08\", \"contact:facebook\": \"https://www.facebook.com/pg/caffebarbossa/\", \"email\": \"info@caffebarbossa.be\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.97\", \"name\": \"Caff\\u00e8 Barbossa\", \"old_name\": \"Baah Bar\", \"opening_hours\": \"Mo-We 15:00-01:00, Th 15:00-02:00, Fr,Sa 15:00-03:00, Su 16:00-03:00\", \"phone\": \"+32 3 232 59 57\", \"website\": \"https://www.caffebarbossa.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2127697,
+    "lon": 4.4052984
+  },
+  {
+    "id": 5287278294,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leopoldplaats\", \"amenity\": \"bar\", \"check_date\": \"2025-03-29\", \"contact:facebook\": \"https://www.facebook.com/pg/Izzy-Maze-23085483907\", \"name\": \"Izzy Maze\", \"phone\": \"+32 475 20 49 80\", \"website\": \"http://izzymaze.com/\"}",
+    "lat": 51.2127246,
+    "lon": 4.4068073
+  },
+  {
+    "id": 5418613023,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"25\", \"addr:postcode\": \"2060\", \"addr:street\": \"Sint-Jansplein\", \"alt_name\": \"Caf\\u00e9 Plaza Latina; Black Jack Caf\\u00e9\", \"amenity\": \"bar\", \"contact:facebook\": \"https://www.facebook.com/blackjackcafe/\", \"name\": \"Plaza Latina\"}",
+    "lat": 51.2250663,
+    "lon": 4.4188437
+  },
+  {
+    "id": 5419904611,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"28\", \"addr:street\": \"Geulincxstraat\", \"amenity\": \"bar\", \"contact:instagram\": \"https://instagram.com/gayclubrandom/\", \"contact:website\": \"https://www.clubrandom.be/\", \"description\": \"Gay cruise bar\", \"lgbtq\": \"primary\", \"min_age\": \"18\", \"name\": \"Club Random\", \"opening_hours\": \"Fr, Sa 23:00-08:00; Su 21:00-05:00\"}",
+    "lat": 51.2271256,
+    "lon": 4.4159841
+  },
+  {
+    "id": 5538335121,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"161\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lamorini\\u00e8restraat\", \"amenity\": \"bar\", \"contact:facebook\": \"https://www.facebook.com/SpecialeBelgeTaproom/\", \"email\": \"info@specialebelgetaproom.be\", \"internet_access\": \"wlan\", \"name\": \"Sp\\u00e9ciale Belge Taproom\", \"opening_hours\": \"Mo-Su 12:00-00:00\", \"website\": \"https://www.specialebelgetaproom.be\"}",
+    "lat": 51.2023687,
+    "lon": 4.4219054
+  },
+  {
+    "id": 5594654921,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"11\", \"addr:street\": \"Melkmarkt\", \"amenity\": \"bar\", \"contact:instagram\": \"https://www.instagram.com/barok.antwerp/\", \"name\": \"Barok Antwerp\", \"opening_hours\": \"Mo 00:00-03:00,16:00-24:00; Tu-Th 00:00-02:00,16:00-24:00; Fr 00:00-02:00,14:00-24:00; Sa,Su 00:00-03:00,14:00-24:00\"}",
+    "lat": 51.2207411,
+    "lon": 4.4027978
+  },
+  {
+    "id": 5613325221,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2023-04-10\", \"cuisine\": \"local\", \"name\": \"Belgian Wine\", \"website\": \"https://www.belgianwines.com\"}",
+    "lat": 51.2144965,
+    "lon": 4.4089054
+  },
+  {
+    "id": 5640748856,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"19\", \"addr:postcode\": \"2000\", \"addr:street\": \"Van Schoonbekeplein\", \"amenity\": \"bar\", \"email\": \"info@paloma-antwerp.be\", \"name\": \"Paloma\", \"old_name\": \"Santos\", \"opening_hours\": \"Tu,We off; Mo,Th,Fr 16:00-00:00+, Sa,Su 14:00-00:00+\", \"phone\": \"+32 485 190 167\", \"website\": \"https://paloma-antwerp.be\"}",
+    "lat": 51.2272322,
+    "lon": 4.405457
+  },
+  {
+    "id": 5921427379,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:postcode\": \"2000\", \"addr:street\": \"Vlasmarkt\", \"alt_name\": \"Poncha Bar Madeira\", \"amenity\": \"bar\", \"name\": \"Madeira\", \"opening_hours\": \"Mo-We off; Th,Su 16:00-01:00, Fr,Sa 16:00-02:00\", \"phone\": \"+32 489 87 95 95\", \"website\": \"https://poncha-bar-madeira.business.site/\"}",
+    "lat": 51.2197984,
+    "lon": 4.3969289
+  },
+  {
+    "id": 5996361947,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.88\", \"name\": \"Winebar Casals\", \"website\": \"https://www.casals.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2222417,
+    "lon": 4.4044286
+  },
+  {
+    "id": 5998533871,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"3\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"amenity\": \"bar\", \"brewery\": \"various\", \"name\": \"Bar Brut\", \"opening_hours\": \"Mo-Tu 12:00-22:00; Th-Fr 12:00-23:00; Sa-Su 15:00-23:00\", \"outdoor_seating\": \"yes\", \"website\": \"https://www.barbrut.be/\"}",
+    "lat": 51.2314561,
+    "lon": 4.4098567
+  },
+  {
+    "id": 6064933085,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-06-08\", \"name\": \"Kaai 10\"}",
+    "lat": 51.2100808,
+    "lon": 4.3889902
+  },
+  {
+    "id": 6176652007,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Bar Basil\"}",
+    "lat": 51.2191299,
+    "lon": 4.4009499
+  },
+  {
+    "id": 6176652015,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Bar bardot\"}",
+    "lat": 51.2190271,
+    "lon": 4.4009431
+  },
+  {
+    "id": 6188059470,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"amenity\": \"bar\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Syd's\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2214303,
+    "lon": 4.40068
+  },
+  {
+    "id": 6188059471,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-03-05\", \"karaoke\": \"yes\", \"name\": \"Bonaparte\", \"website\": \"https://www.bonaparte.be/\"}",
+    "lat": 51.2214088,
+    "lon": 4.4007789
+  },
+  {
+    "id": 6188059480,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.17\", \"indoor_seating\": \"yes\", \"name\": \"Parisien\", \"outdoor_seating\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2210364,
+    "lon": 4.401521
+  },
+  {
+    "id": 6188060086,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Baro\"}",
+    "lat": 51.2206385,
+    "lon": 4.3995328
+  },
+  {
+    "id": 6250404257,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2025-03-29\", \"name\": \"Jones & Co\", \"website\": \"https://www.cocktailcateringbelgie.com\"}",
+    "lat": 51.2197726,
+    "lon": 4.3997562
+  },
+  {
+    "id": 6250404259,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2025-03-29\", \"name\": \"Bar 11\"}",
+    "lat": 51.2197065,
+    "lon": 4.3996694
+  },
+  {
+    "id": 6259847704,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:street\": \"Beukenlaan\", \"amenity\": \"bar\", \"cocktails\": \"yes\", \"name\": \"The Pharmacy\", \"website\": \"https://www.the-pharmacy.be\"}",
+    "lat": 51.183901,
+    "lon": 4.4057972
+  },
+  {
+    "id": 6263383534,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"82/1\", \"addr:postcode\": \"2018\", \"addr:street\": \"Provinciestraat\", \"addr:unit\": \"1\", \"amenity\": \"bar\", \"check_date\": \"2024-05-22\", \"image\": \"https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/118637697_2798531533714374_6097836334117743271_o.jpg?_nc_cat=108&ccb=3&_nc_sid=e3f864&_nc_ohc=h92AVXijw8gAX_0WVaX&_nc_ht=scontent-bru2-1.xx&oh=d8a0289a03b818b008e54f48ec8a9745&oe=605B7664\", \"name\": \"Vitesse Coffee & Cycling\", \"note\": \"Banden oppompen, batterijen opladen en koffie tanken!\", \"opening_hours\": \"Mo-Fr 08:30-17:00; Su 10:00-17:00\", \"website\": \"https://www.vitesse.cc/\"}",
+    "lat": 51.2151861,
+    "lon": 4.4255604
+  },
+  {
+    "id": 6265958496,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2060\", \"addr:street\": \"Damplein\", \"amenity\": \"bar\", \"contact:email\": \"eric.debeuckelaer@icloud.com\", \"name\": \"Port-nord\", \"opening_hours\": \"Mo-Sa 11:30-04:00; Su 14:00-04:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 468 26 30 42\"}",
+    "lat": 51.2312201,
+    "lon": 4.4250178
+  },
+  {
+    "id": 6289501697,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Jansvliet\", \"amenity\": \"bar\", \"brewery\": \"various\", \"email\": \"sandy.steiner@telenet.be\", \"facebook\": \"cafetchauffeurke\", \"name\": \"Caf\\u00e9 't Chauffeurke\", \"outdoor_seating\": \"terrace\", \"phone\": \"+32 495 81 81 34\"}",
+    "lat": 51.2184023,
+    "lon": 4.3958945
+  },
+  {
+    "id": 6373432286,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wijngaardstraat\", \"amenity\": \"bar\", \"contact:instagram\": \"https://www.instagram.com/dogmacocktails/\", \"contact:website\": \"https://www.dogmacocktails.be/\", \"name\": \"Dogma\", \"opening_hours\": \"Tu-Su 17:00-00:00\"}",
+    "lat": 51.2211377,
+    "lon": 4.4029437
+  },
+  {
+    "id": 6432227791,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Emma bar\"}",
+    "lat": 51.1989494,
+    "lon": 4.424593
+  },
+  {
+    "id": 6813771215,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"66\", \"addr:postcode\": \"2060\", \"addr:street\": \"Ellermanstraat\", \"amenity\": \"bar\", \"contact:facebook\": \"https://www.facebook.com/lichtkaai/\", \"name\": \"Lichtkaai\", \"shop\": \"art\", \"tourism\": \"apartment\", \"website\": \"https://lichtkaai.be\"}",
+    "lat": 51.229657,
+    "lon": 4.4191017
+  },
+  {
+    "id": 6835438264,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"170\", \"addr:postcode\": \"2060\", \"addr:street\": \"Diepestraat\", \"amenity\": \"bar\", \"name\": \"De Seefhoek\", \"outdoor_seating\": \"yes\", \"smoking\": \"outside\"}",
+    "lat": 51.2216311,
+    "lon": 4.4261896
+  },
+  {
+    "id": 7691415282,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"79\", \"addr:postcode\": \"2000\", \"addr:street\": \"Falconrui\", \"amenity\": \"bar\", \"description\": \"Hessenhuis - \\\"The Embassy of Freedom\\\"\", \"lgbtq\": \"primary\", \"name\": \"Hessenhuis\", \"opening_hours\": \"Tu-We 16:00-01:00; Th 16:00-02:00; Fr-Sa 16:00-04:00; Su 16:00-01:00\", \"outdoor_seating\": \"yes\", \"payment:cash\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 3 231 13 56\", \"ref:vatin\": \"BE0449794146\", \"website\": \"https://www.hessenhuis.be/\"}",
+    "lat": 51.2256944,
+    "lon": 4.4095472
+  },
+  {
+    "id": 8018696487,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-02-17\", \"name\": \"Plantage\"}",
+    "lat": 51.2073381,
+    "lon": 4.4297536
+  },
+  {
+    "id": 9046223647,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout, Antwerp\", \"addr:housenumber\": \"19\", \"addr:postcode\": \"2140\", \"addr:street\": \"Generaal Eisenhowerlei\", \"air_conditioning\": \"no\", \"amenity\": \"bar\", \"name\": \"HO\\u00d8K\", \"opening_hours\": \"We-Su 09:00-18:00\", \"phone\": \"+32 3 296 01 13\", \"website\": \"https://www.hook-antwerp.com/\"}",
+    "lat": 51.2165076,
+    "lon": 4.4359815
+  },
+  {
+    "id": 9318255268,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"27\", \"addr:postcode\": \"2140\", \"addr:street\": \"Moorkensplein\", \"amenity\": \"bar\", \"check_date\": \"2024-05-22\", \"description\": \"Glou Glou is het jonge, informele zusje van Bistrot Miro. Het is een bar \\u00e0 faim, waar je een goed glas wijn kan drinken en een hapje kan eten.\", \"email\": \"contact@glouglou-borgerhout.be\", \"name\": \"Glou Glou\", \"phone\": \"+32 3 765 97 76\", \"start_date\": \"2021-07-07\", \"was:amenity\": \"pub\", \"was:name\": \"The Lords\", \"website\": \"https://glouglou-borgerhout.be/\"}",
+    "lat": 51.2133499,
+    "lon": 4.4332239
+  },
+  {
+    "id": 9866206207,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hendrik Conscienceplein\", \"amenity\": \"bar\", \"contact:instagram\": \"https://www.instagram.com/duplexantwerp/\", \"cuisine\": \"cocktail\", \"lgbtq\": \"welcome\", \"name\": \"duplex bar\", \"opening_hours\": \"We-Th 15:00-25:00, Fr-Sa 12:00-26:00, Su 12:00-25:00\", \"outdoor_seating\": \"yes\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"payment:payconiq\": \"yes\", \"phone\": \"+32 483 31 12 91\", \"website\": \"https://www.duplexbar.be/\"}",
+    "lat": 51.2211726,
+    "lon": 4.4042331
+  },
+  {
+    "id": 9983008848,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Barrio deli\"}",
+    "lat": 51.2015509,
+    "lon": 4.4498534
+  },
+  {
+    "id": 9983008849,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\"}",
+    "lat": 51.2003541,
+    "lon": 4.4497442
+  },
+  {
+    "id": 10107382709,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1\", \"name\": \"Vandoag is't\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2220693,
+    "lon": 4.4110179
+  },
+  {
+    "id": 10170024917,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oever\", \"amenity\": \"bar\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Titulus\", \"name:nl\": \"Titulis\", \"opening_hours\": \"We-Sa 12:00-23:00; Su 12:00-21:00\", \"phone\": \"+32 3 288 72 52\", \"toilets:wheelchair\": \"no\", \"website\": \"https://titulusantwerpen.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.218156,
+    "lon": 4.39665
+  },
+  {
+    "id": 10170170418,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"amenity\": \"bar\", \"name\": \"Tannin\", \"name:de\": \"Ta-nnin\", \"name:en\": \"Ta-nnin\", \"name:fr\": \"Ta-nnin\", \"name:nl\": \"Ta-nnin\", \"opening_hours\": \"Tu-Th 17:00-00:00; Fr 17:00-00:30; Sa 14:00-00:30; Su 14:00-23:00\", \"phone\": \"+32 470 10 44 83\", \"website\": \"http://tannin.be\"}",
+    "lat": 51.2106876,
+    "lon": 4.3952344
+  },
+  {
+    "id": 10951630538,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"68\", \"addr:street\": \"Victor Jacobslei\", \"amenity\": \"bar\", \"check_date\": \"2023-11-10\", \"indoor_seating\": \"yes\", \"name\": \"Cabagine\", \"opening_hours\": \"We-Sa 11:00-22:00; Su 10:00-19:00\", \"outdoor_seating\": \"yes\", \"website\": \"https://cabagine.eatbu.com/\"}",
+    "lat": 51.19673,
+    "lon": 4.4264624
+  },
+  {
+    "id": 10951665786,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"69\", \"addr:street\": \"Victor Jacobslei\", \"amenity\": \"bar\", \"check_date\": \"2023-11-10\", \"name\": \"Caf\\u00e9 Tati\", \"opening_hours\": \"Tu-Su 12:00-24:00\", \"wheelchair\": \"no\"}",
+    "lat": 51.19663,
+    "lon": 4.4260313
+  },
+  {
+    "id": 11335476876,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1-3\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"bar\", \"check_date\": \"2023-11-09\", \"name\": \"De Koninck Bar\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1993706,
+    "lon": 4.4154905
+  },
+  {
+    "id": 11335476878,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1-3\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"bar\", \"check_date\": \"2023-11-09\", \"name\": \"Duvel bar\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1993245,
+    "lon": 4.4153863
+  },
+  {
+    "id": 11335477171,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1-3\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"bar\", \"check_date\": \"2023-11-09\", \"description\": \"Speakeasy bar\", \"email\": \"info@peakyblinders.be\", \"name\": \"1833\", \"opening_hours\": \"Fr 18:00-22:30\", \"phone\": \"+32 496 80 53 83\", \"website\": \"https://www.peakyblinders.be/\", \"wheelchair\": \"no\"}",
+    "lat": 51.199564,
+    "lon": 4.4160063
+  },
+  {
+    "id": 11343836439,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2023-11-12\", \"name\": \"Den Tripel\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2059953,
+    "lon": 4.3829208
+  },
+  {
+    "id": 11693621685,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:street\": \"Lijnwaadmarkt\", \"amenity\": \"bar\", \"check_date\": \"2025-03-30\", \"description\": \"Wine bar\", \"name\": \"Wijnbar Niroen\"}",
+    "lat": 51.2205287,
+    "lon": 4.4019701
+  },
+  {
+    "id": 11693621686,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-03-05\", \"name\": \"Cinq\"}",
+    "lat": 51.2207666,
+    "lon": 4.401736
+  },
+  {
+    "id": 11693640422,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-03-05\", \"name\": \"Cafe Ferre\"}",
+    "lat": 51.2209448,
+    "lon": 4.4014998
+  },
+  {
+    "id": 11693640426,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.09\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.72\", \"name\": \"Bar Patron\", \"ramp:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2210888,
+    "lon": 4.4004098
+  },
+  {
+    "id": 11693640427,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.04\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.6\", \"name\": \"Super 8\", \"ramp:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.221103,
+    "lon": 4.4003383
+  },
+  {
+    "id": 11693658004,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"check_date\": \"2024-03-05\", \"name\": \"Barrio\"}",
+    "lat": 51.2208107,
+    "lon": 4.398177
+  },
+  {
+    "id": 11928455571,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.8\", \"name\": \"Flo's Winery\"}",
+    "lat": 51.2244834,
+    "lon": 4.4043795
+  },
+  {
+    "id": 12076801102,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"125\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lange Kievitstraat\", \"amenity\": \"bar\", \"name\": \"360\\u00b0 Lounge & Bar\", \"opening_hours\": \"Mo-Th 09:00-00:00; Fr-Sa 09:00-01:00; Su 09:00-23:00\"}",
+    "lat": 51.2132858,
+    "lon": 4.4227863
+  },
+  {
+    "id": 12618809003,
+    "type": "node",
+    "tags": "{\"amenity\": \"bar\", \"name\": \"Caf\\u00e9 de Zwaan\"}",
+    "lat": 51.2212643,
+    "lon": 4.4045191
+  }
+]

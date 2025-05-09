@@ -1,0 +1,93 @@
+[
+  {
+    "id": 2531732459,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"35\", \"addr:street\": \"Marie-Jos\\u00e9laan\", \"amenity\": \"events_venue\", \"contact:mobile\": \"+32 485 52 98 06\", \"email\": \"info@freelance-dewingerd.be\", \"name\": \"De Wingerd\", \"website\": \"https://www.freelance-dewingerd.be/\"}",
+    "lat": 51.1871535,
+    "lon": 4.4249674
+  },
+  {
+    "id": 4085195428,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"3\", \"addr:postcode\": \"2040\", \"addr:street\": \"Havenmarkt\", \"amenity\": \"events_venue\", \"check_date\": \"2023-10-15\", \"disused:amenity\": \"cafe\", \"email\": \"receptie@hetlandshuis.be\", \"name\": \"Het Landshuis\", \"phone\": \"+32 3 569 98 73\", \"website\": \"http://www.hetlandshuis.be/\"}",
+    "lat": 51.3044679,
+    "lon": 4.2899505
+  },
+  {
+    "id": 4935816921,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"52\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"amenity\": \"events_venue\", \"email\": \"info@lariva.be\", \"name\": \"LaRiva\", \"phone\": \"+32 3 225 01 02\", \"website\": \"http://lariva.be/\"}",
+    "lat": 51.2307952,
+    "lon": 4.4113108
+  },
+  {
+    "id": 5306670992,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"3\", \"addr:postcode\": \"2040\", \"addr:street\": \"Dorpstraat\", \"amenity\": \"events_venue\", \"email\": \"info@deraedzael.com\", \"name\": \"De Raedzael\", \"website\": \"https://www.deraedzael.com/\"}",
+    "lat": 51.3404961,
+    "lon": 4.3141641
+  },
+  {
+    "id": 5721345951,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"27\", \"addr:postcode\": \"2060\", \"addr:street\": \"Damplein\", \"amenity\": \"events_venue\", \"check_date\": \"2024-12-27\", \"contact:facebook\": \"https://www.facebook.com/la.gare.27.antwerp/\", \"email\": \"info@lagare27.be\", \"name\": \"La Gare 27\", \"website\": \"https://www.lagare27.be\"}",
+    "lat": 51.2319167,
+    "lon": 4.4257642
+  },
+  {
+    "id": 7292383479,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"22\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"events_venue\", \"name\": \"Huis van de Sport\", \"website\": \"https://www.provincieantwerpen.be/aanbod/dvt/bovenlokale-sportinfrastructuur/huis-van-de-sport.html\"}",
+    "lat": 51.1994345,
+    "lon": 4.4169052
+  },
+  {
+    "id": 9349522065,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Tavernierkaai\", \"amenity\": \"events_venue\", \"email\": \"info@maisonmason.be\", \"name\": \"Maison Mason\", \"website\": \"https://maisonmason.be/\"}",
+    "lat": 51.2283759,
+    "lon": 4.4016223
+  },
+  {
+    "id": 10779278338,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"30\", \"addr:postcode\": \"2000\", \"addr:street\": \"Godefriduskaai\", \"amenity\": \"events_venue\", \"changing_table\": \"no\", \"email\": \"events@felixfoodklub.be\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.1\", \"name\": \"Felix Food Klub\", \"phone\": \"+32 3 203 03 30\", \"toilets:wheelchair\": \"yes\", \"website\": \"https://www.felixfoodklub.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2277557,
+    "lon": 4.4079291
+  },
+  {
+    "id": 11310437634,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"81;83\", \"addr:street\": \"Vlaamsekaai\", \"amenity\": \"events_venue\", \"email\": \"info@playzuid.be\", \"name\": \"Play Zuid\", \"old_name\": \"Zuiderkroon;Studio Zuid\", \"phone\": \"+32 3 349 42 62\", \"website\": \"https://www.playzuid.be/\"}",
+    "lat": 51.2069788,
+    "lon": 4.3875236
+  },
+  {
+    "id": 11343836440,
+    "type": "node",
+    "tags": "{\"amenity\": \"events_venue\", \"check_date\": \"2023-11-12\", \"name\": \"Pink Restaurant\", \"website\": \"https://www.pinkrestaurant.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2058669,
+    "lon": 4.3826588
+  },
+  {
+    "id": 11343836441,
+    "type": "node",
+    "tags": "{\"amenity\": \"events_venue\", \"check_date\": \"2023-11-12\", \"name\": \"The Hub\", \"opening_hours\": \"Tu,Th 08:30-12:30,13:30-18:30; Fr 08:30-12:30,13:30-17:30; Sa 09:00-12:00\", \"website\": \"https://thehub.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2058171,
+    "lon": 4.3824976
+  },
+  {
+    "id": 12051652056,
+    "type": "node",
+    "tags": "{\"amenity\": \"events_venue\", \"name\": \"Foyer\", \"operator\": \"Blikfabriek\"}",
+    "lat": 51.1869902,
+    "lon": 4.3660078
+  },
+  {
+    "id": 12549646927,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2018 Antwerpen\", \"addr:street\": \"Molenstraat 52-54\", \"amenity\": \"events_venue\", \"name\": \"The Mills\"}",
+    "lat": 51.2067419,
+    "lon": 4.407309
+  }
+]

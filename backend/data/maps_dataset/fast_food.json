@@ -1,0 +1,2172 @@
+[
+  {
+    "id": 306498033,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Bij Chris en Linda\"}",
+    "lat": 51.1736033,
+    "lon": 4.3379559
+  },
+  {
+    "id": 479820991,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"412\", \"addr:street\": \"Groenendaallaan\", \"amenity\": \"fast_food\", \"brand\": \"Burger King\", \"brand:wikidata\": \"Q177054\", \"brand:wikipedia\": \"en:Burger King\", \"cuisine\": \"burger\", \"drive_through\": \"yes\", \"name\": \"Burger King\", \"opening_hours\": \"Su-Th 10:30-23:00; Fr-Sa 10:30-25:00\", \"phone\": \"+32 3 541 49 25\", \"takeaway\": \"yes\", \"website\": \"https://stores.burgerking.be/nl/burger-king-antwerpen-kinepolis\"}",
+    "lat": 51.2451483,
+    "lon": 4.4156949
+  },
+  {
+    "id": 506116550,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"building\": \"yes\"}",
+    "lat": 51.2112459,
+    "lon": 4.451668
+  },
+  {
+    "id": 579260969,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\"}",
+    "lat": 51.2214549,
+    "lon": 4.4619648
+  },
+  {
+    "id": 601427893,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"'t Smulhoekske\"}",
+    "lat": 51.2004187,
+    "lon": 4.4461439
+  },
+  {
+    "id": 784088787,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"cuisine\": \"sandwich\", \"drive_through\": \"no\", \"email\": \"info@panos.be\", \"indoor_seating\": \"yes\", \"name\": \"Panos\", \"opening_hours\": \"Mo-Fr 05:30-20:00; Sa 06:00-20:00; Su 07:00-20:00\", \"outdoor_seating\": \"no\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"phone\": \"+32 3 230 96 25\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be/nl/winkel/panos-rail-berchem-23206\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2002782,
+    "lon": 4.4330028
+  },
+  {
+    "id": 1031123517,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"McDonald's\", \"brand:wikidata\": \"Q38076\", \"brand:wikipedia\": \"en:McDonald's\", \"cuisine\": \"burger\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.3\", \"name\": \"McDonald's\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.mcdonalds.be/nl/restaurants/antwerpen-groenplaats-in-store\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2198748,
+    "lon": 4.4010972
+  },
+  {
+    "id": 1086875062,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2A\", \"addr:postcode\": \"2000\", \"addr:street\": \"Varkensmarkt\", \"alt_name\": \"Frituur De Smulpaep\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"De Smulpaep\", \"opening_hours\": \"Mo 16:30-00:00; Tu,Fr 11:30-14:00,16:30-00:00; We,Th 16:30-00:30; Sa off; Su 16:30-23:00\", \"phone\": \"+32 3 226 26 17\", \"takeaway\": \"yes\"}",
+    "lat": 51.224911,
+    "lon": 4.4072288
+  },
+  {
+    "id": 1086875167,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"28\", \"addr:street\": \"Ossenmarkt\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Antwerp Kebab\"}",
+    "lat": 51.2217069,
+    "lon": 4.413145
+  },
+  {
+    "id": 1086875179,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"33\", \"addr:postcode\": \"2000\", \"addr:street\": \"Ossenmarkt\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"'t Stadsbroodje\", \"opening_hours\": \"Mo-Fri 08:00-14:30; Sa,Su off\", \"takeaway\": \"yes\", \"website\": \"https://tstadsbroodje.be/\"}",
+    "lat": 51.2220603,
+    "lon": 4.4132879
+  },
+  {
+    "id": 1153070366,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"117\", \"addr:street\": \"Dokter Maurice Timmermanslaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Woupy\", \"opening_hours\": \"Tu-Th 16:30-22:00; Fr 11:30-13:30, 16:30-22:00; Sa-Su 16:00-22:00\"}",
+    "lat": 51.2506962,
+    "lon": 4.448779
+  },
+  {
+    "id": 1179491847,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Brood op de Plank\", \"phone\": \"+32 472 50 27 73\", \"website\": \"http://www.broodopdeplank.be\"}",
+    "lat": 51.2138326,
+    "lon": 4.4257937
+  },
+  {
+    "id": 1186956314,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Quick\", \"brand:wikidata\": \"Q286494\", \"brand:wikipedia\": \"en:Quick (restaurant)\", \"cuisine\": \"burger\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.15\", \"name\": \"Quick\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"toilets:wheelchair:door_width\": \"0.8\", \"toilets:wheelchair:space_side\": \"0.88\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2184243,
+    "lon": 4.420489
+  },
+  {
+    "id": 1186966245,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"McDonald's\", \"brand:wikidata\": \"Q38076\", \"brand:wikipedia\": \"en:McDonald's\", \"check_date:opening_hours\": \"2022-07-04\", \"cuisine\": \"burger\", \"indoor_seating\": \"yes\", \"name\": \"McDonald's\", \"opening_hours:signed\": \"no\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\"}",
+    "lat": 51.217915,
+    "lon": 4.414537
+  },
+  {
+    "id": 1299726065,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Pita Uniek\"}",
+    "lat": 51.2212094,
+    "lon": 4.4026516
+  },
+  {
+    "id": 1523520372,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"De Koning van Spanje\"}",
+    "lat": 51.2202765,
+    "lon": 4.4032931
+  },
+  {
+    "id": 1538266340,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Lina\", \"shop\": \"bakery\"}",
+    "lat": 51.1705085,
+    "lon": 4.4018003
+  },
+  {
+    "id": 1618702957,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2025-03-08\", \"cuisine\": \"kebab\", \"name\": \"Pita Durum\"}",
+    "lat": 51.2078537,
+    "lon": 4.3891605
+  },
+  {
+    "id": 1638728168,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chinese\", \"name\": \"Tingkee\", \"website\": \"https://www.tingkee.be\"}",
+    "lat": 51.2193833,
+    "lon": 4.4205743
+  },
+  {
+    "id": 1641068323,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Mezopotania\"}",
+    "lat": 51.2189865,
+    "lon": 4.4193266
+  },
+  {
+    "id": 1641068362,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"diet:vegetarian\": \"yes\", \"name\": \"Pinos\"}",
+    "lat": 51.2190943,
+    "lon": 4.4193518
+  },
+  {
+    "id": 1647409270,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"280\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lange Lozanastraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-02-10\", \"cuisine\": \"chinese\", \"name\": \"De Zwaan\", \"phone\": \"+32 3 216 05 74\"}",
+    "lat": 51.1984493,
+    "lon": 4.407341
+  },
+  {
+    "id": 1651260069,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-10\", \"cuisine\": \"sandwich\", \"name\": \"Tafeltje Dekje\", \"shop\": \"butcher\"}",
+    "lat": 51.2017387,
+    "lon": 4.4061964
+  },
+  {
+    "id": 1678555570,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Toprak\", \"source\": \"survey\"}",
+    "lat": 51.2256971,
+    "lon": 4.4589656
+  },
+  {
+    "id": 1685700817,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur\"}",
+    "lat": 51.253767,
+    "lon": 4.4449885
+  },
+  {
+    "id": 1686158400,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"122\", \"addr:street\": \"Provinciestraat\", \"amenity\": \"fast_food\", \"building\": \"yes\", \"cuisine\": \"sandwich\", \"name\": \"Rungis Fish\", \"shop\": \"seafood\", \"website\": \"http://www.rungisfish.be\"}",
+    "lat": 51.2139099,
+    "lon": 4.4257844
+  },
+  {
+    "id": 1701465430,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"'t Frituurke\"}",
+    "lat": 51.1967061,
+    "lon": 4.442547
+  },
+  {
+    "id": 1701471939,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2600\", \"addr:street\": \"Passendalestraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"name\": \"Friturist\"}",
+    "lat": 51.1951915,
+    "lon": 4.4448162
+  },
+  {
+    "id": 1723223514,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Wannadee\"}",
+    "lat": 51.206332,
+    "lon": 4.4315165
+  },
+  {
+    "id": 1732685201,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"82\", \"addr:postcode\": \"2040\", \"addr:street\": \"De Keyserhoeve\", \"alt_name\": \"Frituur @Patat; Frituur Ad Patat\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/Frituur-Ad-Patat-461756507697321/\", \"cuisine\": \"belgian;friture\", \"name\": \"@Patat\", \"old_name\": \"Frituur Steppegras\", \"opening_hours\": \"We-Su 16:30-22:00; Mo,Tu off\", \"phone\": \"+32 3 568 96 37\"}",
+    "lat": 51.3591433,
+    "lon": 4.3127195
+  },
+  {
+    "id": 1759575210,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-03-05\", \"cuisine\": \"pizza\", \"name\": \"Il Gusto Pizzeria\", \"takeaway\": \"yes\", \"website\": \"http://www.ilgustopizza.be\"}",
+    "lat": 51.2202889,
+    "lon": 4.4025188
+  },
+  {
+    "id": 1775385006,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"3\", \"addr:street\": \"Klapdorp\", \"amenity\": \"fast_food\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"cuisine\": \"friture\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"no\", \"entrance:kerb:height\": \"0.04\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.79\", \"name\": \"Mid mac\", \"phone\": \"+32 3 231 16 45\", \"ramp:wheelchair\": \"no\", \"toilets:access\": \"customers\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2238175,
+    "lon": 4.4033288
+  },
+  {
+    "id": 1796807521,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur: One\"}",
+    "lat": 51.232542,
+    "lon": 4.4642142
+  },
+  {
+    "id": 1796978045,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"129\", \"addr:postcode\": \"2018\", \"addr:street\": \"Provinciestraat\", \"amenity\": \"fast_food\", \"cuisine\": \"turkish\", \"name\": \"Pita Chateau\"}",
+    "lat": 51.2136576,
+    "lon": 4.4260796
+  },
+  {
+    "id": 1811210849,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"31\", \"addr:street\": \"Lombardenvest\", \"amenity\": \"fast_food\", \"email\": \"info@pittenenbonen.be\", \"name\": \"Pitten en Bonen\", \"phone\": \"+32 3 218 28 88\", \"website\": \"https://www.pittenenbonen.be\"}",
+    "lat": 51.2176217,
+    "lon": 4.4027493
+  },
+  {
+    "id": 1876090148,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2060\", \"addr:street\": \"Viaduct-Dam\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Park Bokes\"}",
+    "lat": 51.2297668,
+    "lon": 4.4210316
+  },
+  {
+    "id": 1973962608,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"38\", \"addr:street\": \"Troyentenhoflaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"email\": \"info@frituurpulhof.be\", \"name\": \"Frituur Pulhof\", \"opening_hours\": \"Mo-Tu 17:00-22:00; We-Fr 11:30-14:00,17:00-22:00; Sa-Su 17:00-22:00\", \"phone\": \"+32 3 239 45 97\", \"website\": \"https://frituurpulhof.be\"}",
+    "lat": 51.1842556,
+    "lon": 4.4275907
+  },
+  {
+    "id": 2250345477,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"55\", \"addr:postcode\": \"2000\", \"addr:street\": \"De Keyserlei\", \"amenity\": \"fast_food\", \"diet:vegetarian\": \"yes\", \"name\": \"Yababa\"}",
+    "lat": 51.2175724,
+    "lon": 4.4195665
+  },
+  {
+    "id": 2290431427,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\"}",
+    "lat": 51.2218921,
+    "lon": 4.468897
+  },
+  {
+    "id": 2300238817,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Quick\", \"brand:wikidata\": \"Q286494\", \"brand:wikipedia\": \"en:Quick (restaurant)\", \"check_date\": \"2023-04-10\", \"cuisine\": \"burger\", \"name\": \"Quick\", \"opening_hours\": \"10:00-23:00\", \"takeaway\": \"yes\"}",
+    "lat": 51.2175597,
+    "lon": 4.4168908
+  },
+  {
+    "id": 2419216970,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"7\", \"addr:street\": \"Melis Stokelaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Het Petatje\"}",
+    "lat": 51.2310199,
+    "lon": 4.3853134
+  },
+  {
+    "id": 2455395972,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hoogstraat\", \"alt_name\": \"Frituur Number One\", \"amenity\": \"fast_food\", \"check_date\": \"2024-03-05\", \"cuisine\": \"friture\", \"entrance:kerb:height\": \"0.13\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Frituur n\\u00b01\", \"opening_hours\": \"Mo-Su 11:00-04:00\", \"phone\": \"+32 3 232 63 77\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2204823,
+    "lon": 4.3991429
+  },
+  {
+    "id": 2932478602,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"9\", \"addr:postcode\": \"2040\", \"addr:street\": \"Steenovenstraat\", \"alt_name\": \"Friwian\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"email\": \"frituur-steenovenstraat@skynet.be\", \"name\": \"Wim Friet\", \"opening_hours\": \"Mo-Tu off; We-Th,Su 16:30-23:00; Fr-Sa 16:30-00:00\", \"phone\": \"+32 3 219 77 79\"}",
+    "lat": 51.3524878,
+    "lon": 4.3258063
+  },
+  {
+    "id": 3023101442,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"burger\", \"name\": \"Chipz\", \"website\": \"https://chipzfood.be/\"}",
+    "lat": 51.2200665,
+    "lon": 4.4157777
+  },
+  {
+    "id": 3025961833,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2025-03-06\", \"check_date:diet:vegetarian\": \"2025-03-06\", \"cuisine\": \"ice_cream\", \"diet:vegetarian\": \"yes\", \"name\": \"Australian Ice Cream\", \"website\": \"https://australianice.be/\"}",
+    "lat": 51.2176057,
+    "lon": 4.4193398
+  },
+  {
+    "id": 3025961834,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-11-13\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.58\", \"name\": \"Fall in love\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2176388,
+    "lon": 4.4165145
+  },
+  {
+    "id": 3025961837,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"burger\", \"diet:halal\": \"only\", \"name\": \"Medina Burger\", \"website\": \"https://www.medinaburger.be\"}",
+    "lat": 51.2187395,
+    "lon": 4.4218488
+  },
+  {
+    "id": 3155925451,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"cuisine\": \"sandwich\", \"entrance:kerb:height\": \"0.17\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.59\", \"name\": \"Panos\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.panos.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2073568,
+    "lon": 4.4033532
+  },
+  {
+    "id": 3235183622,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.81\", \"name\": \"Chipz\", \"toilets:wheelchair\": \"no\", \"website\": \"https://chipzfood.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2207304,
+    "lon": 4.4098762
+  },
+  {
+    "id": 3235183627,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Domino's\", \"brand:wikidata\": \"Q839466\", \"brand:wikipedia\": \"en:Domino's Pizza\", \"check_date\": \"2024-08-24\", \"cuisine\": \"pizza\", \"name\": \"Domino's\", \"short_name\": \"Domino's\", \"takeaway\": \"yes\"}",
+    "lat": 51.219607,
+    "lon": 4.4156042
+  },
+  {
+    "id": 3235183640,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"thai\", \"entrance:kerb:height\": \"0.25\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"3\", \"entrance:width\": \"0.89\", \"name\": \"Tasty Thai\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.tastythaiexpress.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2196507,
+    "lon": 4.4153266
+  },
+  {
+    "id": 3266028579,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur 2010\", \"opening_hours\": \"We-Sa 11:30-22:30; Su 16:00-22:00\"}",
+    "lat": 51.2189055,
+    "lon": 4.430827
+  },
+  {
+    "id": 3340434828,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"58-60\", \"addr:street\": \"De Keyserlei\", \"amenity\": \"fast_food\", \"brand\": \"McDonald's\", \"brand:wikidata\": \"Q38076\", \"brand:wikipedia\": \"en:McDonald's\", \"cuisine\": \"burger\", \"name\": \"McDonald's\", \"opening_hours\": \"Mo-Th, Su 10:00-23:00; Fr, Sa 10:00-24:00\", \"takeaway\": \"yes\", \"website\": \"https://www.mcdonalds.be/nl/restaurants/antwerpen-keyserlei-in-store\"}",
+    "lat": 51.2171788,
+    "lon": 4.4194233
+  },
+  {
+    "id": 3528403065,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Smos Al Khair\"}",
+    "lat": 51.2136122,
+    "lon": 4.4412334
+  },
+  {
+    "id": 3532887030,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"13\", \"addr:postcode\": \"2040\", \"addr:street\": \"Solftplaats\", \"alt_name\": \"Adje Patatje\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur 't Solft\"}",
+    "lat": 51.3441638,
+    "lon": 4.3161234
+  },
+  {
+    "id": 3545249366,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"diet:vegetarian\": \"no\", \"name\": \"Frituur Magic\", \"opening_hours\": \"Mo 16:30-22:30; Tu-Su 11:30-23:00\"}",
+    "lat": 51.1730937,
+    "lon": 4.4294063
+  },
+  {
+    "id": 3640692388,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Speedy Snack\", \"shop\": \"bakery\"}",
+    "lat": 51.1645389,
+    "lon": 4.3975862
+  },
+  {
+    "id": 3738067390,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"117\", \"addr:postcode\": \"2600\", \"addr:street\": \"Diksmuidelaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Mara\"}",
+    "lat": 51.1980323,
+    "lon": 4.4411906
+  },
+  {
+    "id": 3841494433,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"24\", \"addr:postcode\": \"2180\", \"addr:street\": \"Dorpstraat\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/#!/pages/t-Pittig-Baguetje-Dorpstraat-24-Ekeren/182608531761260\", \"cuisine\": \"sandwich\", \"email\": \"pittig.baguetje@hotmail.com\", \"name\": \"'t Pittig Baguetje\", \"opening_hours\": \"Mo-Fr 07:00-14:00; Sa,Su,PH off; SH Mo-Fr 10:00-14:00\", \"phone\": \"+32 3 541 58 28\", \"takeaway\": \"yes\", \"website\": \"http://pittig-baguetje.webklik.nl/\"}",
+    "lat": 51.2788215,
+    "lon": 4.418581
+  },
+  {
+    "id": 3841643633,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"10\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kristus-Koningplein\", \"alt_name\": \"Frituur 't Fritmieke\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"'t Fritmieke\", \"opening_hours\": \"Mo,Tu,Th,Fr 11:30-14:00,17:00-22:00; Sa 17:00-22:00; Su 16:00-22:00\", \"phone\": \"+32 3 290 72 40\", \"website\": \"https://www.fritmieke.be\"}",
+    "lat": 51.2778305,
+    "lon": 4.4195223
+  },
+  {
+    "id": 3844916485,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"18\", \"addr:postcode\": \"2180\", \"addr:street\": \"Markt\", \"alt_name\": \"La Cajor Fuerte\", \"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"Pizza Talia\", \"opening_hours\": \"Mo-Su 11:00-13:45, 17:00-22:45\", \"phone\": \"+32 3 541 90 09\", \"takeaway\": \"only\", \"url\": \"https://www.mymenu.be/pizza-talia-ekeren/\", \"website\": \"https://www.pizzatalia.be\"}",
+    "lat": 51.2775995,
+    "lon": 4.4180135
+  },
+  {
+    "id": 3845013791,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"27\", \"addr:postcode\": \"2180\", \"addr:street\": \"Dorpstraat\", \"alt_name\": \"De Markt\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur De Markt\", \"opening_hours\": \"We-Su 12:00-22:00; Mo,Tu off\", \"wheelchair\": \"limited\"}",
+    "lat": 51.279123,
+    "lon": 4.419059
+  },
+  {
+    "id": 3857286073,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Melkmarkt\", \"amenity\": \"fast_food\", \"contact:instagram\": \"https://www.instagram.com/frituurtstad\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"entrance:kerb:height\": \"0.17\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.32\", \"name\": \"Frituur 't Stad\", \"opening_hours\": \"Su-Th 12:00-00:00; Fr-Sa 12:00-02:00\", \"phone\": \"+32 3 226 36 60\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"ground_floor\", \"website\": \"https://www.eethuis-frituurtstad.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2210514,
+    "lon": 4.4027176
+  },
+  {
+    "id": 3880847256,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"19\", \"addr:postcode\": \"2180\", \"addr:street\": \"Dorpstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"Bella Vita\", \"opening_hours\": \"Tu-Su 16:00-23:00; Mo off\", \"phone\": \"+32 3 542 35 67\", \"takeaway\": \"only\", \"website\": \"https://www.pizzabellavita.be/\"}",
+    "lat": 51.2788675,
+    "lon": 4.4188968
+  },
+  {
+    "id": 4146451380,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"burger\", \"name\": \"Frituur patatje\"}",
+    "lat": 51.2080189,
+    "lon": 4.3930965
+  },
+  {
+    "id": 4167938736,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"102\", \"addr:postcode\": \"2100\", \"addr:street\": \"Gallifortlei\", \"amenity\": \"fast_food\", \"cuisine\": \"fish_and_chips,_wafels,_coffee\", \"name\": \"Frituur-Eethuis Violette\"}",
+    "lat": 51.2228695,
+    "lon": 4.4638008
+  },
+  {
+    "id": 4167938744,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"115\", \"addr:postcode\": \"2100\", \"addr:street\": \"Gallifortlei\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich,_pizza\", \"name\": \"Sevval\"}",
+    "lat": 51.2224403,
+    "lon": 4.4628788
+  },
+  {
+    "id": 4180605742,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1B\", \"addr:postcode\": \"2180\", \"addr:street\": \"Bilderdijkstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture;sandwich\", \"name\": \"Aan Tafel\", \"opening_hours\": \"Mo,Tu 11:30-14:00,17:00-22:00; Th 17:00-22:00; Fr 11:30-14:00,17:00-23:00; Sa,Su,PH 16:00-23:00\", \"phone\": \"+32 3 290 33 15\"}",
+    "lat": 51.2841823,
+    "lon": 4.4150872
+  },
+  {
+    "id": 4180605747,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"50\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kloosterstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"J&R Team\", \"opening_hours\": \"Mo-Sa 09:00-16:00; Su,PH off\", \"phone\": \"+32 3 298 67 79\", \"shop\": \"yes\"}",
+    "lat": 51.2811225,
+    "lon": 4.4180123
+  },
+  {
+    "id": 4344958199,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2600\", \"addr:street\": \"De Lescluzestraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-03-16\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"name\": \"De Lescluse\", \"outdoor_seating\": \"no\", \"takeaway\": \"yes\"}",
+    "lat": 51.1955988,
+    "lon": 4.4115147
+  },
+  {
+    "id": 4393943530,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"54\", \"addr:street\": \"De Fourneaustraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"email\": \"info@frituurconge.be\", \"instagram\": \"https://www.instagram.com/frituur.conge/?hl=en\", \"name\": \"Frituur Cong\\u00e9\", \"opening_hours\": \"17:00-21:30; Tu,Th,Sa off\", \"start_date\": \"2024-11-08\"}",
+    "lat": 51.2002742,
+    "lon": 4.4288119
+  },
+  {
+    "id": 4393999996,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"120\", \"addr:street\": \"Statiestraat\", \"amenity\": \"fast_food\", \"check_date\": \"2023-11-10\", \"cuisine\": \"friture\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"level\": \"0\", \"name\": \"Frituur Statie\", \"opening_hours\": \"Mo,We-Th,Su 15:00-02:00; Tu off; Fr-Sa 15:00-03:00\"}",
+    "lat": 51.199188,
+    "lon": 4.4287293
+  },
+  {
+    "id": 4397811323,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"check_date\": \"2024-02-17\", \"cuisine\": \"sandwich\", \"name\": \"Panos\", \"takeaway\": \"yes\"}",
+    "lat": 51.1963559,
+    "lon": 4.4213734
+  },
+  {
+    "id": 4398484245,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Alaturka Pita\"}",
+    "lat": 51.1966709,
+    "lon": 4.4223405
+  },
+  {
+    "id": 4399075679,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Peeps Burger and Fried Chicken\"}",
+    "lat": 51.1973409,
+    "lon": 4.4239058
+  },
+  {
+    "id": 4399075680,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"cuisine\": \"kebab\", \"name\": \"Snack Berchem\"}",
+    "lat": 51.197588,
+    "lon": 4.4241724
+  },
+  {
+    "id": 4399075681,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"name\": \"De Prins\"}",
+    "lat": 51.1974629,
+    "lon": 4.4242576
+  },
+  {
+    "id": 4401480090,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2100\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Condor\", \"name:nl\": \"Frituur Condor\"}",
+    "lat": 51.221473,
+    "lon": 4.4848368
+  },
+  {
+    "id": 4423223793,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"cuisine\": \"sandwich\", \"name\": \"Panos\", \"name:en\": \"Panos\", \"name:fr\": \"Panos\", \"name:nl\": \"Panos\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be\"}",
+    "lat": 51.219202,
+    "lon": 4.4205592
+  },
+  {
+    "id": 4425458897,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"The Club\"}",
+    "lat": 51.2674279,
+    "lon": 4.3761612
+  },
+  {
+    "id": 4434106315,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Picco Bello II\"}",
+    "lat": 51.1983791,
+    "lon": 4.4268548
+  },
+  {
+    "id": 4434106319,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chinese\", \"name\": \"China Food\"}",
+    "lat": 51.198451,
+    "lon": 4.4271228
+  },
+  {
+    "id": 4434106320,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"Mevlana Pizza Orient\"}",
+    "lat": 51.1984245,
+    "lon": 4.426986
+  },
+  {
+    "id": 4434127379,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\"}",
+    "lat": 51.1987659,
+    "lon": 4.4279506
+  },
+  {
+    "id": 4448476372,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"40\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"fast_food\", \"brand\": \"McDonald's\", \"brand:wikidata\": \"Q38076\", \"brand:wikipedia\": \"en:McDonald's\", \"changing_table\": \"no\", \"cuisine\": \"burger\", \"delivery\": \"no\", \"drive_through\": \"no\", \"elevator:width\": \"0.8\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2\", \"name\": \"McDonald's\", \"opening_hours\": \"Mo-Su 10:00-21:00\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"elevator\", \"toilets:wheelchair:level\": \"lift_accessible\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2179747,
+    "lon": 4.4074277
+  },
+  {
+    "id": 4467087290,
+    "type": "node",
+    "tags": "{\"addr:street\": \"Camille Huysmanslaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur\", \"name:nl\": \"Frituur\", \"opening_hours\": \"Tu-Su 16:30-21:30\"}",
+    "lat": 51.1913132,
+    "lon": 4.3957359
+  },
+  {
+    "id": 4493433796,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne (Antwerpen)\", \"addr:housenumber\": \"4\", \"addr:postcode\": \"2100\", \"addr:street\": \"Lakborslei\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Dinner Time\"}",
+    "lat": 51.2204055,
+    "lon": 4.4552373
+  },
+  {
+    "id": 4520399363,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"52\", \"addr:postcode\": \"2170\", \"addr:street\": \"Constant De Jongstraat\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/Smulhuisje-Merksem-927940780622972\", \"cuisine\": \"sandwich\", \"name\": \"'t Smulhuisje\", \"opening_hours\": \"Mo-Fr 06:30-16:30; Sa 08:00-14:00; Su,PH off\", \"phone\": \"+32 3 336 78 31\"}",
+    "lat": 51.2417806,
+    "lon": 4.4385082
+  },
+  {
+    "id": 4549572709,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.97\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2465192,
+    "lon": 4.4496168
+  },
+  {
+    "id": 4551852489,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-09-21\", \"name\": \"Atlas Bakkerij\"}",
+    "lat": 51.1840742,
+    "lon": 4.3884194
+  },
+  {
+    "id": 4551852490,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\"}",
+    "lat": 51.1782594,
+    "lon": 4.3563312
+  },
+  {
+    "id": 4607636391,
+    "type": "node",
+    "tags": "{\"addr:street\": \"Sint-Pieterstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"greek\", \"name\": \"Authentic Greek Souvlaki\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://www.mockamore.nl\"}",
+    "lat": 51.2197223,
+    "lon": 4.4023067
+  },
+  {
+    "id": 4634314349,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:street\": \"De Gryspeerstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"The Pizza King\", \"takeaway\": \"only\"}",
+    "lat": 51.2269384,
+    "lon": 4.4542596
+  },
+  {
+    "id": 4634314350,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"184\", \"addr:street\": \"Lakborslei\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Snack Marmaris\"}",
+    "lat": 51.2273315,
+    "lon": 4.454736
+  },
+  {
+    "id": 4634314351,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"186\", \"addr:street\": \"Lakborslei\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Duhok Pita-Snack\"}",
+    "lat": 51.2274122,
+    "lon": 4.4547381
+  },
+  {
+    "id": 4678683600,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Wasbar\", \"opening_hours\": \"Mo-Su 10:00-18:00\", \"website\": \"https://wasbar.com\"}",
+    "lat": 51.2120794,
+    "lon": 4.394257
+  },
+  {
+    "id": 4680929403,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"108\", \"addr:postcode\": \"2060\", \"addr:street\": \"Viaduct-Dam\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"diet:vegetarian\": \"yes\", \"drive_through\": \"no\", \"name\": \"Frituur 't Viaductje\", \"opening_hours\": \"Mo,We,Th,Sa 16:00-22:00; Fr 11:00-14:00,16:00-22:00\", \"payment:cash\": \"yes\", \"payment:maestro\": \"no\", \"payment:payconiq\": \"yes\", \"phone\": \"+32 3 232 60 71\", \"takeaway\": \"yes\", \"website\": \"https://www.frituurtviaductje.be/\"}",
+    "lat": 51.2331378,
+    "lon": 4.4237633
+  },
+  {
+    "id": 4730767337,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"27\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudeleeuwenrui\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"email\": \"info@oudeleeuw.be\", \"name\": \"Oude Leeuw\", \"opening_hours\": \"Mo-Fr 07:00-15:00; Sa-Su off\", \"phone\": \"+32 3 288 64 24\", \"website\": \"https://www.oudeleeuw.be/\"}",
+    "lat": 51.2272554,
+    "lon": 4.4073902
+  },
+  {
+    "id": 4730767338,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Van Schoonbekeplein\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"email\": \"broodjes@kleinematthias.be\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.91\", \"name\": \"De Kleine Matthias\", \"opening_hours\": \"Mo-Fr 07:00-15:00; Sa, Su off\", \"phone\": \"+32 3 231 91 07\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.kleinematthias.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.227281,
+    "lon": 4.4054639
+  },
+  {
+    "id": 4760778362,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:postcode\": \"2060\", \"addr:street\": \"Ellermanstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"yes\", \"name\": \"Knabbel & Babbel Dam\", \"opening_hours\": \"Mo-Fr 07:00-16:30; Sa,Su,PH off\", \"phone\": \"+32 3 289 87 29\", \"website\": \"https://www.knabbel-babbeldam.be\", \"wheelchair\": \"no\"}",
+    "lat": 51.2296434,
+    "lon": 4.4143025
+  },
+  {
+    "id": 4780377511,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2018\", \"addr:street\": \"Brusselstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-06-08\", \"cuisine\": \"friture\", \"name\": \"Bolifrit\", \"opening_hours\": \"Mo-Fr 11:30-22:00; Su,PH 16:00-22:00; Sa off\", \"takeaway\": \"yes\"}",
+    "lat": 51.2036619,
+    "lon": 4.3893209
+  },
+  {
+    "id": 4811800388,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"57\", \"addr:postcode\": \"2060\", \"addr:street\": \"Sint-Jansplein\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Snack Slemani\", \"takeaway\": \"yes\"}",
+    "lat": 51.2253801,
+    "lon": 4.4166556
+  },
+  {
+    "id": 4816404321,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-10\", \"cuisine\": \"friture\", \"name\": \"Frituur Anselmo\", \"name:nl\": \"Frituur Anselmo\"}",
+    "lat": 51.2068832,
+    "lon": 4.4037124
+  },
+  {
+    "id": 4825496391,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"My Snack\"}",
+    "lat": 51.2102761,
+    "lon": 4.4277737
+  },
+  {
+    "id": 4826781397,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"297\", \"addr:street\": \"Kapelsesteenweg\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Ter Donk\"}",
+    "lat": 51.2784873,
+    "lon": 4.453547
+  },
+  {
+    "id": 4827609121,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"110\", \"addr:postcode\": \"2000\", \"addr:street\": \"Napelsstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"disused\": \"yes\", \"name\": \"The new bagetterie\", \"old_name\": \"Bageterie\", \"phone\": \"+32 479 57 31 35\"}",
+    "lat": 51.2313044,
+    "lon": 4.4108925
+  },
+  {
+    "id": 4885255299,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"204\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2025-03-09\", \"cuisine\": \"friture\", \"name\": \"Frieterij Berchem\", \"website\": \"http://www.frieterij.be/\"}",
+    "lat": 51.2009965,
+    "lon": 4.4239791
+  },
+  {
+    "id": 4922023250,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"48\", \"addr:street\": \"Londenstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-08-31\", \"cuisine\": \"friture\", \"name\": \"'t Fritkotje\", \"phone\": \"+32 3 232 24 04\", \"takeaway\": \"yes\"}",
+    "lat": 51.2307857,
+    "lon": 4.4106883
+  },
+  {
+    "id": 5059044069,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"26\", \"addr:postcode\": \"2018\", \"addr:street\": \"Dageraadplaats\", \"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"cuisine\": \"friture\", \"name\": \"Frituur Dageraad\"}",
+    "lat": 51.2071592,
+    "lon": 4.4295777
+  },
+  {
+    "id": 5123359227,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Handschoenmarkt\", \"amenity\": \"fast_food\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"contact:facebook\": \"fishagogoantwerp\", \"contact:instagram\": \"fishagogo_antwerp\", \"cuisine\": \"seafood;fish;fish_and_chips\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"no\", \"email\": \"jurgentanghe@hotmail.com\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.45\", \"name\": \"Fish a'gogo\", \"opening_hours\": \"Mo,Th,Fr 12:00-21:30; Sa,Su 12:00-22:00; Tu,We off\", \"phone\": \"+32 495 24 27 36\", \"takeaway\": \"yes\", \"website\": \"https://www.fishagogo.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2206291,
+    "lon": 4.3994754
+  },
+  {
+    "id": 5140071824,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Bordeauxstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Broodnodig\", \"opening_hours\": \"Mo-Fr 08:00-14:00; Sa,Su off\", \"phone\": \"+32 478 01 28 31\", \"website\": \"http://www.broodnodig.biz/\"}",
+    "lat": 51.2305692,
+    "lon": 4.4093239
+  },
+  {
+    "id": 5140071825,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"14\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"indoor_seating\": \"yes\", \"name\": \"Smak\", \"outdoor_seating\": \"no\", \"phone\": \"+32 3 232 06 42\"}",
+    "lat": 51.2307657,
+    "lon": 4.4087559
+  },
+  {
+    "id": 5188667607,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Pizza Pasta Nr1\"}",
+    "lat": 51.2067474,
+    "lon": 4.3928069
+  },
+  {
+    "id": 5236002960,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Paardenmarkt\", \"alt_name\": \"Frituur Toothpick\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Toothpick\", \"opening_hours\": \"Mo-Fr 12:00-14:00,16:30-01:00, Sa,Su 16:30-01:00\", \"takeaway\": \"yes\", \"website\": \"https://frituur-toothpick.business.site\"}",
+    "lat": 51.2251342,
+    "lon": 4.4076016
+  },
+  {
+    "id": 5236002961,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"6\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudeleeuwenrui\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/FrituurFalcon\", \"cuisine\": \"friture\", \"diet:vegan\": \"limited\", \"diet:vegetarian\": \"yes\", \"dog\": \"no\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"Frituur Falcon\", \"opening_hours\": \"Mo 11:00-23:00; Tu off; We-Fr 11:00-00:00; Sa 17:00-00:00; Su 17:00-23:00; PH off\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"reusable_packaging:accept\": \"no\", \"service:electricity\": \"no\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2266881,
+    "lon": 4.4056766
+  },
+  {
+    "id": 5236107355,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"121\", \"addr:postcode\": \"2000\", \"addr:street\": \"Klapdorp\", \"amenity\": \"fast_food\", \"branch\": \"Wok Corner\", \"brand\": \"Quick\", \"brand:wikidata\": \"Q286494\", \"cuisine\": \"burger\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.15\", \"name\": \"Quick\", \"opening_hours\": \"Mo-Sa 11:00-23:00; Su 15:00-23:00\", \"phone\": \"+32 3 345 77 55\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:door_width\": \"0.8\", \"toilets:wheelchair:level\": \"ground_floor\", \"toilets:wheelchair:space_side\": \"0.88\", \"website\": \"https://www.quickwokcorner.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2251033,
+    "lon": 4.4072015
+  },
+  {
+    "id": 5247471044,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"155\", \"addr:street\": \"Groot Hagelkruis\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"'t Frit-Uurtje\", \"opening_hours\": \"Mo,We-Fr 11:30-23:00; Sa 16:30-00:00; Su 16:30-23:00; Tu off\", \"phone\": \"+32 3 541 86 36\"}",
+    "lat": 51.2750791,
+    "lon": 4.4111156
+  },
+  {
+    "id": 5247571581,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"29\", \"addr:postcode\": \"2000\", \"addr:street\": \"Ossenmarkt\", \"alt_name\": \"Den Os\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"name\": \"Frituur Den Os\", \"opening_hours\": \"Mo-Fr 16:00-04:00, Su 16:00-23:00, Sa off\", \"takeaway\": \"yes\"}",
+    "lat": 51.2217285,
+    "lon": 4.4130657
+  },
+  {
+    "id": 5247585670,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"10\", \"addr:postcode\": \"2000\", \"addr:street\": \"Korte Winkelstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"email\": \"olivers.saladbar@gmail.com\", \"name\": \"Oliver's\", \"opening_hours\": \"Mo-Fr 07:45-16:45; Sa,Su,PH off\", \"phone\": \"+32 3 213 24 88\", \"website\": \"http://www.olivers-saladbar.be\"}",
+    "lat": 51.2212554,
+    "lon": 4.4145038
+  },
+  {
+    "id": 5247877890,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"49\", \"addr:postcode\": \"2000\", \"addr:street\": \"Vekestraat\", \"alt_name\": \"Salsa Snack\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Salsa\", \"opening_hours\": \"Sa, Su off; Mo, Tu, Th 08:00-15:00; We, Fr 08:00-14:00\", \"phone\": \"+32 3 232 00 93\", \"takeaway\": \"only\", \"website\": \"https://salsa.eatbu.com/?lang=nl\"}",
+    "lat": 51.223686,
+    "lon": 4.411393
+  },
+  {
+    "id": 5248854870,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"35\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Antoniusstraat\", \"alt_name\": \"Frituur Chips\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/frituurchips\", \"cuisine\": \"friture\", \"email\": \"info@chips.be\", \"name\": \"Chips\", \"opening_hours\": \"We,Th,Su 17:00-22:00; Fr,Sa 11:30-14:00,17:00-22:00; Mo,Tu off\", \"website\": \"https://www.chips.be\"}",
+    "lat": 51.2158443,
+    "lon": 4.4007064
+  },
+  {
+    "id": 5260937039,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"25\", \"addr:postcode\": \"2000\", \"addr:street\": \"Suikerrui\", \"amenity\": \"fast_food\", \"check_date\": \"2024-02-10\", \"cuisine\": \"friture\", \"name\": \"Frituur Suikerrui\", \"opening_hours\": \"Mo off; Tu-Th 11:00-20:00; Fr,Sa 11:00-05:00, Su 11:00-21:30\", \"phone\": \"+32 3 233 38 65\"}",
+    "lat": 51.2210059,
+    "lon": 4.3984856
+  },
+  {
+    "id": 5325481093,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"49\", \"addr:postcode\": \"2100\", \"addr:street\": \"Eksterlaar\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Eksterlaar\", \"phone\": \"+32 3 322 27 33\"}",
+    "lat": 51.1999748,
+    "lon": 4.4671855
+  },
+  {
+    "id": 5325481094,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"47\", \"addr:postcode\": \"2100\", \"addr:street\": \"Eksterlaar\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Tastoe\", \"opening_hours\": \"Mo-Fr 07:30-17:30; Sa,Su,PH off\", \"phone\": \"+32 3 481 99 79\"}",
+    "lat": 51.2000979,
+    "lon": 4.4667253
+  },
+  {
+    "id": 5418606818,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"21\", \"addr:postcode\": \"2060\", \"addr:street\": \"Sint-Jansplein\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich;regional\", \"email\": \"infospekeneieren@gmail.com\", \"name\": \"Spek en Eieren\", \"opening_hours\": \"Mo,We-Fr 07:00-20:00; Sa,Su 12:00-20:00; Tu off\", \"phone\": \"+32 3 231 16 22\", \"url\": \"http://spek-en-eieren.business.site/\"}",
+    "lat": 51.2252729,
+    "lon": 4.4187486
+  },
+  {
+    "id": 5419041516,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-01-20\", \"cuisine\": \"burger\", \"name\": \"Beasty Burgers\"}",
+    "lat": 51.2146445,
+    "lon": 4.3983006
+  },
+  {
+    "id": 5428422603,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"cuisine\": \"sandwich\", \"name\": \"Panos\", \"takeaway\": \"yes\", \"website\": \"https://stores.panos.be/\"}",
+    "lat": 51.1899152,
+    "lon": 4.3791136
+  },
+  {
+    "id": 5460508521,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"30\", \"addr:postcode\": \"2180\", \"addr:street\": \"Alfons Jeurissenstraat\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://nl-nl.facebook.com/Snack-Ekeren-391583447944372/\", \"cuisine\": \"friture\", \"name\": \"Snack Ekeren\", \"opening_hours\": \"Mo 12:00-14:30; Tu-Fr 12:00-23:00; Sa,Su 16:00-00:00\", \"phone\": \"+32 484 54 26 76\"}",
+    "lat": 51.2773872,
+    "lon": 4.4208922
+  },
+  {
+    "id": 5533333422,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"pampam Antwerpen\", \"opening_hours\": \"Mo-Su 12:00-21:00\"}",
+    "lat": 51.1879231,
+    "lon": 4.3818163
+  },
+  {
+    "id": 5615179525,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-07-28\", \"cuisine\": \"friture\", \"name\": \"Frituur Vogelmarkt\", \"website\": \"https://www.frituur-oudevaartplaats.be\"}",
+    "lat": 51.2129982,
+    "lon": 4.4088663
+  },
+  {
+    "id": 5615398425,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2060\", \"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"internet_access\": \"wlan\", \"name\": \"\\u00d6z&Fes\", \"name:nl\": \"Snack Ameer\", \"opening_hours\": \"Mo-Su 16:00-00:00\", \"phone\": \"+32465565009\"}",
+    "lat": 51.2214756,
+    "lon": 4.4281265
+  },
+  {
+    "id": 5615398426,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Ambi You\"}",
+    "lat": 51.2214154,
+    "lon": 4.4282296
+  },
+  {
+    "id": 5615398427,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Brodjes Gezond Smos\"}",
+    "lat": 51.2212997,
+    "lon": 4.4278309
+  },
+  {
+    "id": 5628029497,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Sultan Snack\"}",
+    "lat": 51.2258036,
+    "lon": 4.4241277
+  },
+  {
+    "id": 5694470243,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"51\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schippersstraat\", \"alt_name\": \"Go Kebab\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Kababu\", \"opening_hours\": \"Mo-Su 10:00-06:00\", \"phone\": \"+32 3 232 23 00\", \"takeaway\": \"yes\", \"website\": \"https://kababu.be/\"}",
+    "lat": 51.2265938,
+    "lon": 4.4049959
+  },
+  {
+    "id": 5694470244,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Falconplein\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Pita Falcon 4\", \"old_name\": \"Plein 4\", \"takeaway\": \"yes\"}",
+    "lat": 51.2266547,
+    "lon": 4.4049921
+  },
+  {
+    "id": 5713136696,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"name\": \"Pita Amon\"}",
+    "lat": 51.2071191,
+    "lon": 4.4295432
+  },
+  {
+    "id": 5713136698,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"name\": \"Frituur daily's\", \"opening_hours\": \"Mo closed\"}",
+    "lat": 51.2074307,
+    "lon": 4.4280328
+  },
+  {
+    "id": 5713136700,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"name\": \"Snack medo\"}",
+    "lat": 51.2075657,
+    "lon": 4.4281609
+  },
+  {
+    "id": 5713272601,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-17\", \"cuisine\": \"pizza\", \"name\": \"Kingslize Pizza\"}",
+    "lat": 51.196291,
+    "lon": 4.4212308
+  },
+  {
+    "id": 5825632853,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"noodles;thai\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.84\", \"name\": \"Yim Thai\", \"opening_hours\": \"Mo-Su 09:00-21:30\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2233672,
+    "lon": 4.4030242
+  },
+  {
+    "id": 5834334114,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"395\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"changing_table\": \"no\", \"cuisine\": \"sandwich\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.76\", \"name\": \"Panos\", \"opening_hours\": \"Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off\", \"phone\": \"+32 3 646 73 82\", \"shop\": \"bakery\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"url\": \"http://panos.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2432706,
+    "lon": 4.4430906
+  },
+  {
+    "id": 5835255753,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"164\", \"addr:street\": \"Provinciestraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"email\": \"info@frituurhector.be\", \"friture:oil\": \"vegetable\", \"name\": \"Frituur Hector\", \"opening_hours\": \"We-Su 17:00-22:00\", \"phone\": \"+32 485 46 45 06\", \"website\": \"https://www.frituurhector.be/\"}",
+    "lat": 51.2126193,
+    "lon": 4.4259574
+  },
+  {
+    "id": 5835260836,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\"}",
+    "lat": 51.21177,
+    "lon": 4.4283324
+  },
+  {
+    "id": 5909377238,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"36\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"alt_name\": \"Frituur 't Eilandje\", \"amenity\": \"fast_food\", \"check_date\": \"2024-08-31\", \"cuisine\": \"friture\", \"name\": \"'t Eilandje\"}",
+    "lat": 51.2307805,
+    "lon": 4.409927
+  },
+  {
+    "id": 5918728585,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"fast_food\", \"brand\": \"Burger King\", \"brand:wikidata\": \"Q177054\", \"brand:wikipedia\": \"en:Burger King\", \"cuisine\": \"burger\", \"drive_through\": \"no\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"name\": \"Burger King\", \"opening_hours\": \"Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00\", \"phone\": \"+32 3 644 72 95\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://stores.burgerking.be/nl/burger-king-antwerpen-meir\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.218633,
+    "lon": 4.4052237
+  },
+  {
+    "id": 5974121256,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Kiosk\", \"takeaway\": \"yes\"}",
+    "lat": 51.176592,
+    "lon": 4.3503104
+  },
+  {
+    "id": 5982606665,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.84\", \"name\": \"Kebap center\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2190239,
+    "lon": 4.4049752
+  },
+  {
+    "id": 5982606668,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"noodle\", \"name\": \"Pasta time\"}",
+    "lat": 51.2187849,
+    "lon": 4.4049281
+  },
+  {
+    "id": 5982606670,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"waffle\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.79\", \"name\": \"Liege waffles\", \"takeaway\": \"only\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2186542,
+    "lon": 4.4049024
+  },
+  {
+    "id": 6005758844,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Pita Marmakis\"}",
+    "lat": 51.219779,
+    "lon": 4.4054086
+  },
+  {
+    "id": 6036014386,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"indoor_seating\": \"yes\", \"name\": \"'t Stad Kebab\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://www.tstadkebab.be\"}",
+    "lat": 51.2124959,
+    "lon": 4.4076064
+  },
+  {
+    "id": 6036189195,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-10\", \"cuisine\": \"friture\", \"name\": \"\\u2018t Sat\\u00e9ke\", \"website\": \"https://www.takeaway.com/be-en/frituur-t-sateke\"}",
+    "lat": 51.211593,
+    "lon": 4.4016813
+  },
+  {
+    "id": 6160845700,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Lin\", \"takeaway\": \"yes\"}",
+    "lat": 51.2138236,
+    "lon": 4.4094264
+  },
+  {
+    "id": 6173353975,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"10\", \"addr:street\": \"Sint-Pieterstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-03-05\", \"cuisine\": \"pasta\", \"name\": \"Antwerp Pizza Pasta Kebab\", \"takeaway\": \"yes\"}",
+    "lat": 51.2198129,
+    "lon": 4.4026941
+  },
+  {
+    "id": 6173353977,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-01-17\", \"cuisine\": \"sandwich\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.86\", \"name\": \"Panos\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2196572,
+    "lon": 4.4024153
+  },
+  {
+    "id": 6176652006,
+    "type": "node",
+    "tags": "{\"alt_name\": \"Kentucky Fried Chicken\", \"amenity\": \"fast_food\", \"brand\": \"KFC\", \"brand:wikidata\": \"Q524757\", \"cuisine\": \"chicken\", \"name\": \"KFC\", \"takeaway\": \"yes\"}",
+    "lat": 51.2200523,
+    "lon": 4.4004195
+  },
+  {
+    "id": 6176652010,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sushi\", \"name\": \"Umi Sushi\", \"website\": \"https://www.umi-sushi.be\"}",
+    "lat": 51.2198527,
+    "lon": 4.4012053
+  },
+  {
+    "id": 6176652016,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"capacity\": \"80\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"cuisine\": \"burger\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"no\", \"entrance:kerb:height\": \"0.2\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.8\", \"name\": \"Manhattn's\", \"ramp:wheelchair\": \"no\", \"website\": \"https://www.manhattns.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2188424,
+    "lon": 4.4008824
+  },
+  {
+    "id": 6225842202,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"entrance:kerb:height\": \"0.0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2.2\", \"name\": \"Frituur\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:door_width\": \"0.88\", \"toilets:wheelchair:level\": \"ground_floor\", \"toilets:wheelchair:space_side\": \"0.23\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2205247,
+    "lon": 4.3995704
+  },
+  {
+    "id": 6225842204,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.71\", \"name\": \"D'oude Stad\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2203533,
+    "lon": 4.3998446
+  },
+  {
+    "id": 6284526651,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Side\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2188623,
+    "lon": 4.3964625
+  },
+  {
+    "id": 6284526652,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-04-08\", \"cuisine\": \"kebab\", \"name\": \"Pitapalace\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2188442,
+    "lon": 4.3965294
+  },
+  {
+    "id": 6298603475,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chicken\", \"name\": \"Omonni\"}",
+    "lat": 51.2139125,
+    "lon": 4.3938363
+  },
+  {
+    "id": 6342743508,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"name\": \"Pizza Service\", \"opening_hours\": \"Mo-Su 17:00-03:00\", \"phone\": \"+32 3 213 20 20\", \"takeaway\": \"yes\", \"website\": \"https://www.pizzaservices.be/\"}",
+    "lat": 51.2095072,
+    "lon": 4.4293826
+  },
+  {
+    "id": 6362028725,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"17\", \"addr:street\": \"Hessenplein\", \"amenity\": \"fast_food\", \"check_date\": \"2023-11-24\", \"contact:facebook\": \"Alleemongee\", \"cuisine\": \"sandwich\", \"drive_through\": \"no\", \"indoor_seating\": \"yes\", \"name\": \"Allee Mongee\", \"opening_hours\": \"Mo-Sa 07:00-15:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 32840984\", \"website\": \"https://alleemongee.metro.bar\"}",
+    "lat": 51.2265541,
+    "lon": 4.4098815
+  },
+  {
+    "id": 6404148590,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"466\", \"addr:postcode\": \"2600\", \"addr:street\": \"Uitbreidingstraat\", \"amenity\": \"fast_food\", \"capacity\": \"49\", \"check_date\": \"2023-11-10\", \"cuisine\": \"friture;kebab\", \"name\": \"Eethuis Frituur Semi\", \"opening_hours\": \"Tu off\", \"outdoor_seating\": \"yes\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2008264,
+    "lon": 4.4326248
+  },
+  {
+    "id": 6404160485,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"454\", \"addr:postcode\": \"2600\", \"addr:street\": \"Uitbreidingstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2023-11-10\", \"contact:facebook\": \"https://m.facebook.com/SnackBANU/\", \"cuisine\": \"friture\", \"name\": \"Frituur Banu\", \"opening_hours\": \"Mo off\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2005931,
+    "lon": 4.4323747
+  },
+  {
+    "id": 6468349177,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.69\", \"level\": \"0\", \"name\": \"Munch me\", \"toilets:wheelchair\": \"no\", \"website\": \"https://munchme.be\"}",
+    "lat": 51.217561,
+    "lon": 4.4116407
+  },
+  {
+    "id": 6468349178,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"level\": \"0\", \"name\": \"Zest\", \"website\": \"https://zest-juices.be\"}",
+    "lat": 51.2176565,
+    "lon": 4.4115997
+  },
+  {
+    "id": 6507012008,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"diet:vegetarian\": \"yes\", \"name\": \"Papa\\u2019s falafel\", \"takeaway\": \"yes\", \"website\": \"https://papas-falafel.business.site\"}",
+    "lat": 51.2130824,
+    "lon": 4.4047752
+  },
+  {
+    "id": 6512896613,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2025-03-29\", \"cuisine\": \"kebab\", \"name\": \"NAZ\", \"takeaway\": \"yes\", \"website\": \"http://nazkebab.be\"}",
+    "lat": 51.2163355,
+    "lon": 4.3994229
+  },
+  {
+    "id": 6525430983,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Q-Bab\"}",
+    "lat": 51.214735,
+    "lon": 4.398649
+  },
+  {
+    "id": 6525455087,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-01-19\", \"cuisine\": \"international\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.05\", \"name\": \"Hawaiian Pok\\u00e9 Bowl\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.hawaiianpokebowl.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2151142,
+    "lon": 4.3988293
+  },
+  {
+    "id": 6535001445,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"check_date\": \"2024-02-10\", \"cuisine\": \"sandwich\", \"name\": \"Panos\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be\"}",
+    "lat": 51.1982657,
+    "lon": 4.4073547
+  },
+  {
+    "id": 6535001446,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"check_date\": \"2023-04-10\", \"cuisine\": \"sandwich\", \"indoor_seating\": \"yes\", \"name\": \"Panos\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be\"}",
+    "lat": 51.2176653,
+    "lon": 4.416282
+  },
+  {
+    "id": 6535001447,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"24\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"cuisine\": \"sandwich\", \"name\": \"Panos\", \"opening_hours\": \"Mo-Sa 07:00-18:00; PH off\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be\"}",
+    "lat": 51.2179644,
+    "lon": 4.4064106
+  },
+  {
+    "id": 6535001448,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"check_date\": \"2024-01-19\", \"cuisine\": \"sandwich\", \"internet_access\": \"wlan\", \"name\": \"Panos\", \"name:de\": \"Panos\", \"name:en\": \"Panos\", \"opening_hours\": \"Mo-Su 09:00-22:00\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://www.panos.be\"}",
+    "lat": 51.2150666,
+    "lon": 4.3985001
+  },
+  {
+    "id": 6537356361,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"114\", \"addr:street\": \"Nationalestraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-01-18\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"name\": \"King Pizza\", \"takeaway\": \"yes\", \"website\": \"https://www.mymenu.be/taste-king-pizza\"}",
+    "lat": 51.214182,
+    "lon": 4.3980808
+  },
+  {
+    "id": 6538143218,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.92\", \"name\": \"Frituur Nationale\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2138029,
+    "lon": 4.3978806
+  },
+  {
+    "id": 6577555586,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"97 - 99\", \"addr:street\": \"De Burletlaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"De Friethoek\", \"opening_hours\": \"PH,We-Su 17:00-21:00\"}",
+    "lat": 51.1708413,
+    "lon": 4.4273315
+  },
+  {
+    "id": 6635802848,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Smulpaap\", \"takeaway\": \"yes\"}",
+    "lat": 51.2249484,
+    "lon": 4.4072325
+  },
+  {
+    "id": 6638678064,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Campus\", \"takeaway\": \"only\", \"website\": \"https://www.pizzacampusexpress.be\"}",
+    "lat": 51.225126,
+    "lon": 4.4074403
+  },
+  {
+    "id": 6641528071,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"57\", \"addr:street\": \"Paardenmarkt\", \"amenity\": \"fast_food\", \"name\": \"Holy Guacamoly\", \"opening_hours\": \"Mo-Sa 11:30-21:30; Su 17:00-21:30\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2252488,
+    "lon": 4.4095428
+  },
+  {
+    "id": 6641528076,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"soup\", \"entrance:kerb:height\": \"0.11\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Super Soep\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.supersoep.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2251798,
+    "lon": 4.4081416
+  },
+  {
+    "id": 6644608379,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Antwich\", \"takeaway\": \"yes\", \"website\": \"http://www.antwich.be\"}",
+    "lat": 51.2248235,
+    "lon": 4.4120295
+  },
+  {
+    "id": 6644637994,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Pita Pocket\"}",
+    "lat": 51.2253549,
+    "lon": 4.4095346
+  },
+  {
+    "id": 6655019460,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"diet:vegetarian\": \"yes\", \"name\": \"Pizza Apetito\", \"takeaway\": \"only\", \"website\": \"https://www.pizzaapetito.be\"}",
+    "lat": 51.2249018,
+    "lon": 4.4189827
+  },
+  {
+    "id": 6681680606,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Snack Omar\", \"takeaway\": \"yes\"}",
+    "lat": 51.2252909,
+    "lon": 4.4167155
+  },
+  {
+    "id": 6712707756,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-08-24\", \"cuisine\": \"arab\", \"name\": \"Snack Chabab Irak\"}",
+    "lat": 51.2228697,
+    "lon": 4.4236855
+  },
+  {
+    "id": 6712707770,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"african\", \"name\": \"Snack Black Star\", \"takeaway\": \"yes\", \"website\": \"https://www.snackblackstar.be/\"}",
+    "lat": 51.2222721,
+    "lon": 4.4210801
+  },
+  {
+    "id": 6716416083,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Shri Ram\"}",
+    "lat": 51.2231926,
+    "lon": 4.4252973
+  },
+  {
+    "id": 6716416084,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"indian\", \"delivery\": \"yes\", \"name\": \"Iman Hallal Tandoori\", \"takeaway\": \"yes\", \"website\": \"https://www.imanhalaltandoori.be\"}",
+    "lat": 51.2231286,
+    "lon": 4.4254644
+  },
+  {
+    "id": 6716425288,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"arab\", \"name\": \"Casablanca\", \"takeaway\": \"yes\"}",
+    "lat": 51.2230053,
+    "lon": 4.4248532
+  },
+  {
+    "id": 6724799315,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Grillhuis\"}",
+    "lat": 51.2238341,
+    "lon": 4.4296109
+  },
+  {
+    "id": 6727682427,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Snack Metro\", \"opening_hours\": \"Mo-Su 12:00-24:00\"}",
+    "lat": 51.2241717,
+    "lon": 4.4317028
+  },
+  {
+    "id": 6727682436,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Mahlabat ines\"}",
+    "lat": 51.2239305,
+    "lon": 4.4307832
+  },
+  {
+    "id": 6778957718,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Cadixstraat\", \"amenity\": \"fast_food\", \"contact:instagram\": \"https://www.instagram.com/sinsevenantwerp/\", \"cuisine\": \"friture\", \"delivery\": \"no\", \"drive_through\": \"no\", \"name\": \"My Frituur\", \"opening_hours\": \"Mo-Tu 11:45-13:30,16:45-21:30; We 16:45-21:30; Th 11:45-13:30,16:45-21:30; Fr 11:45-13:30,16:45-22:00; Sa off; Su 16:00-22:00\", \"ref:vatin\": \"BE 0842.381.553\", \"takeaway\": \"yes\", \"website\": \"https://myfrituur.itsready.be/nl\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2334516,
+    "lon": 4.4098425
+  },
+  {
+    "id": 6818217803,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Gokce\", \"takeaway\": \"yes\"}",
+    "lat": 51.2248735,
+    "lon": 4.4217266
+  },
+  {
+    "id": 6818217805,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"55\", \"addr:postcode\": \"2060\", \"addr:street\": \"Sint-Gummarusstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab;turkish\", \"name\": \"Nur Kebap\", \"opening_hours\": \"We-Mo 10:00-22:00\", \"phone\": \"+32485533334\", \"takeaway\": \"yes\"}",
+    "lat": 51.2248747,
+    "lon": 4.4214843
+  },
+  {
+    "id": 6835438265,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Snack Royal\", \"takeaway\": \"yes\"}",
+    "lat": 51.2217266,
+    "lon": 4.4264026
+  },
+  {
+    "id": 6835438280,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Kabul Kabab\", \"takeaway\": \"yes\"}",
+    "lat": 51.2224722,
+    "lon": 4.4260149
+  },
+  {
+    "id": 6839811179,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2025-03-08\", \"cuisine\": \"friture\", \"name\": \"Fritture Ellen\"}",
+    "lat": 51.2080969,
+    "lon": 4.3894192
+  },
+  {
+    "id": 6839811180,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-06-08\", \"name\": \"chipz\"}",
+    "lat": 51.2103553,
+    "lon": 4.3893464
+  },
+  {
+    "id": 6845435140,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"capacity\": \"5\", \"contact:facebook\": \"https://www.facebook.com/ludobaktze/?locale=nl_NL\", \"cuisine\": \"friture\", \"delivery\": \"no\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"limited\", \"drive_through\": \"no\", \"level\": \"0\", \"name\": \"Antwerp Frit\", \"organic\": \"no\", \"outdoor_seating\": \"yes\", \"payment:app\": \"yes\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"payment:qr_code\": \"no\", \"takeaway\": \"yes\", \"toilets\": \"no\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2215913,
+    "lon": 4.4266404
+  },
+  {
+    "id": 6883228772,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Snack Jopie\", \"takeaway\": \"yes\"}",
+    "lat": 51.2212229,
+    "lon": 4.4288638
+  },
+  {
+    "id": 6925178766,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur Delux\"}",
+    "lat": 51.1746231,
+    "lon": 4.3513987
+  },
+  {
+    "id": 6938241233,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"burger\", \"name\": \"Liri's burger\"}",
+    "lat": 51.2080895,
+    "lon": 4.3895149
+  },
+  {
+    "id": 6943769685,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"balkan\", \"name\": \"Grill Serajevo\", \"takeaway\": \"yes\"}",
+    "lat": 51.2181907,
+    "lon": 4.424796
+  },
+  {
+    "id": 6949607985,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"arab\", \"name\": \"Snack rif\", \"takeaway\": \"yes\"}",
+    "lat": 51.217675,
+    "lon": 4.4269771
+  },
+  {
+    "id": 6958627488,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"diet:halal\": \"only\", \"name\": \"D\\u00f6ner Star Express\", \"takeaway\": \"yes\"}",
+    "lat": 51.2172802,
+    "lon": 4.4284945
+  },
+  {
+    "id": 6960800015,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"46\", \"addr:postcode\": \"2140\", \"addr:street\": \"Turnhoutsebaan\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab;pizza;turkish\", \"drive_through\": \"no\", \"level\": \"0\", \"name\": \"Alaturka eethuis\", \"name:nl\": \"Venetia\", \"outdoor_seating\": \"yes\", \"payment:cash\": \"yes\", \"phone\": \"+32 3 298 35 65\", \"takeaway\": \"yes\", \"website\": \"https://www.alaturkaeethuis.be\", \"wheelchair\": \"no\"}",
+    "lat": 51.2163111,
+    "lon": 4.4301794
+  },
+  {
+    "id": 6961560303,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Asalam\"}",
+    "lat": 51.2160357,
+    "lon": 4.4306261
+  },
+  {
+    "id": 6967473765,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Riad tetouan\", \"takeaway\": \"yes\"}",
+    "lat": 51.2147134,
+    "lon": 4.4347253
+  },
+  {
+    "id": 6967497389,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Merksem\", \"addr:housenumber\": \"34\", \"addr:postcode\": \"2170\", \"addr:street\": \"Laaglandlaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"name\": \"Frituur 2170 MXM\", \"opening_hours\": \"Mo 16:30-23:00;Th 11:30-14:00,16:30-23:00;Fr 11:30-14:00,16:30-24:00;Sa 00:00-01:00;Su 16:30-22:00;We 16:30-21:00;Th 11:30-13:30, 16:30-21:00;Fr 11:30-13:30, 16:30-22:00;Sa 16:30-22:00;Su 16:30-21:00\", \"takeaway\": \"only\"}",
+    "lat": 51.2526411,
+    "lon": 4.4472108
+  },
+  {
+    "id": 6974997920,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Pizzaria Centraal\", \"takeaway\": \"yes\"}",
+    "lat": 51.2145828,
+    "lon": 4.4353443
+  },
+  {
+    "id": 6990975891,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Greco Delice\"}",
+    "lat": 51.2141507,
+    "lon": 4.4414263
+  },
+  {
+    "id": 6990975895,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"tacos\", \"name\": \"Q's French Tacos\", \"takeaway\": \"yes\"}",
+    "lat": 51.2140404,
+    "lon": 4.4410553
+  },
+  {
+    "id": 6990975899,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Ozahi\"}",
+    "lat": 51.2144951,
+    "lon": 4.442532
+  },
+  {
+    "id": 6993621879,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"mediterranean\", \"name\": \"Roma Nova\", \"takeaway\": \"yes\"}",
+    "lat": 51.2140583,
+    "lon": 4.4396906
+  },
+  {
+    "id": 6993621882,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Frituur Roma\", \"takeaway\": \"yes\", \"website\": \"https://www.frituurroma.be\"}",
+    "lat": 51.2140232,
+    "lon": 4.4399226
+  },
+  {
+    "id": 6993621884,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Snack Roma\", \"takeaway\": \"yes\"}",
+    "lat": 51.2139994,
+    "lon": 4.4400798
+  },
+  {
+    "id": 6997352302,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chicken\", \"name\": \"Chicken break\"}",
+    "lat": 51.2148284,
+    "lon": 4.4355601
+  },
+  {
+    "id": 6997352304,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"pizza\"}",
+    "lat": 51.2147353,
+    "lon": 4.4360121
+  },
+  {
+    "id": 6997352305,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chinese\", \"delivery\": \"yes\", \"name\": \"Wok&Go\", \"takeaway\": \"yes\"}",
+    "lat": 51.2147537,
+    "lon": 4.4359227
+  },
+  {
+    "id": 6997352314,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"burger\", \"name\": \"Happy Burger\", \"takeaway\": \"yes\"}",
+    "lat": 51.2141984,
+    "lon": 4.4387781
+  },
+  {
+    "id": 7003089307,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"147b\", \"addr:street\": \"Turnhoutsebaan\", \"amenity\": \"fast_food\", \"brand\": \"Panos\", \"brand:wikidata\": \"Q3384496\", \"brand:wikipedia\": \"nl:Panos\", \"cuisine\": \"sandwich\", \"level\": \"0\", \"mapillary\": \"516616862684075\", \"name\": \"Panos\", \"note\": \"dit is nummer 145 op foto https://www.mapillary.com/map/im/V2a9m81e7Ps5W8UnILvKUQ\", \"takeaway\": \"yes\"}",
+    "lat": 51.2149776,
+    "lon": 4.4346866
+  },
+  {
+    "id": 7009730434,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chinese\", \"name\": \"Wok van Antwerpen\", \"takeaway\": \"yes\", \"website\": \"https://www.wokvanantwerpen.be\"}",
+    "lat": 51.2179289,
+    "lon": 4.4271906
+  },
+  {
+    "id": 7018065110,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-08-24\", \"cuisine\": \"kebab\", \"name\": \"Chicken center\", \"takeaway\": \"yes\"}",
+    "lat": 51.2194561,
+    "lon": 4.4189721
+  },
+  {
+    "id": 7018065122,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chinese\", \"name\": \"Momo center\"}",
+    "lat": 51.2190046,
+    "lon": 4.419936
+  },
+  {
+    "id": 7018065124,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Mixor kebab\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2189921,
+    "lon": 4.4200156
+  },
+  {
+    "id": 7018065126,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"Solav\"}",
+    "lat": 51.2189682,
+    "lon": 4.4201922
+  },
+  {
+    "id": 7114962886,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"60\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"fast_food\", \"check_date\": \"2023-04-10\", \"cuisine\": \"ice_cream;waffle\", \"entrance:kerb:height\": \"0.12\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2.61\", \"indoor_seating\": \"no\", \"name\": \"Australian Homemade Ice Cream and Waffles\", \"outdoor_seating\": \"no\", \"takeaway\": \"only\", \"toilets:wheelchair\": \"no\"}",
+    "lat": 51.217923,
+    "lon": 4.4101381
+  },
+  {
+    "id": 7123265871,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-07\", \"cuisine\": \"hot_dog\", \"name\": \"Noungko\"}",
+    "lat": 51.2108549,
+    "lon": 4.3971996
+  },
+  {
+    "id": 7260813485,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"81\", \"addr:postcode\": \"2060\", \"addr:street\": \"Lange scholiersstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"Dam Dam Pizza\", \"website\": \"https://dam-dam-pizza.business.site/\"}",
+    "lat": 51.2250728,
+    "lon": 4.4304281
+  },
+  {
+    "id": 7273864549,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Domino's\", \"brand:wikidata\": \"Q839466\", \"brand:wikipedia\": \"en:Domino's Pizza\", \"check_date\": \"2023-11-10\", \"cuisine\": \"pizza\", \"name\": \"Domino's\", \"opening_hours\": \"Su-Th 11:00-22:00; Fr,Sa 11:00-23:00\", \"takeaway\": \"yes\", \"wheelchair\": \"no\"}",
+    "lat": 51.2018203,
+    "lon": 4.4342502
+  },
+  {
+    "id": 7280234026,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"chinese\", \"description\": \"menneemchinees - naamvermelding ware welkom ;)\", \"name\": \"Goede smaak\"}",
+    "lat": 51.2081448,
+    "lon": 4.4125101
+  },
+  {
+    "id": 7280234027,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-09-02\", \"cuisine\": \"turkish\", \"name\": \"Blauwwater\", \"website\": \"https://blauw-water.metro.rest\"}",
+    "lat": 51.2074981,
+    "lon": 4.4135622
+  },
+  {
+    "id": 7288961738,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-11-10\", \"cuisine\": \"pita\", \"description\": \"Pita, pizza, pasta, snack, frituur\", \"diet:halal\": \"yes\", \"name\": \"Maya\", \"opening_hours\": \"Mo-Tu,Th-Su 12:00-24:00; We off\", \"outdoor_seating\": \"yes\", \"wheelchair\": \"no\"}",
+    "lat": 51.201443,
+    "lon": 4.4332768
+  },
+  {
+    "id": 7297173937,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-11-11\", \"name\": \"Opera Pancake House\"}",
+    "lat": 51.2171765,
+    "lon": 4.414319
+  },
+  {
+    "id": 7305869395,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"pita\", \"delivery\": \"yes\", \"diet:halal\": \"only\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"limited\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"no\", \"internet_access:ssid\": \"Proximus-Home-4F28\", \"name\": \"Express Pita\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"service:electricity\": \"limited\", \"takeaway\": \"only\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2191303,
+    "lon": 4.4184748
+  },
+  {
+    "id": 7308613215,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"Njoy\"}",
+    "lat": 51.2158522,
+    "lon": 4.4455901
+  },
+  {
+    "id": 7346608609,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"436\", \"addr:postcode\": \"2600\", \"addr:street\": \"Uitbreidingsstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2023-11-12\", \"cuisine\": \"pizza\", \"drive_through\": \"no\", \"name\": \"Pizzalijn\", \"phone\": \"+32 3 366 15 15\", \"website\": \"http://www.pizzalijn.be/\"}",
+    "lat": 51.1985355,
+    "lon": 4.4315567
+  },
+  {
+    "id": 7368816612,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-02\", \"cuisine\": \"kebab\", \"name\": \"mfChicken\"}",
+    "lat": 51.218153,
+    "lon": 4.4204692
+  },
+  {
+    "id": 7415158879,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sushi\", \"delivery\": \"yes\", \"name\": \"18 Sushi\", \"takeaway\": \"yes\", \"website\": \"https://www.18sushi.be\"}",
+    "lat": 51.2195784,
+    "lon": 4.414379
+  },
+  {
+    "id": 7651364246,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-04-08\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"name\": \"Pizza Company\", \"takeaway\": \"only\", \"website\": \"https://www.pizzacompany.be\"}",
+    "lat": 51.210812,
+    "lon": 4.4080471
+  },
+  {
+    "id": 7656121402,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-01-31\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.83\", \"name\": \"Pizza Fast\", \"takeaway\": \"only\", \"website\": \"https://www.takeaway.com/be/pizza-fast\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2113323,
+    "lon": 4.4014008
+  },
+  {
+    "id": 7660431856,
+    "type": "node",
+    "tags": "{\"alt_name\": \"Take-a-Thai\", \"amenity\": \"fast_food\", \"check_date\": \"2024-01-31\", \"cuisine\": \"thai\", \"delivery\": \"no\", \"drive_through\": \"no\", \"name\": \"Take a Thai\", \"takeaway\": \"yes\", \"website\": \"https://takeathai.be\"}",
+    "lat": 51.2118717,
+    "lon": 4.4011371
+  },
+  {
+    "id": 7660431858,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-02-10\", \"cuisine\": \"kebab\", \"name\": \"Snack Antalya\"}",
+    "lat": 51.2115152,
+    "lon": 4.4007544
+  },
+  {
+    "id": 7667665093,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"delivery\": \"yes\", \"name\": \"Frituur Kattekwaad\", \"takeaway\": \"yes\", \"website\": \"https://frituurkattekwaad.be\"}",
+    "lat": 51.2081905,
+    "lon": 4.3981829
+  },
+  {
+    "id": 7677800915,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"italian\", \"name\": \"Basic Italian\", \"takeaway\": \"only\", \"website\": \"https://www.basic-italian.be\"}",
+    "lat": 51.2197333,
+    "lon": 4.4025644
+  },
+  {
+    "id": 7865656218,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Frituur Kenny\"}",
+    "lat": 51.1764247,
+    "lon": 4.3801642
+  },
+  {
+    "id": 8327042583,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"138\", \"addr:street\": \"Lange Leemstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-04-01\", \"cuisine\": \"pizza;sushi;fish;salad;falafel\", \"delivery\": \"yes\", \"diet:kosher\": \"yes\", \"diet:kosher:certification\": \"Machzikei Hadas Antwerpen\", \"diet:kosher:chalav_yisrael\": \"only\", \"highchair\": \"yes\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"name\": \"Shaye's\", \"opening_hours\": \"Mo-Th,Su 12:00-21:30; Fr-Sa off\", \"outdoor_seating\": \"no\", \"phone\": \"+32 32304800\", \"source\": \"survey\", \"takeaway\": \"yes\"}",
+    "lat": 51.20698,
+    "lon": 4.4143432
+  },
+  {
+    "id": 8354297971,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"italian\", \"name\": \"Mama Mia\"}",
+    "lat": 51.2102422,
+    "lon": 4.419015
+  },
+  {
+    "id": 8354731738,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"18\", \"addr:postcode\": \"2100\", \"addr:street\": \"Frans Van Heymbeecklaan\", \"amenity\": \"fast_food\", \"cuisine\": \"fries\", \"drive_through\": \"no\", \"name\": \"Frituur 't Draakske\"}",
+    "lat": 51.2278122,
+    "lon": 4.4807978
+  },
+  {
+    "id": 8356852804,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Momento\"}",
+    "lat": 51.2100483,
+    "lon": 4.4286752
+  },
+  {
+    "id": 8398907393,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-11-09\", \"cuisine\": \"sandwich\", \"delivery\": \"yes\", \"name\": \"Croq 'N Tasty\", \"takeaway\": \"yes\", \"website\": \"https://croqntasty.be\"}",
+    "lat": 51.2098738,
+    "lon": 4.4077767
+  },
+  {
+    "id": 8501470281,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sushi\", \"name\": \"OM Sushi\", \"opening_hours\": \"Tu-Su 16:00-22:00;PH 16:00-22:00\", \"phone\": \"+32 3 664 08 55\", \"takeaway\": \"yes\", \"website\": \"https://www.omsushi.be/\"}",
+    "lat": 51.2922298,
+    "lon": 4.4439684
+  },
+  {
+    "id": 8590054411,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"fast_food\", \"cuisine\": \"chicken;fried_food\", \"name\": \"Belchicken\", \"phone\": \"+32 3 321 22 40\", \"website\": \"https://belchicken.com/\"}",
+    "lat": 51.2184563,
+    "lon": 4.4060577
+  },
+  {
+    "id": 8778180797,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"indoor_seating\": \"yes\", \"name\": \"Frituur Den Deuzeld\", \"opening_hours\": \"Mo-Fr 11:30-22:00; Sa-Su 16:30-22:00\", \"outdoor_seating\": \"no\"}",
+    "lat": 51.2478092,
+    "lon": 4.4594496
+  },
+  {
+    "id": 8778372998,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-07-28\", \"cuisine\": \"friture\", \"name\": \"Frituur De Witte\", \"opening_hours\": \"Mo-Fr 11:30-14:00, 16:30-22:30; Su 16:30-22:00;PH 16:30-22:00\", \"website\": \"https://frituur-dewitte.be/\"}",
+    "lat": 51.2062991,
+    "lon": 4.4155276
+  },
+  {
+    "id": 9282838851,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/Mangevielovesyou/\", \"email\": \"info@mangevie.be\", \"name\": \"Mang\\u00e9vie\", \"opening_hours\": \"Mo-Fr 08:00-14:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 345 44 04\", \"takeaway\": \"yes\", \"website\": \"https://www.mangevie.be\"}",
+    "lat": 51.2367854,
+    "lon": 4.442457
+  },
+  {
+    "id": 9337578092,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"diet:vegan\": \"limited\", \"diet:vegetarian\": \"limited\", \"name\": \"Frituur Jan\", \"opening_hours\": \"Mo-Tu 11:30-13:00,17:00-22:00; Th-Sa 11:30-22:00; Su 17:00-22:00; PH open\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"takeaway\": \"yes\", \"wheelchair\": \"no\"}",
+    "lat": 51.2581617,
+    "lon": 4.4251353
+  },
+  {
+    "id": 9373410719,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"amenity\": \"fast_food\", \"brand\": \"Five Guys\", \"brand:wikidata\": \"Q1131810\", \"brand:wikipedia\": \"en:Five Guys\", \"check_date\": \"2024-02-02\", \"cuisine\": \"burger\", \"name\": \"Five Guys\", \"name:en\": \"Five Guys\", \"official_name\": \"Five Guys Burgers and Fries\", \"takeaway\": \"yes\", \"website\": \"https://restaurants.fiveguys.be/nl_be/de-keyserlei-11\", \"website:en\": \"https://restaurants.fiveguys.be/de-keyserlei-11\", \"website:fr\": \"https://restaurants.fiveguys.be/fr_be/de-keyserlei-11\", \"website:nl\": \"https://restaurants.fiveguys.be/nl_be/de-keyserlei-11\"}",
+    "lat": 51.2179652,
+    "lon": 4.4170141
+  },
+  {
+    "id": 9373410917,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"amenity\": \"fast_food\", \"name\": \"Makla\"}",
+    "lat": 51.2129577,
+    "lon": 4.3974698
+  },
+  {
+    "id": 9505276373,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:housenumber\": \"295\", \"addr:postcode\": \"2610\", \"addr:street\": \"Jules Moretuslei\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"name\": \"Pik-Nik\"}",
+    "lat": 51.1726872,
+    "lon": 4.3954606
+  },
+  {
+    "id": 9582708408,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Breadtaking\"}",
+    "lat": 51.2199351,
+    "lon": 4.4546339
+  },
+  {
+    "id": 9582708411,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"pizza\", \"name\": \"Pizza Company\"}",
+    "lat": 51.2200071,
+    "lon": 4.4547615
+  },
+  {
+    "id": 9657108457,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Dunya Doner\"}",
+    "lat": 51.2200096,
+    "lon": 4.4150097
+  },
+  {
+    "id": 9681020814,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:housenumber\": \"230\", \"addr:postcode\": \"2610\", \"addr:street\": \"Groenenborgerlaan\", \"amenity\": \"fast_food\", \"cuisine\": \"friture;sandwich\", \"drive_through\": \"no\", \"name\": \"FRT\", \"opening_hours\": \"Su-Th 11:30-22:00; Fr-Sa 11:30-24:00\", \"phone\": \"+32 486 59 91 96\"}",
+    "lat": 51.1775682,
+    "lon": 4.424163
+  },
+  {
+    "id": 9848330009,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:street\": \"Meyersstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frituur 't Kroontje\", \"opening_hours\": \"Mo,Tu,Th-Su 15:00-21:15\", \"phone\": \"+32 485 42 73 99\", \"website\": \"https://www.frituur-t-kroontje.be\"}",
+    "lat": 51.2330021,
+    "lon": 4.4531027
+  },
+  {
+    "id": 9983008850,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"'t Draakske\"}",
+    "lat": 51.1974317,
+    "lon": 4.4575946
+  },
+  {
+    "id": 10137651246,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"33\", \"addr:postcode\": \"2040\", \"addr:street\": \"Sint-Jan Baptiststraat\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://nl-nl.facebook.com/pizzajanneman/\", \"cuisine\": \"pizza\", \"email\": \"sven@pizzajanneman.be\", \"name\": \"Pizza Janneman\", \"opening_hours\": \"Su-Mo off; Sa 16:30-20:00 open \\\"afhalen\\\" || Tu-Sa \\\"bestellen\\\"\", \"phone\": \"+32 495 58 01 62\", \"takeaway\": \"only\", \"website\": \"https://www.pizzajanneman.be\"}",
+    "lat": 51.3399884,
+    "lon": 4.3111309
+  },
+  {
+    "id": 10293197573,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-03-05\", \"cuisine\": \"thai\", \"name\": \"Yammy Thai Wok\", \"website\": \"https://www.yammythaiwok.be/\"}",
+    "lat": 51.2196938,
+    "lon": 4.4027295
+  },
+  {
+    "id": 10310767603,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Liva Kebab\"}",
+    "lat": 51.2026777,
+    "lon": 4.390122
+  },
+  {
+    "id": 10638238897,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"delivery\": \"yes\", \"diet:vegan\": \"only\", \"diet:vegetarian\": \"yes\", \"email\": \"info@tastebudsantwerp.be\", \"friture:oil\": \"vegetable\", \"name\": \"Tastebuds\", \"opening_hours\": \"Mo-Su 17:00-21:30\", \"service:electricity\": \"limited\", \"website\": \"https://tastebudsantwerp.be/\"}",
+    "lat": 51.2076785,
+    "lon": 4.4303372
+  },
+  {
+    "id": 10712254579,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Smoskot\"}",
+    "lat": 51.2220199,
+    "lon": 4.4113449
+  },
+  {
+    "id": 10712817005,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"burger;friture\", \"name\": \"Snack supreme\"}",
+    "lat": 51.2004946,
+    "lon": 4.441615
+  },
+  {
+    "id": 10982034850,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"10\", \"addr:postcode\": \"2180\", \"addr:street\": \"Markt\", \"alt_name\": \"Broodjeszaak Gesmeerd!\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/people/Broodjeszaak-Gesmeerd/100063552824283/\", \"cuisine\": \"sandwich\", \"name\": \"Gesmeerd!\", \"opening_hours\": \"Mo-Fr 08:00-14:30; Sa 10:00-14:00; Su off\", \"phone\": \"+32 497 16 10 73\", \"takeaway\": \"yes\"}",
+    "lat": 51.2773382,
+    "lon": 4.4191501
+  },
+  {
+    "id": 11018680133,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:housenumber\": \"364\", \"addr:postcode\": \"2610\", \"addr:street\": \"Boomsesteenweg\", \"amenity\": \"fast_food\", \"brand\": \"Burger King\", \"brand:wikidata\": \"Q177054\", \"cuisine\": \"burger\", \"delivery\": \"yes\", \"drive_through\": \"yes\", \"name\": \"Burger King\", \"opening_hours\": \"Mo-Th,Su 10:30-23:00; Fr-Sa 10:30-27:00\", \"takeaway\": \"yes\", \"website\": \"https://stores.burgerking.be/nl/burger-king-wilrijk\"}",
+    "lat": 51.1712196,
+    "lon": 4.3864193
+  },
+  {
+    "id": 11104581806,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"amenity\": \"fast_food\", \"cuisine\": \"poke\", \"diet:vegetarian\": \"yes\", \"name\": \"Hawaiian Pok\\u00e9bowl\", \"name:en\": \"Hawaiian Pok\\u00e9bowl\", \"opening_hours\": \"Mo-Su 11:00-22:00\", \"phone\": \"+32 3 375 20 04\", \"website\": \"https://hawaiianpokebowl.be\", \"website:menu\": \"https://hawaiianpokebowl.be/fr-BE/menu\"}",
+    "lat": 51.2180384,
+    "lon": 4.4166254
+  },
+  {
+    "id": 11197847617,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"delivery\": \"yes\", \"diet:vegetarian\": \"limited\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.1\", \"name\": \"Eeetwell\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"payment:qr_code\": \"yes\", \"service:electricity\": \"yes\", \"takeaway\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2184023,
+    "lon": 4.4043117
+  },
+  {
+    "id": 11262065854,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"3\", \"addr:street\": \"Manchesterlaan\", \"alt_name\": \"Juno's Pizza & Pasta\", \"amenity\": \"fast_food\", \"cuisine\": \"pasta; pizza\", \"name\": \"Juno's\", \"opening_hours\": \"Mo off; Tu-Su 15:00-23:00\", \"phone\": \"+32 3 256 06 35\", \"takeaway\": \"yes\"}",
+    "lat": 51.2547793,
+    "lon": 4.4207028
+  },
+  {
+    "id": 11338279572,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"456\", \"addr:street\": \"Uitbreidingstraat\", \"amenity\": \"fast_food\", \"check_date\": \"2023-11-10\", \"cuisine\": \"turkish\", \"description\": \"Gespecialiseerd in T\\u00fcrkise K\\u00f6fte\", \"diet:halal\": \"yes\", \"name\": \"K\\u00f6fteci Tekin\", \"opening_hours\": \"Mo off\", \"outdoor_seating\": \"yes\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2006306,
+    "lon": 4.4324094
+  },
+  {
+    "id": 11338614003,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"diet:vegetarian\": \"limited\", \"internet_access\": \"no\", \"name\": \"Chlil's corner\", \"opening_hours\": \"Mo-Fr 10:00-17:30; Sa 10:00-16:30\", \"panoramax\": \"4bbbc9c7-f43e-47ff-ba16-feef37225a4c\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"payment:qr_code\": \"no\", \"service:electricity\": \"no\"}",
+    "lat": 51.1989118,
+    "lon": 4.4284028
+  },
+  {
+    "id": 11339262472,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"519\", \"addr:street\": \"Bredabaan\", \"amenity\": \"fast_food\", \"brand\": \"Domino's\", \"brand:wikidata\": \"Q839466\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"drive_through\": \"no\", \"name\": \"Domino's\", \"opening_hours\": \"Mo-Th,Su 11:30-22:00; Fr 11:30-22:30; Sa 11:30-23:00\", \"phone\": \"+32 3 666 10 10\", \"takeaway\": \"yes\", \"website\": \"https://www.dominos.be/nl/winkel/be-antwerpenmerksem-31214\"}",
+    "lat": 51.2455568,
+    "lon": 4.4482977
+  },
+  {
+    "id": 11340828960,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Pizza Taxi\"}",
+    "lat": 51.1973502,
+    "lon": 4.4424452
+  },
+  {
+    "id": 11341475559,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-11-11\", \"cuisine\": \"sandwich\", \"name\": \"Smulbagetje\"}",
+    "lat": 51.1726294,
+    "lon": 4.3621468
+  },
+  {
+    "id": 11351529181,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2023-11-13\", \"level\": \"0\", \"name\": \"Capri\"}",
+    "lat": 51.200265,
+    "lon": 4.4326133
+  },
+  {
+    "id": 11608154983,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"73\", \"addr:street\": \"Anselmostraat\", \"alt_name\": \"Frituur Den Hoek\", \"amenity\": \"fast_food\", \"contact:email\": \"info@frituurdenhoek.be\", \"contact:instagram\": \"frituurdenhoek\", \"contact:phone\": \"+32 3 434 74 47\", \"contact:website\": \"https://frituurdenhoek.be/\", \"cuisine\": \"friture\", \"name\": \"Den Hoek\", \"opening_hours\": \"Mo-Su 17:00-22:00\"}",
+    "lat": 51.2056871,
+    "lon": 4.4046878
+  },
+  {
+    "id": 11632409120,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"359\", \"addr:street\": \"Boomsesteenweg\", \"amenity\": \"fast_food\", \"contact:facebook\": \"https://www.facebook.com/profile.php?id=100057217339264\", \"cuisine\": \"sandwich\", \"mobile\": \"+32 469 23 33 69\", \"name\": \"Broodje-s-top\", \"opening_hours\": \"Mo-Tu,Th-Fr 07:00-14:30; We 07:00-14:00\", \"website\": \"https://www.broodje-s-top.be/\"}",
+    "lat": 51.167275,
+    "lon": 4.3866028
+  },
+  {
+    "id": 11635004684,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Frituur 't pleintje\"}",
+    "lat": 51.1952822,
+    "lon": 4.4182121
+  },
+  {
+    "id": 11693591136,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"check_date\": \"2024-03-05\", \"name\": \"Snackhuis Antwerpen\"}",
+    "lat": 51.2207799,
+    "lon": 4.4002242
+  },
+  {
+    "id": 11698679979,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4\", \"addr:street\": \"Oude Beurs\", \"amenity\": \"fast_food\", \"diet:vegan\": \"only\", \"diet:vegetarian\": \"yes\", \"name\": \"Sweet Vegan\", \"opening_hours\": \"Sa, Su 10:00-18:00\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://www.sweetvegan.be\"}",
+    "lat": 51.2222302,
+    "lon": 4.3996337
+  },
+  {
+    "id": 11711981629,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"353\", \"addr:street\": \"Kruishofstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"email\": \"info@frituurpermeke.be\", \"name\": \"Frituur Permeke\", \"opening_hours\": \"Mo-Su 12:00-22:00\", \"phone\": \"+32 470 85 36 69\", \"website\": \"https://www.frituurpermeke.be/\"}",
+    "lat": 51.1796571,
+    "lon": 4.390004
+  },
+  {
+    "id": 11778646443,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"58\", \"addr:street\": \"Lange Herentalsestraat\", \"amenity\": \"fast_food\", \"check_date\": \"2024-04-01\", \"cuisine\": \"pizza\", \"delivery\": \"yes\", \"name\": \"Time Out\", \"outdoor_seating\": \"no\", \"phone\": \"+32 32812300\", \"source\": \"survey\", \"takeaway\": \"yes\"}",
+    "lat": 51.214562,
+    "lon": 4.4174639
+  },
+  {
+    "id": 12070588986,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"brand\": \"Domino's\", \"brand:wikidata\": \"Q839466\", \"cuisine\": \"pizza\", \"drive_through\": \"no\", \"name\": \"Domino's\", \"takeaway\": \"yes\"}",
+    "lat": 51.1707628,
+    "lon": 4.3946113
+  },
+  {
+    "id": 12143929434,
+    "type": "node",
+    "tags": "{\"alt_name\": \"Frituur De Petaat\", \"amenity\": \"fast_food\", \"contact:website\": \"https://www.frituurdepetaat.be/\", \"cuisine\": \"friture\", \"delivery\": \"yes\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"friture:oil\": \"vegetable\", \"name\": \"De Petaat\", \"opening_hours\": \"Tu,Th-Fr 12:00-14:00,17:00-21:00; We 17:00-21:00; Sa-Su 12:00-21:00\", \"opening_hours:url\": \"https://www.frituurdepetaat.be/contact\", \"source:opening_hours\": \"website\", \"takeaway\": \"yes\"}",
+    "lat": 51.2141149,
+    "lon": 4.4101458
+  },
+  {
+    "id": 12174665922,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Say Pasta\"}",
+    "lat": 51.1724159,
+    "lon": 4.3937349
+  },
+  {
+    "id": 12228412631,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:housenumber\": \"51\", \"addr:postcode\": \"2610\", \"addr:street\": \"Jozef Cuyversstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"drive_through\": \"no\", \"name\": \"Frituur De Bist\"}",
+    "lat": 51.1667601,
+    "lon": 4.3910105
+  },
+  {
+    "id": 12306991101,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"waffle\", \"name\": \"Belgian Waffles\"}",
+    "lat": 51.217997,
+    "lon": 4.4089475
+  },
+  {
+    "id": 12310531881,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"27\", \"addr:street\": \"Ossenmarkt\", \"amenity\": \"fast_food\", \"cuisine\": \"kebab\", \"name\": \"King Kebab\"}",
+    "lat": 51.2216952,
+    "lon": 4.4132258
+  },
+  {
+    "id": 12311510270,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"waffle\", \"name\": \"The Smallest Waffle Shop In The World\"}",
+    "lat": 51.2186275,
+    "lon": 4.404824
+  },
+  {
+    "id": 12488206277,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Foodmaker\", \"opening_hours\": \"Mo-Fr 08:00-16:00\", \"phone\": \"+32 3 376 00 30\", \"website\": \"https://foodmaker.be\"}",
+    "lat": 51.1938093,
+    "lon": 4.4354242
+  },
+  {
+    "id": 12549683068,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"name\": \"Frituur Frietbaar\"}",
+    "lat": 51.1639467,
+    "lon": 4.3979736
+  },
+  {
+    "id": 12672651860,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"40\", \"addr:postcode\": \"2000\", \"addr:street\": \"Prinsstraat\", \"amenity\": \"fast_food\", \"cuisine\": \"sandwich;kebab;mediterranean\", \"diet:healthy\": \"yes\", \"diet:organic\": \"yes\", \"diet:vegetarian\": \"yes\", \"name\": \"Kool en Zo\", \"opening_hours\": \"Mo-Fr 11:00-17:00\"}",
+    "lat": 51.222109,
+    "lon": 4.4108291
+  },
+  {
+    "id": 12704514131,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"sandwich\", \"name\": \"Bagatel\", \"opening_hours\": \"Mo-Thu 08:00-17:00, Fr 08:00-16:00\"}",
+    "lat": 51.2222345,
+    "lon": 4.4096046
+  },
+  {
+    "id": 12731590159,
+    "type": "node",
+    "tags": "{\"amenity\": \"fast_food\", \"cuisine\": \"friture\", \"name\": \"Frietcorner\", \"opening_hours\": \"Mo-Su 17:00-20:30; Tu off; Sa off\", \"website\": \"https://www.frietcorner-berchem.be\"}",
+    "lat": 51.1821332,
+    "lon": 4.4383384
+  },
+  {
+    "id": 4343010857,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerp\", \"addr:housenumber\": \"421\", \"addr:postcode\": \"45813\", \"addr:state\": \"OH\", \"addr:street\": \"West River Street\", \"amenity\": \"fast_food\", \"cuisine\": \"root_beer;burger;chicken;hot_dog;fries\", \"name\": \"The Root Beer Stand\", \"name:ar\": \"\\u0645\\u0648\\u0642\\u0641 \\u0627\\u0644\\u0628\\u064a\\u0631\\u0629 \\u0627\\u0644\\u062c\\u0630\\u0631\", \"opening_hours\": \"Mo-Sa 11:00-21:00; Su off\"}",
+    "lat": 41.1794713,
+    "lon": -84.7459258
+  },
+  {
+    "id": 4343012532,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerp\", \"addr:housenumber\": \"104\", \"addr:postcode\": \"45813\", \"addr:state\": \"OH\", \"addr:street\": \"South Main Street\", \"amenity\": \"fast_food\", \"brand\": \"Subway\", \"brand:wikidata\": \"Q244457\", \"cuisine\": \"sandwich\", \"name\": \"Subway\", \"opening_hours\": \"Mo-Sa 11:00-20:00; Su 11:00-19:00\", \"phone\": \"+1 419-258-2363\", \"takeaway\": \"yes\", \"website\": \"https://restaurants.subway.com/united-states/oh/antwerp/104-s-main-st\"}",
+    "lat": 41.1812384,
+    "lon": -84.7402603
+  }
+]

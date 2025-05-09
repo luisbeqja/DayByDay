@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1775392351,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-12-15\", \"check_date:opening_hours\": \"2024-12-15\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.74\", \"name\": \"Akotee\", \"opening_hours\": \"Mo 12:00-18:00; Tu-Sa 11:00-18:00; Su 12:00-17:00\", \"shop\": \"gift\", \"website\": \"https://www.akotee.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2202132,
+    "lon": 4.4026141
+  },
+  {
+    "id": 3181366673,
+    "type": "node",
+    "tags": "{\"building\": \"yes\", \"name\": \"Jungleshop\", \"shop\": \"gift\"}",
+    "lat": 51.2173093,
+    "lon": 4.4222154
+  },
+  {
+    "id": 3844916484,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2180\", \"addr:street\": \"Groot Hagelkruis\", \"amenity\": \"cafe\", \"email\": \"sylviane.nauwelaers@gmail.com\", \"name\": \"Perfect Present\", \"opening_hours\": \"Tu-Sa 10:00-18:00; Su,Mo off\", \"phone\": \"+32 3 544 90 09\", \"shop\": \"gift\", \"website\": \"https://www.perfectpresent.be\"}",
+    "lat": 51.2781158,
+    "lon": 4.4179981
+  },
+  {
+    "id": 3877899765,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"63-65\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kloosterstraat\", \"email\": \"lievenuyens@hotmail.com\", \"fax\": \"+32 3 542 41 14\", \"name\": \"Bondoline\", \"opening_hours\": \"Tu,Th-Sa 09:00-18:00; We 09:00-19:00; Su,Mo off; PH off\", \"phone\": \"+32 3 542 25 35\", \"shop\": \"gift\", \"website\": \"https://www.bondoline.be\"}",
+    "lat": 51.2814363,
+    "lon": 4.4180726
+  },
+  {
+    "id": 5300736831,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"62-64\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hoogstraat\", \"alt_name\": \"Boekenmarkt De Markies\", \"changing_table\": \"no\", \"check_date\": \"2023-11-09\", \"contact:facebook\": \"https://www.facebook.com/boekmarkies\", \"email\": \"info@boekmarkies.be\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.92\", \"name\": \"Baiantwerp\", \"phone\": \"+32 3 294 67 03\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.boekmarkies.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.218959,
+    "lon": 4.3974098
+  },
+  {
+    "id": 5982606663,
+    "type": "node",
+    "tags": "{\"name\": \"Craft & things\", \"shop\": \"gift\"}",
+    "lat": 51.2195759,
+    "lon": 4.4051263
+  },
+  {
+    "id": 6001950071,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.89\", \"name\": \"Oxfam wereldwinkel\", \"operator\": \"oxfam\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.oxfamwereldwinkels.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2221843,
+    "lon": 4.4048791
+  },
+  {
+    "id": 6179181370,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-14\", \"name\": \"Sparkling Gift\", \"shop\": \"gift\"}",
+    "lat": 51.2206612,
+    "lon": 4.3997864
+  },
+  {
+    "id": 6179181373,
+    "type": "node",
+    "tags": "{\"shop\": \"gift\"}",
+    "lat": 51.220503,
+    "lon": 4.3997387
+  },
+  {
+    "id": 6179181377,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-03-05\", \"name\": \"Antwerps Kantwinkeltje\", \"shop\": \"gift\", \"website\": \"http://antwerpskantwinkeltje.be\"}",
+    "lat": 51.2203442,
+    "lon": 4.4000128
+  },
+  {
+    "id": 6297239502,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"90\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kloosterstraat\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.5\", \"name\": \"Yours\", \"name:en\": \"Your\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"website\": \"https://your-antwerp.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2145069,
+    "lon": 4.393871
+  },
+  {
+    "id": 6298603472,
+    "type": "node",
+    "tags": "{\"name\": \"Yay\", \"shop\": \"gift\", \"website\": \"https://www.yay-conceptstore.com\"}",
+    "lat": 51.2137928,
+    "lon": 4.3935284
+  },
+  {
+    "id": 6321736485,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.76\", \"name\": \"DNexus 'The Disney Shop'\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.dnexus.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2191164,
+    "lon": 4.3977831
+  },
+  {
+    "id": 6324030034,
+    "type": "node",
+    "tags": "{\"name\": \"BazarApart\", \"shop\": \"gift\", \"website\": \"http://www.bazarapart.be\"}",
+    "lat": 51.219995,
+    "lon": 4.3986298
+  },
+  {
+    "id": 6329631328,
+    "type": "node",
+    "tags": "{\"name\": \"Thaish\", \"shop\": \"gift\"}",
+    "lat": 51.218209,
+    "lon": 4.3974747
+  },
+  {
+    "id": 6515848576,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.78\", \"name\": \"Daro\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2155729,
+    "lon": 4.3990562
+  },
+  {
+    "id": 6854727243,
+    "type": "node",
+    "tags": "{\"name\": \"Ark van Noel\", \"shop\": \"gift\"}",
+    "lat": 51.2212581,
+    "lon": 4.4283055
+  },
+  {
+    "id": 6917721520,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"0.87\", \"name\": \"Steen en been\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.steenenbeen.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2101348,
+    "lon": 4.3951257
+  },
+  {
+    "id": 7015361639,
+    "type": "node",
+    "tags": "{\"name\": \"New Central Souvenir\", \"shop\": \"gift\"}",
+    "lat": 51.2189952,
+    "lon": 4.4220609
+  },
+  {
+    "id": 7358654645,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Ekeren\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2180\", \"addr:street\": \"Driehoekstraat\", \"name\": \"Anneke en Janneke\", \"shop\": \"gift\"}",
+    "lat": 51.2794637,
+    "lon": 4.4193785
+  },
+  {
+    "id": 7358654646,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Ekeren\", \"addr:housenumber\": \"10\", \"addr:postcode\": \"2180\", \"addr:street\": \"Jozef De Weerdtstraat\", \"name\": \"Anneke en Janneke\", \"shop\": \"gift\"}",
+    "lat": 51.278895,
+    "lon": 4.4201433
+  },
+  {
+    "id": 7611607576,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Mariaburg\", \"addr:housenumber\": \"589\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kapelsesteenweg\", \"name\": \"Futur Conceptstore\", \"shop\": \"gift\"}",
+    "lat": 51.293877,
+    "lon": 4.4427035
+  },
+  {
+    "id": 7615691441,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Merksem\", \"addr:housenumber\": \"521\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"name\": \"KampingK\", \"shop\": \"gift\"}",
+    "lat": 51.2455476,
+    "lon": 4.4484111
+  },
+  {
+    "id": 7625879539,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"43\", \"addr:postcode\": \"2610\", \"addr:street\": \"Gallaitlaan\", \"name\": \"Made By Ellen\", \"shop\": \"gift\"}",
+    "lat": 51.1654845,
+    "lon": 4.391506
+  },
+  {
+    "id": 10220971566,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"73\", \"addr:street\": \"Hoogstraat\", \"name\": \"Jacob's Conceptstore\", \"opening_hours\": \"Tu-Su 10:00-18:00\", \"shop\": \"gift\", \"website\": \"https://www.jacobsconceptstore.com/\"}",
+    "lat": 51.2184736,
+    "lon": 4.3971938
+  },
+  {
+    "id": 11335476877,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"291\", \"addr:street\": \"Mechelsesteenweg\", \"check_date\": \"2023-11-09\", \"name\": \"De Koninck Shop\", \"shop\": \"gift\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1993603,
+    "lon": 4.4152208
+  },
+  {
+    "id": 11346404283,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:street\": \"Belgi\\u00eblei\", \"check_date\": \"2023-11-13\", \"name\": \"Precious\", \"opening_hours\": \"Mo-We 11:00-18:30; Th 11:00-19:00; Fr 10:30-13:00; Sa off; Su 13:00-18:00\", \"payment:american_express\": \"yes\", \"payment:diners_club\": \"yes\", \"payment:mastercard\": \"yes\", \"payment:visa\": \"yes\", \"shop\": \"gift\", \"source\": \"survey\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2081282,
+    "lon": 4.4218217
+  },
+  {
+    "id": 11386505629,
+    "type": "node",
+    "tags": "{\"name\": \"Kers en Kato\", \"shop\": \"gift\", \"website\": \"https://kersenkato.be\"}",
+    "lat": 51.1660085,
+    "lon": 4.382186
+  },
+  {
+    "id": 11515739385,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.94\", \"name\": \"Bongo\", \"opening_hours\": \"Mo-Sa 10:00-18:00\", \"shop\": \"gift\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2123573,
+    "lon": 4.3955926
+  },
+  {
+    "id": 11693591134,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.03\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1\", \"name\": \"Belgian Heritage\", \"ramp:wheelchair\": \"no\", \"shop\": \"gift\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2210103,
+    "lon": 4.4003612
+  },
+  {
+    "id": 11693591135,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-03-05\", \"name\": \"Antwerp Souvenir & Chocolate\", \"shop\": \"gift\"}",
+    "lat": 51.2209227,
+    "lon": 4.4003677
+  },
+  {
+    "id": 11693640423,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-03-05\", \"name\": \"No Nonsense\", \"shop\": \"gift\"}",
+    "lat": 51.2210178,
+    "lon": 4.401832
+  },
+  {
+    "id": 11693925872,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.74\", \"name\": \"Akotee\", \"shop\": \"gift\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2203433,
+    "lon": 4.4024321
+  },
+  {
+    "id": 11693925873,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-03-05\", \"name\": \"Belgie Tip Top\", \"shop\": \"gift\"}",
+    "lat": 51.2199735,
+    "lon": 4.4026305
+  },
+  {
+    "id": 12212708413,
+    "type": "node",
+    "tags": "{\"contact:website\": \"https://middelheimmuseum.be/nl/museumshop\", \"name\": \"Museumshop\", \"shop\": \"gift\"}",
+    "lat": 51.1813585,
+    "lon": 4.4133796
+  }
+]

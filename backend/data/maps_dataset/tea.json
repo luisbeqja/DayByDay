@@ -1,0 +1,30 @@
+[
+  {
+    "id": 6483333200,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.84\", \"name\": \"The Tea Collection\", \"shop\": \"tea\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.teacollection.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2129966,
+    "lon": 4.4074941
+  },
+  {
+    "id": 6644637993,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-10-15\", \"entrance:kerb:height\": \"0.02\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.82\", \"name\": \"The Antwerp Tea Party\", \"ramp:wheelchair\": \"no\", \"shop\": \"tea\", \"website\": \"https://theantwerpteaparty.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.225275,
+    "lon": 4.4104187
+  },
+  {
+    "id": 7415158867,
+    "type": "node",
+    "tags": "{\"name\": \"Tea By Teacoach ken\", \"shop\": \"tea\", \"website\": \"https://teabyteacoachken.be\"}",
+    "lat": 51.219296,
+    "lon": 4.4142841
+  },
+  {
+    "id": 12618138701,
+    "type": "node",
+    "tags": "{\"name\": \"Kukai. Matcha\", \"opening_hours\": \"Th-Su 00:00-24:00\", \"shop\": \"tea\"}",
+    "lat": 51.2255167,
+    "lon": 4.4052421
+  }
+]

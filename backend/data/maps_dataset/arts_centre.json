@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1625928216,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Creation\"}",
+    "lat": 51.2117281,
+    "lon": 4.3933741
+  },
+  {
+    "id": 2263177104,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"81\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kammenstraat\", \"amenity\": \"arts_centre\", \"changing_table\": \"no\", \"email\": \"info@amuz.be\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:width\": \"1.1\", \"name\": \"AMUZ\", \"phone\": \"+32 3 292 36 80\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"toilets:wheelchair:door_width\": \"0.91\", \"toilets:wheelchair:space_side\": \"0.9\", \"website\": \"https://www.amuz.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163061,
+    "lon": 4.4021085
+  },
+  {
+    "id": 5110634665,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"28\", \"addr:postcode\": \"2140\", \"addr:street\": \"Noordersingel\", \"amenity\": \"arts_centre\", \"check_date\": \"2024-10-22\", \"name\": \"Trix\"}",
+    "lat": 51.2195776,
+    "lon": 4.4483726
+  },
+  {
+    "id": 5236162161,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"5-7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Ankerrui\", \"amenity\": \"arts_centre\", \"email\": \"info@hetbos.be\", \"name\": \"Het Bos\", \"opening_hours\": \"We-Sa 12:00-00:00; Su 09:00-16:00\", \"website\": \"https://www.hetbos.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2274125,
+    "lon": 4.4103455
+  },
+  {
+    "id": 5996361948,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Artodomo\", \"website\": \"http://www.artodomo.be\"}",
+    "lat": 51.2221928,
+    "lon": 4.4044934
+  },
+  {
+    "id": 6003358728,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"David Norden\"}",
+    "lat": 51.2204899,
+    "lon": 4.4054019
+  },
+  {
+    "id": 6003358730,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Retouche\"}",
+    "lat": 51.2207987,
+    "lon": 4.4053781
+  },
+  {
+    "id": 6003358731,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Modernist\"}",
+    "lat": 51.2208769,
+    "lon": 4.4053721
+  },
+  {
+    "id": 6003358733,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.77\", \"name\": \"Raf Van Severen\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.rafvanseveren.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2213556,
+    "lon": 4.4052351
+  },
+  {
+    "id": 6222396046,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Artifex Gallery\", \"website\": \"https://www.artifexgallery.be\"}",
+    "lat": 51.219389,
+    "lon": 4.4005803
+  },
+  {
+    "id": 7123007550,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Huis van het Boek\"}",
+    "lat": 51.208665,
+    "lon": 4.4522058
+  },
+  {
+    "id": 7246213764,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"128\", \"addr:postcode\": \"2000\", \"addr:street\": \"Amerikalei\", \"amenity\": \"arts_centre\", \"amenity_1\": \"coworking_space\", \"contact:email\": \"info@kopvzw.be\", \"contact:facebook\": \"https://www.facebook.com/KOPvzw/\", \"contact:instagram\": \"https://www.instagram.com/kopvzw/\", \"contact:website\": \"https://kopvzw.be/\", \"full_name\": \"Kunstenaars Ondersteunend Platform vzw\", \"name\": \"KOP vzw\", \"office\": \"coworking\"}",
+    "lat": 51.2066603,
+    "lon": 4.3945299
+  },
+  {
+    "id": 7247400659,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"4\", \"addr:postcode\": \"2030\", \"addr:street\": \"Droogdokkenweg\", \"amenity\": \"arts_centre\", \"check_date\": \"2023-12-23\", \"contact:email\": \"info@stormkop.be\", \"contact:facebook\": \"https://www.facebook.com/stormkop/\", \"contact:instagram\": \"https://www.instagram.com/stormkop/\", \"name\": \"Stormkop\", \"website\": \"https://www.stormkop.be/\"}",
+    "lat": 51.2366225,
+    "lon": 4.4038747
+  },
+  {
+    "id": 7315164519,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"check_date\": \"2024-01-20\", \"name\": \"Lokaal 25\"}",
+    "lat": 51.2149169,
+    "lon": 4.3957887
+  },
+  {
+    "id": 7315345186,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"24\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Andriesplaats\", \"alt_name\": \"co Sint-Andries;Cultureel Ontmoetingscentrum Sint-Andries\", \"amenity\": \"arts_centre\", \"check_date\": \"2024-01-20\", \"contact:facebook\": \"https://www.facebook.com/costa.sintandries\", \"email\": \"cosintandries@stad.antwerpen.be\", \"height\": \"7.85\", \"name\": \"coStA\", \"operator\": \"Stad Antwerpen\", \"phone\": \"+32 3 260 80 50\", \"website\": \"https://www.cosintandries.be/\", \"wikidata\": \"Q33100361\"}",
+    "lat": 51.2148346,
+    "lon": 4.3959951
+  },
+  {
+    "id": 7346608655,
+    "type": "node",
+    "tags": "{\"amenity\": \"arts_centre\", \"name\": \"Cultureelcentrum Selmiye vzw\"}",
+    "lat": 51.1994925,
+    "lon": 4.4259666
+  },
+  {
+    "id": 7745253581,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"31\", \"addr:street\": \"Wolstraat\", \"amenity\": \"arts_centre\", \"name\": \"Pinkie Bowtie\", \"website\": \"http://pinkiebowtie.com\"}",
+    "lat": 51.221544,
+    "lon": 4.4040443
+  }
+]

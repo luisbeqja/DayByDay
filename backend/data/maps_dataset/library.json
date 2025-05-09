@@ -1,0 +1,100 @@
+[
+  {
+    "id": 247670998,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"email\": \"info.permeke@antwerpen.be\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"no\", \"name\": \"Stedelijke Bibliotheek Permeke\", \"opening_hours\": \"Mo-Fr 10:00-19:00; Sa,Su 10:00-16:00\", \"phone\": \"+32 3 221 13 33\", \"website\": \"https://www.permeke.org/bibliotheek\"}",
+    "lat": 51.2217888,
+    "lon": 4.421477
+  },
+  {
+    "id": 247670999,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Erfgoedbibliotheek Hendrik Conscience\", \"opening_hours\": \"Sep-Jun: Mo-Th 10:00-18:00; Sep-Jun: Fr 10:00-16:00; Jul-Aug: Mo-Th 10:00-17:00; Jul-Aug: Fr 10:00-16:00\", \"wikidata\": \"Q2564527\"}",
+    "lat": 51.2204279,
+    "lon": 4.4040668
+  },
+  {
+    "id": 290183429,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"18\", \"addr:street\": \"Turkooisstraat\", \"amenity\": \"library\", \"name\": \"Openbare Bibliotheek Groenenhoek\"}",
+    "lat": 51.1957084,
+    "lon": 4.4415812
+  },
+  {
+    "id": 632568266,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Openbare Bibliotheek De Poort\", \"opening_hours\": \"Tu-Th 10:00-20:00; Fr,Sa 10:00-17:00\"}",
+    "lat": 51.1954264,
+    "lon": 4.4206544
+  },
+  {
+    "id": 1291809492,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Stadsbibliotheek Te Couwelaarlei\"}",
+    "lat": 51.2228568,
+    "lon": 4.4582135
+  },
+  {
+    "id": 1362482686,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Bibliotheek Park\"}",
+    "lat": 51.2473774,
+    "lon": 4.4498565
+  },
+  {
+    "id": 1538266276,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2610\", \"addr:street\": \"Bist\", \"amenity\": \"library\", \"name\": \"Bibliotheek Bist\", \"opening_hours\": \"Tu-Th 10:00-20:00; Fr,Sa 10:00-17:00; Su,Mo,PH off\"}",
+    "lat": 51.1692622,
+    "lon": 4.3937641
+  },
+  {
+    "id": 1914625375,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"contact:email\": \"bib.klantendienst@antwerpen.be\", \"contact:phone\": \"+32 3 221 13 33\", \"name\": \"Bibliotheek Hoboken\"}",
+    "lat": 51.1750102,
+    "lon": 4.3473964
+  },
+  {
+    "id": 2555538362,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Bibliotheek Arena\"}",
+    "lat": 51.2059194,
+    "lon": 4.4582477
+  },
+  {
+    "id": 2945482834,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Bibliotheek Kielpark\"}",
+    "lat": 51.1897302,
+    "lon": 4.3861956
+  },
+  {
+    "id": 4096877533,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"15\", \"addr:postcode\": \"2040\", \"addr:street\": \"Tolhuisstraat\", \"amenity\": \"library\", \"name\": \"Ruilbibliotheek Lillo\", \"opening_hours\": \"Sa-Su 14:00-16:00\"}",
+    "lat": 51.304586,
+    "lon": 4.289578
+  },
+  {
+    "id": 7280393639,
+    "type": "node",
+    "tags": "{\"amenity\": \"library\", \"name\": \"Rubenianum Bibliotheek en Documentatiecentrum\"}",
+    "lat": 51.2173605,
+    "lon": 4.410301
+  },
+  {
+    "id": 9023469443,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"140\", \"addr:postcode\": \"2000\", \"addr:street\": \"Frankrijklei\", \"amenity\": \"library\", \"description\": \"In the Esperanto House Antwerp is the seat of the Flemish Esperanto Bond with office, publishing house, book service and a small  library. The club \\\"La Verda Stelo\\\" holds its weekly meetings, usually in Esperanto.\", \"image\": \"https://nl.wikipedia.org/wiki/Esperantohuis%20Antwerpen?uselang=en#/media/Bestand:2016_Lange_Beeldekensstraat_04_Sciigo.jpg\", \"name\": \"Esperantohuis\", \"name:de\": \"Esperantohaus\", \"name:en\": \"Esperanto House\", \"name:eo\": \"Esperanto-domo\", \"note\": \"is this still correct location?\", \"office\": \"ngo\", \"start_date\": \"1977\", \"subject:wikidata\": \"Q143\", \"website\": \"https://www.esperanto.be/\", \"wikidata\": \"Q3274037\", \"wikipedia\": \"nl:Esperantohuis Antwerpen\"}",
+    "lat": 51.2135084,
+    "lon": 4.4103277
+  },
+  {
+    "id": 11335477073,
+    "type": "node",
+    "tags": "{\"addr:floor\": \"2\", \"addr:housenumber\": \"37A\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"library\", \"check_date\": \"2023-11-09\", \"level\": \"1\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2001077,
+    "lon": 4.4197518
+  }
+]

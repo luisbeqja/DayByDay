@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5224409115,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudaan\", \"name\": \"Mister Barish\", \"shop\": \"coffee\"}",
+    "lat": 51.2156399,
+    "lon": 4.4024572
+  },
+  {
+    "id": 5615179728,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-04-08\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.79\", \"name\": \"Mattheus B\", \"shop\": \"coffee\", \"website\": \"https://mattheusb.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2155206,
+    "lon": 4.4020673
+  },
+  {
+    "id": 5715201622,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"161\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lamorini\\u00e8restraat\", \"amenity\": \"cafe\", \"email\": \"caffenation@gmail.com\", \"name\": \"Caff\\u00e8nation\", \"opening_hours\": \"Mo-Fr 08:00-17:00; Sa,Su,PH off\", \"phone\": \"+32 3 501 22 92\", \"shop\": \"coffee\", \"website\": \"https://caffenation.be/\"}",
+    "lat": 51.2025244,
+    "lon": 4.4217974
+  },
+  {
+    "id": 7235177737,
+    "type": "node",
+    "tags": "{\"name\": \"Rush Rush Coffee Roasters\", \"shop\": \"coffee\"}",
+    "lat": 51.2067289,
+    "lon": 4.4326251
+  },
+  {
+    "id": 7373307283,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"13\", \"addr:street\": \"Statiestraat\", \"name\": \"Helios\", \"shop\": \"coffee\"}",
+    "lat": 51.1972774,
+    "lon": 4.4237298
+  },
+  {
+    "id": 11515053186,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Caff\\u00e9nation goes Koco\", \"shop\": \"coffee\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2119806,
+    "lon": 4.3968068
+  }
+]

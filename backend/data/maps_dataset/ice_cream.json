@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1811224275,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:postcode\": \"2000\", \"addr:street\": \"Korte Gasthuisstraat\", \"alt_name\": \"IJssalon 't Bieke\", \"amenity\": \"ice_cream\", \"check_date\": \"2023-10-13\", \"contact:facebook\": \"https://www.facebook.com/ijsbieke\", \"email\": \"ijssalonbieke@proximus.be\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.1\", \"name\": \"'t Bieke\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su off\", \"phone\": \"+32 3 231 61 59\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2172216,
+    "lon": 4.4039694
+  },
+  {
+    "id": 4734855809,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"42\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Aldegondiskaai\", \"amenity\": \"ice_cream\", \"email\": \"fratelli@skynet.be\", \"entrance:kerb:height\": \"0\", \"entrance:width\": \"0.8\", \"name\": \"Foubert\", \"old_name\": \"Fratelli\", \"opening_hours\": \"Mo-Su 12:00-23:00\", \"phone\": \"+32 3 336 23 80\", \"toilets:wheelchair\": \"yes\", \"website\": \"https://www.foubert.eu/antwerpen\"}",
+    "lat": 51.2278323,
+    "lon": 4.4042655
+  },
+  {
+    "id": 4760794163,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"13\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nassaustraat\", \"amenity\": \"ice_cream\", \"name\": \"Cremerie Germaine\", \"opening_hours\": \"Tu-Su 13:00-22:00; Mo off\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 226 37 95\", \"website\": \"https://cremeriegermaine.be\"}",
+    "lat": 51.2306848,
+    "lon": 4.4057208
+  },
+  {
+    "id": 5188619546,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.17\", \"name\": \"Gelato Factory\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.gelatofactory.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2081245,
+    "lon": 4.3899166
+  },
+  {
+    "id": 5484799900,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schrijnwerkersstraat\", \"amenity\": \"ice_cream\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"Monkey's a\\u00e7ai\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2181833,
+    "lon": 4.4037627
+  },
+  {
+    "id": 6036014388,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Milanese\"}",
+    "lat": 51.2150098,
+    "lon": 4.4024471
+  },
+  {
+    "id": 6154791337,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Icelab\"}",
+    "lat": 51.2141364,
+    "lon": 4.4088952
+  },
+  {
+    "id": 6179181374,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Amorino\"}",
+    "lat": 51.2205502,
+    "lon": 4.3995241
+  },
+  {
+    "id": 6284526659,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"check_date\": \"2024-02-10\", \"name\": \"Tropical\", \"takeaway\": \"yes\"}",
+    "lat": 51.2188676,
+    "lon": 4.3973166
+  },
+  {
+    "id": 6535001444,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"check_date\": \"2024-02-06\", \"name\": \"van Hecke\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.215005,
+    "lon": 4.3984677
+  },
+  {
+    "id": 6578720534,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"29a\", \"addr:postcode\": \"2018\", \"addr:street\": \"Dageraadplaats\", \"amenity\": \"ice_cream\", \"name\": \"IJssalon Gelateria Savini\"}",
+    "lat": 51.2068988,
+    "lon": 4.4295067
+  },
+  {
+    "id": 6681645506,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Kre\\u00eamgelas\"}",
+    "lat": 51.2172737,
+    "lon": 4.3965419
+  },
+  {
+    "id": 6958627493,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Cremerie\", \"takeaway\": \"yes\"}",
+    "lat": 51.2174313,
+    "lon": 4.4277739
+  },
+  {
+    "id": 8440217579,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"contact:mobile\": \"+32 496 27 07 17\", \"email\": \"ria.van.kerckhove@telenet.be\", \"name\": \"Montebello\", \"opening_hours\": \"Mo,Th 16:00-20:00; Tu 16:00-19:30; We-Su 14:00-20:00\", \"takeaway\": \"yes\", \"website\": \"https://montebello5.be\"}",
+    "lat": 51.2079284,
+    "lon": 4.4085395
+  },
+  {
+    "id": 10967421147,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"7\", \"addr:postcode\": \"2180\", \"addr:street\": \"Markt\", \"amenity\": \"ice_cream\", \"contact:facebook\": \"https://www.facebook.com/Marktje7\", \"email\": \"info@marktje7.be\", \"name\": \"Marktje 7\", \"opening_hours\": \"We-Su 14:00-21:00; Mo-Tu off\", \"phone\": \"+32 470 53 07 80\", \"takeaway\": \"only\"}",
+    "lat": 51.2774588,
+    "lon": 4.4188931
+  },
+  {
+    "id": 11693925874,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"check_date\": \"2024-03-05\", \"name\": \"Australian\"}",
+    "lat": 51.2196546,
+    "lon": 4.4027294
+  },
+  {
+    "id": 11896774871,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Saropie\", \"opening_hours\": \"Tu-Su 12:00-23:00\"}",
+    "lat": 51.2215705,
+    "lon": 4.4268353
+  },
+  {
+    "id": 12114478376,
+    "type": "node",
+    "tags": "{\"amenity\": \"ice_cream\", \"name\": \"Fruity de Anvers & Waffles\", \"opening_hours\": \"Mo-Su 11:00-22:00\", \"outdoor_seating\": \"no\"}",
+    "lat": 51.2208033,
+    "lon": 4.4003832
+  }
+]

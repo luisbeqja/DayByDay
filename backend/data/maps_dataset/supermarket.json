@@ -1,0 +1,828 @@
+[
+  {
+    "id": 247308726,
+    "type": "node",
+    "tags": "{\"OnroerendErfgoed:criteria\": \"M\", \"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"43\", \"addr:postcode\": \"2000\", \"addr:street\": \"Groenplaats\", \"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"check_date\": \"2024-01-17\", \"heritage\": \"4\", \"heritage:operator\": \"OnroerendErfgoed\", \"heritage:website\": \"https://inventaris.onroerenderfgoed.be/dibe/relict/4018\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo-Sa 08:00-20:00; Su 09:00-18:00; PH off\", \"ref:OnroerendErfgoed\": \"4018\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2183465,
+    "lon": 4.4015387
+  },
+  {
+    "id": 251541857,
+    "type": "node",
+    "tags": "{\"brand\": \"Proxy Delhaize\", \"brand:wikidata\": \"Q14903417\", \"brand:wikipedia\": \"en:Delhaize Group\", \"name\": \"Proxy Delhaize\", \"shop\": \"supermarket\"}",
+    "lat": 51.2186025,
+    "lon": 4.4205059
+  },
+  {
+    "id": 251542005,
+    "type": "node",
+    "tags": "{\"brand\": \"Carrefour Market\", \"brand:wikidata\": \"Q2689639\", \"brand:wikipedia\": \"fr:Carrefour Market\", \"check_date\": \"2024-01-17\", \"level\": \"-1\", \"name\": \"Carrefour Market\", \"shop\": \"supermarket\"}",
+    "lat": 51.2186142,
+    "lon": 4.4025481
+  },
+  {
+    "id": 251542113,
+    "type": "node",
+    "tags": "{\"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00\", \"shop\": \"supermarket\", \"website\": \"https://www.lidl-shop.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2261546,
+    "lon": 4.4162774
+  },
+  {
+    "id": 251542193,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8-9\", \"addr:postcode\": \"2060\", \"addr:street\": \"Brugstraat\", \"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"check_date:opening_hours\": \"2024-08-22\", \"name\": \"ALDI\", \"opening_hours\": \"Mo-Sa 08:30-19:00; Su off\", \"shop\": \"supermarket\", \"website\": \"https://nl.aldi.be/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2264079,
+    "lon": 4.4187514
+  },
+  {
+    "id": 251542261,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Delhaize\", \"brand:wikidata\": \"Q1184173\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"3.32\", \"level\": \"-1\", \"name\": \"Delhaize\", \"opening_hours\": \"Mo-Th, Sa 08:00-20:00, Fr 08:00-21:00; PH off\", \"shop\": \"supermarket\", \"toilets:wheelchair\": \"no\"}",
+    "lat": 51.2171618,
+    "lon": 4.4111768
+  },
+  {
+    "id": 306484554,
+    "type": "node",
+    "tags": "{\"brand\": \"Carrefour\", \"brand:wikidata\": \"Q217599\", \"brand:wikipedia\": \"fr:Carrefour (enseigne)\", \"name\": \"Carrefour\", \"opening_hours\": \"Mo 13:00-19:45; Tu-Fr 08:00-19:45; Su 08:00-18:00; Sa 08:00-19:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.1790949,
+    "lon": 4.3787699
+  },
+  {
+    "id": 451760211,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Hoboken\", \"addr:housenumber\": \"1400\", \"addr:postcode\": \"2660\", \"addr:street\": \"Sint-Bernardsesteenweg\", \"alt_name\": \"Carrefour market Hoboken\", \"brand\": \"Carrefour\", \"brand:wikidata\": \"Q217599\", \"brand:wikipedia\": \"fr:Carrefour (enseigne)\", \"name\": \"Carrefour\", \"opening_hours\": \"Mo off; Tu-Sa 08:00-19:45; Su 08:00-18:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.1602859,
+    "lon": 4.350259
+  },
+  {
+    "id": 499125007,
+    "type": "node",
+    "tags": "{\"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"shop\": \"supermarket\"}",
+    "lat": 51.2223971,
+    "lon": 4.458597
+  },
+  {
+    "id": 499125466,
+    "type": "node",
+    "tags": "{\"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"name\": \"ALDI\", \"shop\": \"supermarket\"}",
+    "lat": 51.2246672,
+    "lon": 4.4530813
+  },
+  {
+    "id": 500349272,
+    "type": "node",
+    "tags": "{\"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"brand:wikipedia\": \"en:Colruyt (supermarket)\", \"name\": \"Colruyt\", \"shop\": \"supermarket\"}",
+    "lat": 51.2211986,
+    "lon": 4.4579189
+  },
+  {
+    "id": 500351865,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"601\", \"addr:street\": \"Ruggeveldlaan\", \"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"brand:wikipedia\": \"en:Match (supermarket)\", \"name\": \"Colruyt\", \"opening_hours\": \"Mo-Th,Sa 08:30-20:00; Fr 08:30-21:00\", \"phone\": \"+32 2 616 78 49\", \"shop\": \"supermarket\", \"website\": \"https://www.colruyt.be/nl/winkelzoeker/colruyt-deurne-antwerpen-1\"}",
+    "lat": 51.2228811,
+    "lon": 4.478544
+  },
+  {
+    "id": 702681599,
+    "type": "node",
+    "tags": "{\"branch\": \"Deurne Luchthaven\", \"brand\": \"Spar\", \"brand:wikidata\": \"Q610492\", \"name\": \"Spar\", \"shop\": \"supermarket\"}",
+    "lat": 51.195912,
+    "lon": 4.4562122
+  },
+  {
+    "id": 760753351,
+    "type": "node",
+    "tags": "{\"branch\": \"Plantijn\", \"brand\": \"Delhaize\", \"brand:wikidata\": \"Q1184173\", \"brand:wikipedia\": \"fr:Delhaize\", \"name\": \"Delhaize\", \"shop\": \"supermarket\", \"website\": \"https://www.delhaize.be\", \"wheelchair\": \"limited\"}",
+    "lat": 51.210083,
+    "lon": 4.4268851
+  },
+  {
+    "id": 977586846,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Ekeren\", \"addr:postcode\": \"2180\", \"addr:street\": \"Maria-Theresialei\", \"brand\": \"Delhaize\", \"brand:wikidata\": \"Q1184173\", \"brand:wikipedia\": \"fr:Delhaize\", \"currency:EUR\": \"yes\", \"name\": \"Delhaize\", \"payment:cards\": \"yes\", \"payment:cash\": \"yes\", \"payment:coins\": \"yes\", \"phone\": \"+32 3 605 73 26\", \"shop\": \"supermarket\", \"stroller\": \"yes\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2973026,
+    "lon": 4.4393112
+  },
+  {
+    "id": 998318062,
+    "type": "node",
+    "tags": "{\"brand\": \"Carrefour Market\", \"brand:wikidata\": \"Q2689639\", \"brand:wikipedia\": \"fr:Carrefour Market\", \"check_date\": \"2024-02-10\", \"name\": \"Carrefour Market\", \"shop\": \"supermarket\"}",
+    "lat": 51.2017584,
+    "lon": 4.405784
+  },
+  {
+    "id": 1232383909,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"104G\", \"addr:postcode\": \"2030\", \"addr:street\": \"Noorderlaan\", \"brand\": \"Carrefour\", \"brand:wikidata\": \"Q217599\", \"brand:wikipedia\": \"fr:Carrefour (enseigne)\", \"name\": \"Carrefour\", \"opening_hours\": \"Mo-Su 08:00-20:00; PH off\", \"phone\": \"+32 3 541 77 72\", \"shop\": \"supermarket\", \"url\": \"https://www.carrefour.eu\"}",
+    "lat": 51.2504494,
+    "lon": 4.4213834
+  },
+  {
+    "id": 1271041961,
+    "type": "node",
+    "tags": "{\"name\": \"Het Natuurhuis\", \"organic\": \"only\", \"shop\": \"supermarket\"}",
+    "lat": 51.2498356,
+    "lon": 4.4651534
+  },
+  {
+    "id": 1291761007,
+    "type": "node",
+    "tags": "{\"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"shop\": \"supermarket\"}",
+    "lat": 51.2284696,
+    "lon": 4.4384415
+  },
+  {
+    "id": 1324336880,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"167\", \"addr:street\": \"Mechelsesteenweg\", \"name\": \"Carrefour Express\", \"opening_hours\": \"Mo-Sa 07:30-20:00; Th off; Su 08:30-19:00\", \"shop\": \"supermarket\", \"website\": \"https://winkels.carrefour.be/nl/s/carrefour/carrefour-express-antwerpen-mechelsesteenweg/2030\"}",
+    "lat": 51.20448,
+    "lon": 4.4111366
+  },
+  {
+    "id": 1585050166,
+    "type": "node",
+    "tags": "{\"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00; Su,PH off\", \"shop\": \"supermarket\", \"website\": \"https://www.lidl.be/\"}",
+    "lat": 51.1857493,
+    "lon": 4.3712263
+  },
+  {
+    "id": 1635416811,
+    "type": "node",
+    "tags": "{\"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"name\": \"ALDI\", \"shop\": \"supermarket\"}",
+    "lat": 51.2550414,
+    "lon": 4.4629001
+  },
+  {
+    "id": 1635538675,
+    "type": "node",
+    "tags": "{\"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo 13:00-20:00; Tu-Fr 08:00-20:00; Sa 08:00-19:00; Su 08:00-12:00\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be\"}",
+    "lat": 51.1965554,
+    "lon": 4.4202672
+  },
+  {
+    "id": 1635538705,
+    "type": "node",
+    "tags": "{\"name\": \"Promo\", \"shop\": \"supermarket\"}",
+    "lat": 51.1974183,
+    "lon": 4.4237026
+  },
+  {
+    "id": 1635539039,
+    "type": "node",
+    "tags": "{\"shop\": \"supermarket\"}",
+    "lat": 51.2065748,
+    "lon": 4.4484183
+  },
+  {
+    "id": 1638728124,
+    "type": "node",
+    "tags": "{\"cuisine\": \"asian\", \"email\": \"asiafoodsupermarket@gmail.com\", \"name\": \"Asia-Food\", \"opening_hours\": \"Mo-Sa 09:30-18:00\", \"origin\": \"asian\", \"shop\": \"supermarket\", \"website\": \"https://www.asiafood.be\"}",
+    "lat": 51.219973,
+    "lon": 4.4206232
+  },
+  {
+    "id": 1638728158,
+    "type": "node",
+    "tags": "{\"cuisine\": \"asian\", \"name\": \"Sun Kwong\", \"shop\": \"supermarket\"}",
+    "lat": 51.2211399,
+    "lon": 4.4207201
+  },
+  {
+    "id": 1639530526,
+    "type": "node",
+    "tags": "{\"cuisine\": \"asian\", \"email\": \"info@seingthai.com\", \"name\": \"Seing Thai\", \"shop\": \"supermarket\", \"website\": \"http://seingthai.com/wordpress\"}",
+    "lat": 51.219974,
+    "lon": 4.4208718
+  },
+  {
+    "id": 1639530527,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"16-18\", \"addr:postcode\": \"2060\", \"addr:street\": \"Van Wesenbekestraat\", \"cuisine\": \"asian\", \"name\": \"Sun Wah\", \"opening_hours\": \"Mo-Su 09:30-18:00; Tu off; PH off\", \"phone\": \"+32 486 32 48 88\", \"shop\": \"supermarket\", \"website\": \"https://sun-wah.be\"}",
+    "lat": 51.2195186,
+    "lon": 4.4208394
+  },
+  {
+    "id": 1670448709,
+    "type": "node",
+    "tags": "{\"name\": \"Delhaize AD Linkeroever\", \"shop\": \"supermarket\", \"source\": \"survey\"}",
+    "lat": 51.2232312,
+    "lon": 4.385944
+  },
+  {
+    "id": 1683768704,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"241\", \"addr:street\": \"Laarsebaan\", \"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 08:00-12:00\", \"phone\": \"+32 3 700 27 05\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be/winkel/3166\"}",
+    "lat": 51.2552465,
+    "lon": 4.4377133
+  },
+  {
+    "id": 1911855775,
+    "type": "node",
+    "tags": "{\"branch\": \"Hoboken\", \"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"name\": \"ALDI\", \"opening_hours\": \"Mo-Sa 08:30-19:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.1765911,
+    "lon": 4.3681795
+  },
+  {
+    "id": 1911861698,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"143\", \"addr:postcode\": \"2020\", \"addr:street\": \"Sint-Bernardsesteenweg\", \"name\": \"Tanger Markt Kiel\", \"opening_hours\": \"Tu-Su 08:00-19:00\", \"operator\": \"Tanger Markt\", \"payment:cash\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"phone\": \"+32 3 216 36 70\", \"shop\": \"supermarket\"}",
+    "lat": 51.1897336,
+    "lon": 4.3781957
+  },
+  {
+    "id": 1931417594,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"60\", \"addr:postcode\": \"2140\", \"addr:street\": \"Sergeyselsstraat\", \"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"name\": \"ALDI\", \"opening_hours\": \"Mo-Sa 08:30-19:00\", \"payment:credit_cards\": \"yes\", \"shop\": \"supermarket\"}",
+    "lat": 51.2115644,
+    "lon": 4.4327213
+  },
+  {
+    "id": 2419216999,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"24\", \"addr:street\": \"Gloriantlaan\", \"brand\": \"Spar\", \"brand:wikidata\": \"Q610492\", \"brand:wikipedia\": \"en:Spar (retailer)\", \"name\": \"Spar\", \"opening_hours\": \"Mo-Fr 07:30-19:00; Sa 07:30-18:00\", \"shop\": \"supermarket\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2309837,
+    "lon": 4.3859789
+  },
+  {
+    "id": 2508593717,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"25\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hessenplein\", \"alt_name\": \"Albert Heijn Hessenplein\", \"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 09:00-11:45\", \"phone\": \"+32 3 225 20 07\", \"shop\": \"supermarket\", \"url\": \"https://www.ah.be\"}",
+    "lat": 51.2262898,
+    "lon": 4.4099455
+  },
+  {
+    "id": 2961392992,
+    "type": "node",
+    "tags": "{\"brand\": \"Proxy Delhaize\", \"brand:wikidata\": \"Q14903417\", \"brand:wikipedia\": \"en:Delhaize Group\", \"check_date\": \"2024-03-16\", \"name\": \"Proxy Delhaize\", \"operator\": \"Delhaize\", \"shop\": \"supermarket\"}",
+    "lat": 51.2013739,
+    "lon": 4.4235136
+  },
+  {
+    "id": 3155925450,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"brand\": \"Carrefour\", \"brand:wikidata\": \"Q217599\", \"brand:wikipedia\": \"fr:Carrefour (enseigne)\", \"check_date\": \"2024-02-10\", \"name\": \"Carrefour\", \"opening_hours\": \"Mo-We 07:00-20:00; Sa 07:00-20:00; Su 08:00-20:00; Th 07:00-13:00; Fr 13:00-20:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.2072958,
+    "lon": 4.4033872
+  },
+  {
+    "id": 3463357449,
+    "type": "node",
+    "tags": "{\"branch\": \"City\", \"brand\": \"Proxy Delhaize\", \"brand:wikidata\": \"Q14903417\", \"brand:wikipedia\": \"fr:Delhaize\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.42\", \"name\": \"Proxy Delhaize\", \"opening_hours\": \"Mo-Su 08:00-20:00\", \"shop\": \"supermarket\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.delhaize.be\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2163373,
+    "lon": 4.3990201
+  },
+  {
+    "id": 3600465481,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"31\", \"addr:postcode\": \"2000\", \"addr:street\": \"Boudewijnsstraat\", \"branch\": \"City Antwerpen Boudewijnsstraat\", \"brand\": \"Okay\", \"brand:wikidata\": \"Q2159701\", \"brand:wikipedia\": \"fr:OKay\", \"name\": \"Okay\", \"opening_hours\": \"Tu-Sa 08:00-20:00; Mo 13:00-20:00; Su 08:00-13:00\", \"phone\": \"+32 3 216 38 32\", \"shop\": \"supermarket\", \"website\": \"https://www.okay.be/nl/onze-winkels/okay-city-antwerpen-boudewijns\"}",
+    "lat": 51.2054671,
+    "lon": 4.3996649
+  },
+  {
+    "id": 3675849425,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"147\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lange Kievitstraat\", \"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00\", \"shop\": \"supermarket\", \"website\": \"https://www.lidl.be/\"}",
+    "lat": 51.2135062,
+    "lon": 4.4239873
+  },
+  {
+    "id": 4393950687,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"156\", \"addr:street\": \"Statiestraat\", \"name\": \"Market uRudej\", \"shop\": \"supermarket\"}",
+    "lat": 51.1997303,
+    "lon": 4.4302664
+  },
+  {
+    "id": 4401608589,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"8-10\", \"addr:postcode\": \"2100\", \"addr:street\": \"Wim Saerensplein\", \"branch\": \"Deurne Wim Saerensplein\", \"brand\": \"Jumbo\", \"brand:wikidata\": \"Q2262314\", \"brand:wikipedia\": \"en:Jumbo (supermarket)\", \"name\": \"Jumbo\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 08:30-12:00\", \"operator\": \"Jumbo Supermarkten\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 3 328 61 60\", \"shop\": \"supermarket\", \"website\": \"https://www.jumbo.com/nl-be/winkels/jumbo-deurne-wim-saerensplein\"}",
+    "lat": 51.2282174,
+    "lon": 4.4780146
+  },
+  {
+    "id": 4666184982,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"108\", \"addr:postcode\": \"2060\", \"addr:street\": \"Offerandestraat\", \"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 08:00-12:00\", \"phone\": \"+32 3 270 30 10\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be/winkel/3113\"}",
+    "lat": 51.2208863,
+    "lon": 4.4269814
+  },
+  {
+    "id": 4741257949,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"34\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudeleeuwenrui\", \"brand\": \"Bio-Planet\", \"brand:wikidata\": \"Q122415968\", \"name\": \"Bio-Planet\", \"opening_hours\": \"Mo-Th,Sa 09:00-19:30; Fr 09:00-20:00; Su,PH off\", \"organic\": \"only\", \"phone\": \"+32 3 253 17 65\", \"shop\": \"supermarket\", \"website\": \"https://www.bioplanet.be/nl/winkels/bioplanet-antwerpen-1\"}",
+    "lat": 51.2263565,
+    "lon": 4.4078793
+  },
+  {
+    "id": 4757047175,
+    "type": "node",
+    "tags": "{\"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Tu-Sa 08:00-20:00; Mo 12:00-20:00; Su 09:00-11:45\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be\"}",
+    "lat": 51.1850536,
+    "lon": 4.373301
+  },
+  {
+    "id": 4809771945,
+    "type": "node",
+    "tags": "{\"brand\": \"Carrefour\", \"brand:wikidata\": \"Q217599\", \"brand:wikipedia\": \"fr:Carrefour (enseigne)\", \"name\": \"Carrefour\", \"shop\": \"supermarket\", \"website\": \"https://winkels.carrefour.eu\"}",
+    "lat": 51.2248125,
+    "lon": 4.4199993
+  },
+  {
+    "id": 4809771946,
+    "type": "node",
+    "tags": "{\"name\": \"DAM Market\", \"shop\": \"supermarket\"}",
+    "lat": 51.2248697,
+    "lon": 4.4220251
+  },
+  {
+    "id": 4825535247,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:postcode\": \"2000\", \"addr:street\": \"Jezusstraat\", \"branch\": \"Compact\", \"brand\": \"Okay\", \"brand:wikidata\": \"Q2159701\", \"brand:wikipedia\": \"fr:OKay\", \"name\": \"Okay\", \"opening_hours\": \"Mo-Sa 07:00-19:30; Su 08:00-13:00\", \"phone\": \"+32 3 226 88 06\", \"shop\": \"supermarket\", \"website\": \"https://www.okay.be/nl/onze-winkels/okay-compact-antwerpen-jezus\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2193595,
+    "lon": 4.4139404
+  },
+  {
+    "id": 4895491834,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"18\", \"addr:street\": \"Nassaustraat\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.56\", \"name\": \"Louis Delhaize\", \"shop\": \"supermarket\"}",
+    "lat": 51.2304494,
+    "lon": 4.4051145
+  },
+  {
+    "id": 4912059539,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"57A\", \"addr:street\": \"Herentalsebaan\", \"branch\": \"Deurne Zuid\", \"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"brand:wikipedia\": \"en:Colruyt (supermarket)\", \"name\": \"Colruyt\", \"name:nl\": \"Colruyt\", \"opening_hours\": \"Mo-Th,Sa 08:30-20:00; Fr 08:30-21:00\", \"phone\": \"+32 3 322 52 44\", \"shop\": \"supermarket\", \"website\": \"https://www.colruyt.be/nl/winkelzoeker/colruyt-deurne-antwerpen-0\"}",
+    "lat": 51.2107967,
+    "lon": 4.455549
+  },
+  {
+    "id": 4958711630,
+    "type": "node",
+    "tags": "{\"brand\": \"Delhaize\", \"brand:wikidata\": \"Q1184173\", \"brand:wikipedia\": \"fr:Delhaize\", \"name\": \"Delhaize\", \"shop\": \"supermarket\"}",
+    "lat": 51.1737351,
+    "lon": 4.3557411
+  },
+  {
+    "id": 5124223676,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Reyndersstraat\", \"check_date:opening_hours\": \"2024-10-15\", \"description\": \"Uw lokale, biologische speciaalzaak voor hervulbare, natuurlijke, seizoensgebonden, verpakkingsvrije voedingswaren.\", \"name\": \"Robuust\", \"opening_hours\": \"Mo-Fr 10:00-18:30; Sa 10:00-18:00\", \"organic\": \"only\", \"phone\": \"+32 493 11 19 51\", \"shop\": \"supermarket\", \"website\": \"https://www.berobuust.com/\", \"zero_waste\": \"only\"}",
+    "lat": 51.2194228,
+    "lon": 4.3982361
+  },
+  {
+    "id": 5140079010,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"60\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kattendijkdok-Oostkaai\", \"brand\": \"AD Delhaize\", \"brand:wikidata\": \"Q1184173\", \"brand:wikipedia\": \"fr:Delhaize\", \"check_date:opening_hours\": \"2023-05-06\", \"name\": \"AD Delhaize\", \"opening_hours\": \"Mo-Su 08:00-20:00\", \"shop\": \"supermarket\", \"url\": \"https://www.delhaize.be/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2324468,
+    "lon": 4.4094823
+  },
+  {
+    "id": 5155105882,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"42\", \"addr:street\": \"Sint-Paulusstraat\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.2\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.1\", \"name\": \"Proxy Delhaize\", \"opening_hours\": \"Mo-Su,PH 08:00-20:00\", \"shop\": \"supermarket\", \"website\": \"https://www.delhaize.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2236732,
+    "lon": 4.40286
+  },
+  {
+    "id": 5188667614,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"34\", \"addr:street\": \"Brederodestraat\", \"name\": \"M & G bvba\", \"opening_hours\": \"Tu-Su 07:30-20:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.2057991,
+    "lon": 4.3959302
+  },
+  {
+    "id": 5332273521,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"489\", \"addr:street\": \"Bisschoppenhoflaan\", \"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"name\": \"ALDI\", \"opening_hours\": \"Mo-Sa 08:30-19:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.2355629,
+    "lon": 4.4719375
+  },
+  {
+    "id": 5447362223,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2030\", \"name\": \"Sunny Europe\", \"shop\": \"supermarket\", \"website\": \"https://www.sunny-europe.com\"}",
+    "lat": 51.2553471,
+    "lon": 4.386601
+  },
+  {
+    "id": 5612202621,
+    "type": "node",
+    "tags": "{\"name\": \"Superette Saifan\", \"shop\": \"supermarket\"}",
+    "lat": 51.2245392,
+    "lon": 4.421968
+  },
+  {
+    "id": 5615179528,
+    "type": "node",
+    "tags": "{\"name\": \"One Stop Shop\", \"shop\": \"supermarket\"}",
+    "lat": 51.225116,
+    "lon": 4.4053956
+  },
+  {
+    "id": 5615398423,
+    "type": "node",
+    "tags": "{\"name\": \"Supermarket Chatalla\", \"shop\": \"supermarket\"}",
+    "lat": 51.2214422,
+    "lon": 4.427891
+  },
+  {
+    "id": 5615407321,
+    "type": "node",
+    "tags": "{\"name\": \"Kwabos African Market\", \"shop\": \"supermarket\"}",
+    "lat": 51.2214057,
+    "lon": 4.4283883
+  },
+  {
+    "id": 5650408421,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"8\", \"addr:street\": \"Reyndersstraat\", \"cuisine\": \"south america\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.1\", \"name\": \"Almac\\u00e9n\", \"opening_hours\": \"Mo-Su 12:00-18:00\", \"phone\": \"+32 3 435 10 70\", \"shop\": \"supermarket\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"toilets:wheelchair:space_side\": \"0.8\", \"website\": \"https://www.almacen-store.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2193067,
+    "lon": 4.3985869
+  },
+  {
+    "id": 5713202883,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"email\": \"rolwagentje@skynet.be\", \"name\": \"Rolwagentje\", \"opening_hours\": \"Mo-Fr 07:00-18:30; Sa 08:00-14:00\", \"phone\": \"+32 32 35 52 54\", \"shop\": \"supermarket\", \"website\": \"https://www.rolwagentje-antwerpen.be/\"}",
+    "lat": 51.2081222,
+    "lon": 4.4267786
+  },
+  {
+    "id": 5713202884,
+    "type": "node",
+    "tags": "{\"name\": \"Biohofke\", \"shop\": \"supermarket\"}",
+    "lat": 51.2080203,
+    "lon": 4.4270169
+  },
+  {
+    "id": 6432751097,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"40\", \"addr:postcode\": \"2000\", \"addr:street\": \"Groenplaats\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-01-17\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.44\", \"name\": \"CRU\", \"opening_hours\": \"Mo-Su, PH 08:00-18:30\", \"shop\": \"supermarket\", \"website\": \"https://cru.be/nl\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2182687,
+    "lon": 4.40223
+  },
+  {
+    "id": 6436940012,
+    "type": "node",
+    "tags": "{\"brand\": \"Proxy Delhaize\", \"brand:wikidata\": \"Q14903417\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-04-08\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.05\", \"name\": \"Proxy Delhaize\", \"shop\": \"supermarket\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.214328,
+    "lon": 4.4035539
+  },
+  {
+    "id": 6533875277,
+    "type": "node",
+    "tags": "{\"brand\": \"Delhaize\", \"brand:wikidata\": \"Q1184173\", \"name\": \"Proxy Delhaize\", \"shop\": \"supermarket\"}",
+    "lat": 51.2160919,
+    "lon": 4.3989722
+  },
+  {
+    "id": 6687990890,
+    "type": "node",
+    "tags": "{\"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"operator\": \"Lidl Stiftung & Co\", \"shop\": \"supermarket\", \"website\": \"https://www.lidl.be\"}",
+    "lat": 51.2424298,
+    "lon": 4.4424789
+  },
+  {
+    "id": 6839861754,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"273\", \"addr:street\": \"Mechelsesteenweg\", \"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"check_date\": \"2023-11-09\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"shop\": \"supermarket\", \"website\": \"https://www.lidl.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1999153,
+    "lon": 4.4146741
+  },
+  {
+    "id": 6958635336,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"122-124\", \"addr:postcode\": \"2140\", \"addr:street\": \"Turnhoutsebaan\", \"brand\": \"Carrefour Market\", \"brand:wikidata\": \"Q2689639\", \"brand:wikipedia\": \"fr:Carrefour Market\", \"name\": \"Carrefour Market\", \"opening_hours\": \"Mo-Sa 08:00-19:00\", \"shop\": \"supermarket\", \"website\": \"https://magasins.carrefour.eu/nl/s/carrefour/carrefour-market-borgerhout-schoenstraat/513\"}",
+    "lat": 51.2142326,
+    "lon": 4.4370497
+  },
+  {
+    "id": 6967497387,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Merksem\", \"addr:housenumber\": \"1A\", \"addr:postcode\": \"2170\", \"addr:street\": \"Laaglandlaan\", \"name\": \"Kroon Mini Supermarkt\", \"opening_hours\": \"Tu-Su 09:15-20:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.2518714,
+    "lon": 4.4482958
+  },
+  {
+    "id": 6974997924,
+    "type": "node",
+    "tags": "{\"name\": \"Karim supermarkt\", \"shop\": \"supermarket\", \"website\": \"https://karimsupermarkt.be\"}",
+    "lat": 51.2145321,
+    "lon": 4.4355973
+  },
+  {
+    "id": 6981312611,
+    "type": "node",
+    "tags": "{\"name\": \"Budget markt\", \"shop\": \"supermarket\"}",
+    "lat": 51.2138508,
+    "lon": 4.442116
+  },
+  {
+    "id": 7023057224,
+    "type": "node",
+    "tags": "{\"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"name\": \"ALDI\", \"shop\": \"supermarket\"}",
+    "lat": 51.1842115,
+    "lon": 4.3709402
+  },
+  {
+    "id": 7105616355,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"683\", \"addr:postcode\": \"2100\", \"addr:street\": \"Herentalsebaan\", \"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 09:00-12:00\", \"phone\": \"+32 3 369 66 40\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be/winkel/3133\", \"wheelchair\": \"yes\"}",
+    "lat": 51.204003,
+    "lon": 4.48256
+  },
+  {
+    "id": 7185442294,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"67\", \"addr:postcode\": \"2018\", \"addr:street\": \"Plantin en Moretuslei\", \"brand\": \"Mix Markt\", \"brand:wikidata\": \"Q327854\", \"brand:wikipedia\": \"de:Mix Markt\", \"check_date\": \"2024-02-17\", \"email\": \"mixmarkt137@monolith-gruppe.com\", \"name\": \"Mix Markt\", \"opening_hours\": \"Mo-Sa 10:00-20:00\", \"operator\": \"Natalya Yermolayeva\", \"shop\": \"supermarket\", \"website\": \"https://www.mixmarkt.eu/en/belgium/branches/5388/\"}",
+    "lat": 51.2108078,
+    "lon": 4.4243506
+  },
+  {
+    "id": 7185442295,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"762\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"brand\": \"Mix Markt\", \"brand:wikidata\": \"Q327854\", \"brand:wikipedia\": \"de:Mix Markt\", \"email\": \"max.markt.belgie@mail.ru\", \"fax\": \"+32 3 425 93 92\", \"name\": \"Mix Markt\", \"opening_hours\": \"Mo-Sa 10:00-20:00\", \"operator\": \"Natalya Yermolayeva\", \"phone\": \"+32 3 425 93 92\", \"shop\": \"supermarket\", \"website\": \"https://www.mixmarkt.eu/en/belgium/branches/176/\"}",
+    "lat": 51.2492474,
+    "lon": 4.4540114
+  },
+  {
+    "id": 7243006785,
+    "type": "node",
+    "tags": "{\"branch\": \"Criee Versmarkt\", \"brand\": \"Delhaize\", \"brand:wikidata\": \"Q1184173\", \"brand:wikipedia\": \"fr:Delhaize\", \"name\": \"Delhaize\", \"name:de\": \"Delhaize Criee\", \"name:en\": \"Delhaize Criee\", \"name:fr\": \"Delhaize Criee\", \"opening_hours\": \"PH,Tu-Su 08:00-20:00\", \"shop\": \"supermarket\", \"website\": \"https://versmarktcriee.be\"}",
+    "lat": 51.2198411,
+    "lon": 4.4208624
+  },
+  {
+    "id": 7260453218,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"252-260\", \"addr:street\": \"Lange Leemstraat\", \"name\": \"BEO versmarkt\", \"opening_hours\": \"We-Sa 10:00-18:30; Su 10:00-16:00\", \"payment:cash\": \"yes\", \"payment:maestro\": \"yes\", \"phone\": \"+32 3 435 30 45\", \"shop\": \"supermarket\", \"website\": \"https://beo-markt.be/contact/versmarkt-antwerpen\"}",
+    "lat": 51.2041685,
+    "lon": 4.4217411
+  },
+  {
+    "id": 7282782814,
+    "type": "node",
+    "tags": "{\"brand\": \"Carrefour Market\", \"brand:wikidata\": \"Q2689639\", \"brand:wikipedia\": \"fr:Carrefour Market\", \"name\": \"Carrefour Market\", \"opening_hours\": \"Mo-Sa 08:00-20:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.1707175,
+    "lon": 4.3938852
+  },
+  {
+    "id": 7287797214,
+    "type": "node",
+    "tags": "{\"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"brand:wikipedia\": \"en:Aldi\", \"check_date\": \"2024-02-10\", \"name\": \"ALDI\", \"shop\": \"supermarket\"}",
+    "lat": 51.201026,
+    "lon": 4.4065505
+  },
+  {
+    "id": 7305869397,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-07-28\", \"name\": \"Polski Sidep u Witka\", \"shop\": \"supermarket\"}",
+    "lat": 51.2189992,
+    "lon": 4.4179544
+  },
+  {
+    "id": 7306299668,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-09-15\", \"name\": \"A-Minimarket\", \"shop\": \"supermarket\"}",
+    "lat": 51.2064496,
+    "lon": 4.4097557
+  },
+  {
+    "id": 7315450140,
+    "type": "node",
+    "tags": "{\"brand\": \"Carrefour\", \"brand:wikidata\": \"Q217599\", \"brand:wikipedia\": \"fr:Carrefour (enseigne)\", \"check_date\": \"2024-06-08\", \"name\": \"Carrefour\", \"opening_hours\": \"PH,Mo-Su 08:00-20:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.2060737,
+    "lon": 4.3873775
+  },
+  {
+    "id": 7315488353,
+    "type": "node",
+    "tags": "{\"check_date\": \"2025-03-08\", \"name\": \"The Barn Biomarket\", \"shop\": \"supermarket\", \"website\": \"https://thebarn.bio/\"}",
+    "lat": 51.2103564,
+    "lon": 4.3924729
+  },
+  {
+    "id": 7319944802,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2600\", \"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"check_date\": \"2023-11-12\", \"currency:EUR\": \"yes\", \"level\": \"0\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:mastercard\": \"yes\", \"payment:visa\": \"yes\", \"shop\": \"supermarket\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1997303,
+    "lon": 4.4336803
+  },
+  {
+    "id": 7325112104,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"name\": \"Louis Delhaize\", \"opening_hours\": \"Mo-Fr 07:30-20:00; PH,Sa 08:00-20:00; Su off\", \"shop\": \"supermarket\", \"website\": \"https://louisdelhaize.be\"}",
+    "lat": 51.2091284,
+    "lon": 4.4085648
+  },
+  {
+    "id": 7515725473,
+    "type": "node",
+    "tags": "{\"level\": \"0\", \"name\": \"BioStation Store\", \"shop\": \"supermarket\", \"website\": \"https://www.biostation-antwerpen.be\"}",
+    "lat": 51.2159585,
+    "lon": 4.4206464
+  },
+  {
+    "id": 7624909994,
+    "type": "node",
+    "tags": "{\"shop\": \"supermarket\"}",
+    "lat": 51.2222558,
+    "lon": 4.4358732
+  },
+  {
+    "id": 7656121400,
+    "type": "node",
+    "tags": "{\"brand\": \"ALDI\", \"brand:wikidata\": \"Q41171373\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-01-31\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.6\", \"name\": \"ALDI\", \"shop\": \"supermarket\", \"website\": \"https://www.aldi.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2117347,
+    "lon": 4.402011
+  },
+  {
+    "id": 7886824508,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Gentplaats\", \"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"brand:wikipedia\": \"en:Colruyt (supermarket)\", \"name\": \"Colruyt\", \"opening_hours\": \"Mo-Th,Sa 08:30-20:00; Fr 08:00-21:00\", \"operator\": \"Colruyt\", \"payment:apple_pay\": \"yes\", \"payment:contactless\": \"yes\", \"phone\": \"+32 3 889 17 64\", \"shop\": \"supermarket\", \"website\": \"https://www.colruyt.be/nl/winkelzoeker/colruyt-antwerpen-1-0\"}",
+    "lat": 51.2058871,
+    "lon": 4.3863481
+  },
+  {
+    "id": 7887286259,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"29\", \"addr:postcode\": \"2000\", \"addr:street\": \"Scheldestraat\", \"branch\": \"City Antwerpen Scheldestraat\", \"brand\": \"Okay\", \"brand:wikidata\": \"Q2159701\", \"brand:wikipedia\": \"fr:OKay\", \"check_date:opening_hours\": \"2023-02-07\", \"name\": \"Okay\", \"opening_hours\": \"Mo 13:00-19:30; Tu-Sa 07:00-19:30; Su 08:00-19:30\", \"operator\": \"Colruyt Group\", \"phone\": \"+32 3 237 70 83\", \"shop\": \"supermarket\", \"website\": \"https://www.okay.be/nl/onze-winkels/okay-city-antwerpen-scheldestr\"}",
+    "lat": 51.2125261,
+    "lon": 4.393264
+  },
+  {
+    "id": 7895213440,
+    "type": "node",
+    "tags": "{\"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo-Fr 09:00-20:00\", \"operator\": \"Peeters-Govers\", \"payment:cards\": \"yes\", \"payment:coins\": \"yes\", \"payment:edenred\": \"yes\", \"payment:notes\": \"yes\", \"shop\": \"supermarket\"}",
+    "lat": 51.220992,
+    "lon": 4.4268168
+  },
+  {
+    "id": 7896242552,
+    "type": "node",
+    "tags": "{\"addr:street\": \"Ten Eekhovelei\", \"brand\": \"Jumbo\", \"brand:wikidata\": \"Q2262314\", \"brand:wikipedia\": \"nl:Jumbo Supermarkten\", \"name\": \"Jumbo\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 08:30-12:00\", \"shop\": \"supermarket\", \"website\": \"https://www.jumbo.com/nl-be/winkels/jumbo-deurne-ten-eekhovelei\"}",
+    "lat": 51.2237963,
+    "lon": 4.4533682
+  },
+  {
+    "id": 8248666540,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"392\", \"addr:postcode\": \"2600\", \"addr:street\": \"Uitbreidingsstraat\", \"brand\": \"Ekoplaza\", \"brand:wikidata\": \"Q47017915\", \"brand:wikipedia\": \"nl:Ekoplaza\", \"check_date\": \"2024-03-03\", \"name\": \"Ekoplaza\", \"organic\": \"only\", \"shop\": \"supermarket\", \"website\": \"https://www.ekoplaza.be/\"}",
+    "lat": 51.1977687,
+    "lon": 4.4307793
+  },
+  {
+    "id": 8327042584,
+    "type": "node",
+    "tags": "{\"brand\": \"Jumbo\", \"brand:wikidata\": \"Q2262314\", \"brand:wikipedia\": \"nl:Jumbo Supermarkten\", \"check_date\": \"2024-04-01\", \"contact:website\": \"https://www.jumbo.com/\", \"name\": \"Jumbo\", \"opening_hours\": \"Mo 12:00-20:00; Tu-Sa 08:00-20:00; Su 08:00-12:00\", \"shop\": \"supermarket\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2072741,
+    "lon": 4.4144779
+  },
+  {
+    "id": 8595264775,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"500\", \"addr:street\": \"Boomsesteenweg\", \"cuisine\": \"asian\", \"email\": \"info@tongfong.be\", \"name\": \"Tong Fong\", \"opening_hours\": \"Mo-Sa 09:00-19:00;PH off\", \"phone\": \"+32 3 888 68 80\", \"shop\": \"supermarket\", \"website\": \"http://www.tongfong.be/\"}",
+    "lat": 51.1657828,
+    "lon": 4.385181
+  },
+  {
+    "id": 8944618668,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"477\", \"addr:street\": \"Bisschoppenhoflaan\", \"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00; Su,PH off\", \"shop\": \"supermarket\"}",
+    "lat": 51.2354825,
+    "lon": 4.4710972
+  },
+  {
+    "id": 9344851933,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"5\", \"addr:street\": \"Teniersplaats\", \"branch\": \"City\", \"brand\": \"Jumbo\", \"brand:wikidata\": \"Q2262314\", \"brand:wikipedia\": \"nl:Jumbo Supermarkten\", \"check_date:opening_hours\": \"2023-04-28\", \"level\": \"0\", \"name\": \"Jumbo\", \"note\": \"entrance is here, on the corner ; exit via the larger doors opening onto the Teniersplaars proper.\", \"opening_hours\": \"Mo-Su 08:00-20:00\", \"phone\": \"+32 3 220 61 60\", \"shop\": \"supermarket\", \"website\": \"https://www.jumbo.com/nl-be/winkels/jumbo-antwerpen-operaplein\"}",
+    "lat": 51.2182734,
+    "lon": 4.415003
+  },
+  {
+    "id": 9416264682,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"357\", \"addr:street\": \"Blancefloerlaan\", \"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"brand:wikipedia\": \"en:Colruyt (supermarket)\", \"name\": \"Colruyt\", \"opening_hours\": \"Mo-Th,Sa 08:30-20:00; Fr 08:30-21:00\", \"phone\": \"+32 3 457 24 75\", \"shop\": \"supermarket\", \"website\": \"https://www.colruyt.be/nl/winkelzoeker/colruyt-antwerpen-5\"}",
+    "lat": 51.2197798,
+    "lon": 4.3638283
+  },
+  {
+    "id": 9599570512,
+    "type": "node",
+    "tags": "{\"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"brand:wikipedia\": \"nl:Albert Heijn (supermarkt)\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Tu-Sa 08:00-20:00; Mo 13:00-20:00; Su 08:00-12:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.1825059,
+    "lon": 4.4242278
+  },
+  {
+    "id": 9651653413,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"239\", \"addr:street\": \"Oogststraat\", \"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"brand:wikipedia\": \"en:Colruyt (supermarket)\", \"name\": \"Colruyt\", \"shop\": \"supermarket\"}",
+    "lat": 51.1792315,
+    "lon": 4.4412056
+  },
+  {
+    "id": 9936904943,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"100\", \"addr:postcode\": \"2060\", \"addr:street\": \"Lange Dijkstraat\", \"branch\": \"City\", \"brand\": \"Okay\", \"brand:wikidata\": \"Q2159701\", \"name\": \"Okay\", \"opening_hours\": \"Mo 12:00-19:30; Tu-Sa 07:00-19:30; Su 08:00-12:00\", \"payment:bancontact\": \"yes\", \"payment:cash\": \"yes\", \"phone\": \"+32 3 664 67 37\", \"shop\": \"supermarket\", \"website\": \"https://www.okay.be/nl/onze-winkels/okay-city-antwerpen-lange-dijk\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2297306,
+    "lon": 4.420788
+  },
+  {
+    "id": 10138021800,
+    "type": "node",
+    "tags": "{\"name\": \"Romaysa Naaz\", \"shop\": \"supermarket\"}",
+    "lat": 51.177316,
+    "lon": 4.4361531
+  },
+  {
+    "id": 10647797598,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"174\", \"addr:postcode\": \"2020\", \"addr:street\": \"Abdijstraat\", \"name\": \"PitStop Antwerpen\", \"opening_hours\": \"Mo-Su 09:00-20:00; Tu off\", \"operator\": \"PitStop\", \"payment:cash\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"shop\": \"supermarket\"}",
+    "lat": 51.1869864,
+    "lon": 4.3856203
+  },
+  {
+    "id": 11055804006,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"372\", \"addr:postcode\": \"2140\", \"addr:street\": \"Lodewijk Van Berckenlaan\", \"email\": \"vragen@bocalborgerhout.be\", \"level\": \"0\", \"name\": \"Bocal\", \"opening_hours\": \"Mo-Fr 09:30-18:00; Sa 09:30-15:00\", \"organic\": \"only\", \"phone\": \"+32 480 61 65 90\", \"shop\": \"supermarket\", \"website\": \"https://bocalborgerhout.be\", \"zero_waste\": \"only\"}",
+    "lat": 51.1976341,
+    "lon": 4.4526299
+  },
+  {
+    "id": 11158583468,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"139\", \"addr:street\": \"Grotesteenweg\", \"branch\": \"City Berchem\", \"brand\": \"Okay\", \"brand:wikidata\": \"Q2159701\", \"name\": \"Okay\", \"opening_hours\": \"Mo 12:00-19:30; Th-Sa 07:00-19:30; Su 08:00-12:00\", \"shop\": \"supermarket\", \"website\": \"https://www.okay.be/nl/onze-winkels/okay-city-berchem-grotestwg\"}",
+    "lat": 51.1950606,
+    "lon": 4.4189814
+  },
+  {
+    "id": 11162871928,
+    "type": "node",
+    "tags": "{\"name\": \"Superette Lamoniere\", \"shop\": \"supermarket\"}",
+    "lat": 51.2018906,
+    "lon": 4.4191161
+  },
+  {
+    "id": 11338781569,
+    "type": "node",
+    "tags": "{\"name\": \"Super Sam\", \"shop\": \"supermarket\"}",
+    "lat": 51.1981876,
+    "lon": 4.4077814
+  },
+  {
+    "id": 11365160197,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"50\", \"addr:street\": \"Van Wesenbekestraat\", \"name\": \"Kam Yuen\", \"origin\": \"asian\", \"shop\": \"supermarket\", \"website\": \"https://kam-yuen.be/\"}",
+    "lat": 51.2205613,
+    "lon": 4.4209133
+  },
+  {
+    "id": 11463506334,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"4D\", \"addr:street\": \"Pelikaanstraat\", \"brand\": \"Albert Heijn\", \"brand:wikidata\": \"Q1653985\", \"level\": \"-1\", \"name\": \"Albert Heijn\", \"opening_hours\": \"Mo-Su 07:00-21:00\", \"shop\": \"supermarket\", \"website\": \"https://www.ah.be/winkel/3159\"}",
+    "lat": 51.2167744,
+    "lon": 4.4196221
+  },
+  {
+    "id": 11526804413,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"35A\", \"addr:street\": \"Lange Elzenstraat\", \"branch\": \"Antwerpen Lange Elzen\", \"brand\": \"Colruyt\", \"brand:wikidata\": \"Q2363991\", \"name\": \"Colruyt\", \"opening_hours\": \"Mo-Th 08:30-20:00; Fr 08:30-21:00; Sa 08:30-20:00\", \"shop\": \"supermarket\"}",
+    "lat": 51.2013037,
+    "lon": 4.3943193
+  },
+  {
+    "id": 11537722917,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"78\", \"addr:place\": \"Meir\", \"name\": \"Amazing Oriental\", \"opening_hours\": \"Mo-Th,Sa 10:00-19:00; Fr 10:00-20:00; Su[1] 12:00-18:00\", \"origin\": \"asian\", \"phone\": \"+32 3 300 26 77\", \"shop\": \"supermarket\", \"website\": \"https://amazingoriental.com/Location/antwerpen/\"}",
+    "lat": 51.217351,
+    "lon": 4.4111008
+  },
+  {
+    "id": 11610286817,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"11\", \"addr:street\": \"Quellinstraat\", \"brand\": \"Okay\", \"brand:wikidata\": \"Q2159701\", \"name\": \"Okay Compact\", \"opening_hours\": \"Mo 12:00-19:30; Tu-Sa 07:00-19:30; Su 08:00-12:00\", \"shop\": \"supermarket\", \"website\": \"https://www.okay.be/nl/onze-winkels/okay-compact-antwerpen-quellin\"}",
+    "lat": 51.2170793,
+    "lon": 4.4166951
+  },
+  {
+    "id": 11898722071,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"312\", \"addr:street\": \"Sint-Bernardsesteenweg\", \"brand\": \"Spar\", \"brand:wikidata\": \"Q610492\", \"mobile\": \"+32 483 01 83 64\", \"name\": \"Spar\", \"opening_hours\": \"Mo-Fr 08:00-19:00; Sa 09:00-19:00\", \"shop\": \"supermarket\", \"website\": \"https://www.mijnspar.be/winkels/spar-shopping-den-tir\"}",
+    "lat": 51.1906587,
+    "lon": 4.3767387
+  },
+  {
+    "id": 11981007630,
+    "type": "node",
+    "tags": "{\"brand\": \"Lidl\", \"brand:wikidata\": \"Q151954\", \"brand:wikipedia\": \"en:Lidl\", \"check_date\": \"2023-04-10\", \"name\": \"Lidl\", \"opening_hours\": \"Mo-Fr 08:30-20:00; Sa 08:30-19:00\", \"shop\": \"supermarket\", \"website\": \"https://www.lidl.be/s/nl-BE/openingsuren/antwerpen/frankrijklei-23/\"}",
+    "lat": 51.2172732,
+    "lon": 4.4158186
+  },
+  {
+    "id": 12487469451,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"547\", \"addr:street\": \"Bisschoppenhoflaan\", \"name\": \"Kam Yuen\", \"origin\": \"asian\", \"shop\": \"supermarket\", \"website\": \"https://kam-yuen.be/\"}",
+    "lat": 51.2357622,
+    "lon": 4.4747746
+  }
+]

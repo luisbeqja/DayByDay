@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1811202466,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"clothes\": \"gloves\", \"name\": \"Handschoenen Boon\", \"shop\": \"fashion_accessories\", \"website\": \"https://www.glovesboon.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2176814,
+    "lon": 4.4006125
+  },
+  {
+    "id": 6339905780,
+    "type": "node",
+    "tags": "{\"brand\": \"Longchamp\", \"brand:wikidata\": \"Q1869471\", \"brand:wikipedia\": \"en:Longchamp (company)\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.85\", \"name\": \"Longchamp\", \"shop\": \"fashion_accessories\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.longchamp.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.216048,
+    "lon": 4.4061854
+  },
+  {
+    "id": 6355306345,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"80\", \"addr:street\": \"Lombardenvest\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-03-05\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2\", \"name\": \"Guess accessories\", \"shop\": \"fashion_accessories\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173355,
+    "lon": 4.403926
+  },
+  {
+    "id": 6372299253,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"16\", \"addr:postcode\": \"2000\", \"addr:street\": \"Arenbergstraat\", \"check_date\": \"2023-04-10\", \"name\": \"Scapa Accessoires\", \"opening_hours\": \"Mo-Th 10:00-18:00, Fr-Sa 10:00-18:30; Su,PH off\", \"shop\": \"fashion_accessories\", \"website\": \"https://www.scapaworld.com\"}",
+    "lat": 51.2152079,
+    "lon": 4.4067328
+  },
+  {
+    "id": 11114411508,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"40\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"claire's\", \"brand:wikidata\": \"Q2974996\", \"name\": \"claire's\", \"opening_hours\": \"Mo-Th 10:00-18:00; Fr,Sa 10:00-18:30; Su off\", \"phone\": \"+32 3 232 89 42\", \"shop\": \"fashion_accessories\", \"website\": \"https://www.claires.com/\"}",
+    "lat": 51.2180142,
+    "lon": 4.4061465
+  },
+  {
+    "id": 11261017615,
+    "type": "node",
+    "tags": "{\"check_date:opening_hours\": \"2023-11-12\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.88\", \"name\": \"Dream\", \"opening_hours:signed\": \"no\", \"shop\": \"fashion_accessories\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2177854,
+    "lon": 4.4042057
+  },
+  {
+    "id": 11304310850,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.93\", \"name\": \"L'atelier d'Amaya Bijoux\", \"opening_hours\": \"Mo-Fr 10:00-18:00; Sa 10:00-18:30\", \"shop\": \"fashion_accessories\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2172899,
+    "lon": 4.4039628
+  },
+  {
+    "id": 12305065252,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"28\", \"addr:street\": \"Hoogstraat\", \"contact:facebook\": \"https://www.facebook.com/profile.php?id=100063518204521\", \"email\": \"info@nepalhandicrafts.be\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.79\", \"mobile\": \"+32 484 65 05 24\", \"name\": \"Nepal Handicrafts\", \"opening_hours\": \"Tu-Su 11:00-18:00\", \"shop\": \"fashion_accessories\", \"toilets:wheelchair\": \"no\", \"website\": \"https://nepalhandicrafts.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.220063,
+    "lon": 4.3984751
+  }
+]

@@ -1,0 +1,2956 @@
+[
+  {
+    "id": 738807327,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"19\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"changing_table\": \"no\", \"changing_table:location\": \"no\", \"entrance:kerb:height\": \"0.07\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.5\", \"name\": \"Juttu\", \"opening_hours\": \"Mo-Th 10:00-18:00; Fr-Sa 10:00-18:30; Su[1] 12:00-18:00; Su[2-4], PH off\", \"phone\": \"+32 3 231 10 44\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"website\": \"https://www.juttu.be/\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2184304,
+    "lon": 4.4062722
+  },
+  {
+    "id": 739646215,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"68\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"C&A\", \"brand:wikidata\": \"Q701338\", \"brand:wikipedia\": \"en:C&A\", \"check_date:opening_hours\": \"2023-11-16\", \"name\": \"C&A\", \"opening_hours\": \"Mo-Sa 10:00-19:00; PH,Su off\", \"shop\": \"clothes\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2179094,
+    "lon": 4.4107268
+  },
+  {
+    "id": 741369831,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"89-97\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"H&M\", \"brand:wikidata\": \"Q188326\", \"brand:wikipedia\": \"en:H&M\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.8\", \"name\": \"H&M\", \"opening_hours\": \"Mo-Sa 10:00-19:00; Su,PH off\", \"shop\": \"clothes\", \"source\": \"yes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2181695,
+    "lon": 4.4109654
+  },
+  {
+    "id": 1362498604,
+    "type": "node",
+    "tags": "{\"brand\": \"C&A\", \"brand:wikidata\": \"Q701338\", \"brand:wikipedia\": \"en:C&A\", \"name\": \"C&A\", \"shop\": \"clothes\"}",
+    "lat": 51.2547719,
+    "lon": 4.4636359
+  },
+  {
+    "id": 1538266263,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:country\": \"BE\", \"addr:street\": \"Jules Moretuslei\", \"check_date\": \"2024-09-13\", \"name\": \"BE Fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.1723998,
+    "lon": 4.3933999
+  },
+  {
+    "id": 1651266017,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-01-06\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.06\", \"name\": \"episode\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"second_hand\": \"only\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2183724,
+    "lon": 4.4001717
+  },
+  {
+    "id": 1701465466,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"name\": \"Jolicor\", \"shop\": \"clothes\"}",
+    "lat": 51.1970267,
+    "lon": 4.4422014
+  },
+  {
+    "id": 1811251623,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-11-13\", \"clothes\": \"men\", \"entrance:kerb:height\": \"0.25\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.81\", \"name\": \"Oger\", \"opening_hours\": \"Mo-Sa 09:30-18:30\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.oger.nl\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.215987,
+    "lon": 4.4050577
+  },
+  {
+    "id": 2410534065,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"54\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"WE\", \"brand:wikidata\": \"Q1987861\", \"brand:wikipedia\": \"en:WE (clothing)\", \"check_date\": \"2023-04-10\", \"check_date:opening_hours\": \"2023-11-13\", \"clothes\": \"men;women\", \"entrance\": \"main\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2.49\", \"heritage\": \"4\", \"name\": \"WE\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2179763,
+    "lon": 4.4094608
+  },
+  {
+    "id": 2410534070,
+    "type": "node",
+    "tags": "{\"OnroerendErfgoed:criteria\": \"M\", \"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"25\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Vero Moda\", \"brand:wikidata\": \"Q640418\", \"brand:wikipedia\": \"da:Vero Moda\", \"clothes\": \"women\", \"description\": \"Hoekhuis in Louis Philippestijl\", \"heritage\": \"4\", \"heritage:operator\": \"OnroerendErfgoed\", \"heritage:website\": \"https://inventaris.onroerenderfgoed.be/dibe/relict/5510\", \"name\": \"Vero Moda\", \"ref:OnroerendErfgoed\": \"5510\", \"shop\": \"clothes\"}",
+    "lat": 51.2183694,
+    "lon": 4.4068112
+  },
+  {
+    "id": 2410534075,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"58\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Zara\", \"brand:wikidata\": \"Q147662\", \"brand:wikipedia\": \"en:Zara (retailer)\", \"check_date\": \"2023-04-10\", \"check_date:opening_hours\": \"2023-11-13\", \"clothes\": \"men;women\", \"entrance\": \"main\", \"name\": \"Zara\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"wheelchair\": \"no\"}",
+    "lat": 51.2179578,
+    "lon": 4.4100401
+  },
+  {
+    "id": 2934178573,
+    "type": "node",
+    "tags": "{\"name\": \"Kiel Outlet\", \"shop\": \"clothes\"}",
+    "lat": 51.1902798,
+    "lon": 4.3788201
+  },
+  {
+    "id": 3025979364,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"O'Neill\", \"brand:wikidata\": \"Q2043372\", \"brand:wikipedia\": \"en:O'Neill (brand)\", \"level\": \"0\", \"name\": \"O'Neill\", \"opening_hours\": \"Mo-Sa 10:00-18:30; PH off\", \"shop\": \"clothes\", \"website\": \"https://www.oneill.com/eu/en/home\"}",
+    "lat": 51.2177827,
+    "lon": 4.4112128
+  },
+  {
+    "id": 3496724484,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Hunkem\\u00f6ller\", \"brand:wikidata\": \"Q2604175\", \"brand:wikipedia\": \"en:Hunkem\\u00f6ller\", \"check_date\": \"2023-11-16\", \"clothes\": \"underwear\", \"entrance\": \"main\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.2\", \"name\": \"Hunkem\\u00f6ller\", \"opening_hours\": \"Mo-Fr 10:00-18:00, Sa 10:00-18:30, Su[1] 13:00-17:00; PH off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2185258,
+    "lon": 4.4055337
+  },
+  {
+    "id": 3498517265,
+    "type": "node",
+    "tags": "{\"brand\": \"Bristol\", \"brand:wikidata\": \"Q75385157\", \"name\": \"Bristol\", \"shop\": \"clothes\"}",
+    "lat": 51.2548736,
+    "lon": 4.463352
+  },
+  {
+    "id": 3498517268,
+    "type": "node",
+    "tags": "{\"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"brand:wikipedia\": \"en:Zeeman (store)\", \"name\": \"Zeeman\", \"shop\": \"clothes\"}",
+    "lat": 51.2551872,
+    "lon": 4.4625236
+  },
+  {
+    "id": 3498517269,
+    "type": "node",
+    "tags": "{\"name\": \"Bel&Bo\", \"shop\": \"clothes\"}",
+    "lat": 51.2553817,
+    "lon": 4.4619879
+  },
+  {
+    "id": 3876932594,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kloosterstraat\", \"alt_name\": \"Zeeman Textielsupers\", \"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"name\": \"Zeeman\", \"opening_hours\": \"Mo-Sa 09:00-18:00; Su,PH off\", \"phone\": \"+32 3 808 38 42\", \"shop\": \"clothes\", \"url\": \"http://www.zeeman.be\"}",
+    "lat": 51.2797419,
+    "lon": 4.4187764
+  },
+  {
+    "id": 3877899767,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"28\", \"addr:postcode\": \"2180\", \"addr:street\": \"Driehoekstraat\", \"clothes\": \"lingerie\", \"contact:facebook\": \"https://www.facebook.com/pages/Lingerie-Vivy/569308633117784\", \"name\": \"Lingerie Vivy\", \"opening_hours\": \"Tu-Fr 09:30-12:30,13:30-18:00; Sa 09:30-17:00; Jan-Jul,Oct-Dec Mo[1] 14:00-18:00; Su,PH off\", \"shop\": \"clothes\", \"website\": \"https://www.lingerievivy.be\"}",
+    "lat": 51.2801913,
+    "lon": 4.4200067
+  },
+  {
+    "id": 3877899768,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"17\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kloosterstraat\", \"name\": \"Pastis\", \"opening_hours\": \"We-Sa 10:00-18:00; Mo,Tu,Su,PH off\", \"second_hand\": \"only\", \"shop\": \"clothes\", \"website\": \"http://pastis-tweedehands.be/\"}",
+    "lat": 51.2801916,
+    "lon": 4.4188406
+  },
+  {
+    "id": 3877899772,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"79\", \"addr:postcode\": \"2180\", \"addr:street\": \"Driehoekstraat\", \"name\": \"Vlyminckx Mode\", \"opening_hours\": \"Mo,We-Fr 09:30-12:30,13:30-18:00; Sa 09:30-12:30,13:30-17:00; Tu,Su,PH off\", \"phone\": \"+32 3 541 11 55\", \"shop\": \"clothes\"}",
+    "lat": 51.2821712,
+    "lon": 4.4208441
+  },
+  {
+    "id": 4266847137,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"19\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wiegstraat\", \"alt_name\": \"North Face\", \"brand\": \"The North Face\", \"brand:wikidata\": \"Q152784\", \"brand:wikipedia\": \"en:The North Face\", \"check_date\": \"2023-10-13\", \"clothes\": \"outdoor\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.27\", \"name\": \"The North Face\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217718,
+    "lon": 4.4043883
+  },
+  {
+    "id": 4394869717,
+    "type": "node",
+    "tags": "{\"brand:website\": \"https://www.sissy-boy.com\", \"clothes\": \"unisex\", \"name\": \"Sissy-Boy\", \"shop\": \"clothes\"}",
+    "lat": 51.2168806,
+    "lon": 4.399129
+  },
+  {
+    "id": 4394870804,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"40\", \"addr:postcode\": \"2000\", \"addr:street\": \"Steenhouwersvest\", \"entrance:kerb:height\": \"0.07\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.93\", \"name\": \"Bensimon Collection\", \"opening_hours\": \"Mo-Sa 10:30-18:00; Su,PH off\", \"phone\": \"+32 3 225 51 12\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.bensimon.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2177168,
+    "lon": 4.3993465
+  },
+  {
+    "id": 4397698114,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"9-13\", \"addr:postcode\": \"2600\", \"addr:street\": \"Driekoningenstraat\", \"brand\": \"Bristol\", \"brand:wikidata\": \"Q75385157\", \"check_date\": \"2024-02-17\", \"name\": \"Bristol\", \"old_name\": \"Shoe Discount\", \"opening_hours\": \"Mo-Sa 09:30-18:00; Su off\", \"phone\": \"+32 3 281 31 03\", \"shop\": \"clothes\", \"website\": \"https://www.bristolshop.be/\"}",
+    "lat": 51.1957257,
+    "lon": 4.4195528
+  },
+  {
+    "id": 4397698117,
+    "type": "node",
+    "tags": "{\"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"brand:wikipedia\": \"en:Zeeman (store)\", \"check_date\": \"2024-02-17\", \"name\": \"Zeeman\", \"shop\": \"clothes\"}",
+    "lat": 51.1958751,
+    "lon": 4.4201377
+  },
+  {
+    "id": 4398484246,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Hiphop\", \"shop\": \"clothes\"}",
+    "lat": 51.1967028,
+    "lon": 4.4224075
+  },
+  {
+    "id": 4434106308,
+    "type": "node",
+    "tags": "{\"name\": \"M & D\", \"shop\": \"clothes\"}",
+    "lat": 51.1981499,
+    "lon": 4.4257723
+  },
+  {
+    "id": 4434127373,
+    "type": "node",
+    "tags": "{\"name\": \"Temiz Fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.198649,
+    "lon": 4.4271807
+  },
+  {
+    "id": 4448476374,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"addr:unit\": \"201\", \"brand\": \"Urban Outfitters\", \"brand:wikidata\": \"Q3552193\", \"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2.1\", \"level\": \"0;1\", \"name\": \"Urban Outfitters\", \"opening_hours\": \"Mo-Sa 10:00-19:00, PH off\", \"phone\": \"+32 3 201 59 10\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"website\": \"https://www.urbanoutfitters.com/en-gb/\"}",
+    "lat": 51.217898,
+    "lon": 4.4109804
+  },
+  {
+    "id": 4448476381,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"16-18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hopland\", \"brand\": \"Emporio Armani\", \"brand:wikidata\": \"Q3497483\", \"brand:wikipedia\": \"ast:Emporio Armani\", \"check_date\": \"2024-04-06\", \"name\": \"Emporio Armani\", \"shop\": \"clothes\", \"website\": \"https://www.armani.com\"}",
+    "lat": 51.2165332,
+    "lon": 4.4108148
+  },
+  {
+    "id": 4449471052,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudaan\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.93\", \"name\": \"Patrizia Pepe\", \"shop\": \"clothes\", \"website\": \"https://www.patriziapepe.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2161106,
+    "lon": 4.40448
+  },
+  {
+    "id": 4449471055,
+    "type": "node",
+    "tags": "{\"brand\": \"Mango\", \"brand:wikidata\": \"Q136503\", \"brand:wikipedia\": \"en:Mango (retailer)\", \"changing_table\": \"no\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:width\": \"0\", \"level\": \"0\", \"name\": \"Mango\", \"opening_hours\": \"Mo-Sa 10:00-18:30, Fr 10:00-19:00; Su,PH off\", \"shop\": \"clothes\", \"website\": \"https://shop.mango.com/be-nl\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.218547,
+    "lon": 4.4027478
+  },
+  {
+    "id": 4449471058,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"31\", \"addr:postcode\": \"2000\", \"addr:street\": \"Groenplaats\", \"brand\": \"LolaLiza\", \"brand:wikidata\": \"Q122840142\", \"clothes\": \"women\", \"level\": \"0\", \"name\": \"LolaLiza\", \"opening_hours\": \"Mo-Sa 10:00-18:30; PH off\", \"phone\": \"+32 3 226 12 05\", \"shop\": \"clothes\", \"website\": \"https://stores.lolaliza.com/nl_BE/lolaliza-shopping-center-grand-bazar-antwerp\"}",
+    "lat": 51.2186849,
+    "lon": 4.4027803
+  },
+  {
+    "id": 4475478715,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Beddenstraat\", \"check_date\": \"2024-01-20\", \"clothes\": \"women\", \"level\": \"0\", \"name\": \"Cassis\", \"opening_hours\": \"Mo-Th 10:00-18:00, Fr-Sa 10:00-18:30, PH off\", \"shop\": \"clothes\"}",
+    "lat": 51.2190537,
+    "lon": 4.4031526
+  },
+  {
+    "id": 4475478716,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meirbrug\", \"brand\": \"Ulla Popken\", \"brand:wikidata\": \"Q2475146\", \"brand:wikipedia\": \"en:Ulla Popken\", \"check_date:opening_hours\": \"2023-11-16\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.79\", \"name\": \"Ulla Popken\", \"opening_hours\": \"Mo-Sa 10:00-18:00, PH off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ullapopken.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2186133,
+    "lon": 4.4048943
+  },
+  {
+    "id": 4582334510,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.3\", \"name\": \"Ann Demeulemeester Store\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:door_width\": \"0.89\", \"toilets:wheelchair:level\": \"lift_accessible\", \"toilets:wheelchair:space_side\": \"0\", \"website\": \"https://www.anndemeulemeester.com/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2096739,
+    "lon": 4.3938585
+  },
+  {
+    "id": 4582334992,
+    "type": "node",
+    "tags": "{\"name\": \"P. De Greef\", \"shop\": \"clothes\", \"website\": \"https://www.stvincents.co/store/\"}",
+    "lat": 51.2152444,
+    "lon": 4.4025231
+  },
+  {
+    "id": 4682410389,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"13-15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leysstraat\", \"check_date:opening_hours\": \"2023-11-16\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.68\", \"name\": \"Only\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2184288,
+    "lon": 4.4135406
+  },
+  {
+    "id": 4747917322,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"65\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hoogstraat\", \"name\": \"Pagabi dames-mode\", \"shop\": \"clothes\"}",
+    "lat": 51.2187438,
+    "lon": 4.3974152
+  },
+  {
+    "id": 4807209092,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"84\", \"addr:street\": \"Kammenstraat\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.9\", \"name\": \"Nathalie Vleesschouwer\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2157335,
+    "lon": 4.4019332
+  },
+  {
+    "id": 4807247478,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"64\", \"addr:street\": \"Nationalestraat\", \"clothes\": \"men\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.89\", \"name\": \"David Mayer Naman\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.davidnaman.com/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.215775,
+    "lon": 4.3988295
+  },
+  {
+    "id": 4854262378,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"32\", \"addr:street\": \"Lombardenvest\", \"name\": \"Denham\", \"shop\": \"clothes\", \"website\": \"https://www.denhamthejeanmaker.com/\"}",
+    "lat": 51.2175491,
+    "lon": 4.4016049
+  },
+  {
+    "id": 4899915066,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Drukkerijstraat\", \"name\": \"Abelone Wilhelmsen Flagshipstore\", \"shop\": \"clothes\"}",
+    "lat": 51.21805,
+    "lon": 4.3989741
+  },
+  {
+    "id": 4937608335,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-09-15\", \"clothes\": \"wedding\", \"name\": \"JPC Collection\", \"opening_hours\": \"Tu-Sa 10:00-18:00\", \"shop\": \"clothes\"}",
+    "lat": 51.1966557,
+    "lon": 4.4062666
+  },
+  {
+    "id": 4983904791,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"809\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"brand\": \"JBC\", \"brand:wikidata\": \"Q2671470\", \"brand:wikipedia\": \"nl:JBC\", \"name\": \"JBC\", \"opening_hours\": \"Tu-Sa 10:00-18:30; Su 10:00-18:00; Mo,PH off\", \"phone\": \"+32 3 646 32 55\", \"shop\": \"clothes\", \"url\": \"https://www.jbc.be/\"}",
+    "lat": 51.2518624,
+    "lon": 4.459273
+  },
+  {
+    "id": 4983904794,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"brand\": \"Damart\", \"brand:wikidata\": \"Q3012602\", \"brand:wikipedia\": \"en:Damart\", \"name\": \"Damart\", \"opening_hours\": \"Mo-Sa 09:30-18:00; Su off\", \"phone\": \"+32 3 647 10 93\", \"shop\": \"clothes\", \"url\": \"https://www.damart.be/\"}",
+    "lat": 51.2519046,
+    "lon": 4.4583071
+  },
+  {
+    "id": 5155770336,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"T2 Think Twice\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://thinktwice-secondhand.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2160389,
+    "lon": 4.4019435
+  },
+  {
+    "id": 5301882043,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"addr:street\": \"Kammenstraat\", \"alt_name\": \"Fish and Chips\", \"contact:facebook\": \"https://www.facebook.com/fishandchipsantwerpen/\", \"name\": \"Fish & Chips\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su 12:00-18:00\", \"phone\": \"+32 3 227 08 24\", \"shop\": \"clothes\", \"website\": \"https://www.fishandchips.be/\"}",
+    "lat": 51.218117,
+    "lon": 4.4000922
+  },
+  {
+    "id": 5301882044,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"16\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nationalestraat\", \"alt_name\": \"Modepaleis Dries Van Noten\", \"clothes\": \"yes\", \"clothes:men\": \"yes\", \"clothes:women\": \"yes\", \"email\": \"modepaleis@driesvannoten.com\", \"name\": \"Dries Van Noten\", \"opening_hours\": \"Mo-Sa 10:00-18:30, Su,PH off, Su[1] 12:00-18:00\", \"phone\": \"+32 3 470 25 10\", \"shop\": \"clothes\", \"website\": \"https://www.driesvannoten.be\"}",
+    "lat": 51.2180964,
+    "lon": 4.4003774
+  },
+  {
+    "id": 5302024354,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"61\", \"addr:postcode\": \"2000\", \"addr:street\": \"Steenhouwersvest\", \"clothes\": \"men\", \"email\": \"ANTWERP.MAN@FILIPPA-K.COM\", \"name\": \"Filippa K\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off, Su[1] 12:00-18:00\", \"phone\": \"+32 3 232 87 17\", \"shop\": \"clothes\", \"shop:clothes\": \"yes\", \"website\": \"https://www.filippa-k.com/be/\"}",
+    "lat": 51.2178742,
+    "lon": 4.3997839
+  },
+  {
+    "id": 5302024355,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"65\", \"addr:postcode\": \"2000\", \"addr:street\": \"Steenhouwersvest\", \"brand\": \"Filippa K\", \"brand:wikidata\": \"Q2479728\", \"check_date\": \"2023-04-08\", \"clothes\": \"women\", \"email\": \"ANTWERP.WOMAN@FILIPPA-K.COM\", \"name\": \"Filippa K\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off, Su[1] 12:00-18:00\", \"phone\": \"+32 3 232 88 18\", \"shop\": \"clothes\", \"shop:clothes\": \"yes\", \"website\": \"https://www.filippa-k.com/be/\"}",
+    "lat": 51.2178649,
+    "lon": 4.4000827
+  },
+  {
+    "id": 5304735821,
+    "type": "node",
+    "tags": "{\"addr:street\": \"De Burburestraat\", \"name\": \"Clinic store\", \"shop\": \"clothes\"}",
+    "lat": 51.2095778,
+    "lon": 4.3910644
+  },
+  {
+    "id": 5419041513,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"34\", \"addr:postcode\": \"2000\", \"addr:street\": \"Volkstraat\", \"entrance:kerb:height\": \"0.16\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.96\", \"name\": \"Colerful standard\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2112608,
+    "lon": 4.3959568
+  },
+  {
+    "id": 5419041515,
+    "type": "node",
+    "tags": "{\"clothes\": \"women;vintage\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.9\", \"name\": \"Jutka & Riska\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.jutkaenriska.com/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.214668,
+    "lon": 4.3986151
+  },
+  {
+    "id": 5419041520,
+    "type": "node",
+    "tags": "{\"branch\": \"Are Labels\", \"brand\": \"WE\", \"brand:wikidata\": \"Q1987861\", \"brand:wikipedia\": \"en:WE (clothing)\", \"clothes\": \"women;men\", \"name\": \"WE\", \"shop\": \"clothes\", \"website\": \"https://www.wearelabels.com/\"}",
+    "lat": 51.2171041,
+    "lon": 4.4009368
+  },
+  {
+    "id": 5428397048,
+    "type": "node",
+    "tags": "{\"name\": \"Missy-Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.1900228,
+    "lon": 4.378884
+  },
+  {
+    "id": 5428418894,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Noureen Modest Fashion\", \"shop\": \"clothes\", \"website\": \"https://noureenmodestfashion.com/\"}",
+    "lat": 51.1899679,
+    "lon": 4.3789991
+  },
+  {
+    "id": 5428431145,
+    "type": "node",
+    "tags": "{\"brand\": \"C&A\", \"brand:wikidata\": \"Q701338\", \"brand:wikipedia\": \"en:C&A\", \"image\": \"https://commons.wikimedia.org/wiki/File:Logo_C%26A.JPG\", \"name\": \"C&A\", \"operator\": \"C&A Belgi\\u00eb\", \"shop\": \"clothes\", \"website\": \"https://www.c-and-a.com/be/\"}",
+    "lat": 51.1900003,
+    "lon": 4.3793949
+  },
+  {
+    "id": 5428435561,
+    "type": "node",
+    "tags": "{\"brand\": \"Damart\", \"brand:wikidata\": \"Q3012602\", \"brand:wikipedia\": \"en:Damart\", \"name\": \"Damart\", \"shop\": \"clothes\", \"website\": \"https://winkel.damart.be\"}",
+    "lat": 51.1898819,
+    "lon": 4.3791825
+  },
+  {
+    "id": 5428446443,
+    "type": "node",
+    "tags": "{\"name\": \"Eye For Trend\", \"shop\": \"clothes\"}",
+    "lat": 51.1898335,
+    "lon": 4.3792859
+  },
+  {
+    "id": 5428480654,
+    "type": "node",
+    "tags": "{\"name\": \"Amira Fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.1898284,
+    "lon": 4.3797161
+  },
+  {
+    "id": 5428495781,
+    "type": "node",
+    "tags": "{\"name\": \"Belbo\", \"shop\": \"clothes\"}",
+    "lat": 51.1897324,
+    "lon": 4.3799244
+  },
+  {
+    "id": 5428495782,
+    "type": "node",
+    "tags": "{\"name\": \"Classy Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.1897281,
+    "lon": 4.3795148
+  },
+  {
+    "id": 5428501992,
+    "type": "node",
+    "tags": "{\"name\": \"Uranus\", \"shop\": \"clothes\"}",
+    "lat": 51.1897756,
+    "lon": 4.3798196
+  },
+  {
+    "id": 5428518364,
+    "type": "node",
+    "tags": "{\"name\": \"Urba Hijab\", \"shop\": \"clothes\"}",
+    "lat": 51.1895864,
+    "lon": 4.3798154
+  },
+  {
+    "id": 5428526174,
+    "type": "node",
+    "tags": "{\"name\": \"M&A Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.1895216,
+    "lon": 4.3799588
+  },
+  {
+    "id": 5428706533,
+    "type": "node",
+    "tags": "{\"name\": \"M&A Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.1893976,
+    "lon": 4.3802567
+  },
+  {
+    "id": 5428706534,
+    "type": "node",
+    "tags": "{\"brand\": \"Wibra\", \"brand:wikidata\": \"Q943405\", \"brand:wikipedia\": \"en:Wibra\", \"name\": \"Wibra\", \"shop\": \"clothes\", \"website\": \"https://www.wibra.nl\"}",
+    "lat": 51.1894296,
+    "lon": 4.3801665
+  },
+  {
+    "id": 5428707394,
+    "type": "node",
+    "tags": "{\"name\": \"CM Classy Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.1895284,
+    "lon": 4.380411
+  },
+  {
+    "id": 5428713271,
+    "type": "node",
+    "tags": "{\"name\": \"Maissa Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.1894732,
+    "lon": 4.3805251
+  },
+  {
+    "id": 5428721832,
+    "type": "node",
+    "tags": "{\"name\": \"Royaume de la Femme\", \"shop\": \"clothes\"}",
+    "lat": 51.1893704,
+    "lon": 4.3803056
+  },
+  {
+    "id": 5428734943,
+    "type": "node",
+    "tags": "{\"name\": \"Gala\", \"shop\": \"clothes\"}",
+    "lat": 51.1892914,
+    "lon": 4.3804708
+  },
+  {
+    "id": 5428734944,
+    "type": "node",
+    "tags": "{\"name\": \"Coton\", \"shop\": \"clothes\"}",
+    "lat": 51.1892587,
+    "lon": 4.3805512
+  },
+  {
+    "id": 5428734945,
+    "type": "node",
+    "tags": "{\"name\": \"Coton\", \"shop\": \"clothes\"}",
+    "lat": 51.1893166,
+    "lon": 4.3804132
+  },
+  {
+    "id": 5428757137,
+    "type": "node",
+    "tags": "{\"name\": \"Iqra\", \"shop\": \"clothes\"}",
+    "lat": 51.18932,
+    "lon": 4.3808273
+  },
+  {
+    "id": 5428774852,
+    "type": "node",
+    "tags": "{\"name\": \"Selek\", \"shop\": \"clothes\"}",
+    "lat": 51.1892941,
+    "lon": 4.3808751
+  },
+  {
+    "id": 5428778399,
+    "type": "node",
+    "tags": "{\"name\": \"Dennis\", \"shop\": \"clothes\"}",
+    "lat": 51.189149,
+    "lon": 4.3807588
+  },
+  {
+    "id": 5428804703,
+    "type": "node",
+    "tags": "{\"name\": \"Stacy\", \"opening_hours\": \"Mo-Sa 10:00-18:00\", \"shop\": \"clothes\"}",
+    "lat": 51.1889712,
+    "lon": 4.381187
+  },
+  {
+    "id": 5428804704,
+    "type": "node",
+    "tags": "{\"name\": \"Huis Verlinde\", \"shop\": \"clothes\"}",
+    "lat": 51.1889944,
+    "lon": 4.3811201
+  },
+  {
+    "id": 5428804706,
+    "type": "node",
+    "tags": "{\"name\": \"Jolie\", \"shop\": \"clothes\"}",
+    "lat": 51.1890455,
+    "lon": 4.3810022
+  },
+  {
+    "id": 5428804707,
+    "type": "node",
+    "tags": "{\"name\": \"Selek\", \"shop\": \"clothes\"}",
+    "lat": 51.1891926,
+    "lon": 4.3811174
+  },
+  {
+    "id": 5428804708,
+    "type": "node",
+    "tags": "{\"name\": \"Royal Mod\", \"shop\": \"clothes\"}",
+    "lat": 51.1892294,
+    "lon": 4.3810348
+  },
+  {
+    "id": 5428807648,
+    "type": "node",
+    "tags": "{\"name\": \"Bazille\", \"shop\": \"clothes\"}",
+    "lat": 51.1891395,
+    "lon": 4.381237
+  },
+  {
+    "id": 5460583912,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"13\", \"addr:postcode\": \"2000\", \"addr:street\": \"Graanmarkt\", \"check_date\": \"2024-02-14\", \"email\": \"welcome@graanmarkt13.be\", \"name\": \"Graanmarkt 13\", \"opening_hours\": \"Mo-Sa 10:30-18:30; Su off\", \"phone\": \"+32 3 337 79 92\", \"shop\": \"clothes\", \"website\": \"https://graanmarkt13.com/store\"}",
+    "lat": 51.2161057,
+    "lon": 4.4087054
+  },
+  {
+    "id": 5487864425,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"76-78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nationalestraat\", \"clothes\": \"fairtrade;children\", \"email\": \"shop@faamstore.be\", \"name\": \"FAAM kids\", \"opening_hours\": \"Tu-Sa 11:00-18:00\", \"phone\": \"+32 3 226 76 79\", \"shop\": \"clothes\", \"website\": \"https://www.faamstore.com/\"}",
+    "lat": 51.2149724,
+    "lon": 4.3987609
+  },
+  {
+    "id": 5594630372,
+    "type": "node",
+    "tags": "{\"brand\": \"E5 Mode\", \"brand:wikidata\": \"Q85313633\", \"name\": \"E5 Mode\", \"opening_hours\": \"Tu-Su 10:00-18:00\", \"shop\": \"clothes\"}",
+    "lat": 51.264279,
+    "lon": 4.4621935
+  },
+  {
+    "id": 5594867821,
+    "type": "node",
+    "tags": "{\"brand\": \"Primark\", \"brand:wikidata\": \"Q137023\", \"brand:wikipedia\": \"en:Primark\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.38\", \"name\": \"Primark\", \"opening_hours\": \"Mo-Sa 09:30-19:30\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.primark.com/fr-be/stores/antwerp/meir-22-30\", \"website:fr\": \"https://www.primark.com/fr-be/stores/antwerp/meir-22-30\", \"website:nl\": \"https://www.primark.com/nl-be/stores/antwerp/meir-22-30\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2179261,
+    "lon": 4.4067795
+  },
+  {
+    "id": 5613309722,
+    "type": "node",
+    "tags": "{\"name\": \"Nicky Vankes\", \"shop\": \"clothes\", \"website\": \"https://www.nickyvankets.com\"}",
+    "lat": 51.2166511,
+    "lon": 4.412589
+  },
+  {
+    "id": 5613309723,
+    "type": "node",
+    "tags": "{\"name\": \"The Corner Shop\", \"shop\": \"clothes\"}",
+    "lat": 51.2166445,
+    "lon": 4.4120472
+  },
+  {
+    "id": 5613309725,
+    "type": "node",
+    "tags": "{\"name\": \"Bogose\", \"shop\": \"clothes\"}",
+    "lat": 51.216806,
+    "lon": 4.4113199
+  },
+  {
+    "id": 5694473811,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Falconplein\", \"email\": \"info@falconseamen.com\", \"name\": \"Falcon Seamen Shop\", \"opening_hours\": \"Tu-Sa 11:00-17:00; Mo,Su off\", \"phone\": \"+32 3 232 56 27\", \"shop\": \"clothes\", \"website\": \"https://falconseamen.com/\"}",
+    "lat": 51.2267127,
+    "lon": 4.4049854
+  },
+  {
+    "id": 5834503197,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"356a\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"clothes\": \"men\", \"contact:facebook\": \"https://nl-nl.facebook.com/pg/Tailor-Suetens-316496711781817/\", \"craft\": \"tailor\", \"craft:tailor\": \"yes\", \"name\": \"Tailor Suetens\", \"opening_hours\": \"Tu-Fr 10:00-18:00; Mo,Sa,Su off\", \"phone\": \"+32 3 644 00 43\", \"shop\": \"clothes\", \"tailor\": \"yes\"}",
+    "lat": 51.2426388,
+    "lon": 4.4407592
+  },
+  {
+    "id": 5834766409,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"510\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"contact:facebook\": \"https://www.facebook.com/CarroucheFashion\", \"email\": \"info@carrouche.be\", \"name\": \"Carrouche\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"phone\": \"+32 3 646 55 80\", \"shop\": \"clothes\", \"website\": \"https://www.carrouche.be/\"}",
+    "lat": 51.2451721,
+    "lon": 4.4465967
+  },
+  {
+    "id": 5834812095,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"498\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"brand:wikipedia\": \"en:Zeeman (store)\", \"name\": \"Zeeman\", \"opening_hours\": \"Mo-Sa 09:00-18:00; Su,PH off\", \"phone\": \"+32 3 808 38 46\", \"shop\": \"clothes\", \"website\": \"https://www.zeeman.com/\"}",
+    "lat": 51.2450045,
+    "lon": 4.4462415
+  },
+  {
+    "id": 5834831695,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"500\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"brand\": \"Hunkem\\u00f6ller\", \"brand:wikidata\": \"Q2604175\", \"brand:wikipedia\": \"en:Hunkem\\u00f6ller\", \"clothes\": \"underwear\", \"name\": \"Hunkem\\u00f6ller\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"phone\": \"+32 3 645 91 43\", \"shop\": \"clothes\", \"website\": \"https://www.hunkemoller.be/\"}",
+    "lat": 51.2450365,
+    "lon": 4.446318
+  },
+  {
+    "id": 5914661785,
+    "type": "node",
+    "tags": "{\"brand\": \"C&A\", \"brand:wikidata\": \"Q701338\", \"brand:wikipedia\": \"en:C&A\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.4\", \"name\": \"C&A\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.c-and-a.com\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2181204,
+    "lon": 4.426404
+  },
+  {
+    "id": 5994111148,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0.1\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.3\", \"facebook\": \"https://www.facebook.com/LefAntwerpen/\", \"name\": \"LEF Antwerpen\", \"shop\": \"clothes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2214976,
+    "lon": 4.4052546
+  },
+  {
+    "id": 6001950068,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"clothes\": \"wedding\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1\", \"name\": \"La Tiara\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.221672,
+    "lon": 4.4052503
+  },
+  {
+    "id": 6008349705,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"Filosophie\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ourfilosophie.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2202965,
+    "lon": 4.4028208
+  },
+  {
+    "id": 6008349713,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"name\": \"Azzardi\", \"shop\": \"clothes\"}",
+    "lat": 51.2201726,
+    "lon": 4.4028197
+  },
+  {
+    "id": 6013562901,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"unisex\", \"name\": \"The Robin Store\", \"shop\": \"clothes\", \"website\": \"https://www.therobinstore.com\"}",
+    "lat": 51.2121593,
+    "lon": 4.4071418
+  },
+  {
+    "id": 6013562902,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.94\", \"name\": \"The Robin Store\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.therobinstore.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2116633,
+    "lon": 4.4073338
+  },
+  {
+    "id": 6036014390,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"8\", \"addr:postcode\": \"2000\", \"addr:street\": \"Mechelsesteenweg\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"clothes\": \"sports;ski;running\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.96\", \"name\": \"Republik of Snow and Wind\", \"shop\": \"clothes\", \"website\": \"https://www.republik.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2118115,
+    "lon": 4.4073017
+  },
+  {
+    "id": 6036014392,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"Ann-Vers\", \"second_hand\": \"only\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.ann-vers.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2117321,
+    "lon": 4.4073198
+  },
+  {
+    "id": 6036032193,
+    "type": "node",
+    "tags": "{\"age\": \"0-18\", \"check_date\": \"2024-07-28\", \"clothes\": \"children\", \"contact:facebook\": \"https://www.facebook.com/lolaoverstocks/\", \"name\": \"Lola\", \"opening_hours\": \"Tu-Fr 11:30-17:30; Sa 12:00-17:00; Su [1] 12:00-17:00; PH off\", \"shop\": \"clothes\"}",
+    "lat": 51.2130909,
+    "lon": 4.4088712
+  },
+  {
+    "id": 6050675085,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.74\", \"name\": \"Labels Inc.\", \"opening_hours\": \"Mo-Sa 11:00-18:00\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.labelsinc.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2144167,
+    "lon": 4.398482
+  },
+  {
+    "id": 6080449685,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"14\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nationalestraat\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.81\", \"name\": \"Melting Pot Kilo\", \"opening_hours\": \"Mo-Sa 10:30-18:30; Su 12:00-18:00\", \"second_hand\": \"yes\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://meltingpotkilo.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.218248,
+    "lon": 4.4005204
+  },
+  {
+    "id": 6099184204,
+    "type": "node",
+    "tags": "{\"clothes\": \"wedding\", \"name\": \"Het Bruidsparadijs\", \"shop\": \"clothes\", \"website\": \"https://bruidsparadijs.be/\"}",
+    "lat": 51.2410326,
+    "lon": 4.4521907
+  },
+  {
+    "id": 6122316438,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Amorini Kids\", \"shop\": \"clothes\", \"website\": \"https://www.amorinikids.be\"}",
+    "lat": 51.2164776,
+    "lon": 4.4174697
+  },
+  {
+    "id": 6122316440,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-15\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.43\", \"name\": \"Verdi\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.21672,
+    "lon": 4.4175624
+  },
+  {
+    "id": 6126141006,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.16\", \"name\": \"Zebra Fashion\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"http://zebrafashion.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2166068,
+    "lon": 4.4190228
+  },
+  {
+    "id": 6140729286,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Benetti Kids\", \"shop\": \"clothes\"}",
+    "lat": 51.2168513,
+    "lon": 4.4189626
+  },
+  {
+    "id": 6140729287,
+    "type": "node",
+    "tags": "{\"name\": \"Passion for Fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.2169245,
+    "lon": 4.418959
+  },
+  {
+    "id": 6140729288,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.11\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.89\", \"name\": \"DIVA\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2176098,
+    "lon": 4.4138381
+  },
+  {
+    "id": 6140729290,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Benetti Outlet\", \"shop\": \"clothes\"}",
+    "lat": 51.2170571,
+    "lon": 4.4190086
+  },
+  {
+    "id": 6140729292,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Benetti\", \"shop\": \"clothes\"}",
+    "lat": 51.2170811,
+    "lon": 4.4188628
+  },
+  {
+    "id": 6140729293,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"name\": \"Parisinni\", \"shop\": \"clothes\", \"website\": \"https://www.parisinni.be\"}",
+    "lat": 51.2170965,
+    "lon": 4.4187716
+  },
+  {
+    "id": 6140729294,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Pitti Donna\", \"shop\": \"clothes\", \"website\": \"http://www.divina-bvba.be\"}",
+    "lat": 51.2171592,
+    "lon": 4.4187968
+  },
+  {
+    "id": 6160845699,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"unisex\", \"name\": \"Robics\", \"shop\": \"clothes\", \"website\": \"http://users.telenet.be/robics\"}",
+    "lat": 51.2137448,
+    "lon": 4.4094267
+  },
+  {
+    "id": 6188059475,
+    "type": "node",
+    "tags": "{\"name\": \"Kleerbedrijf Dome des Halles\", \"shop\": \"clothes\"}",
+    "lat": 51.2210192,
+    "lon": 4.4022639
+  },
+  {
+    "id": 6214570050,
+    "type": "node",
+    "tags": "{\"clothes\": \"hats\", \"name\": \"Hoedensalon\", \"shop\": \"clothes\", \"website\": \"http://www.hoedensalon.com\"}",
+    "lat": 51.2190686,
+    "lon": 4.4003256
+  },
+  {
+    "id": 6214570051,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.59\", \"name\": \"A.R.T. fashion\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2192233,
+    "lon": 4.4003893
+  },
+  {
+    "id": 6237548277,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Amelie\", \"shop\": \"clothes\", \"website\": \"https://www.amelie-antwerp.be\"}",
+    "lat": 51.219505,
+    "lon": 4.3979252
+  },
+  {
+    "id": 6279454157,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-10\", \"clothes\": \"women\", \"name\": \"Barcelona Antwerp\", \"shop\": \"clothes\", \"website\": \"https://www.barcelona-antwerp.be\"}",
+    "lat": 51.2194599,
+    "lon": 4.3978809
+  },
+  {
+    "id": 6284526660,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-10\", \"clothes\": \"women\", \"name\": \"Sweet Soda\", \"shop\": \"clothes\", \"website\": \"https://sweetsoda.be\"}",
+    "lat": 51.219124,
+    "lon": 4.3975522
+  },
+  {
+    "id": 6296388378,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-10\", \"clothes\": \"men\", \"name\": \"Joe Merino\", \"shop\": \"clothes\", \"website\": \"https://www.joemerino.com\"}",
+    "lat": 51.2168592,
+    "lon": 4.395264
+  },
+  {
+    "id": 6297239498,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Play Kids\", \"shop\": \"clothes\", \"website\": \"https://www.rewinddesign.be\"}",
+    "lat": 51.2156887,
+    "lon": 4.3949553
+  },
+  {
+    "id": 6297239507,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"name\": \"Artu Napoli\", \"shop\": \"clothes\", \"website\": \"https://www.artunapoli.com\"}",
+    "lat": 51.2150705,
+    "lon": 4.3942836
+  },
+  {
+    "id": 6298603462,
+    "type": "node",
+    "tags": "{\"name\": \"Selfedge\", \"shop\": \"clothes\"}",
+    "lat": 51.212859,
+    "lon": 4.3929545
+  },
+  {
+    "id": 6298603471,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"name\": \"Zoomoon\", \"shop\": \"clothes\", \"website\": \"http://www.zoomoon.be\"}",
+    "lat": 51.213673,
+    "lon": 4.3934072
+  },
+  {
+    "id": 6298674385,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"22\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"alt_name\": \"Princess Space;Space Antwerp\", \"email\": \"space.antwerp@princess.eu\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.1\", \"name\": \"Space\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su off; Su[1] 12:00-18:00\", \"phone\": \"+32 3 369 22 34\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"url\": \"http://www.princess.eu/space/antwerp\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2175856,
+    "lon": 4.4013166
+  },
+  {
+    "id": 6298674388,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lange Gasthuisstraat\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-08-08\", \"email\": \"info@princess.eu\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.02\", \"name\": \"Princess\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su off; Su[1] 12:00-18:00\", \"phone\": \"+32 3 369 26 72\", \"shop\": \"clothes\", \"website\": \"http://princess.eu/\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2156153,
+    "lon": 4.404801
+  },
+  {
+    "id": 6304453180,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"Anja Schwerbrock\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.anjaschwerbrock.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2128702,
+    "lon": 4.3942288
+  },
+  {
+    "id": 6304453181,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.85\", \"name\": \"Five Fridays\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://fivefridays.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2127307,
+    "lon": 4.3942348
+  },
+  {
+    "id": 6306769621,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"85\", \"addr:street\": \"Kloosterstraat\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.07\", \"name\": \"Talking walls\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.talkingwalls.world/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2149804,
+    "lon": 4.3945655
+  },
+  {
+    "id": 6306769623,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-10\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2.2\", \"name\": \"SeventyOne\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.seventyone.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2151348,
+    "lon": 4.3946787
+  },
+  {
+    "id": 6312724309,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Ginger LABO\", \"shop\": \"clothes\", \"website\": \"https://www.fredginger.com\"}",
+    "lat": 51.2168626,
+    "lon": 4.3955213
+  },
+  {
+    "id": 6313833919,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"name\": \"Irony\", \"shop\": \"clothes\"}",
+    "lat": 51.2181577,
+    "lon": 4.3971319
+  },
+  {
+    "id": 6313833922,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.75\", \"name\": \"Monique Stam\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.moniquestam.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217521,
+    "lon": 4.3965765
+  },
+  {
+    "id": 6314910839,
+    "type": "node",
+    "tags": "{\"name\": \"Salsa Color\", \"shop\": \"clothes\"}",
+    "lat": 51.2186236,
+    "lon": 4.3973265
+  },
+  {
+    "id": 6321736283,
+    "type": "node",
+    "tags": "{\"name\": \"In 't Boerke\", \"shop\": \"clothes\", \"website\": \"https://www.intboerke.be/\"}",
+    "lat": 51.2193787,
+    "lon": 4.3980514
+  },
+  {
+    "id": 6321736489,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.1\", \"name\": \"Salsa color\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2187963,
+    "lon": 4.3974587
+  },
+  {
+    "id": 6324030035,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.1\", \"name\": \"Let's go bananas\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2199011,
+    "lon": 4.3985394
+  },
+  {
+    "id": 6329631320,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Lewis&Melly\", \"shop\": \"clothes\", \"website\": \"https://www.lewismelly.com\"}",
+    "lat": 51.2183016,
+    "lon": 4.3994406
+  },
+  {
+    "id": 6329631321,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"name\": \"Step by Step\", \"shop\": \"clothes\", \"website\": \"http://www.stepbystep-antwerpen.be\"}",
+    "lat": 51.2179456,
+    "lon": 4.3979823
+  },
+  {
+    "id": 6329631325,
+    "type": "node",
+    "tags": "{\"name\": \"Manou Antwerp\", \"shop\": \"clothes\"}",
+    "lat": 51.2179981,
+    "lon": 4.3985683
+  },
+  {
+    "id": 6336279279,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"men\", \"name\": \"Men's Fashion\", \"shop\": \"clothes\", \"website\": \"https://mens-fashion.be\"}",
+    "lat": 51.21778,
+    "lon": 4.398906
+  },
+  {
+    "id": 6336279280,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"34A\", \"addr:postcode\": \"2000\", \"addr:street\": \"Steenhouwersvest\", \"name\": \"Annette gortz\", \"shop\": \"clothes\"}",
+    "lat": 51.2178125,
+    "lon": 4.3987301
+  },
+  {
+    "id": 6336279282,
+    "type": "node",
+    "tags": "{\"name\": \"Fout Roses\", \"shop\": \"clothes\"}",
+    "lat": 51.2179354,
+    "lon": 4.3990002
+  },
+  {
+    "id": 6336279283,
+    "type": "node",
+    "tags": "{\"name\": \"Bqrcelona\", \"shop\": \"clothes\"}",
+    "lat": 51.2179756,
+    "lon": 4.3987657
+  },
+  {
+    "id": 6339905777,
+    "type": "node",
+    "tags": "{\"brand\": \"Louis Vuitton\", \"brand:wikidata\": \"Q191485\", \"brand:wikipedia\": \"en:Louis Vuitton\", \"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.6\", \"name\": \"Louis Vuitton\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://en.louisvuitton.com/eng-nl/point-of-sale/belgium/louis-vuitton-anvers\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2159373,
+    "lon": 4.4063938
+  },
+  {
+    "id": 6339905778,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.86\", \"name\": \"Ralph Lauren\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ralphlauren.fr\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2160066,
+    "lon": 4.4062788
+  },
+  {
+    "id": 6342527214,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1\", \"name\": \"Filou & Friends\", \"opening_hours\": \"Mo-Su 10:00-18:00\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.filoufriends.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217878,
+    "lon": 4.399529
+  },
+  {
+    "id": 6342527217,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.65\", \"name\": \"Diane von Furstenberg\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"http://gretamarta.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2177157,
+    "lon": 4.3995491
+  },
+  {
+    "id": 6342527218,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"women\", \"name\": \"Julia June\", \"shop\": \"clothes\", \"website\": \"https://juliajune.com\"}",
+    "lat": 51.2177155,
+    "lon": 4.399469
+  },
+  {
+    "id": 6345934645,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.99\", \"name\": \"Acne Studios\", \"opening_hours\": \"Mo-Sa 11:00-18:30\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.acnestudios.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2174914,
+    "lon": 4.4021111
+  },
+  {
+    "id": 6345934648,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"name\": \"Love Stories\", \"shop\": \"clothes\", \"website\": \"https://lovestoriesintimates.com\"}",
+    "lat": 51.217534,
+    "lon": 4.4017319
+  },
+  {
+    "id": 6345934649,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"A.F. Vandevorst\", \"shop\": \"clothes\", \"website\": \"https://afvandevorst.be\"}",
+    "lat": 51.2175976,
+    "lon": 4.4012303
+  },
+  {
+    "id": 6345934651,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"34\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"brand\": \"Scotch & Soda\", \"brand:wikidata\": \"Q17141914\", \"brand:wikipedia\": \"en:Scotch & Soda (clothing)\", \"clothes\": \"unisex\", \"fixme\": \"Winkel in faling https://weekend.knack.be/lifestyle/mode/kledingmerk-scotch-soda-failliet-wat-betekent-dat-voor-de-winkels-in-belgie/?utm_medium=social_knack&utm_source=Facebook#Echobox=1679657468\", \"name\": \"Scotch & Soda\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off\", \"shop\": \"clothes\", \"website\": \"https://stores.scotch-soda.com\"}",
+    "lat": 51.2175192,
+    "lon": 4.4018558
+  },
+  {
+    "id": 6345934652,
+    "type": "node",
+    "tags": "{\"brand\": \"A.P.C.\", \"brand:wikidata\": \"Q546542\", \"brand:wikipedia\": \"en:A.P.C.\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.97\", \"name\": \"A.P.C.\", \"opening_hours\": \"Mo-Sa 10:00-18:30\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.apc.fr\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217628,
+    "lon": 4.401005
+  },
+  {
+    "id": 6350933589,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Les S\\u0153urs\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173484,
+    "lon": 4.4031441
+  },
+  {
+    "id": 6350933593,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-14\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.94\", \"name\": \"Sienna\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.siennagoodies.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217386,
+    "lon": 4.4029539
+  },
+  {
+    "id": 6355306348,
+    "type": "node",
+    "tags": "{\"name\": \"Mr Marvis amsterdam\", \"shop\": \"clothes\"}",
+    "lat": 51.2164374,
+    "lon": 4.4086219
+  },
+  {
+    "id": 6355306349,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-02\", \"clothes\": \"women\", \"name\": \"Essentiel\", \"shop\": \"clothes\", \"website\": \"https://www.essentiel-antwerp.com\"}",
+    "lat": 51.2161458,
+    "lon": 4.4050178
+  },
+  {
+    "id": 6355306350,
+    "type": "node",
+    "tags": "{\"brand\": \"Essentiel Antwerp\", \"brand:wikidata\": \"Q117456339\", \"check_date\": \"2023-04-08\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.8\", \"name\": \"Essentiel Antwerp\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.essentiel-antwerp.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2166565,
+    "lon": 4.4010793
+  },
+  {
+    "id": 6355306351,
+    "type": "node",
+    "tags": "{\"brand\": \"Essentiel Antwerp\", \"brand:wikidata\": \"Q117456339\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.89\", \"name\": \"Essentiel Antwerp\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.essentiel-antwerp.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2175212,
+    "lon": 4.4029352
+  },
+  {
+    "id": 6355306352,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.76\", \"name\": \"Cosi Cosi\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.cosicosi.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.217508,
+    "lon": 4.4031595
+  },
+  {
+    "id": 6359230333,
+    "type": "node",
+    "tags": "{\"brand\": \"BRAX\", \"brand:wikidata\": \"Q110065395\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"BRAX\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://corporate.brax.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2182225,
+    "lon": 4.4036044
+  },
+  {
+    "id": 6372299251,
+    "type": "node",
+    "tags": "{\"brand\": \"Chanel\", \"brand:wikidata\": \"Q218115\", \"brand:wikipedia\": \"en:Chanel\", \"check_date\": \"2023-04-10\", \"name\": \"Chanel\", \"shop\": \"clothes\", \"website\": \"https://www.chanel.com/fr_BE/\"}",
+    "lat": 51.2163748,
+    "lon": 4.406784
+  },
+  {
+    "id": 6372299252,
+    "type": "node",
+    "tags": "{\"brand\": \"Paul Smith\", \"brand:wikidata\": \"Q56356277\", \"name\": \"Paul Smith\", \"shop\": \"clothes\", \"website\": \"https://www.paulsmith.com\"}",
+    "lat": 51.216232,
+    "lon": 4.4069112
+  },
+  {
+    "id": 6372299254,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Arenbergstraat\", \"name\": \"Daniel G\", \"shop\": \"clothes\"}",
+    "lat": 51.2152086,
+    "lon": 4.4069805
+  },
+  {
+    "id": 6372299255,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"11\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leopoldstraat\", \"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"name\": \"Scapa Women\", \"opening_hours\": \"Mo-Th 10:00-18:00, Fr-Sa 10:00-18:30; Su,PH off\", \"shop\": \"clothes\", \"website\": \"https://www.scapaworld.com\"}",
+    "lat": 51.2153588,
+    "lon": 4.406929
+  },
+  {
+    "id": 6372299257,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"name\": \"Rue Blanche\", \"shop\": \"clothes\", \"website\": \"https://www.rueblanche.com\"}",
+    "lat": 51.2155428,
+    "lon": 4.406653
+  },
+  {
+    "id": 6372299258,
+    "type": "node",
+    "tags": "{\"name\": \"Xandres\", \"shop\": \"clothes\", \"website\": \"https://www.xandres.com\"}",
+    "lat": 51.2157914,
+    "lon": 4.4066255
+  },
+  {
+    "id": 6372299262,
+    "type": "node",
+    "tags": "{\"brand\": \"Liu Jo\", \"brand:wikidata\": \"Q3835099\", \"brand:wikipedia\": \"en:Liu Jo\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2.24\", \"name\": \"Liu Jo\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.liujo.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2165475,
+    "lon": 4.4059298
+  },
+  {
+    "id": 6372691936,
+    "type": "node",
+    "tags": "{\"name\": \"Pure Basis\", \"shop\": \"clothes\"}",
+    "lat": 51.2164419,
+    "lon": 4.4033024
+  },
+  {
+    "id": 6372691937,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"name\": \"Monar & Clothes\", \"shop\": \"clothes\", \"website\": \"https://www.monar.be\"}",
+    "lat": 51.216593,
+    "lon": 4.4032356
+  },
+  {
+    "id": 6381859508,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.04\", \"name\": \"Sarah Pacini\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.sarahpacini.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174402,
+    "lon": 4.4052513
+  },
+  {
+    "id": 6381859509,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.03\", \"name\": \"Chris Janssens\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.chrisjanssens.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174932,
+    "lon": 4.4050484
+  },
+  {
+    "id": 6388582523,
+    "type": "node",
+    "tags": "{\"brand\": \"Marc O'Polo\", \"brand:wikidata\": \"Q1892752\", \"brand:wikipedia\": \"en:Marc O'Polo\", \"check_date\": \"2024-03-05\", \"clothes\": \"unisex\", \"name\": \"Marc O'Polo\", \"shop\": \"clothes\", \"website\": \"https://www.marc-o-polo.com\"}",
+    "lat": 51.2166004,
+    "lon": 4.4046013
+  },
+  {
+    "id": 6388582526,
+    "type": "node",
+    "tags": "{\"brand\": \"& Other Stories\", \"brand:wikidata\": \"Q85322338\", \"check_date\": \"2023-10-13\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.07\", \"name\": \"& Other Stories\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.stories.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2170071,
+    "lon": 4.4043506
+  },
+  {
+    "id": 6388582534,
+    "type": "node",
+    "tags": "{\"name\": \"Les Jumelles\", \"shop\": \"clothes\"}",
+    "lat": 51.2170875,
+    "lon": 4.40404
+  },
+  {
+    "id": 6388582538,
+    "type": "node",
+    "tags": "{\"brand\": \"Intimissimi\", \"brand:wikidata\": \"Q305404\", \"brand:wikipedia\": \"en:Intimissimi\", \"check_date\": \"2024-01-27\", \"clothes\": \"underwear\", \"name\": \"Intimissimi\", \"shop\": \"clothes\", \"website\": \"https://be.intimissimi.com\"}",
+    "lat": 51.2173789,
+    "lon": 4.4041698
+  },
+  {
+    "id": 6426537694,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Sienna & Faye\", \"shop\": \"clothes\", \"website\": \"https://www.siennagoodies.com\"}",
+    "lat": 51.2166048,
+    "lon": 4.403678
+  },
+  {
+    "id": 6426537697,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"LO&S\", \"shop\": \"clothes\", \"website\": \"https://www.tonnylinders.be/\"}",
+    "lat": 51.2157384,
+    "lon": 4.40376
+  },
+  {
+    "id": 6426537711,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"name\": \"Woody\", \"shop\": \"clothes\", \"website\": \"https://woodyworld.com\"}",
+    "lat": 51.2160636,
+    "lon": 4.4038642
+  },
+  {
+    "id": 6426537712,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"22\", \"addr:street\": \"Oudlaan\", \"check_date\": \"2023-11-11\", \"name\": \"Lardini\", \"phone\": \"+32 3 658 59 53\", \"shop\": \"clothes\"}",
+    "lat": 51.2157604,
+    "lon": 4.4039777
+  },
+  {
+    "id": 6426537713,
+    "type": "node",
+    "tags": "{\"brand\": \"Bogner\", \"brand:wikidata\": \"Q881017\", \"check_date\": \"2024-07-28\", \"clothes\": \"unisex\", \"name\": \"Bogner\", \"shop\": \"clothes\", \"website\": \"https://bognerantwerpen.be\"}",
+    "lat": 51.2127023,
+    "lon": 4.4088723
+  },
+  {
+    "id": 6426537714,
+    "type": "node",
+    "tags": "{\"brand\": \"Marc Cain\", \"brand:wikidata\": \"Q63342543\", \"brand:wikipedia\": \"de:Marc Cain\", \"check_date:opening_hours\": \"2023-11-11\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.83\", \"name\": \"Marc Cain\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.marc-cain.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2158145,
+    "lon": 4.404518
+  },
+  {
+    "id": 6426537715,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"clothes\": \"men\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Boggi\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.boggi.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.215794,
+    "lon": 4.4047493
+  },
+  {
+    "id": 6426537716,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-02-15\", \"clothes\": \"men\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.97\", \"name\": \"State of art\", \"shop\": \"clothes\", \"website\": \"https://www.stateofart.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163785,
+    "lon": 4.4044285
+  },
+  {
+    "id": 6426537717,
+    "type": "node",
+    "tags": "{\"brand\": \"Wolford\", \"brand:wikidata\": \"Q431607\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"clothes\": \"underwear\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.8\", \"name\": \"Wolford\", \"shop\": \"clothes\", \"website\": \"https://www.wolfordshop.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2161858,
+    "lon": 4.404407
+  },
+  {
+    "id": 6429151253,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.4\", \"name\": \"Maison Anna Heylen\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.annaheylen.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2171197,
+    "lon": 4.4023094
+  },
+  {
+    "id": 6429151254,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.82\", \"name\": \"Brussel\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.winkelbrussel.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2173222,
+    "lon": 4.4023015
+  },
+  {
+    "id": 6429151255,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.2\", \"name\": \"Louis\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.louisantwerp.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174156,
+    "lon": 4.4022658
+  },
+  {
+    "id": 6431461396,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.44\", \"name\": \"Zumo\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.zumo-international.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2172974,
+    "lon": 4.4007922
+  },
+  {
+    "id": 6431461399,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"25\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kammenstraat\", \"brand\": \"Sams\\u00f8e Sams\\u00f8e\", \"brand:wikidata\": \"Q12334460\", \"clothes\": \"unisex\", \"name\": \"Sams\\u00f8e Sams\\u00f8e\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"payment:mastercard\": \"yes\", \"payment:visa\": \"yes\", \"payment:visa_debit\": \"yes\", \"phone\": \"+32 468 35 37 06\", \"shop\": \"clothes\", \"website\": \"https://www.samsoe.com\"}",
+    "lat": 51.2175502,
+    "lon": 4.400592
+  },
+  {
+    "id": 6431461400,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"brand\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.1\", \"name\": \"Lee Store\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.lee.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173329,
+    "lon": 4.4004778
+  },
+  {
+    "id": 6432685613,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.85\", \"name\": \"Vegas\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.vegasantwerp.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2167527,
+    "lon": 4.4012792
+  },
+  {
+    "id": 6432730131,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"107\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"PME Legend\", \"brand:wikidata\": \"Q94776153\", \"check_date:opening_hours\": \"2023-11-16\", \"clothes\": \"men\", \"name\": \"PME Legend\", \"opening_hours\": \"Mo-Sa 10:00-18:00, Su[1] 12:00-18:00; Su[2-5], PH off\", \"opening_hours:signed\": \"no\", \"phone\": \"+32 3 808 53 94\", \"shop\": \"clothes\", \"website\": \"https://www.pme-legend.com/be/storelocator/antwerpen\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2182695,
+    "lon": 4.4117123
+  },
+  {
+    "id": 6433634485,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.85\", \"name\": \"Sienna & Louis\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.siennagoodies.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2159869,
+    "lon": 4.4019942
+  },
+  {
+    "id": 6439639118,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Nathalie Vleeschouwer\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"website\": \"https://www.nathalievleeschouwer.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2157787,
+    "lon": 4.4018989
+  },
+  {
+    "id": 6441387152,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.78\", \"name\": \"Size?\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.size.co.uk\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2168868,
+    "lon": 4.4004231
+  },
+  {
+    "id": 6441448410,
+    "type": "node",
+    "tags": "{\"name\": \"Julia online fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.2170665,
+    "lon": 4.4007135
+  },
+  {
+    "id": 6441448414,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"name\": \"Arte\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://arte-antwerp.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2167055,
+    "lon": 4.4010517
+  },
+  {
+    "id": 6441448415,
+    "type": "node",
+    "tags": "{\"name\": \"Faon jacmin\", \"shop\": \"clothes\"}",
+    "lat": 51.2166081,
+    "lon": 4.4011157
+  },
+  {
+    "id": 6443810685,
+    "type": "node",
+    "tags": "{\"brand\": \"American Vintage\", \"brand:wikidata\": \"Q2422884\", \"brand:wikipedia\": \"fr:American Vintage\", \"changing_table\": \"no\", \"check_date\": \"2024-02-14\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"3\", \"entrance:width\": \"0.96\", \"name\": \"American Vintage\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://nl.americanvintage-store.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2175381,
+    "lon": 4.400289
+  },
+  {
+    "id": 6443810687,
+    "type": "node",
+    "tags": "{\"name\": \"Dstrezzed\", \"shop\": \"clothes\"}",
+    "lat": 51.2172613,
+    "lon": 4.4005331
+  },
+  {
+    "id": 6443810688,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"36-38\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kammenstraat\", \"brand\": \"Weekday\", \"brand:wikidata\": \"Q10719514\", \"check_date\": \"2023-04-08\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.5\", \"name\": \"Weekday\", \"opening_hours\": \"Mo-Th 10:00-18:00; Fr-Sa 10:00-18:30; Su,PH off\", \"phone\": \"+32 3 400 01 50\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:grab_rails\": \"no\", \"website\": \"https://www.weekday.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2171618,
+    "lon": 4.4006004
+  },
+  {
+    "id": 6447963121,
+    "type": "node",
+    "tags": "{\"brand\": \"Zadig & Voltaire\", \"brand:wikidata\": \"Q3574548\", \"brand:wikipedia\": \"fr:Zadig & Voltaire\", \"clothes\": \"unisex\", \"name\": \"Zadig & Voltaire\", \"shop\": \"clothes\", \"website\": \"https://www.zadig-et-voltaire.com/eu/be/\"}",
+    "lat": 51.2165338,
+    "lon": 4.4064577
+  },
+  {
+    "id": 6447963122,
+    "type": "node",
+    "tags": "{\"name\": \"Gerar Darel\", \"shop\": \"clothes\", \"website\": \"https://www.gerarddarel.com\"}",
+    "lat": 51.2165371,
+    "lon": 4.4063316
+  },
+  {
+    "id": 6447963123,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-15\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.05\", \"name\": \"IRO\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.iroparis.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.216549,
+    "lon": 4.4056908
+  },
+  {
+    "id": 6449892258,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.74\", \"name\": \"Dondup\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2165469,
+    "lon": 4.4075221
+  },
+  {
+    "id": 6449892259,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1\", \"name\": \"Maje\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2165451,
+    "lon": 4.4074372
+  },
+  {
+    "id": 6449892260,
+    "type": "node",
+    "tags": "{\"brand\": \"Pinko\", \"brand:wikidata\": \"Q3905226\", \"clothes\": \"women\", \"name\": \"Pinko\", \"shop\": \"clothes\", \"website\": \"https://stores.pinko.com/be\"}",
+    "lat": 51.2165431,
+    "lon": 4.4073436
+  },
+  {
+    "id": 6449892261,
+    "type": "node",
+    "tags": "{\"brand\": \"Ikks\", \"brand:wikidata\": \"Q3146711\", \"brand:wikipedia\": \"fr:IKKS\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.7\", \"name\": \"Ikks\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ikks.com/be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2165419,
+    "lon": 4.4072117
+  },
+  {
+    "id": 6449892262,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.85\", \"name\": \"Maxazria\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.bcbg.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2165401,
+    "lon": 4.4070949
+  },
+  {
+    "id": 6449892264,
+    "type": "node",
+    "tags": "{\"brand\": \"Herm\\u00e8s\", \"brand:wikidata\": \"Q843887\", \"brand:wikipedia\": \"en:Herm\\u00e8s\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.18\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.08\", \"name\": \"Herm\\u00e8s\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.hermes.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.216538,
+    "lon": 4.4069524
+  },
+  {
+    "id": 6449892265,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schuttershofstraat\", \"brand\": \"Moncler\", \"brand:wikidata\": \"Q1548951\", \"brand:wikipedia\": \"en:Moncler\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.93\", \"name\": \"Moncler\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.moncler.com/be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2165352,
+    "lon": 4.4067612
+  },
+  {
+    "id": 6452995022,
+    "type": "node",
+    "tags": "{\"brand\": \"Ba&sh\", \"brand:wikidata\": \"Q104214363\", \"check_date\": \"2024-01-27\", \"clothes\": \"women\", \"name\": \"Ba&sh\", \"shop\": \"clothes\", \"website\": \"https://ba-sh.com/be/nl/\"}",
+    "lat": 51.2165647,
+    "lon": 4.4082002
+  },
+  {
+    "id": 6452995026,
+    "type": "node",
+    "tags": "{\"name\": \"Gigue\", \"shop\": \"clothes\"}",
+    "lat": 51.2165546,
+    "lon": 4.407885
+  },
+  {
+    "id": 6452995027,
+    "type": "node",
+    "tags": "{\"brand\": \"Elisabetta Franchi\", \"brand:wikidata\": \"Q17993175\", \"clothes\": \"women\", \"name\": \"Elisabetta Franchi\", \"shop\": \"clothes\", \"website\": \"https://www.elisabettafranchi.com\"}",
+    "lat": 51.2165499,
+    "lon": 4.4076639
+  },
+  {
+    "id": 6452995028,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"unisex\", \"name\": \"Vilebrequin\", \"shop\": \"clothes\", \"website\": \"https://www.vilebrequin.com\"}",
+    "lat": 51.2165485,
+    "lon": 4.4075982
+  },
+  {
+    "id": 6456346676,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"check_date\": \"2023-11-11\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.14\", \"name\": \"Anne Fontaine\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.annefontaine.fr\", \"wheelchair\": \"limited\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.216421,
+    "lon": 4.4083471
+  },
+  {
+    "id": 6456346680,
+    "type": "node",
+    "tags": "{\"brand\": \"Claudie Pierlot\", \"brand:wikidata\": \"Q113516684\", \"brand:wikipedia\": \"fr:Claudie Pierlot\", \"check_date\": \"2024-01-27\", \"clothes\": \"women\", \"name\": \"Claudie Pierlot\", \"shop\": \"clothes\", \"website\": \"https://be.claudiepierlot.com\"}",
+    "lat": 51.2164493,
+    "lon": 4.4087841
+  },
+  {
+    "id": 6456346682,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"name\": \"Twin-set\", \"shop\": \"clothes\", \"website\": \"https://www.twinset.com\"}",
+    "lat": 51.2164611,
+    "lon": 4.409039
+  },
+  {
+    "id": 6459477230,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"currency:BCH\": \"yes\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.19\", \"name\": \"Philipp Plein\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.plein.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163805,
+    "lon": 4.4070049
+  },
+  {
+    "id": 6459477231,
+    "type": "node",
+    "tags": "{\"brand\": \"American Vintage\", \"brand:wikidata\": \"Q2422884\", \"brand:wikipedia\": \"fr:American Vintage\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.01\", \"name\": \"American Vintage\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://nl.americanvintage-store.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163837,
+    "lon": 4.4071309
+  },
+  {
+    "id": 6459477233,
+    "type": "node",
+    "tags": "{\"brand\": \"FALKE\", \"brand:wikidata\": \"Q1394122\", \"brand:wikipedia\": \"de:Falke (Unternehmen)\", \"clothes\": \"unisex\", \"name\": \"FALKE\", \"shop\": \"clothes\", \"website\": \"https://www.falke.com\"}",
+    "lat": 51.2163882,
+    "lon": 4.407304
+  },
+  {
+    "id": 6459477234,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.7\", \"name\": \"Terre Bleue\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.terrebleue.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163903,
+    "lon": 4.4073871
+  },
+  {
+    "id": 6459477235,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.82\", \"name\": \"Soeur\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2163986,
+    "lon": 4.4077091
+  },
+  {
+    "id": 6459477236,
+    "type": "node",
+    "tags": "{\"brand\": \"Devernois\", \"brand:wikidata\": \"Q98778444\", \"brand:wikipedia\": \"fr:Devernois (entreprise)\", \"clothes\": \"women;sports;fur;fashion;men\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.2\", \"name\": \"Devernois\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.devernois.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2163963,
+    "lon": 4.4076194
+  },
+  {
+    "id": 6459477237,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"name\": \"Boutique Les Hommes\", \"shop\": \"clothes\"}",
+    "lat": 51.2162612,
+    "lon": 4.4078447
+  },
+  {
+    "id": 6459477238,
+    "type": "node",
+    "tags": "{\"brand\": \"Cleo\", \"brand:wikidata\": \"Q65947963\", \"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.2\", \"name\": \"Cleo\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://cleoantwerpen.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2163451,
+    "lon": 4.4080233
+  },
+  {
+    "id": 6466069091,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"name\": \"Gigue\", \"shop\": \"clothes\", \"website\": \"https://www.gigue.com\"}",
+    "lat": 51.2162275,
+    "lon": 4.4063244
+  },
+  {
+    "id": 6466069096,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.13\", \"name\": \"Oxford Fashion\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"elevator\", \"toilets:wheelchair:level\": \"lift_accessible\", \"website\": \"https://oxford.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2163024,
+    "lon": 4.4054025
+  },
+  {
+    "id": 6466069100,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.99\", \"name\": \"Stone Island\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.stoneisland.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163701,
+    "lon": 4.4064358
+  },
+  {
+    "id": 6467442985,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.87\", \"name\": \"Melvin\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2166768,
+    "lon": 4.4098427
+  },
+  {
+    "id": 6467442987,
+    "type": "node",
+    "tags": "{\"changing_table:location\": \"no\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.04\", \"name\": \"Sedona\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.sedona-antwerp.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2166202,
+    "lon": 4.4092765
+  },
+  {
+    "id": 6468349182,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"78\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Weekday\", \"brand:wikidata\": \"Q10719514\", \"level\": \"0;1\", \"name\": \"Weekday\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off\", \"phone\": \"+32 3 401 07 60\", \"shop\": \"clothes\", \"website\": \"https://www.weekday.com/en_eur/index.html\"}",
+    "lat": 51.2179339,
+    "lon": 4.4113889
+  },
+  {
+    "id": 6468350786,
+    "type": "node",
+    "tags": "{\"brand\": \"Devernois\", \"brand:wikidata\": \"Q98778444\", \"clothes\": \"women;sports;fur;fashion;men\", \"name\": \"Devernois\", \"shop\": \"clothes\", \"website\": \"https://www.devernois.com/\"}",
+    "lat": 51.2168045,
+    "lon": 4.4108492
+  },
+  {
+    "id": 6468350787,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"check_date\": \"2023-11-11\", \"clothes\": \"men\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1\", \"name\": \"Palzileri\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.palzileri.com/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2168538,
+    "lon": 4.4111341
+  },
+  {
+    "id": 6473753656,
+    "type": "node",
+    "tags": "{\"clothes\": \"wedding\", \"contact:phone\": \"+32 3 233 50 45\", \"contact:website\": \"https://www.lechapeau.be/\", \"elevator:depth\": \"1.2\", \"elevator:width\": \"0.9\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.86\", \"name\": \"Le Chapeau\", \"opening_hours\": \"Mo,We,Th,Fr 10:00-18:00; Sa 9:30-18:00; Tu,Su off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"elevator\", \"toilets:wheelchair:door_width\": \"0.86\", \"toilets:wheelchair:level\": \"lift_accessible\", \"toilets:wheelchair:space_side\": \"1.2\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2164896,
+    "lon": 4.4138702
+  },
+  {
+    "id": 6481891832,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.93\", \"name\": \"Amorini kids\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2156313,
+    "lon": 4.4066397
+  },
+  {
+    "id": 6481891836,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Jacob Cohen\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://oxford.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2162818,
+    "lon": 4.4057299
+  },
+  {
+    "id": 6482322702,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"0.79\", \"name\": \"Nina Van Remoortel\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2150403,
+    "lon": 4.4067627
+  },
+  {
+    "id": 6483333198,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.93\", \"name\": \"Harbor of men\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.harborofmen.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2133189,
+    "lon": 4.4074221
+  },
+  {
+    "id": 6483333199,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.19\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.29\", \"name\": \"Yves Delmore\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2155591,
+    "lon": 4.4068909
+  },
+  {
+    "id": 6486542702,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"name\": \"Just in case\", \"shop\": \"clothes\", \"website\": \"https://www.justincase.be\"}",
+    "lat": 51.2156885,
+    "lon": 4.4073335
+  },
+  {
+    "id": 6486542706,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-10\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.88\", \"name\": \"Maliparmi\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.maliparmi.com/be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2156205,
+    "lon": 4.4068792
+  },
+  {
+    "id": 6486542707,
+    "type": "node",
+    "tags": "{\"name\": \"Max & Moi\", \"shop\": \"clothes\"}",
+    "lat": 51.2154954,
+    "lon": 4.406903
+  },
+  {
+    "id": 6486542709,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"17\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leopoldstraat\", \"brand\": \"\\u00c9ric Bompard\", \"brand:wikidata\": \"Q3590998\", \"brand:wikipedia\": \"en:\\u00c9ric Bompard\", \"check_date\": \"2024-02-14\", \"clothes\": \"unisex\", \"name\": \"\\u00c9ric Bompard\", \"shop\": \"clothes\", \"website\": \"https://www.eric-bompard.com\"}",
+    "lat": 51.2150848,
+    "lon": 4.4070064
+  },
+  {
+    "id": 6486542712,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"name\": \"Sapph ultraviolet\", \"shop\": \"clothes\"}",
+    "lat": 51.2145299,
+    "lon": 4.4071501
+  },
+  {
+    "id": 6486542714,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.84\", \"name\": \"Nostalgie couture\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2144489,
+    "lon": 4.4071712
+  },
+  {
+    "id": 6489265743,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.02\", \"name\": \"Scalpers\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://scalperscompany.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2177406,
+    "lon": 4.405241
+  },
+  {
+    "id": 6489265745,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Mayerline\", \"shop\": \"clothes\", \"website\": \"https://www.mayerline.be\"}",
+    "lat": 51.2178066,
+    "lon": 4.4052502
+  },
+  {
+    "id": 6489265746,
+    "type": "node",
+    "tags": "{\"brand\": \"G-Star Raw\", \"brand:wikidata\": \"Q1484081\", \"brand:wikipedia\": \"en:G-Star Raw\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.84\", \"name\": \"G-Star Raw\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.g-star.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2178743,
+    "lon": 4.4052668
+  },
+  {
+    "id": 6492388224,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Caroline Biss\", \"shop\": \"clothes\", \"website\": \"https://www.carolinebiss.com\"}",
+    "lat": 51.2172433,
+    "lon": 4.4052569
+  },
+  {
+    "id": 6492388228,
+    "type": "node",
+    "tags": "{\"brand\": \"Massimo Dutti\", \"brand:wikidata\": \"Q788231\", \"brand:wikipedia\": \"en:Massimo Dutti\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.62\", \"name\": \"Massimo Dutti\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.massimodutti.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2176253,
+    "lon": 4.4052447
+  },
+  {
+    "id": 6498433036,
+    "type": "node",
+    "tags": "{\"brand\": \"Tartine et Chocolat\", \"brand:wikidata\": \"Q3515868\", \"brand:wikipedia\": \"fr:Tartine et Chocolat\", \"check_date\": \"2024-02-15\", \"clothes\": \"children\", \"entrance:kerb:height\": \"0.21\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.76\", \"name\": \"Tartine et Chocolat\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.tartine-et-chocolat.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.216337,
+    "lon": 4.4048494
+  },
+  {
+    "id": 6498433037,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.16\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Fred Perry\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.fredperry.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2163486,
+    "lon": 4.404931
+  },
+  {
+    "id": 6498433039,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.4\", \"name\": \"Natan\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://natan.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2166408,
+    "lon": 4.4053375
+  },
+  {
+    "id": 6498433041,
+    "type": "node",
+    "tags": "{\"brand\": \"Hallhuber\", \"brand:wikidata\": \"Q1571714\", \"brand:wikipedia\": \"de:Hallhuber (Bekleidungshaus)\", \"name\": \"Hallhuber\", \"shop\": \"clothes\", \"website\": \"https://www.hallhuber.com\"}",
+    "lat": 51.2171575,
+    "lon": 4.4052559
+  },
+  {
+    "id": 6498468760,
+    "type": "node",
+    "tags": "{\"brand\": \"Brandy Melville\", \"brand:wikidata\": \"Q25387414\", \"brand:wikipedia\": \"en:Brandy Melville\", \"clothes\": \"women\", \"name\": \"Brandy Melville\", \"shop\": \"clothes\", \"website\": \"https://www.brandymelvilleeu.com\"}",
+    "lat": 51.2177506,
+    "lon": 4.4055375
+  },
+  {
+    "id": 6501508459,
+    "type": "node",
+    "tags": "{\"brand\": \"Liu Jo\", \"brand:wikidata\": \"Q3835099\", \"brand:wikipedia\": \"en:Liu Jo\", \"clothes\": \"men\", \"name\": \"Liu Jo\", \"shop\": \"clothes\"}",
+    "lat": 51.2166838,
+    "lon": 4.4057033
+  },
+  {
+    "id": 6501508460,
+    "type": "node",
+    "tags": "{\"brand\": \"Hugo Boss\", \"brand:wikidata\": \"Q491627\", \"brand:wikipedia\": \"en:Hugo Boss\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.62\", \"name\": \"Hugo Boss\", \"shop\": \"clothes\", \"short_name\": \"Boss\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.hugoboss.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2167723,
+    "lon": 4.4057045
+  },
+  {
+    "id": 6501508461,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"66\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.89\", \"name\": \"CKS Fashion\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.cks-fashion.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2173323,
+    "lon": 4.4033971
+  },
+  {
+    "id": 6501508463,
+    "type": "node",
+    "tags": "{\"brand\": \"Marina Rinaldi\", \"brand:wikidata\": \"Q2349550\", \"clothes\": \"women\", \"name\": \"Marina Rinaldi\", \"shop\": \"clothes\", \"website\": \"https://world.marinarinaldi.com\"}",
+    "lat": 51.2172787,
+    "lon": 4.4056525
+  },
+  {
+    "id": 6501508464,
+    "type": "node",
+    "tags": "{\"brand\": \"Gerry Weber\", \"brand:wikidata\": \"Q873447\", \"brand:wikipedia\": \"en:Gerry Weber\", \"changing_table\": \"no\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.17\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.95\", \"name\": \"Gerry Weber\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://gerryweberbelgie.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173306,
+    "lon": 4.4056408
+  },
+  {
+    "id": 6501508465,
+    "type": "node",
+    "tags": "{\"brand\": \"Lacoste\", \"brand:wikidata\": \"Q309031\", \"brand:wikipedia\": \"en:Lacoste\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Lacoste\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.lacostebelgie.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173761,
+    "lon": 4.405628
+  },
+  {
+    "id": 6501508466,
+    "type": "node",
+    "tags": "{\"brand\": \"Claudia Str\\u00e4ter\", \"brand:wikidata\": \"Q52903369\", \"brand:wikipedia\": \"nl:Claudia Str\\u00e4ter\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.5\", \"name\": \"Claudia Str\\u00e4ter\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.claudiastrater.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174157,
+    "lon": 4.405618
+  },
+  {
+    "id": 6501508467,
+    "type": "node",
+    "tags": "{\"brand\": \"Max Mara\", \"brand:wikidata\": \"Q1151774\", \"brand:wikipedia\": \"en:Max Mara\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.62\", \"name\": \"Max Mara\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://world.maxmara.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2174714,
+    "lon": 4.4056044
+  },
+  {
+    "id": 6501508468,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.2\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.92\", \"name\": \"Xandres\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.xandres.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2175608,
+    "lon": 4.4055707
+  },
+  {
+    "id": 6501508469,
+    "type": "node",
+    "tags": "{\"brand\": \"Bimba y Lola\", \"brand:wikidata\": \"Q54869493\", \"brand:wikipedia\": \"es:Bimba y Lola\", \"clothes\": \"women\", \"name\": \"Bimba y Lola\", \"shop\": \"clothes\", \"website\": \"https://www.bimbaylola.com/be_en/\"}",
+    "lat": 51.2176257,
+    "lon": 4.4055546
+  },
+  {
+    "id": 6502366176,
+    "type": "node",
+    "tags": "{\"check_date:opening_hours\": \"2023-11-11\", \"clothes\": \"men\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.37\", \"name\": \"Mercken\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.mercken.com\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2150766,
+    "lon": 4.4053926
+  },
+  {
+    "id": 6502366180,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"name\": \"Arket\", \"shop\": \"clothes\", \"website\": \"https://www.arket.com\"}",
+    "lat": 51.2171884,
+    "lon": 4.4056692
+  },
+  {
+    "id": 6509670541,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.13\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Zuid Store\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.zuidshop.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2129241,
+    "lon": 4.4055974
+  },
+  {
+    "id": 6509670545,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.82\", \"name\": \"Kings & Queens\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://kings-queens.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.21272,
+    "lon": 4.4065358
+  },
+  {
+    "id": 6511950408,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.79\", \"name\": \"Morrison\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.morrison.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2175919,
+    "lon": 4.3999934
+  },
+  {
+    "id": 6512896615,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.03\", \"name\": \"Marlies Dekkers\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.marliesdekkers.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2163927,
+    "lon": 4.3994529
+  },
+  {
+    "id": 6512896618,
+    "type": "node",
+    "tags": "{\"brand\": \"Closed\", \"brand:wikidata\": \"Q1102389\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.16\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.99\", \"name\": \"Closed women\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://nl.closed.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2170931,
+    "lon": 4.3999363
+  },
+  {
+    "id": 6512896619,
+    "type": "node",
+    "tags": "{\"brand\": \"Closed\", \"brand:wikidata\": \"Q1102389\", \"clothes\": \"men\", \"name\": \"Closed men\", \"shop\": \"clothes\", \"website\": \"https://nl.closed.com\"}",
+    "lat": 51.2171435,
+    "lon": 4.3999696
+  },
+  {
+    "id": 6512896620,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Toos Franken\", \"shop\": \"clothes\", \"website\": \"https://www.toosfranken.com\"}",
+    "lat": 51.217537,
+    "lon": 4.4012426
+  },
+  {
+    "id": 6513997948,
+    "type": "node",
+    "tags": "{\"name\": \"Sincerely valentine\", \"shop\": \"clothes\"}",
+    "lat": 51.2159629,
+    "lon": 4.3992327
+  },
+  {
+    "id": 6513997949,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.92\", \"name\": \"Stay\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.stay-antwerp.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.216018,
+    "lon": 4.3992627
+  },
+  {
+    "id": 6513997950,
+    "type": "node",
+    "tags": "{\"name\": \"Stay\", \"shop\": \"clothes\"}",
+    "lat": 51.216077,
+    "lon": 4.399293
+  },
+  {
+    "id": 6515848577,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Who is that girl\", \"shop\": \"clothes\", \"website\": \"https://www.whosthatgirl.eu\"}",
+    "lat": 51.2156214,
+    "lon": 4.3990808
+  },
+  {
+    "id": 6525430979,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Izumi HONGO\", \"shop\": \"clothes\", \"website\": \"https://www.vanhongo.com\"}",
+    "lat": 51.2144902,
+    "lon": 4.3988936
+  },
+  {
+    "id": 6525430984,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Clouds of Fashion\", \"shop\": \"clothes\", \"website\": \"https://www.cloudsoffashion.be/\"}",
+    "lat": 51.2149257,
+    "lon": 4.3987383
+  },
+  {
+    "id": 6525455085,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"83\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nationalestraat\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0.16\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.96\", \"name\": \"Lila Grace\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.lilagraceantwerp.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.214798,
+    "lon": 4.3986794
+  },
+  {
+    "id": 6532604157,
+    "type": "node",
+    "tags": "{\"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"brand:wikipedia\": \"en:Zeeman (store)\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"Zeeman\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.zeeman.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2136839,
+    "lon": 4.3981254
+  },
+  {
+    "id": 6533875274,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-01-27\", \"clothes\": \"women\", \"name\": \"Bitte Kai Rand\", \"shop\": \"clothes\", \"website\": \"https://bittekairand.be\"}",
+    "lat": 51.2154582,
+    "lon": 4.398687
+  },
+  {
+    "id": 6533875275,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-06\", \"clothes\": \"women\", \"name\": \"Garde-Robe\", \"shop\": \"clothes\", \"website\": \"https://www.garde-robe-nationale.be\"}",
+    "lat": 51.2155185,
+    "lon": 4.3987146
+  },
+  {
+    "id": 6537356366,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"name\": \"Volders Textiel\", \"shop\": \"clothes\", \"website\": \"https://www.volderstextiel.be\"}",
+    "lat": 51.2144366,
+    "lon": 4.3981697
+  },
+  {
+    "id": 6628549156,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"81\", \"addr:street\": \"Nationalestraat\", \"check_date\": \"2024-02-06\", \"name\": \"T2 Think Twice\", \"second_hand\": \"yes\", \"shop\": \"clothes\", \"website\": \"https://thinktwice-secondhand.be/\"}",
+    "lat": 51.2148643,
+    "lon": 4.3987101
+  },
+  {
+    "id": 6628549157,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"21\", \"addr:street\": \"Lange Klarenstraat\", \"check_date:opening_hours\": \"2023-11-12\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"T2 Think Twice\", \"opening_hours:signed\": \"no\", \"second_hand\": \"yes\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://thinktwice-secondhand.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2187577,
+    "lon": 4.4082285
+  },
+  {
+    "id": 6628549158,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"18\", \"addr:street\": \"Jezusstraat\", \"check_date:opening_hours\": \"2023-04-24\", \"name\": \"T2 Think Twice\", \"opening_hours:signed\": \"no\", \"second_hand\": \"yes\", \"shop\": \"clothes\", \"website\": \"https://thinktwice-secondhand.be/\", \"wheelchair\": \"no\"}",
+    "lat": 51.2188216,
+    "lon": 4.4135887
+  },
+  {
+    "id": 6688076652,
+    "type": "node",
+    "tags": "{\"name\": \"Only\", \"shop\": \"clothes\"}",
+    "lat": 51.2183542,
+    "lon": 4.4141539
+  },
+  {
+    "id": 6716425285,
+    "type": "node",
+    "tags": "{\"name\": \"Aaroud L&D fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.2229025,
+    "lon": 4.4258678
+  },
+  {
+    "id": 6724799329,
+    "type": "node",
+    "tags": "{\"name\": \"Top style 7\", \"second_hand\": \"only\", \"shop\": \"clothes\"}",
+    "lat": 51.2235614,
+    "lon": 4.4284962
+  },
+  {
+    "id": 6743458054,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.6\", \"name\": \"Baby Beluga\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.babybeluga.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2116922,
+    "lon": 4.3970372
+  },
+  {
+    "id": 6803075393,
+    "type": "node",
+    "tags": "{\"brand\": \"Suitsupply\", \"brand:wikidata\": \"Q17149142\", \"clothes\": \"suits\", \"name\": \"Suitsupply\", \"shop\": \"clothes\"}",
+    "lat": 51.2115051,
+    "lon": 4.4090939
+  },
+  {
+    "id": 6816082612,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Just Nice\", \"shop\": \"clothes\", \"website\": \"https://www.justnice.be\"}",
+    "lat": 51.2247911,
+    "lon": 4.4196512
+  },
+  {
+    "id": 6816082615,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Nadette\", \"shop\": \"clothes\", \"website\": \"http://www.nadette.be\"}",
+    "lat": 51.2247642,
+    "lon": 4.4193822
+  },
+  {
+    "id": 6835438273,
+    "type": "node",
+    "tags": "{\"name\": \"Superstar\", \"shop\": \"clothes\"}",
+    "lat": 51.2221851,
+    "lon": 4.4260867
+  },
+  {
+    "id": 6835438284,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-08-24\", \"name\": \"Mode Nora\", \"shop\": \"clothes\"}",
+    "lat": 51.2227788,
+    "lon": 4.4258911
+  },
+  {
+    "id": 6854727244,
+    "type": "node",
+    "tags": "{\"name\": \"In den anker\", \"shop\": \"clothes\"}",
+    "lat": 51.2212728,
+    "lon": 4.428191
+  },
+  {
+    "id": 6854727245,
+    "type": "node",
+    "tags": "{\"name\": \"Torino\", \"shop\": \"clothes\"}",
+    "lat": 51.2212791,
+    "lon": 4.4280982
+  },
+  {
+    "id": 6917721522,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-10\", \"clothes\": \"women\", \"name\": \"Enes Boutique\", \"shop\": \"clothes\", \"website\": \"https://www.enes.be\"}",
+    "lat": 51.2105046,
+    "lon": 4.3950023
+  },
+  {
+    "id": 6943766082,
+    "type": "node",
+    "tags": "{\"name\": \"Sehr mode\", \"shop\": \"clothes\"}",
+    "lat": 51.2181099,
+    "lon": 4.4251139
+  },
+  {
+    "id": 6943766083,
+    "type": "node",
+    "tags": "{\"shop\": \"clothes\"}",
+    "lat": 51.2181275,
+    "lon": 4.4250391
+  },
+  {
+    "id": 6943766084,
+    "type": "node",
+    "tags": "{\"name\": \"City Design\", \"shop\": \"clothes\"}",
+    "lat": 51.2181478,
+    "lon": 4.4249612
+  },
+  {
+    "id": 6943769691,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Zwin\", \"shop\": \"clothes\"}",
+    "lat": 51.2184182,
+    "lon": 4.4239536
+  },
+  {
+    "id": 6949569983,
+    "type": "node",
+    "tags": "{\"name\": \"Lala fashion\", \"shop\": \"clothes\"}",
+    "lat": 51.2175856,
+    "lon": 4.4273057
+  },
+  {
+    "id": 6949607989,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"96\", \"addr:street\": \"Carnotstraat\", \"clothes\": \"women\", \"name\": \"Bella Donna\", \"shop\": \"clothes\"}",
+    "lat": 51.2179133,
+    "lon": 4.426193
+  },
+  {
+    "id": 6958627491,
+    "type": "node",
+    "tags": "{\"name\": \"Z&H collection\", \"shop\": \"clothes\"}",
+    "lat": 51.2173687,
+    "lon": 4.4280537
+  },
+  {
+    "id": 6961560295,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Kaftan Rif\", \"shop\": \"clothes\", \"website\": \"https://www.kaftanrif.be\"}",
+    "lat": 51.2156411,
+    "lon": 4.4316073
+  },
+  {
+    "id": 6961560297,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Moda Bella\", \"shop\": \"clothes\"}",
+    "lat": 51.2156836,
+    "lon": 4.4314744
+  },
+  {
+    "id": 6961560299,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Anima Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.2158744,
+    "lon": 4.4310194
+  },
+  {
+    "id": 6964834582,
+    "type": "node",
+    "tags": "{\"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"brand:wikipedia\": \"en:Zeeman (store)\", \"name\": \"Zeeman\", \"shop\": \"clothes\", \"website\": \"https://www.zeeman.com\"}",
+    "lat": 51.2151035,
+    "lon": 4.4332233
+  },
+  {
+    "id": 6964849185,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Falinghal\", \"shop\": \"clothes\"}",
+    "lat": 51.2153767,
+    "lon": 4.4323388
+  },
+  {
+    "id": 6964849189,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Saison\", \"shop\": \"clothes\"}",
+    "lat": 51.215588,
+    "lon": 4.431742
+  },
+  {
+    "id": 6974997916,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Hejab al Medina\", \"shop\": \"clothes\"}",
+    "lat": 51.214401,
+    "lon": 4.4361029
+  },
+  {
+    "id": 6974997923,
+    "type": "node",
+    "tags": "{\"name\": \"Godri\", \"shop\": \"clothes\"}",
+    "lat": 51.2146416,
+    "lon": 4.4350502
+  },
+  {
+    "id": 6977881012,
+    "type": "node",
+    "tags": "{\"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"brand:wikipedia\": \"en:Zeeman (store)\", \"name\": \"Zeeman\", \"shop\": \"clothes\", \"website\": \"https://www.zeeman.com\"}",
+    "lat": 51.2138878,
+    "lon": 4.439025
+  },
+  {
+    "id": 6981312619,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Modellera's\", \"shop\": \"clothes\"}",
+    "lat": 51.2137289,
+    "lon": 4.4400437
+  },
+  {
+    "id": 6997352306,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Sylvie\", \"shop\": \"clothes\"}",
+    "lat": 51.214717,
+    "lon": 4.4361007
+  },
+  {
+    "id": 6997352310,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Frezyna\", \"shop\": \"clothes\"}",
+    "lat": 51.2145588,
+    "lon": 4.4368686
+  },
+  {
+    "id": 7003089310,
+    "type": "node",
+    "tags": "{\"name\": \"Modellera's\", \"shop\": \"clothes\"}",
+    "lat": 51.2151994,
+    "lon": 4.4350997
+  },
+  {
+    "id": 7003089314,
+    "type": "node",
+    "tags": "{\"name\": \"Drink 18\", \"shop\": \"clothes\"}",
+    "lat": 51.2152713,
+    "lon": 4.435583
+  },
+  {
+    "id": 7005714194,
+    "type": "node",
+    "tags": "{\"brand\": \"Wibra\", \"brand:wikidata\": \"Q943405\", \"brand:wikipedia\": \"en:Wibra\", \"clothes\": \"unisex\", \"name\": \"Wibra\", \"shop\": \"clothes\", \"website\": \"https://wibra.eu\"}",
+    "lat": 51.2161027,
+    "lon": 4.4312657
+  },
+  {
+    "id": 7005714195,
+    "type": "node",
+    "tags": "{\"name\": \"Oh Mammi!\", \"shop\": \"clothes\"}",
+    "lat": 51.2159515,
+    "lon": 4.4315686
+  },
+  {
+    "id": 7005714196,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Femina mode\", \"shop\": \"clothes\"}",
+    "lat": 51.2158431,
+    "lon": 4.4318725
+  },
+  {
+    "id": 7005714197,
+    "type": "node",
+    "tags": "{\"shop\": \"clothes\"}",
+    "lat": 51.2158118,
+    "lon": 4.4319542
+  },
+  {
+    "id": 7006782015,
+    "type": "node",
+    "tags": "{\"name\": \"Zakia Style\", \"shop\": \"clothes\", \"website\": \"http://www.zakiastyle.be\"}",
+    "lat": 51.2180893,
+    "lon": 4.4290451
+  },
+  {
+    "id": 7006782016,
+    "type": "node",
+    "tags": "{\"name\": \"Boetiek Principessa\", \"shop\": \"clothes\"}",
+    "lat": 51.218247,
+    "lon": 4.4293716
+  },
+  {
+    "id": 7006782027,
+    "type": "node",
+    "tags": "{\"shop\": \"clothes\"}",
+    "lat": 51.2173771,
+    "lon": 4.4291562
+  },
+  {
+    "id": 7006782035,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Womens Fashion outlet\", \"shop\": \"clothes\"}",
+    "lat": 51.2168317,
+    "lon": 4.4300724
+  },
+  {
+    "id": 7006782038,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"name\": \"Ice blue\", \"shop\": \"clothes\"}",
+    "lat": 51.2166754,
+    "lon": 4.4302792
+  },
+  {
+    "id": 7009730432,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Beau-tique\", \"shop\": \"clothes\"}",
+    "lat": 51.2181917,
+    "lon": 4.4261169
+  },
+  {
+    "id": 7012394363,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Ziana Samira\", \"shop\": \"clothes\"}",
+    "lat": 51.2184313,
+    "lon": 4.4250579
+  },
+  {
+    "id": 7015361638,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Esramode\", \"shop\": \"clothes\", \"website\": \"http://esramode.be\"}",
+    "lat": 51.2198772,
+    "lon": 4.4246067
+  },
+  {
+    "id": 7015361648,
+    "type": "node",
+    "tags": "{\"clothes\": \"women\", \"name\": \"Savannah\", \"shop\": \"clothes\"}",
+    "lat": 51.2188683,
+    "lon": 4.4231275
+  },
+  {
+    "id": 7090318665,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"53\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Calzedonia\", \"brand:wikidata\": \"Q1027874\", \"clothes\": \"socks;beach\", \"clothes:women\": \"only\", \"name\": \"Calzedonia\", \"opening_hours\": \"Mo-Sa 10:00-18:30, Su[1] 12:00-18:00; Su[2-5], PH off\", \"phone\": \"+32 3 755 48 34\", \"shop\": \"clothes\", \"website\": \"https://be.calzedonia.com/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2182193,
+    "lon": 4.4087068
+  },
+  {
+    "id": 7159646629,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"8\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"clothes\": \"women\", \"name\": \"Cosi Cosi popup-store\", \"shop\": \"clothes\"}",
+    "lat": 51.2176498,
+    "lon": 4.4008637
+  },
+  {
+    "id": 7261425880,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.16\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.08\", \"name\": \"Verso\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2158051,
+    "lon": 4.4051118
+  },
+  {
+    "id": 7280393640,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"32\", \"addr:street\": \"Leysstraat\", \"brand\": \"Armani Exchange\", \"brand:wikidata\": \"Q56045740\", \"check_date:opening_hours\": \"2023-11-13\", \"clothes\": \"men;women\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.25\", \"name\": \"Armani Exchange\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:door_width\": \"0.68\", \"toilets:wheelchair:level\": \"ground_floor\", \"toilets:wheelchair:space_side\": \"1.15\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2180677,
+    "lon": 4.4141106
+  },
+  {
+    "id": 7280393641,
+    "type": "node",
+    "tags": "{\"brand\": \"Jack & Jones\", \"brand:wikidata\": \"Q6077665\", \"brand:wikipedia\": \"en:Jack & Jones\", \"check_date\": \"2023-04-10\", \"check_date:opening_hours\": \"2023-11-16\", \"name\": \"Jack & Jones\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2183797,
+    "lon": 4.4139906
+  },
+  {
+    "id": 7280393643,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"19\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leysstraat\", \"brand\": \"Oka\\u00efdi\", \"brand:wikidata\": \"Q3350027\", \"brand:wikipedia\": \"fr:Oka\\u00efdi\", \"check_date\": \"2023-04-10\", \"check_date:opening_hours\": \"2023-11-16\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.85\", \"name\": \"Oka\\u00efdi\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2184044,
+    "lon": 4.4138051
+  },
+  {
+    "id": 7280393644,
+    "type": "node",
+    "tags": "{\"check_date:opening_hours\": \"2023-11-13\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.6\", \"name\": \"Wam Denim\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2181811,
+    "lon": 4.4132588
+  },
+  {
+    "id": 7280393645,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"22\", \"addr:street\": \"Leysstraat\", \"brand\": \"Guess\", \"brand:wikidata\": \"Q2470307\", \"brand:wikipedia\": \"en:Guess (clothing)\", \"check_date:opening_hours\": \"2023-11-13\", \"name\": \"Guess\", \"opening_hours:signed\": \"no\", \"shop\": \"clothes\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2181136,
+    "lon": 4.4138504
+  },
+  {
+    "id": 7280393646,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"20-26\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leysstraat\", \"brand\": \"Veritas\", \"brand:wikidata\": \"Q56239194\", \"brand:wikipedia\": \"nl:Veritas (winkel)\", \"check_date:opening_hours\": \"2023-11-13\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.97\", \"name\": \"Veritas\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"phone\": \"+32 3 225 06 83\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.veritas.be/nl_be/stores/veritas-antwerpen-leysstraat\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2181429,
+    "lon": 4.4136512
+  },
+  {
+    "id": 7280393650,
+    "type": "node",
+    "tags": "{\"check_date:opening_hours\": \"2023-11-13\", \"name\": \"Coton Store\", \"opening_hours\": \"Mo-Sa 10:00-18:00; PH,Su off\", \"shop\": \"clothes\"}",
+    "lat": 51.2177069,
+    "lon": 4.415946
+  },
+  {
+    "id": 7289129921,
+    "type": "node",
+    "tags": "{\"name\": \"Tandia African Textiles\", \"shop\": \"clothes\"}",
+    "lat": 51.2129908,
+    "lon": 4.4207461
+  },
+  {
+    "id": 7297088032,
+    "type": "node",
+    "tags": "{\"name\": \"Sonna African Textiles\", \"shop\": \"clothes\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2131508,
+    "lon": 4.4231277
+  },
+  {
+    "id": 7312225842,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-07-28\", \"name\": \"Supermercato\", \"shop\": \"clothes\"}",
+    "lat": 51.2122656,
+    "lon": 4.4087277
+  },
+  {
+    "id": 7325102181,
+    "type": "node",
+    "tags": "{\"name\": \"Albert\", \"shop\": \"clothes\", \"website\": \"https://www.albert.be\"}",
+    "lat": 51.2083724,
+    "lon": 4.4027729
+  },
+  {
+    "id": 7325112103,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"name\": \"MM Mode\", \"shop\": \"clothes\"}",
+    "lat": 51.2092726,
+    "lon": 4.4084977
+  },
+  {
+    "id": 7340567978,
+    "type": "node",
+    "tags": "{\"brand\": \"Bershka\", \"brand:wikidata\": \"Q827258\", \"brand:wikipedia\": \"en:Bershka\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.5\", \"name\": \"Bershka\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2183182,
+    "lon": 4.4078063
+  },
+  {
+    "id": 7340606959,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"71\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Pull & Bear\", \"brand:wikidata\": \"Q691029\", \"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.7\", \"name\": \"Pull & Bear\", \"opening_hours\": \"Mo-Sa 10:00-19:00; Su[1] 12:00-18:00; Su[2-5],PH off\", \"phone\": \"+32 3 201 46 50\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.218182,
+    "lon": 4.4096212
+  },
+  {
+    "id": 7340616842,
+    "type": "node",
+    "tags": "{\"brand\": \"Levi's\", \"brand:wikidata\": \"Q127962\", \"brand:wikipedia\": \"en:Levi Strauss & Co.\", \"changing_table\": \"no\", \"check_date\": \"2023-04-10\", \"clothes\": \"denim;men;women\", \"entrance:kerb:height\": \"0.18\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.98\", \"name\": \"Levi's\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2181681,
+    "lon": 4.4101931
+  },
+  {
+    "id": 7340616846,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"67-69\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Uniqlo\", \"brand:wikidata\": \"Q26070\", \"brand:wikipedia\": \"en:Uniqlo\", \"check_date\": \"2023-04-10\", \"clothes\": \"men;women;children;babies\", \"name\": \"Uniqlo\", \"opening_hours\": \"Mo-Sa 10:00-19:00, Su[1] 12:00-18:00, PH off\", \"shop\": \"clothes\"}",
+    "lat": 51.2181864,
+    "lon": 4.4094675
+  },
+  {
+    "id": 7340634044,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:street\": \"Meir\", \"brand\": \"The Sting\", \"brand:wikidata\": \"Q2518794\", \"brand:wikipedia\": \"nl:The Sting Companies\", \"clothes\": \"women;men\", \"name\": \"The Sting\", \"opening_hours\": \"Mo-Sa 10:00-19:00; Su 12:00-18:00; PH off\", \"shop\": \"clothes\", \"website\": \"https://www.thesting.com/nl-be/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2179739,
+    "lon": 4.4076751
+  },
+  {
+    "id": 7340634048,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"47\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"JBC\", \"brand:wikidata\": \"Q2671470\", \"name\": \"JBC\", \"opening_hours\": \"Mo-Th 10:00-18:00; Fr-Sa 10:00-18:30; Su[1] 12:00-18:00; Su[2-5],PH off\", \"phone\": \"+32 3 213 05 93\", \"shop\": \"clothes\"}",
+    "lat": 51.2182442,
+    "lon": 4.4084113
+  },
+  {
+    "id": 7368810752,
+    "type": "node",
+    "tags": "{\"brand\": \"Ted Baker\", \"brand:wikidata\": \"Q2913458\", \"brand:wikipedia\": \"en:Ted Baker\", \"name\": \"Ted Baker\", \"shop\": \"clothes\"}",
+    "lat": 51.2167287,
+    "lon": 4.4053379
+  },
+  {
+    "id": 7373314514,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"77\", \"addr:street\": \"Statiestraat\", \"check_date\": \"2024-02-17\", \"name\": \"Indian Fashion Dressworld\", \"shop\": \"clothes\"}",
+    "lat": 51.1982705,
+    "lon": 4.4265545
+  },
+  {
+    "id": 7415158874,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.88\", \"name\": \"Urban printstore\", \"opening_hours\": \"Mo 12:00-18:00; Tu-Sa 11:00-18:00\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.dopeoncotton.be\", \"wheelchair\": \"limited\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2187354,
+    "lon": 4.4134262
+  },
+  {
+    "id": 7415158875,
+    "type": "node",
+    "tags": "{\"brand\": \"Damart\", \"brand:wikidata\": \"Q3012602\", \"brand:wikipedia\": \"en:Damart\", \"check_date\": \"2023-04-10\", \"clothes\": \"unisex\", \"name\": \"Damart\", \"shop\": \"clothes\", \"website\": \"https://winkel.damart.be\"}",
+    "lat": 51.2175594,
+    "lon": 4.4156064
+  },
+  {
+    "id": 7427401553,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1\", \"name\": \"Darcis\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2160964,
+    "lon": 4.4136015
+  },
+  {
+    "id": 7427401554,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0.05\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"2.5\", \"name\": \"Corners by blok\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2161809,
+    "lon": 4.4136451
+  },
+  {
+    "id": 7427401557,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-11-11\", \"clothes\": \"women\", \"name\": \"SN3\", \"shop\": \"clothes\", \"website\": \"https://sn3.be\"}",
+    "lat": 51.2175546,
+    "lon": 4.4145476
+  },
+  {
+    "id": 7427401558,
+    "type": "node",
+    "tags": "{\"clothes\": \"children\", \"name\": \"Milla\", \"shop\": \"clothes\", \"website\": \"http://www.millakids.be\"}",
+    "lat": 51.217699,
+    "lon": 4.414643
+  },
+  {
+    "id": 7437100653,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"88-100\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kloosterstraat\", \"name\": \"Your premium\", \"shop\": \"clothes\"}",
+    "lat": 51.2145504,
+    "lon": 4.3937974
+  },
+  {
+    "id": 7449851435,
+    "type": "node",
+    "tags": "{\"name\": \"Paul Dierckx\", \"shop\": \"clothes\"}",
+    "lat": 51.214767,
+    "lon": 4.4120322
+  },
+  {
+    "id": 7651364243,
+    "type": "node",
+    "tags": "{\"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-02-10\", \"clothes\": \"men\", \"entrance:kerb:height\": \"0.07\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.78\", \"name\": \"G&G For Men\", \"shop\": \"clothes\", \"website\": \"http://www.ggantwerpen.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2099504,
+    "lon": 4.4047564
+  },
+  {
+    "id": 7652497504,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-02-10\", \"clothes\": \"underwear\", \"name\": \"la fille d'O\", \"shop\": \"clothes\", \"website\": \"https://lafilledo.com\"}",
+    "lat": 51.2093136,
+    "lon": 4.4021678
+  },
+  {
+    "id": 7653047692,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Antoniusstraat\", \"name\": \"Sincerely Valentine\", \"shop\": \"clothes\"}",
+    "lat": 51.215864,
+    "lon": 4.3991801
+  },
+  {
+    "id": 7677258289,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"21\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kammenstraat\", \"elevator:depth\": \"1.0\", \"elevator:width\": \"0.9\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"name\": \"Wear-Store\", \"opening_hours\": \"Mo-Th 10:00-18:00; Fr,Sa 10:00-18:30\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:door_width\": \"0.8\", \"toilets:wheelchair:grab_rails\": \"no\", \"toilets:wheelchair:space_side\": \"1.4\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2176304,
+    "lon": 4.4005105
+  },
+  {
+    "id": 7677800917,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"name\": \"Issey Miyake\", \"shop\": \"clothes\", \"website\": \"https://www.isseymiyake.com\"}",
+    "lat": 51.2194873,
+    "lon": 4.4032712
+  },
+  {
+    "id": 8308480099,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-07-28\", \"clothes\": \"women\", \"name\": \"Luxurious Boutique\", \"shop\": \"clothes\", \"website\": \"https://luxurious-boutique.be\"}",
+    "lat": 51.2104722,
+    "lon": 4.4098498
+  },
+  {
+    "id": 8398907397,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-11-09\", \"clothes\": \"wedding\", \"name\": \"WED2B\", \"shop\": \"clothes\", \"website\": \"https://www.wed2b.com\"}",
+    "lat": 51.2099921,
+    "lon": 4.4077203
+  },
+  {
+    "id": 8398907404,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"wedding\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.77\", \"name\": \"The Ivory Club\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.theivoryclub.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2103219,
+    "lon": 4.4081559
+  },
+  {
+    "id": 8419343516,
+    "type": "node",
+    "tags": "{\"name\": \"The English House\", \"shop\": \"clothes\"}",
+    "lat": 51.207774,
+    "lon": 4.4090776
+  },
+  {
+    "id": 8419353417,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-04-08\", \"clothes\": \"unisex\", \"name\": \"The English House\", \"shop\": \"clothes\", \"website\": \"https://www.theenglishhouse.be\"}",
+    "lat": 51.2085835,
+    "lon": 4.4089609
+  },
+  {
+    "id": 8419353420,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"name\": \"Ophelia lingerie\", \"shop\": \"clothes\", \"website\": \"https://www.ophelialingerie.be\"}",
+    "lat": 51.2085067,
+    "lon": 4.4085458
+  },
+  {
+    "id": 8419353424,
+    "type": "node",
+    "tags": "{\"clothes\": \"underwear\", \"name\": \"The Short Way\", \"shop\": \"clothes\", \"website\": \"https://www.theshortway.be\"}",
+    "lat": 51.2095636,
+    "lon": 4.4083312
+  },
+  {
+    "id": 8440217580,
+    "type": "node",
+    "tags": "{\"clothes\": \"unisex\", \"name\": \"Scruples\", \"second_hand\": \"only\", \"shop\": \"clothes\", \"website\": \"https://scruplesantwerpen.be\"}",
+    "lat": 51.2079871,
+    "lon": 4.408955
+  },
+  {
+    "id": 8443166150,
+    "type": "node",
+    "tags": "{\"name\": \"Scrupules\", \"shop\": \"clothes\"}",
+    "lat": 51.2068618,
+    "lon": 4.4099847
+  },
+  {
+    "id": 8543553817,
+    "type": "node",
+    "tags": "{\"clothes\": \"men\", \"name\": \"Ceremonie Ducheyne\", \"shop\": \"clothes\", \"website\": \"https://www.ceremonie-ducheyne.be\"}",
+    "lat": 51.1969874,
+    "lon": 4.4170752
+  },
+  {
+    "id": 8590054409,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"14\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schoenmarkt\", \"brand\": \"Veritas\", \"brand:wikidata\": \"Q56239194\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-01-20\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.95\", \"name\": \"Veritas\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off; Su[1] 12:00-18:00\", \"phone\": \"+32 3 225 12 80\", \"shop\": \"clothes\", \"website\": \"https://www.veritas.be/nl_be/stores/veritas-antwerpen-schoenmarkt\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2182574,
+    "lon": 4.4038741
+  },
+  {
+    "id": 8590054412,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"73\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Monki\", \"brand:wikidata\": \"Q10588271\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0\", \"name\": \"Monki\", \"opening_hours\": \"Mo-Sa 12:00-18:00, Su, PH off\", \"shop\": \"clothes\", \"website\": \"https://www.monki.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2181822,
+    "lon": 4.4097394
+  },
+  {
+    "id": 9264074331,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"94\", \"addr:street\": \"Carnotstraat\", \"clothes\": \"men\", \"name\": \"Just4men\", \"shop\": \"clothes\"}",
+    "lat": 51.2179275,
+    "lon": 4.4261304
+  },
+  {
+    "id": 9445654828,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"38-40\", \"addr:postcode\": \"2000\", \"addr:street\": \"Huidevettersstraat\", \"brand\": \"Michael Kors\", \"brand:wikidata\": \"Q19572998\", \"brand:wikipedia\": \"en:Capri Holdings\", \"clothes\": \"women\", \"name\": \"Michael Kors\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"shop\": \"clothes\", \"website\": \"https://www.michaelkors.eu/en_BE\"}",
+    "lat": 51.2168421,
+    "lon": 4.4053278
+  },
+  {
+    "id": 9445654829,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"17\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Triumph\", \"brand:wikidata\": \"Q671216\", \"clothes\": \"underwear\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.5\", \"name\": \"Triumph\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://be.triumph.com/nl\", \"wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2184502,
+    "lon": 4.4061655
+  },
+  {
+    "id": 9445654831,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"36\", \"addr:postcode\": \"2000\", \"addr:street\": \"Huidevettersstraat\", \"brand\": \"COS\", \"brand:wikidata\": \"Q60772401\", \"brand:wikipedia\": \"en:COS (clothing)\", \"entrance:kerb:height\": \"0.02\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.55\", \"name\": \"COS\", \"opening_hours\": \"Mo-Th 10:00-18:00, Fr-Sa 10:00-18:30; Su, PH off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.cosstores.com/en_eur/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2170894,
+    "lon": 4.4052627
+  },
+  {
+    "id": 9445739489,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"3-5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"check_date\": \"2024-02-14\", \"level\": \"0\", \"name\": \"Bellerose\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su[1] 13:00-18:00; Su[2-4], PH off\", \"shop\": \"clothes\", \"website\": \"https://www.bellerose.be/\"}",
+    "lat": 51.217774,
+    "lon": 4.4012943
+  },
+  {
+    "id": 10204036417,
+    "type": "node",
+    "tags": "{\"name\": \"The Lab+\", \"shop\": \"clothes\", \"website\": \"https://www.thelab-webshop.be\"}",
+    "lat": 51.2155322,
+    "lon": 4.3946374
+  },
+  {
+    "id": 10255346509,
+    "type": "node",
+    "tags": "{\"name\": \"El suit\", \"shop\": \"clothes\"}",
+    "lat": 51.2102598,
+    "lon": 4.4015672
+  },
+  {
+    "id": 10657234493,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.86\", \"name\": \"Cotton Club\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2215098,
+    "lon": 4.402577
+  },
+  {
+    "id": 10702613840,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Beddenstraat\", \"clothes\": \"women\", \"level\": \"0\", \"name\": \"Green Ice Outlet\", \"opening_hours\": \"Mo-Sa 10:00-18:30; Su,PH off\", \"phone\": \"+32 3 760 31 46\", \"shop\": \"clothes\", \"website\": \"https://www.greenice.be/store/antwerpen-outlet\"}",
+    "lat": 51.2186354,
+    "lon": 4.4027797
+  },
+  {
+    "id": 10702613843,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"9B\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schrijnwerkersstraat\", \"brand\": \"Just Over the Top\", \"brand:wikidata\": \"Q104890420\", \"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.04\", \"name\": \"Just Over the Top\", \"opening_hours\": \"Mo-Fr 10:00-18:00; Sa 10:00-18:30; Su,PH off\", \"phone\": \"+32 3 449 45 01\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"website\": \"https://justoverthetop.com/\", \"wheelchair\": \"limited\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2179732,
+    "lon": 4.4037886
+  },
+  {
+    "id": 10773575105,
+    "type": "node",
+    "tags": "{\"name:en\": \"House of Bones\", \"shop\": \"clothes\"}",
+    "lat": 51.2158442,
+    "lon": 4.4007661
+  },
+  {
+    "id": 10929235707,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"55\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Nike\", \"brand:wikidata\": \"Q483915\", \"name\": \"Nike\", \"opening_hours\": \"Mo-Sa 10:00-19:00, Su[1] 12:00-18:00; Su[2-5], PH off\", \"phone\": \"+32 3 232 82 10\", \"shop\": \"clothes\", \"website\": \"https://www.nike.com/be/retail/s/nike-store-antwerp-meir\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2182151,
+    "lon": 4.4087906
+  },
+  {
+    "id": 10929235710,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"52\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"clothes\": \"women\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"2.88\", \"name\": \"Cotton Club\", \"opening_hours\": \"Mo-Sa 10:00-19:00; Su[1] 12:00-18:00; Su[2-5],PH off\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.cottonclub.nl/nl-be/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2179547,
+    "lon": 4.4092365
+  },
+  {
+    "id": 10949088164,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"23\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"brand\": \"Jack & Jones\", \"brand:wikidata\": \"Q6077665\", \"clothes\": \"men\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.1\", \"name\": \"Jack & Jones\", \"phone\": \"+32 3 225 31 83\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\"}",
+    "lat": 51.2183958,
+    "lon": 4.406674
+  },
+  {
+    "id": 11074286635,
+    "type": "node",
+    "tags": "{\"name\": \"Vier\", \"shop\": \"clothes\"}",
+    "lat": 51.2166516,
+    "lon": 4.4001372
+  },
+  {
+    "id": 11074286637,
+    "type": "node",
+    "tags": "{\"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"1.04\", \"name\": \"REPEAT cashmere\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.repeatcashmere.com/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2170363,
+    "lon": 4.399881
+  },
+  {
+    "id": 11114411511,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"26\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kipdorpvest\", \"brand\": \"America Today\", \"brand:wikidata\": \"Q97011125\", \"clothes\": \"unisex\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.8\", \"name\": \"America Today\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"phone\": \"+32 3 227 26 21\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.america-today.com/nl-be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.218539,
+    "lon": 4.414472
+  },
+  {
+    "id": 11114411513,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"54\", \"addr:postcode\": \"2000\", \"addr:street\": \"Lombardenvest\", \"clothes\": \"children\", \"contact:facebook\": \"filoufriendsantwerpen\", \"email\": \"antwerpen@filoufriends.com\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.9\", \"name\": \"Filou & Friends\", \"opening_hours\": \"Mo-Sa 10:00-18:00; Su,PH off\", \"phone\": \"+32 3 227 45 92\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://filoufriends.com/nl/stores/antwerpen\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2173958,
+    "lon": 4.4028751
+  },
+  {
+    "id": 11260915361,
+    "type": "node",
+    "tags": "{\"name\": \"Subdued\", \"shop\": \"clothes\"}",
+    "lat": 51.2178683,
+    "lon": 4.4045146
+  },
+  {
+    "id": 11342145450,
+    "type": "node",
+    "tags": "{\"check_date\": \"2023-11-11\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.97\", \"name\": \"Profuomo\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2164139,
+    "lon": 4.408194
+  },
+  {
+    "id": 11483396900,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"22\", \"addr:street\": \"Groendalstraat\", \"entrance:kerb:height\": \"0.09\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.38\", \"name\": \"American Outfitters\", \"shop\": \"clothes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.217502,
+    "lon": 4.4048552
+  },
+  {
+    "id": 11608158473,
+    "type": "node",
+    "tags": "{\"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"name\": \"Zeeman\", \"shop\": \"clothes\"}",
+    "lat": 51.2074831,
+    "lon": 4.4037128
+  },
+  {
+    "id": 11630340576,
+    "type": "node",
+    "tags": "{\"check_date\": \"2024-03-05\", \"name\": \"Terre Bleue\", \"shop\": \"clothes\"}",
+    "lat": 51.2167868,
+    "lon": 4.4044847
+  },
+  {
+    "id": 11712118707,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"32\", \"addr:street\": \"Heistraat\", \"brand\": \"Veritas\", \"brand:wikidata\": \"Q56239194\", \"name\": \"Veritas\", \"opening_hours\": \"Mo-Sa 10:00-18:00\", \"phone\": \"+32 3 830 15 81\", \"shop\": \"clothes\", \"website\": \"https://www.veritas.be/nl_be/stores/veritas-wilrijk\"}",
+    "lat": 51.1715585,
+    "lon": 4.3945784
+  },
+  {
+    "id": 11898635363,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"320\", \"addr:street\": \"Sint-Bernardsesteenweg\", \"brand\": \"H&M\", \"brand:wikidata\": \"Q188326\", \"name\": \"H&M\", \"opening_hours\": \"Mo-Sa 10:00-18:00\", \"shop\": \"clothes\"}",
+    "lat": 51.19022,
+    "lon": 4.3778974
+  },
+  {
+    "id": 11898722069,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"320\", \"addr:street\": \"Sint-Bernardsesteenweg\", \"brand\": \"Zeeman\", \"brand:wikidata\": \"Q184399\", \"name\": \"Zeeman\", \"opening_hours\": \"Mo-Th,Sa 09:00-18:00; Fr 09:00-18:30\", \"phone\": \"+32 3 808 03 72\", \"shop\": \"clothes\", \"website\": \"https://www.zeeman.com/nl_be/store/antwerpen-wc-den-tir-sint-bernardsesteenweg\"}",
+    "lat": 51.1904301,
+    "lon": 4.3780047
+  },
+  {
+    "id": 11912143706,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"49\", \"addr:street\": \"Lange Koepoortstraat\", \"entrance:kerb:height\": \"0.01\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Edo\", \"shop\": \"clothes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2224859,
+    "lon": 4.4024758
+  },
+  {
+    "id": 11912145584,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"48\", \"addr:street\": \"Lange Koepoortstraat\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.8\", \"name\": \"Riot\", \"shop\": \"clothes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2224879,
+    "lon": 4.4022605
+  },
+  {
+    "id": 12304481301,
+    "type": "node",
+    "tags": "{\"name\": \"Baby\\u2019s Closet\", \"shop\": \"clothes\"}",
+    "lat": 51.2199543,
+    "lon": 4.3985538
+  },
+  {
+    "id": 12542569924,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"63\", \"addr:street\": \"Heistraat\", \"brand\": \"Hunkem\\u00f6ller\", \"brand:wikidata\": \"Q2604175\", \"clothes\": \"underwear\", \"name\": \"Hunkem\\u00f6ller\", \"opening_hours\": \"Mo-Sa 10:00-18:00\", \"phone\": \"+32 3 899 08 57\", \"shop\": \"clothes\", \"website\": \"https://www.hunkemoller.be/nl/winkel/wilrijk/heistraat-63\"}",
+    "lat": 51.1721469,
+    "lon": 4.3939439
+  }
+]

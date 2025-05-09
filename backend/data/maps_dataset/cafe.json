@@ -1,0 +1,1801 @@
+[
+  {
+    "id": 89377140,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"internet_access\": \"yes\", \"internet_access:fee\": \"no\", \"name\": \"@The Park\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.1973745,
+    "lon": 4.4631918
+  },
+  {
+    "id": 306486824,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Terras a/d Schelde\", \"name:nl\": \"Steiger 3\", \"website\": \"https://www.steiger3.be\"}",
+    "lat": 51.1794765,
+    "lon": 4.3325783
+  },
+  {
+    "id": 385181414,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"14\", \"addr:postcode\": \"2000\", \"addr:street\": \"Marnixplaats\", \"amenity\": \"cafe\", \"check_date\": \"2024-02-07\", \"name\": \"Vitrin\", \"opening_hours\": \"Mo-Sa 10:00-00:00; Su 11:00-00:00\", \"website\": \"https://vitrin.eu/\"}",
+    "lat": 51.2101587,
+    "lon": 4.3970063
+  },
+  {
+    "id": 420530810,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Mariaburg\", \"addr:country\": \"BE\", \"addr:housenumber\": \"567\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kapelsesteenweg\", \"amenity\": \"cafe\", \"cuisine\": \"sandwich\", \"name\": \"Babelle\"}",
+    "lat": 51.2928192,
+    "lon": 4.4434991
+  },
+  {
+    "id": 500350370,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-02-23\", \"name\": \"Den witten Hert\", \"toilets:wheelchair\": \"no\", \"wheelchair\": \"no\"}",
+    "lat": 51.2201652,
+    "lon": 4.4560823
+  },
+  {
+    "id": 500362321,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Leeuwlant\"}",
+    "lat": 51.2241928,
+    "lon": 4.4663732
+  },
+  {
+    "id": 500377031,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Deurne\", \"addr:housenumber\": \"10\", \"addr:postcode\": \"2100\", \"addr:street\": \"Cornelissenlaan\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"diet:vegetarian\": \"yes\", \"email\": \"info@barstark.be\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"name\": \"Bar Stark\", \"opening_hours\": \"Mo-Fr 08:30-18:30; Sa-Su 10:00-18:30\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.214897,
+    "lon": 4.4619358
+  },
+  {
+    "id": 556954935,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:country\": \"BE\", \"addr:housenumber\": \"68\", \"addr:postcode\": \"2610\", \"addr:street\": \"Bosheidelaan\", \"amenity\": \"cafe\", \"name\": \"Den Brem\", \"website\": \"http://www.denbrem.be\"}",
+    "lat": 51.1757172,
+    "lon": 4.3786854
+  },
+  {
+    "id": 579259388,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2229802,
+    "lon": 4.4640569
+  },
+  {
+    "id": 579260235,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2221873,
+    "lon": 4.4627694
+  },
+  {
+    "id": 717711175,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:street\": \"Sint-Andriesplaats\", \"amenity\": \"cafe\", \"check_date\": \"2024-01-20\", \"contact:facebook\": \"https://www.facebook.com/pg/St.Simonne/\", \"name\": \"St. Simonne\", \"opening_hours\": \"Mo off; Tu 09:00-22:00; We 08:30-22:00; Th-Su 08:30-20:00\"}",
+    "lat": 51.2153597,
+    "lon": 4.3962892
+  },
+  {
+    "id": 1186959813,
+    "type": "node",
+    "tags": "{\"air_conditioning\": \"yes\", \"amenity\": \"cafe\", \"branch\": \"Antwerpen Centraal Station\", \"brand\": \"Starbucks\", \"brand:wikidata\": \"Q37158\", \"brand:wikipedia\": \"en:Starbucks\", \"cuisine\": \"coffee_shop\", \"indoor_seating\": \"yes\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"no\", \"name\": \"Starbucks\", \"official_name\": \"Starbucks Coffee\", \"opening_hours\": \"Mo-Su 06:00-21:00\", \"operator\": \"Autogrill Belux\", \"operator:wikidata\": \"Q22131845\", \"outdoor_seating\": \"no\", \"smoking\": \"no\", \"takeaway\": \"yes\", \"toilets\": \"yes\", \"website\": \"https://www.starbucks.nl/store-locator/search/location/Antwerpen%2C%20Belgi%C3%AB/detail/18780\"}",
+    "lat": 51.2170325,
+    "lon": 4.4207109
+  },
+  {
+    "id": 1411578471,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"11\", \"addr:street\": \"Lijnwaadmarkt\", \"amenity\": \"cafe\", \"check_date\": \"2024-12-15\", \"check_date:opening_hours\": \"2024-12-15\", \"name\": \"Quetzal\", \"opening_hours\": \"Mo-Fr 12:00-22:00; Sa 12:00-22:00; Su 12:00-21:00\", \"website\": \"https://www.quetzal.be/\"}",
+    "lat": 51.2206345,
+    "lon": 4.4022311
+  },
+  {
+    "id": 1412035863,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:postcode\": \"2140\", \"addr:street\": \"Reuzenstraat\", \"amenity\": \"cafe\", \"name\": \"Bar Leon\", \"website\": \"https://www.barleon.be\"}",
+    "lat": 51.2158129,
+    "lon": 4.4417451
+  },
+  {
+    "id": 1532426774,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"14\", \"addr:postcode\": \"2000\", \"addr:street\": \"Haarstraat\", \"amenity\": \"cafe\", \"name\": \"De Lantaren\"}",
+    "lat": 51.2203479,
+    "lon": 4.3979992
+  },
+  {
+    "id": 1629898255,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Pixel\", \"url\": \"http://pixelcafe.be/\"}",
+    "lat": 51.2089695,
+    "lon": 4.3874661
+  },
+  {
+    "id": 1635538661,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Lunch Box\", \"website\": \"https://www.lunchbox.be\"}",
+    "lat": 51.2141108,
+    "lon": 4.4097352
+  },
+  {
+    "id": 1662298977,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"47\", \"addr:postcode\": \"2000\", \"addr:street\": \"Karel Rogierstraat\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://m.facebook.com/www.revista.be/\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.89\", \"name\": \"Revista\", \"opening_hours\": \"Mo-Fr 08:00-20:00; Sa 10:00-20:00; Su 11:00-19:00\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2095378,
+    "lon": 4.3949232
+  },
+  {
+    "id": 1670448572,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"5\", \"addr:street\": \"Beatrijslaan\", \"amenity\": \"cafe\", \"level\": \"0\", \"name\": \"Retro Caf\\u00e9\", \"outdoor_seating\": \"yes\", \"source\": \"survey\"}",
+    "lat": 51.2201638,
+    "lon": 4.3876767
+  },
+  {
+    "id": 1670448609,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Taverne Scheldezicht\", \"source\": \"survey\"}",
+    "lat": 51.220063,
+    "lon": 4.3876365
+  },
+  {
+    "id": 1680443267,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"17\", \"addr:postcode\": \"2040\", \"addr:street\": \"De Keyserhoeve\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/pg/mouche74/\", \"email\": \"pegiverborgt@hotmail.com\", \"name\": \"Chez Mouche\", \"old_name\": \"Het Nieuwe Testament;Nieve Herberg;Nieven Herberg;Barometer;Chez Stef\", \"opening_hours\": \"Mo,Tu off; We,Th,Su 11:30-23:00; Fr 07:00-03:00, Sa 11:30-03:00\", \"phone\": \"+32 496 49 79 01\", \"source\": \"survey\"}",
+    "lat": 51.359897,
+    "lon": 4.30822
+  },
+  {
+    "id": 1680443337,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23/1\", \"addr:postcode\": \"2040\", \"addr:street\": \"De Keyserhoeve\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://facebook.com/Bakkerij-De-Schutter-De-Zandwich-Bar-316926529072770/\", \"cuisine\": \"sandwich\", \"email\": \"info@dezandwichbar.be\", \"name\": \"De Zandwich Bar\", \"old_name\": \"De Kievit\", \"opening_hours\": \"Mo,Tu,Th,Fr 07:00-14:00; Sa 07:00-13:00; We,Su,PH off\", \"phone\": \"+32 3 290 65 03\", \"takeaway\": \"yes\", \"website\": \"https://www.dezandwichbar.be/\"}",
+    "lat": 51.3598818,
+    "lon": 4.3096793
+  },
+  {
+    "id": 1732688453,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"20\", \"addr:postcode\": \"2040\", \"addr:street\": \"Putsebaan\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/Bij-Marianna-103471741136678/\", \"disused:shop\": \"newsagent\", \"name\": \"Bij Marianna\", \"old_name\": \"Dagbladhandel Niata-Lemi\", \"phone\": \"+32 483 45 16 71\"}",
+    "lat": 51.3590655,
+    "lon": 4.3160355
+  },
+  {
+    "id": 1741489825,
+    "type": "node",
+    "tags": "{\"OnroerendErfgoed:criteria\": \"M\", \"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Groendalstraat\", \"amenity\": \"cafe\", \"description\": \"Huis Sint-Christoffel\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.75\", \"heritage\": \"4\", \"heritage:operator\": \"OnroerendErfgoed\", \"heritage:website\": \"https://inventaris.onroerenderfgoed.be/dibe/relict/4978\", \"name\": \"Lloyd Loom\", \"ref:OnroerendErfgoed\": \"4978\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.lloydloom.eu/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2172699,
+    "lon": 4.4046525
+  },
+  {
+    "id": 1810834957,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"79\", \"addr:postcode\": \"2000\", \"addr:street\": \"Scheldestraat\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0.19\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.65\", \"name\": \"Cosimo\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2110259,
+    "lon": 4.396387
+  },
+  {
+    "id": 1810844335,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"0.8\", \"facebook\": \"https://www.facebook.com/Palermo-antwerpen-2288590464746356/\", \"name\": \"Palermo\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.210047,
+    "lon": 4.3950193
+  },
+  {
+    "id": 1931369514,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-05-22\", \"name\": \"De Kox\"}",
+    "lat": 51.2113605,
+    "lon": 4.4332612
+  },
+  {
+    "id": 2023169645,
+    "type": "node",
+    "tags": "{\"addr:housename\": \"Kasteel Rivierenhof\", \"addr:housenumber\": \"247\", \"addr:postcode\": \"2100\", \"addr:street\": \"Turnhoutsebaan\", \"amenity\": \"cafe\", \"cuisine\": \"regional\", \"name\": \"Ter Rivierenhof\", \"website\": \"https://www.terrivierenhof.be/\"}",
+    "lat": 51.2176609,
+    "lon": 4.4688236
+  },
+  {
+    "id": 2329201809,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"5-7\", \"addr:street\": \"Sint-Lambertusstraat\", \"amenity\": \"cafe\", \"check_date\": \"2023-11-09\", \"description\": \"And coworking\", \"internet_access\": \"yes\", \"name\": \"Kornel\", \"opening_hours\": \"Mo-Fr 08:00-16:00\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"website\": \"https://www.kornel.be/\", \"wheelchair\": \"no\"}",
+    "lat": 51.1995947,
+    "lon": 4.4195085
+  },
+  {
+    "id": 2371280895,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-08-24\", \"name\": \"'t Park\"}",
+    "lat": 51.2101627,
+    "lon": 4.4185843
+  },
+  {
+    "id": 2405486928,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Grote Markt\", \"amenity\": \"cafe\", \"check_date\": \"2024-03-05\", \"name\": \"Den Bengel\"}",
+    "lat": 51.2216333,
+    "lon": 4.3997131
+  },
+  {
+    "id": 2582267563,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"48\", \"addr:street\": \"Steenhouwersvest\", \"amenity\": \"cafe\", \"brand\": \"Le Pain Quotidien\", \"brand:wikidata\": \"Q2046903\", \"brand:wikipedia\": \"en:Le Pain Quotidien\", \"check_date\": \"2023-04-08\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0.05\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.3\", \"name\": \"Le Pain Quotidien\", \"opening_hours\": \"Mo-Su 07:00-18:30\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"website\": \"https://www.lepainquotidien.com\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2177099,
+    "lon": 4.3997146
+  },
+  {
+    "id": 2739056702,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"43\", \"addr:postcode\": \"2000\", \"addr:street\": \"Wolstraat\", \"amenity\": \"cafe\", \"check_date:opening_hours\": \"2023-04-26\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.36\", \"indoor_seating\": \"yes\", \"name\": \"ViaVia\", \"opening_hours:signed\": \"no\", \"outdoor_seating\": \"no\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.viaviacafe.com/en/antwerp\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2214742,
+    "lon": 4.404484
+  },
+  {
+    "id": 2910961017,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"7\", \"addr:postcode\": \"2000\", \"addr:street\": \"Nassaustraat\", \"alt_name\": \"Black & Yellow Coffee Bar\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/pg/blackandyellowcoffeebar\", \"email\": \"blackandyellowcoffeebar@gmail.com\", \"indoor_seating\": \"yes\", \"internet_access\": \"yes\", \"name\": \"Black & Yellow\", \"old_name\": \"Broer Bretel Espresso bar\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 477 74 56 97\", \"smoking\": \"outside\", \"website\": \"http://www.blackandyellowcoffee.com/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.230851,
+    "lon": 4.4057043
+  },
+  {
+    "id": 3023101440,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Caf\\u00e9 Sarepta\"}",
+    "lat": 51.2254492,
+    "lon": 4.4154377
+  },
+  {
+    "id": 3023101441,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Meltino cafe\"}",
+    "lat": 51.224305,
+    "lon": 4.4148787
+  },
+  {
+    "id": 3023101444,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Expresso Luso\"}",
+    "lat": 51.2252193,
+    "lon": 4.4155369
+  },
+  {
+    "id": 3025843279,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"68\", \"addr:street\": \"Osystraat\", \"alt_name\": \"Taverna Escondidinho; Caf\\u00e9 Escondidinho\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/pg/tavernaEscondidinho2016/\", \"cuisine\": \"portuguese\", \"name\": \"Escondidinho\", \"old_name\": \"Los Manos\", \"phone\": \"+32 3 231 90 98\"}",
+    "lat": 51.2234009,
+    "lon": 4.4191205
+  },
+  {
+    "id": 3025843280,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Monda\"}",
+    "lat": 51.22453,
+    "lon": 4.4173871
+  },
+  {
+    "id": 3106455200,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"4\", \"addr:postcode\": \"2000\", \"addr:street\": \"Vleminckveld\", \"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-04-08\", \"cuisine\": \"sandwich\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.84\", \"internet_access\": \"wlan\", \"name\": \"Caf\\u00e9matic\", \"opening_hours\": \"Mo-Fr 08:30-17:00; Sa 09:30-17:00; Su off; Su[1] 10:30-17:00\", \"phone\": \"+32 3 225 59 55\", \"smoking\": \"outside\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2150403,
+    "lon": 4.4023463
+  },
+  {
+    "id": 3235183634,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Latin Barber Shop\"}",
+    "lat": 51.220067,
+    "lon": 4.4143124
+  },
+  {
+    "id": 3235184481,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.82\", \"name\": \"8eat5\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2190655,
+    "lon": 4.4081959
+  },
+  {
+    "id": 3345885370,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2A\", \"addr:postcode\": \"2040\", \"addr:street\": \"Zandweg\", \"alt_name\": \"Peter's Sportbar\", \"amenity\": \"cafe\", \"email\": \"info@peterssportsbar.be\", \"name\": \"Peter's Sportsbar\", \"old_name\": \"Taverne De Polder\", \"opening_hours\": \"Oct-Apr Mo,Tu 15:00-23:00, We 13:00-23:00, Fr,Sa 15:00-03:00, Su 15:00-22:00, Th off; May,Sep Mo-We 11:00-23:00, Fr,Sa 11:00-03:00, Su 11:00-22:00, Th off; Jun-Aug Mo,Th 10:00-23:00, Fr,Sa 10:00-03:00, Su 10:00-22:00\", \"phone\": \"+32 3 501 92 17\", \"url\": \"http://www.foodsenco.be\", \"website\": \"https://www.peterssportsbar.be/\"}",
+    "lat": 51.3490535,
+    "lon": 4.316018
+  },
+  {
+    "id": 3547831046,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"80\", \"addr:postcode\": \"2018\", \"addr:street\": \"Belegstraat\", \"amenity\": \"cafe\", \"cuisine\": \"breakfast;coffee_shop\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"name\": \"Foelie\", \"opening_hours\": \"Mo-Fr 10:00-18:00\", \"outdoor_seating\": \"no\"}",
+    "lat": 51.2038265,
+    "lon": 4.3973035
+  },
+  {
+    "id": 3834074072,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"107\", \"addr:street\": \"Lange Kievitstraat\", \"amenity\": \"cafe\", \"brand\": \"Le Pain Quotidien\", \"brand:wikidata\": \"Q2046903\", \"brand:wikipedia\": \"en:Le Pain Quotidien\", \"changing_table\": \"yes\", \"cuisine\": \"coffee_shop\", \"diet:vegetarian\": \"yes\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.09\", \"name\": \"Le Pain Quotidien\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"yes\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2134847,
+    "lon": 4.4223661
+  },
+  {
+    "id": 3844916484,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2180\", \"addr:street\": \"Groot Hagelkruis\", \"amenity\": \"cafe\", \"email\": \"sylviane.nauwelaers@gmail.com\", \"name\": \"Perfect Present\", \"opening_hours\": \"Tu-Sa 10:00-18:00; Su,Mo off\", \"phone\": \"+32 3 544 90 09\", \"shop\": \"gift\", \"website\": \"https://www.perfectpresent.be\"}",
+    "lat": 51.2781158,
+    "lon": 4.4179981
+  },
+  {
+    "id": 3957854990,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"80\", \"addr:postcode\": \"2140\", \"addr:street\": \"Kroonstraat\", \"amenity\": \"cafe\", \"name\": \"Bar bob\"}",
+    "lat": 51.2138347,
+    "lon": 4.4296166
+  },
+  {
+    "id": 4085195425,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:postcode\": \"2040\", \"addr:street\": \"Havenmarkt\", \"amenity\": \"cafe\", \"name\": \"'t Pleintje\", \"opening_hours\": \"Mo,Tu off; We-Su 10:00-22:00\", \"phone\": \"+32 472 37 74 03\"}",
+    "lat": 51.3047416,
+    "lon": 4.2899914
+  },
+  {
+    "id": 4100551995,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"32\", \"addr:street\": \"Quellinstraat\", \"amenity\": \"cafe\", \"internet_access\": \"wlan\", \"name\": \"Esco*Bar\", \"opening_hours\": \"Mo-Sa 09:00-18:00\", \"phone\": \"+32 3 336 18 11\", \"website\": \"https://www.koffieenlunchescobar.be\"}",
+    "lat": 51.2164575,
+    "lon": 4.4160381
+  },
+  {
+    "id": 4104371077,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:street\": \"Boudewijnssteeg\", \"amenity\": \"cafe\", \"brewery\": \"koninck;duvel;maradsous\", \"contact:facebook\": \"https://www.facebook.com/eetcafedenbell\", \"cuisine\": \"belgian;international\", \"food\": \"yes\", \"internet_access\": \"wlan\", \"name\": \"Eetcaf\\u00e9 Den Bell\", \"opening_hours\": \"Mo-Su 10:00-20:00; Sa off\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 216 80 22\", \"website\": \"https://www.eetcafedenbell.be\"}",
+    "lat": 51.205678,
+    "lon": 4.3998731
+  },
+  {
+    "id": 4154385997,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2198343,
+    "lon": 4.4380801
+  },
+  {
+    "id": 4316774902,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Caf\\u00e9 Imperial\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2179093,
+    "lon": 4.4086958
+  },
+  {
+    "id": 4362164089,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"13\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hoogstraat\", \"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.2\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1\", \"name\": \"Daily Roast\", \"name:de\": \"Daily Roast\", \"name:en\": \"Daily Roast\", \"name:fr\": \"Daily Roast\", \"opening_hours\": \"Mo-Su 09:00-18:00\", \"phone\": \"+32 3 225 24 54\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.dailyroast.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2202025,
+    "lon": 4.3988687
+  },
+  {
+    "id": 4393999995,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"112\", \"addr:street\": \"Statiestraat\", \"amenity\": \"cafe\", \"check_date\": \"2023-11-10\", \"opening_hours\": \"05:00-14:00\"}",
+    "lat": 51.1991209,
+    "lon": 4.4285345
+  },
+  {
+    "id": 4434127378,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Beyoglu\"}",
+    "lat": 51.1988454,
+    "lon": 4.4277068
+  },
+  {
+    "id": 4448858934,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2040\", \"addr:street\": \"Zandvlietsesteenweg\", \"alt_name\": \"De molen; Buitenmolen\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/Eetcaf%C3%A9-De-molen-334870040710000/\", \"name\": \"Eetcaf\\u00e9 De Molen\", \"opening_hours\": \"Mo,Tu off; We-Sa 11:00-23:00; Su 09:30-22:00\", \"phone\": \"+32 3 297 07 09\", \"website\": \"https://www.buitenmolen.be\"}",
+    "lat": 51.3506247,
+    "lon": 4.3128287
+  },
+  {
+    "id": 4477832545,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Tanger\"}",
+    "lat": 51.2183725,
+    "lon": 4.430206
+  },
+  {
+    "id": 4491995292,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"level\": \"0\", \"name\": \"Altocafe\", \"takeaway\": \"only\", \"website\": \"https://www.altocafe.com/fr/\"}",
+    "lat": 51.216169,
+    "lon": 4.42122
+  },
+  {
+    "id": 4491995590,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"level\": \"0\", \"name\": \"Altocafe\", \"takeaway\": \"only\"}",
+    "lat": 51.216186,
+    "lon": 4.420992
+  },
+  {
+    "id": 4548904092,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Jafal\", \"name:ar\": \"\\u062c\\u0641\\u0627\\u0644\"}",
+    "lat": 51.1779099,
+    "lon": 4.3538263
+  },
+  {
+    "id": 4576058591,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Ernest Van Dijckkaai\", \"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.91\", \"internet_access\": \"wlan\", \"name\": \"De Karmeliet\", \"name:de\": \"De Karmeliet\", \"name:en\": \"De Karmeliet\", \"name:fr\": \"De Karmeliet\", \"name:nl\": \"De Karmeliet\", \"operator\": \"Paddy\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2204354,
+    "lon": 4.3968308
+  },
+  {
+    "id": 4637208263,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"brand\": \"Coffee Time\", \"brand:wikidata\": \"Q5140932\", \"brand:wikipedia\": \"en:Coffee Time\", \"cuisine\": \"coffee_shop\", \"name\": \"Coffee Time\", \"takeaway\": \"yes\"}",
+    "lat": 51.156812,
+    "lon": 4.3842018
+  },
+  {
+    "id": 4689062555,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"36\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Aldegondiskaai\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/dok36coffeeshop\", \"email\": \"sarah@dok36.com\", \"name\": \"DOK 36\", \"old_name\": \"Pelican Rouge Coffee Experience\", \"opening_hours\": \"Mo off; Tu-Su 08:00-17:00\"}",
+    "lat": 51.2278028,
+    "lon": 4.403866
+  },
+  {
+    "id": 4729916699,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"29\", \"addr:postcode\": \"2060\", \"addr:street\": \"Van Maerlantstraat\", \"alt_name\": \"Pastelaria Doce Tenta\\u00e7\\u00e3o\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/Pastelaria-Doce-Tenta%C3%A7%C3%A3o-459382747479989/\", \"cuisine\": \"portuguese\", \"name\": \"Doce Tenta\\u00e7\\u00e3o\", \"phone\": \"+32 486 97 73 01\"}",
+    "lat": 51.2235605,
+    "lon": 4.4177483
+  },
+  {
+    "id": 4741248772,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"28\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kattendijkdok-Westkaai\", \"amenity\": \"cafe\", \"name\": \"Bakkerij Toon de Klerck\", \"opening_hours\": \"Mo,We-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:00-15:00; Tu off\", \"phone\": \"+32 3 225 36 57\", \"shop\": \"bakery\", \"website\": \"https://www.toondeklerckbakkerij.be/\"}",
+    "lat": 51.2318164,
+    "lon": 4.404921
+  },
+  {
+    "id": 4803812955,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"337\", \"addr:postcode\": \"2100\", \"addr:street\": \"Ten Eekhovelei\", \"amenity\": \"cafe\", \"internet_access\": \"terminal\", \"internet_access:fee\": \"no\", \"name\": \"buurtwerk Dinamo\", \"smoking\": \"outside\", \"website\": \"https://samenlevingsopbouw-antwerpenstad.be/wat-doen-we/projecten/buurtwerk-deurne-noord-dinamo/\"}",
+    "lat": 51.2291576,
+    "lon": 4.445525
+  },
+  {
+    "id": 4803812957,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"94\", \"addr:postcode\": \"2060\", \"addr:street\": \"Lange Scholiersstraat\", \"amenity\": \"cafe\", \"cuisine\": \"international\", \"internet_access\": \"terminal\", \"internet_access:fee\": \"no\", \"name\": \"Centrum De Wijk\", \"smoking\": \"outside\", \"website\": \"https://samenlevingsopbouw-antwerpenstad.be/wat-doen-we/projecten/buurtwerk-noord/\"}",
+    "lat": 51.2247497,
+    "lon": 4.4299313
+  },
+  {
+    "id": 4812184072,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"43\", \"addr:postcode\": \"2000\", \"addr:street\": \"Napoleonkaai\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/pages/Sileau/265354396826869\", \"email\": \"info@sileau.com\", \"name\": \"Sil'eau\", \"opening_hours\": \"Mo-Th 11:30-15:00; Fr-Su 09:00-16:00\", \"phone\": \"+32 3 230 55 41\", \"website\": \"http://www.sileau.com/\"}",
+    "lat": 51.2300535,
+    "lon": 4.4099411
+  },
+  {
+    "id": 4812184075,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Napoleonkaai\", \"alt_name\": \"Foodbar Cordoba; Cordoba Foodbar\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/foodbarcordoba/\", \"email\": \"peeters_rox@hotmail.com\", \"name\": \"Cordoba\", \"opening_hours\": \"Mo-Fr 08:00-17:00; Sa 10:00-16:00; Su,PH off\", \"phone\": \"+32 473 85 36 45\", \"takeaway\": \"yes\", \"website\": \"https://www.cordoba-foodbar.be\"}",
+    "lat": 51.2298893,
+    "lon": 4.4058869
+  },
+  {
+    "id": 4825491336,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Melbourne Coffee\", \"opening_hours\": \"Mo-Fr 06:00-18:00; Sa 07:30-17:00; Su 08:00-16:00\", \"website\": \"http://melbournecoffee.be/\", \"wheelchair\": \"yes\"}",
+    "lat": 51.200349,
+    "lon": 4.432597
+  },
+  {
+    "id": 4825560101,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"18\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"alt_name\": \"Blend Lunchbar\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://nl-nl.facebook.com/BlendAntwerpen/\", \"name\": \"Blend\", \"opening_hours\": \"Mo-Fr 09:00-16:00; Sa 09:00-15:00; Su off\", \"phone\": \"+32 3 290 93 98\", \"website\": \"https://www.blendantwerpen.be\"}",
+    "lat": 51.2307546,
+    "lon": 4.4089215
+  },
+  {
+    "id": 4825582172,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"92\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kempischdok-Westkaai\", \"amenity\": \"cafe\", \"cuisine\": \"sandwich\", \"delivery\": \"yes\", \"email\": \"info@cadixfood.be\", \"name\": \"Cadix Food\", \"opening_hours\": \"Mo-Fr 07:00-16:00; Sa,Su off\", \"phone\": \"+32 3 227 44 45\", \"takeaway\": \"yes\", \"website\": \"https://www.cadixfood.be/\"}",
+    "lat": 51.2314132,
+    "lon": 4.4127067
+  },
+  {
+    "id": 4825591963,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"20\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kribbestraat\", \"amenity\": \"cafe\", \"email\": \"info@noworriesantwerpen.be\", \"name\": \"No Worries\", \"opening_hours\": \"We-Su 10:00-18:00; Mo,Tu off\", \"phone\": \"+32 495 38 87 14\", \"website\": \"http://noworriesantwerpen.be\"}",
+    "lat": 51.2303341,
+    "lon": 4.4099513
+  },
+  {
+    "id": 4825591964,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kribbestraat\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://facebook.com/kolombocoffeebar\", \"email\": \"mail@goingkolombo.coffee\", \"name\": \"Kolombo\", \"opening_hours\": \"Su,Mo off; Tu,We 08:30-17:00; Th, Fr 08:30-21:00; Sa 10:00-17:00\", \"phone\": \"+32 479 67 08 04\", \"website\": \"http://www.goingkolombo.coffee/\"}",
+    "lat": 51.2302335,
+    "lon": 4.4102605
+  },
+  {
+    "id": 4826857561,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"27\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"amenity\": \"cafe\", \"check_date\": \"2024-08-31\", \"contact:facebook\": \"https://www.facebook.com/Georgeskaffee\", \"name\": \"Georges Espressobar\", \"opening_hours\": \"Mo-Fr 08:00-18:00; Sa 10:00-16:00; Su off\", \"phone\": \"+32 498 68 42 81\", \"website\": \"http://www.georgesespressobar.be/\"}",
+    "lat": 51.2312004,
+    "lon": 4.4107467
+  },
+  {
+    "id": 4838798213,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Hanzestedenplaats\", \"alt_name\": \"Caf\\u00e9 STORM\", \"amenity\": \"cafe\", \"changing_table\": \"no\", \"contact:facebook\": \"https://www.facebook.com/CafeStorm/\", \"email\": \"info@cafe-storm.com\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.9\", \"name\": \"STORM\", \"phone\": \"+32 3 231 43 00\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:level\": \"ground_floor\", \"website\": \"https://www.cafe-storm.com/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2287837,
+    "lon": 4.4045323
+  },
+  {
+    "id": 4921324821,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2610\", \"addr:street\": \"Edenplein\", \"amenity\": \"cafe\", \"name\": \"Neerlandhof\", \"name:de\": \"Neerlandhof\", \"name:en\": \"Neerlandhof\"}",
+    "lat": 51.1533039,
+    "lon": 4.3907195
+  },
+  {
+    "id": 4960357121,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"21\", \"addr:postcode\": \"2060\", \"addr:street\": \"De Coninckplein\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop;coffee\", \"diet:vegetarian\": \"yes\", \"email\": \"tim@viggos.be\", \"level\": \"0\", \"name\": \"Viggo's Coffee\", \"opening_hours\": \"Mo-Fr 08:30-17:00\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://viggos.coffee/#filter=.home\"}",
+    "lat": 51.2218182,
+    "lon": 4.4203627
+  },
+  {
+    "id": 5023498026,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"amenity\": \"cafe\", \"contact:facebook\": \"normocoffee\", \"contact:instagram\": \"normocoffee\", \"cuisine\": \"coffee_shop\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.12\", \"indoor_seating\": \"yes\", \"internet_access\": \"wlan\", \"name\": \"Normo\", \"name:nl\": \"Normo\", \"opening_hours\": \"Mo-Sa 08:30-18:30\", \"outdoor_seating\": \"no\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 495 65 72 43\", \"toilets:wheelchair\": \"no\", \"website\": \"https://normocoffee.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2224346,
+    "lon": 4.4041918
+  },
+  {
+    "id": 5059078075,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:street\": \"Draakstraat\", \"alt_name\": \"Koffiebar Frits\", \"amenity\": \"cafe\", \"check_date\": \"2024-02-17\", \"email\": \"info@fritskoffiebar.be\", \"name\": \"Frits\", \"opening_hours\": \"Mo,Sa off; Tu,Th 08:00-17:00; We 08:00-12:30; Su 10:00-17:00\", \"phone\": \"+32 3 434 32 51\", \"website\": \"https://fritskoffiebar.be/\"}",
+    "lat": 51.2065792,
+    "lon": 4.4303977
+  },
+  {
+    "id": 5084647047,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:country\": \"BE\", \"addr:housenumber\": \"22\", \"addr:postcode\": \"2000\", \"addr:street\": \"Rijnkaai\", \"alt_name\": \"Magazijn SANBA\", \"amenity\": \"cafe\", \"email\": \"hello@sanba.be\", \"name\": \"SANBA\", \"opening_hours\": \"Mo-Fr 09:00-19:00; Sa,Su,PH off\", \"website\": \"http://www.sanba.be\"}",
+    "lat": 51.2324466,
+    "lon": 4.4032722
+  },
+  {
+    "id": 5096488091,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"117 b1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Itali\\u00eblei\", \"amenity\": \"cafe\", \"cuisine\": \"brazilian\", \"name\": \"Avenida Paulista\"}",
+    "lat": 51.2256199,
+    "lon": 4.4153562
+  },
+  {
+    "id": 5096488093,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"92\", \"addr:postcode\": \"2060\", \"addr:street\": \"Van de Wervestraat\", \"amenity\": \"cafe\", \"cuisine\": \"portuguese\", \"name\": \"Rio Doce\", \"old_name\": \"Casa Girassol\"}",
+    "lat": 51.2258495,
+    "lon": 4.4165341
+  },
+  {
+    "id": 5097237925,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"108\", \"addr:postcode\": \"2600\", \"addr:street\": \"Gitschotellei\", \"amenity\": \"cafe\", \"cuisine\": \"sandwich;salad;burger;pancake;smoothie;waffle;breakfast\", \"email\": \"bestellen@laruche-antwerpen.be\", \"name\": \"La Ruche\", \"phone\": \"+32 3 334 81 18\"}",
+    "lat": 51.200373,
+    "lon": 4.4406971
+  },
+  {
+    "id": 5123359322,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"24\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oude Beurs\", \"amenity\": \"cafe\", \"email\": \"info@caffemundi.be\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.12\", \"facebook\": \"https://www.facebook.com/crossroastcoffee\", \"image\": \"https://images.mapillary.com/HdqyU2BNu2p8lMlEPAS9OI/thumb-2048.jpg\", \"mapillary\": \"2925677674372611\", \"name\": \"Caffe Mundi\", \"name:fr\": \"Caffe Mundi\", \"opening_hours\": \"Tu-Fr 07:30-18:00, 09:00-18:00; Sa, Su 10:00-17:00\", \"phone\": \"+32 3 226 21 30\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.caffemundi.be/\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2218334,
+    "lon": 4.4007729
+  },
+  {
+    "id": 5126823187,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"41\", \"addr:postcode\": \"2000\", \"addr:street\": \"Amsterdamstraat\", \"amenity\": \"cafe\", \"name\": \"Cafe and de stroom\"}",
+    "lat": 51.2315153,
+    "lon": 4.4048399
+  },
+  {
+    "id": 5138770421,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"75\", \"addr:postcode\": \"2000\", \"addr:street\": \"prekersstraat\", \"amenity\": \"cafe\", \"check_date\": \"2024-01-20\", \"internet_access\": \"wlan\", \"name\": \"Kaffeenini\", \"opening_hours\": \"Mo 08:00-18:00; We-Fr 08:00-18:00; Sa-Su 09:00-17:00; PH off\", \"phone\": \"+32 3 231 83 57\", \"website\": \"https://kaffeenini.be/\"}",
+    "lat": 51.2140607,
+    "lon": 4.397648
+  },
+  {
+    "id": 5138770422,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"10\", \"addr:street\": \"Oudevaartplaats\", \"amenity\": \"cafe\", \"name\": \"Barnini\", \"opening_hours\": \"Su 07:00-17:00; Tu-Fr 08:00-18:00; Sa 07:00-18:00\", \"phone\": \"+32 3 485 82 69\", \"website\": \"https://barnini.be/\"}",
+    "lat": 51.2149126,
+    "lon": 4.4089315
+  },
+  {
+    "id": 5146182623,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2206264,
+    "lon": 4.4169317
+  },
+  {
+    "id": 5168084321,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:postcode\": \"2060\", \"addr:street\": \"Sint-Jansplein\", \"alt_name\": \"Taverne Gillis\", \"amenity\": \"cafe\", \"name\": \"Gillis\"}",
+    "lat": 51.2260271,
+    "lon": 4.4183533
+  },
+  {
+    "id": 5188616482,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"57\", \"addr:postcode\": \"2000\", \"addr:street\": \"Kasteelstraat\", \"amenity\": \"cafe\", \"contact:email\": \"butcherscoffee@gmail.com\", \"contact:instagram\": \"http://instagram.com/butcherscoffee\", \"contact:phone\": \"+32 3 334 91 93\", \"contact:website\": \"http://www.butcherscoffee.be\", \"cuisine\": \"coffee_shop\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"yes\", \"name\": \"Butchers Coffee\", \"opening_hours\": \"Mo-Fr 07:00-18:00; Sa-Su 09:00-18:00\", \"outdoor_seating\": \"yes\", \"smoking\": \"outside\"}",
+    "lat": 51.2062701,
+    "lon": 4.3929305
+  },
+  {
+    "id": 5188616494,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"51\", \"addr:postcode\": \"2018\", \"addr:street\": \"Montignystraat\", \"amenity\": \"cafe\", \"check_date\": \"2024-12-28\", \"check_date:diet:vegan\": \"2024-12-28\", \"check_date:diet:vegetarian\": \"2024-12-28\", \"contact:facebook\": \"kolonelcoffee\", \"contact:instagram\": \"kolonelcoffeeroasters\", \"cuisine\": \"breakfast;coffee_shop;tea\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"email\": \"info@kolonelcoffee.be\", \"indoor_seating\": \"yes\", \"name\": \"Kolonel Coffee\", \"opening_hours\": \"Mo-Fr 08:00-18:00; Sa 09:00-18:00\", \"outdoor_seating\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"website\": \"https://kolonelcoffee.be\"}",
+    "lat": 51.2036774,
+    "lon": 4.3921434
+  },
+  {
+    "id": 5225626691,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"13\", \"addr:postcode\": \"2000\", \"addr:street\": \"Mechelseplein\", \"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-04-08\", \"entrance:kerb:height\": \"0.08\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Mattina\", \"opening_hours\": \"Mo-Fr 07:30-18:30; Sa,Su 09:00-18:30\", \"phone\": \"+32 3 231 70 54\", \"website\": \"https://www.mattina.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2132366,
+    "lon": 4.405206
+  },
+  {
+    "id": 5225661256,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"68\", \"addr:postcode\": \"2000\", \"addr:street\": \"Vleminckveld\", \"amenity\": \"cafe\", \"check_date\": \"2023-04-08\", \"email\": \"info@lints.be\", \"name\": \"Lints\", \"opening_hours\": \"Tu-Sa 07:00-18:00; Su 07:00-16:30; Mo off\", \"phone\": \"+32 3 226 91 34\", \"shop\": \"bakery\", \"website\": \"https://lints.be/\"}",
+    "lat": 51.2137802,
+    "lon": 4.4043119
+  },
+  {
+    "id": 5236453540,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"17\", \"addr:postcode\": \"2000\", \"addr:street\": \"Volkstraat\", \"alt_name\": \"De Biologisch-Dynamische Bakkerij\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/pg/debiologischebakkerij/\", \"email\": \"debiologischebakkerij@gmail.com\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"De Biologische Bakkerij\", \"opening_hours\": \"Mo,Tu,Th-Sa 08:00-18:00; Su 09:00-17:00; We off\", \"phone\": \"+32 3 216 00 42\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2113044,
+    "lon": 4.396557
+  },
+  {
+    "id": 5247562870,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"45\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"amenity\": \"cafe\", \"cuisine\": \"italian\", \"name\": \"Basic Italian\", \"opening_hours\": \"Mo-Fr 10:00-18:30; Sa,Su off\", \"phone\": \"+32 491 18 20 67\", \"takeaway\": \"yes\", \"url\": \"http://www.basic-italian.be/\"}",
+    "lat": 51.2311587,
+    "lon": 4.4123783
+  },
+  {
+    "id": 5247601626,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Grote Kauwenberg\", \"amenity\": \"cafe\", \"check_date\": \"2023-10-15\", \"contact:facebook\": \"https://nl-nl.facebook.com/uaagoracaffee/\", \"email\": \"agora@uantwerpen.be\", \"name\": \"Agora Caffee\", \"opening_hours\": \"Mo-Fr 08:00-23:00; Sa 08:00-19:00; Su off\", \"phone\": \"+32 3 227 14 13\"}",
+    "lat": 51.2234237,
+    "lon": 4.4113824
+  },
+  {
+    "id": 5302124621,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.8\", \"name\": \"Break Point\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2194597,
+    "lon": 4.398124
+  },
+  {
+    "id": 5310598221,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.05\", \"name\": \"Quinten Matsijs\", \"name:en\": \"Quinten Matsijs\", \"opening_hours\": \"We-Su 12:00-00:00\", \"phone\": \"+32 3 255 01 70\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"tourism\": \"guest_house\", \"website\": \"https://www.quintenmatsijs.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2213683,
+    "lon": 4.4036003
+  },
+  {
+    "id": 5418606816,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"20\", \"addr:postcode\": \"2060\", \"addr:street\": \"Sint-Jansplein\", \"amenity\": \"cafe\", \"name\": \"Vitoria Brasil\"}",
+    "lat": 51.2253174,
+    "lon": 4.418722
+  },
+  {
+    "id": 5419041509,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Me & My Monkey\"}",
+    "lat": 51.2177042,
+    "lon": 4.3961844
+  },
+  {
+    "id": 5419041511,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"30\", \"addr:postcode\": \"2000\", \"addr:street\": \"Vlasmarkt\", \"amenity\": \"cafe\", \"cuisine\": \"sandwich;tea;cake;coffee\", \"diet:gluten_free\": \"yes\", \"diet:vegan\": \"yes\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"name\": \"Lighthouse Cafe\", \"outdoor_seating\": \"yes\", \"website\": \"https://lighthouseantwerpen.be/cafe/\", \"website:menu\": \"https://lighthouseantwerpen.be/cafe/menu/\"}",
+    "lat": 51.2196075,
+    "lon": 4.3976307
+  },
+  {
+    "id": 5435272306,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"93\", \"addr:postcode\": \"2060\", \"addr:street\": \"Van de Wervestraat\", \"alt_name\": \"Royal King Bistro & Loungebar\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://nl-nl.facebook.com/pg/RoyalKingNL/\", \"email\": \"info@royalking-loungebar.com\", \"name\": \"Royal King\", \"phone\": \"+32 3 283 73 45\", \"website\": \"http://royalking-loungebar.com/\"}",
+    "lat": 51.2261892,
+    "lon": 4.4167823
+  },
+  {
+    "id": 5460589768,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"6\", \"addr:postcode\": \"2000\", \"addr:street\": \"Graanmarkt\", \"amenity\": \"cafe\", \"brand\": \"Le Pain Quotidien\", \"brand:wikidata\": \"Q2046903\", \"brand:wikipedia\": \"en:Le Pain Quotidien\", \"changing_table\": \"yes\", \"check_date\": \"2023-11-11\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.09\", \"name\": \"Le Pain Quotidien\", \"old_name\": \"De Markt\", \"opening_hours\": \"Mo-Su 08:00-18:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 231 91 91\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"yes\", \"website\": \"https://www.lepainquotidien.com/be/nl/locations/Antwerpen_Graanmarkt/Graanmarkt-6\", \"wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2156939,
+    "lon": 4.4090584
+  },
+  {
+    "id": 5468147724,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"natuurkost\", \"website\": \"https://hetnatuurhuis.be\"}",
+    "lat": 51.2166525,
+    "lon": 4.4127242
+  },
+  {
+    "id": 5468149322,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0.3\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"4\", \"entrance:width\": \"1.24\", \"internet_access\": \"wlan\", \"name\": \"Bardin\", \"opening_hours\": \"Mo-Su 08:00-16:00\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"toilets:wheelchair:space_side\": \"0.54\", \"website\": \"https://www.bardin.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2076578,
+    "lon": 4.4091547
+  },
+  {
+    "id": 5611596122,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-02-10\", \"name\": \"Nelly\"}",
+    "lat": 51.2217444,
+    "lon": 4.3992022
+  },
+  {
+    "id": 5611596126,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Brasserie Bij Ons\", \"website\": \"https://www.brabijons.be\"}",
+    "lat": 51.2252334,
+    "lon": 4.4007858
+  },
+  {
+    "id": 5613309721,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-11-11\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.65\", \"name\": \"Snackbar Hopland\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2167901,
+    "lon": 4.4123026
+  },
+  {
+    "id": 5613325321,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2023-04-10\", \"name\": \"Gazette\", \"website\": \"https://www.gazette-eetcafe.be\"}",
+    "lat": 51.214385,
+    "lon": 4.4089015
+  },
+  {
+    "id": 5613340721,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"amenity\": \"cafe\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"indoor_seating\": \"yes\", \"name\": \"Duke of Antwerp\", \"outdoor_seating\": \"yes\", \"website\": \"https://www.dukeofantwerp.be/\"}",
+    "lat": 51.2177267,
+    "lon": 4.4185628
+  },
+  {
+    "id": 5615179526,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2023-04-10\", \"entrance:kerb:height\": \"0.14\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1.0\", \"entrance:width\": \"0.88\", \"facebook\": \"https://nl-nl.facebook.com/perrucheantwerp\", \"name\": \"Perruche\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2134784,
+    "lon": 4.4094528
+  },
+  {
+    "id": 5715201622,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"161\", \"addr:postcode\": \"2018\", \"addr:street\": \"Lamorini\\u00e8restraat\", \"amenity\": \"cafe\", \"email\": \"caffenation@gmail.com\", \"name\": \"Caff\\u00e8nation\", \"opening_hours\": \"Mo-Fr 08:00-17:00; Sa,Su,PH off\", \"phone\": \"+32 3 501 22 92\", \"shop\": \"coffee\", \"website\": \"https://caffenation.be/\"}",
+    "lat": 51.2025244,
+    "lon": 4.4217974
+  },
+  {
+    "id": 5715201623,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1 b16\", \"addr:postcode\": \"2018\", \"addr:street\": \"Regine Beerplein\", \"alt_name\": \"Kasserol Lunchbar en Hoevewinkel\", \"amenity\": \"cafe\", \"email\": \"info@kasserol.be\", \"name\": \"Kasserol\", \"opening_hours\": \"We-Fr 11:30-15:00\", \"phone\": \"+32 474 25 14 16\", \"shop\": \"farm\", \"website\": \"https://kasserol.be/\"}",
+    "lat": 51.2024884,
+    "lon": 4.4219394
+  },
+  {
+    "id": 5731284480,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"1\", \"addr:postcode\": \"2000\", \"addr:street\": \"Verbondstraat\", \"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-02-10\", \"email\": \"info@mirlos.be\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.86\", \"name\": \"Mirlo's\", \"opening_hours\": \"Mo,We-Fr 09:00-17:00; Sa,Su 10:00-17:00; Tu off\", \"phone\": \"+32 3 888 04 66\", \"toilets:wheelchair\": \"no\", \"website\": \"https://mirlos.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2109551,
+    "lon": 4.4012303
+  },
+  {
+    "id": 5756890521,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Salsa\"}",
+    "lat": 51.2452774,
+    "lon": 4.4157574
+  },
+  {
+    "id": 5834288862,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"23\", \"addr:postcode\": \"2000\", \"addr:street\": \"Londenstraat\", \"amenity\": \"cafe\", \"check_date\": \"2024-08-31\", \"contact:facebook\": \"https://www.facebook.com/onssuzanne/\", \"email\": \"info@onssuzanne.be\", \"name\": \"Ons Suzanne\", \"opening_hours\": \"Mo-Fr 08:00-16:00; Sa,Su off\", \"phone\": \"+32 3 646 78 38\"}",
+    "lat": 51.2312409,
+    "lon": 4.410488
+  },
+  {
+    "id": 5834766408,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"416\", \"addr:postcode\": \"2170\", \"addr:street\": \"Bredabaan\", \"alt_name\": \"'t Hooghuys\", \"amenity\": \"cafe\", \"name\": \"'t Hooghuis\"}",
+    "lat": 51.2439573,
+    "lon": 4.443907
+  },
+  {
+    "id": 5959810321,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1.0\", \"entrance:width\": \"0.97\", \"name\": \"Cafe Jozef\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:level\": \"none\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.218901,
+    "lon": 4.4205369
+  },
+  {
+    "id": 5982606662,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"contact:phone\": \"+32 488 32 93 06\", \"contact:website\": \"https://catcafeantwerp.com\", \"name\": \"Cat Caf\\u00e9 Antwerp\", \"opening_hours\": \"Mo-Su 11:00-18:00\", \"theme\": \"cat\"}",
+    "lat": 51.2195058,
+    "lon": 4.4051196
+  },
+  {
+    "id": 5991458047,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"addr:street\": \"Wolstraat\", \"amenity\": \"cafe\", \"contact:facebook\": \"jamantwerpen\", \"contact:instagram\": \"jamantwerpen\", \"cuisine\": \"breakfast;coffee_shop;sandwich\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1.0\", \"entrance:width\": \"0.78\", \"indoor_seating\": \"yes\", \"name\": \"Jam\", \"opening_hours\": \"Th-Mo 11:00-18:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 471 49 85 06\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2214239,
+    "lon": 4.4046817
+  },
+  {
+    "id": 5991458048,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.65\", \"name\": \"Marolus\", \"outdoor_seating\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2211547,
+    "lon": 4.4045169
+  },
+  {
+    "id": 5991458050,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.78\", \"name\": \"Bubble Waffle\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.bubblewaffle.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.221268,
+    "lon": 4.4048111
+  },
+  {
+    "id": 5994111145,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"3\", \"entrance:width\": \"0.82\", \"name\": \"Cream and Porridge\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.creamandporridge.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2219053,
+    "lon": 4.404773
+  },
+  {
+    "id": 5994111146,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.15\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.84\", \"name\": \"Moochie\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.moochie.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2200951,
+    "lon": 4.4028309
+  },
+  {
+    "id": 5994111150,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.01\", \"name\": \"Urban Wraps\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.urbanwraps.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2216083,
+    "lon": 4.4049418
+  },
+  {
+    "id": 5999650989,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Barro\"}",
+    "lat": 51.2250787,
+    "lon": 4.4014456
+  },
+  {
+    "id": 6005758842,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"28\", \"addr:postcode\": \"2000\", \"addr:street\": \"Paardenmarkt\", \"amenity\": \"cafe\", \"contact:email\": \"info@cuperuskoffie.be\", \"contact:instagram\": \"https://www.instagram.com/cuperuscoffee\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.41\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"name\": \"Cuperus Horseymarket\", \"opening_hours\": \"Mo-Fr 08:30-18:00; Sa-Su,PH 10:00-18:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 233 25 89\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.cuperuskoffie.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2249218,
+    "lon": 4.4086946
+  },
+  {
+    "id": 6005758843,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"yes\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.85\", \"name\": \"Cuperus Koffie\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.cuperuskoffie.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2197141,
+    "lon": 4.4054005
+  },
+  {
+    "id": 6008349703,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Chickpea\", \"website\": \"https://www.chickpea.be/\"}",
+    "lat": 51.2201559,
+    "lon": 4.4029123
+  },
+  {
+    "id": 6008349712,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.15\", \"name\": \"Wasbar\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.wasbar.be\", \"wheelchair\": \"limited\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2204406,
+    "lon": 4.4028532
+  },
+  {
+    "id": 6036014385,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Ateliercafe\"}",
+    "lat": 51.2124444,
+    "lon": 4.4078259
+  },
+  {
+    "id": 6036014387,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Cobra\"}",
+    "lat": 51.2127356,
+    "lon": 4.4068993
+  },
+  {
+    "id": 6036014396,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2023-04-08\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.98\", \"name\": \"Caffenation\", \"website\": \"https://caffenation.be\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2114581,
+    "lon": 4.4073855
+  },
+  {
+    "id": 6092678041,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"75\", \"addr:postcode\": \"2060\", \"addr:street\": \"Duboisstraat\", \"amenity\": \"cafe\", \"check_date\": \"2025-02-12\", \"check_date:diet:vegan\": \"2025-02-12\", \"check_date:diet:vegetarian\": \"2025-02-12\", \"check_date:opening_hours\": \"2024-10-01\", \"cuisine\": \"coffee_shop\", \"description\": \"Coffee bar and graphic design agency. Has coffee, tea, juices, soup, alcoholic and non-alcoholic drinks, lunch food.\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"email\": \"info@brandbar.be\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"no\", \"name\": \"Brandbar\", \"opening_hours\": \"Tu 10:00-15:00; We-Fr 08:00-15:00\", \"outdoor_seating\": \"yes\", \"payment:mastercard\": \"yes\", \"payment:visa\": \"yes\", \"phone\": \"+32 485 84 29 73\", \"smoking\": \"outside\", \"website\": \"https://www.brandbar.be/\"}",
+    "lat": 51.2292264,
+    "lon": 4.4198956
+  },
+  {
+    "id": 6154791332,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"34\", \"addr:postcode\": \"2000\", \"addr:street\": \"Oudevaartplaats\", \"alt_name\": \"Bar Trattoria Altamura's Love\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/AltamurasLove\", \"cuisine\": \"italian\", \"email\": \"altamuraslove@yahoo.com\", \"name\": \"Altamura's Love\", \"old_name\": \"Bamboo\", \"website\": \"https://altamuraslove.be/\"}",
+    "lat": 51.2142527,
+    "lon": 4.4088982
+  },
+  {
+    "id": 6176652009,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"brand\": \"Starbucks\", \"brand:wikidata\": \"Q37158\", \"brand:wikipedia\": \"en:Starbucks\", \"changing_table\": \"no\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0.0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0.0\", \"entrance:width\": \"0.82\", \"name\": \"Starbucks\", \"official_name\": \"Starbucks Coffee\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"toilets:wheelchair:door_width\": \"0.92\", \"toilets:wheelchair:space_side\": \"1.05\", \"website\": \"https://www.starbucks.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2197316,
+    "lon": 4.400909
+  },
+  {
+    "id": 6205908274,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"cake\", \"email\": \"info@popoff.restaurant\", \"entrance:kerb:height\": \"0.12\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"Popoff\", \"opening_hours\": \"Fr 18:00-22:00; Sa-Su 12:00-22:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 232 00 38\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2202934,
+    "lon": 4.3995386
+  },
+  {
+    "id": 6222396043,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Bro nero\"}",
+    "lat": 51.2197573,
+    "lon": 4.4001756
+  },
+  {
+    "id": 6222396051,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2023-11-12\", \"level\": \"0\", \"name\": \"Belmondo\", \"outdoor_seating\": \"yes\", \"toilets\": \"yes\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2190651,
+    "lon": 4.4005513
+  },
+  {
+    "id": 6237548284,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Bootje bier\"}",
+    "lat": 51.2192765,
+    "lon": 4.3991014
+  },
+  {
+    "id": 6240417835,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2025-03-29\", \"name\": \"De Zoete Verleiding\", \"outdoor_seating\": \"yes\", \"website\": \"http://www.dezoeteverleiding.be\"}",
+    "lat": 51.219768,
+    "lon": 4.3976945
+  },
+  {
+    "id": 6253923714,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"12\", \"addr:street\": \"Beukenlaan\", \"amenity\": \"cafe\", \"brand\": \"Murni\", \"email\": \"wilrijk@murni.be\", \"indoor_seating\": \"yes\", \"name\": \"Murni Wilrijk\", \"note\": \"website shows different opening hours Mo-Fr 07:30-22:00;Sa-Su 08:30-22:00\", \"opening_hours\": \"Mo-Su 07:00-22:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 246 60 66\", \"takeaway\": \"yes\", \"website\": \"https://www.murni.be/\"}",
+    "lat": 51.1828859,
+    "lon": 4.4068012
+  },
+  {
+    "id": 6262551128,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Akuakate\", \"website\": \"https://www.akuakate.com\"}",
+    "lat": 51.2203668,
+    "lon": 4.3967865
+  },
+  {
+    "id": 6284526662,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"check_date\": \"2024-02-10\", \"entrance:kerb:height\": \"0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.7\", \"name\": \"Ernest\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.ernestbistro.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2191731,
+    "lon": 4.3975962
+  },
+  {
+    "id": 6289501691,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:ramp\": \"no\", \"name\": \"Mitico\"}",
+    "lat": 51.2175538,
+    "lon": 4.396003
+  },
+  {
+    "id": 6296383781,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"47\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"cafe\", \"email\": \"moments1@skynet.be\", \"level\": \"2\", \"name\": \"Moments\", \"opening_hours\": \"Tu-Sa 11:00-18:00; Mo,Su off\", \"phone\": \"+32 3 233 60 76\", \"website\": \"https://www.moments.be\"}",
+    "lat": 51.2183086,
+    "lon": 4.4084207
+  },
+  {
+    "id": 6296388368,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"indoor_seating\": \"yes\", \"name\": \"Take 5 minutes Paris\", \"opening_hours\": \"Th-Su 11:30-19:30\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2159708,
+    "lon": 4.3948498
+  },
+  {
+    "id": 6298603466,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"sandwich\", \"entrance:kerb:height\": \"0.04\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.75\", \"name\": \"De Kleine Matthias\", \"opening_hours\": \"Mo-Fr 10:30-16:00; Sa 08:30-16:00\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:accessible_via\": \"ground floor\", \"website\": \"https://www.kleinematthias.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2128651,
+    "lon": 4.3926127
+  },
+  {
+    "id": 6302208727,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-01-17\", \"name\": \"Kloonies\"}",
+    "lat": 51.2126605,
+    "lon": 4.3942398
+  },
+  {
+    "id": 6302208730,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"sandwich\", \"entrance:kerb:height\": \"0.1\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.93\", \"name\": \"Vers Zuid\", \"shop\": \"greengrocer\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.verszuid.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.212537,
+    "lon": 4.3942419
+  },
+  {
+    "id": 6312724304,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Cozy Corner\"}",
+    "lat": 51.217362,
+    "lon": 4.3963312
+  },
+  {
+    "id": 6329631330,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-01-20\", \"facebook\": \"https://www.facebook.com/goodiefoodieantwerp\", \"name\": \"Goodie Foodie\"}",
+    "lat": 51.2183914,
+    "lon": 4.3993453
+  },
+  {
+    "id": 6336279785,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Mjams\", \"website\": \"http://www.mjams.be\"}",
+    "lat": 51.2180396,
+    "lon": 4.398327
+  },
+  {
+    "id": 6388582524,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"bubble_tea\", \"entrance:kerb:height\": \"0.01\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.78\", \"name\": \"Ice Pearls by Philip's Biscuits\", \"opening_hours\": \"Jan-Nov Mo-Sa 10:00-18:00; Jan-Nov PH off; Dec Mo-Sa 10:00-18:00; Dec Su 12:00-18:00; Dec PH off\", \"toilets:wheelchair\": \"no\", \"website\": \"http://www.justashoe.be\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2168551,
+    "lon": 4.4044279
+  },
+  {
+    "id": 6388925389,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0.6\", \"entrance:step_count\": \"3\", \"entrance:width\": \"1.1\", \"name\": \"Charlie's\"}",
+    "lat": 51.2103074,
+    "lon": 4.3947675
+  },
+  {
+    "id": 6426537695,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"20\", \"addr:postcode\": \"2000\", \"addr:street\": \"Everdijstraat\", \"amenity\": \"cafe\", \"name\": \"Local Store\", \"website\": \"https://local-store.be\"}",
+    "lat": 51.2164091,
+    "lon": 4.4031884
+  },
+  {
+    "id": 6432685616,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Amici - Coffee & Books\"}",
+    "lat": 51.2169194,
+    "lon": 4.4011101
+  },
+  {
+    "id": 6449882319,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"21\", \"addr:postcode\": \"2000\", \"addr:street\": \"Groenplaats\", \"amenity\": \"cafe\", \"name\": \"De Plek\", \"opening_hours\": \"Tu off; Mo,We,Th,Fr 10:30-16:30; Sa 10:30-15:30; Su 11:00-17:00\", \"operator\": \"met Sense\", \"url\": \"http://www.metsense.be\"}",
+    "lat": 51.2199687,
+    "lon": 4.4016123
+  },
+  {
+    "id": 6468349180,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"level\": \"0.1\", \"name\": \"Antoon Van Dyck\"}",
+    "lat": 51.2176244,
+    "lon": 4.4109605
+  },
+  {
+    "id": 6483544433,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"471\", \"addr:postcode\": \"2180\", \"addr:street\": \"Kapelsesteenweg\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/komontbijtenenlunchen\", \"email\": \"bvbakom@gmail.com\", \"name\": \"Kom\", \"opening_hours\": \"Mo-Fr 08:00-16:00; Sa 09:00-16:00; Su,PH off\", \"phone\": \"+32 3 283 03 33\", \"website\": \"http://www.komkom.be\"}",
+    "lat": 51.285516,
+    "lon": 4.4484936
+  },
+  {
+    "id": 6498468761,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"indoor_seating\": \"yes\", \"name\": \"Matterhorn\", \"note\": \"Naam is niet op de gevel te zien\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2163258,
+    "lon": 4.4047755
+  },
+  {
+    "id": 6516079368,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Graanmarkt\", \"amenity\": \"cafe\", \"check_date\": \"2023-11-11\", \"cuisine\": \"coffee_shop;bagel\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.9\", \"name\": \"Wasbar\", \"opening_hours\": \"Mo-Su 09:00-21:00\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 3 434 92 48\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.wasbar.be/\", \"wheelchair\": \"limited\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2161158,
+    "lon": 4.4090818
+  },
+  {
+    "id": 6578967739,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Ankerrui\", \"amenity\": \"cafe\", \"check_date\": \"2025-02-25\", \"check_date:diet:vegetarian\": \"2025-02-25\", \"diet:vegetarian\": \"yes\", \"email\": \"info@kolonelreede.be\", \"name\": \"Kolonel & Reede\", \"opening_hours\": \"Mo,Tu 08:00-17:00; Th-Fr 08:00-17:00; Sa 09:00-17:00; Su 09:00-16:00; We off\", \"outdoor_seating\": \"yes\", \"website\": \"https://kolonelcoffee.be/kolonel-reede\"}",
+    "lat": 51.2274315,
+    "lon": 4.411422
+  },
+  {
+    "id": 6593150825,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"41\", \"addr:postcode\": \"2060\", \"addr:street\": \"Cassiersstraat\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/Espigueiro-cassierstraat-41-2060-Antwerpen-827501157414135/\", \"cuisine\": \"portuguese\", \"name\": \"Espigueiro\"}",
+    "lat": 51.2272499,
+    "lon": 4.4173906
+  },
+  {
+    "id": 6604992780,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"43\", \"addr:street\": \"De Keyserlei\", \"amenity\": \"cafe\", \"brand\": \"Paul\", \"brand:wikidata\": \"Q3370417\", \"brand:wikipedia\": \"en:Paul (bakery)\", \"entrance:kerb:height\": \"0.0\", \"entrance:step_count\": \"0.0\", \"entrance:width\": \"0.78\", \"indoor_seating\": \"yes\", \"name\": \"Paul\", \"outdoor_seating\": \"yes\", \"shop\": \"bakery\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2176548,
+    "lon": 4.4190326
+  },
+  {
+    "id": 6610901885,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.14\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.9\", \"name\": \"Koffieklap\", \"outdoor_seating\": \"yes\", \"ramp:wheelchair\": \"yes\", \"website\": \"https://koffieklap.be\"}",
+    "lat": 51.224432,
+    "lon": 4.4042841
+  },
+  {
+    "id": 6648041310,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"117\", \"addr:postcode\": \"2000\", \"addr:street\": \"Paardenmarkt\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"name\": \"Koffie Dealers\", \"opening_hours\": \"Mo,We-Fr 07:00-17:00; Sa-Su 09:00-18:00\", \"website\": \"https://www.instagram.com/koffiedealers/\"}",
+    "lat": 51.224822,
+    "lon": 4.4141371
+  },
+  {
+    "id": 6655019462,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2245885,
+    "lon": 4.4182773
+  },
+  {
+    "id": 6708264173,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"delivery\": \"yes\", \"name\": \"Snow Wok\", \"outdoor_seating\": \"yes\", \"takeaway\": \"yes\", \"website\": \"https://snow-wok.eatbu.com\"}",
+    "lat": 51.2250078,
+    "lon": 4.4188727
+  },
+  {
+    "id": 6724799312,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Cafetaria Bilbao\", \"opening_hours\": \"Mo-Su 06:00-23:00\"}",
+    "lat": 51.2237204,
+    "lon": 4.4299026
+  },
+  {
+    "id": 6724799323,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Club Riad\"}",
+    "lat": 51.2236604,
+    "lon": 4.4288093
+  },
+  {
+    "id": 6727682428,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Florido\"}",
+    "lat": 51.2241261,
+    "lon": 4.4315455
+  },
+  {
+    "id": 6727682440,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"club samen zijn\"}",
+    "lat": 51.2238663,
+    "lon": 4.4304813
+  },
+  {
+    "id": 6727682444,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Theehuis El manar\", \"opening_hours\": \"Mo-Su 08:00-01:00\"}",
+    "lat": 51.2238042,
+    "lon": 4.430234
+  },
+  {
+    "id": 6743458052,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2110758,
+    "lon": 4.3957247
+  },
+  {
+    "id": 6834052206,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Sazlik tearoom\"}",
+    "lat": 51.2236719,
+    "lon": 4.4241263
+  },
+  {
+    "id": 6835542586,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Alrafidain\"}",
+    "lat": 51.2234919,
+    "lon": 4.4247792
+  },
+  {
+    "id": 6839805369,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.86\", \"name\": \"Super 8\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2197714,
+    "lon": 4.4017329
+  },
+  {
+    "id": 6860642385,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"17\", \"addr:postcode\": \"2000\", \"addr:street\": \"Sint-Andriesplaats\", \"amenity\": \"cafe\", \"check_date\": \"2024-01-17\", \"internet_access\": \"yes\", \"name\": \"Beestenbos\", \"opening_hours\": \"Mo-Th 15:00-00:00; Fr 14:00-03:00; Sa 13:30-03:00; Su 15:00-21:00\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2151199,
+    "lon": 4.396938
+  },
+  {
+    "id": 6917721526,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.18\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Coffee & Vinyl\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.coffeeandvinyl.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2104357,
+    "lon": 4.395502
+  },
+  {
+    "id": 6949607987,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2177903,
+    "lon": 4.4265534
+  },
+  {
+    "id": 6960800019,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Cafe El Karam\"}",
+    "lat": 51.2169536,
+    "lon": 4.4292632
+  },
+  {
+    "id": 6974997918,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Caf\\u00e9 Terraza\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.214434,
+    "lon": 4.4359534
+  },
+  {
+    "id": 6977881010,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Delipain\"}",
+    "lat": 51.2138589,
+    "lon": 4.4392147
+  },
+  {
+    "id": 6977881016,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Thee salon Taw Am\"}",
+    "lat": 51.2141098,
+    "lon": 4.4376811
+  },
+  {
+    "id": 6997352300,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.2148009,
+    "lon": 4.4356938
+  },
+  {
+    "id": 7003089302,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Break & lunch\"}",
+    "lat": 51.2153921,
+    "lon": 4.4332262
+  },
+  {
+    "id": 7003089309,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Pura Vida Foodbar\", \"website\": \"https://www.puravidafoodbar.be\"}",
+    "lat": 51.2153585,
+    "lon": 4.4356298
+  },
+  {
+    "id": 7003089317,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Tropicana\"}",
+    "lat": 51.2151451,
+    "lon": 4.4355081
+  },
+  {
+    "id": 7005616466,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2140\", \"amenity\": \"cafe\", \"level\": \"0\", \"name\": \"september. Lokaal\", \"name:de\": \"Briquet\", \"name:en\": \"Briquet\", \"name:fr\": \"Briquet\", \"name:nl\": \"Briquet\", \"opening_hours\": \"Tu-Fr 17:30-23:00; Sa 12:00-00:00\", \"phone\": \"+32 471 92 28 71\", \"website\": \"https://www.briquetantwerp.be/\"}",
+    "lat": 51.2165323,
+    "lon": 4.4378374
+  },
+  {
+    "id": 7005616470,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Cappuccino Food en Drinks\"}",
+    "lat": 51.2138827,
+    "lon": 4.4451948
+  },
+  {
+    "id": 7005616481,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Mokkakapot\", \"website\": \"https://www.mokkakapot.be\"}",
+    "lat": 51.2133865,
+    "lon": 4.4329442
+  },
+  {
+    "id": 7005714198,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Zagoura\"}",
+    "lat": 51.2157986,
+    "lon": 4.4320369
+  },
+  {
+    "id": 7018065119,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Rolling de cafe\"}",
+    "lat": 51.2205728,
+    "lon": 4.4196307
+  },
+  {
+    "id": 7018065130,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Astrid cafe\"}",
+    "lat": 51.219224,
+    "lon": 4.4204181
+  },
+  {
+    "id": 7124659487,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2018\", \"amenity\": \"cafe\", \"name\": \"Starfish & Coffee\", \"opening_hours\": \"Tu-Fr 11:00-16:00\"}",
+    "lat": 51.2068372,
+    "lon": 4.3982797
+  },
+  {
+    "id": 7234118949,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"7Even\"}",
+    "lat": 51.22676,
+    "lon": 4.404658
+  },
+  {
+    "id": 7236305124,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Club Roal\"}",
+    "lat": 51.2261796,
+    "lon": 4.4052492
+  },
+  {
+    "id": 7280009066,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"diet:vegan\": \"no\", \"diet:vegetarian\": \"yes\", \"name\": \"Lunch 103\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2055473,
+    "lon": 4.4181022
+  },
+  {
+    "id": 7368816613,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-02-02\", \"name\": \"Mocambo\"}",
+    "lat": 51.2181964,
+    "lon": 4.4204707
+  },
+  {
+    "id": 7404962392,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Bakersville's\"}",
+    "lat": 51.2097813,
+    "lon": 4.4321693
+  },
+  {
+    "id": 7415158878,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date:opening_hours\": \"2023-04-24\", \"indoor_seating\": \"yes\", \"name\": \"Brasserie Trianon\", \"opening_hours:signed\": \"no\", \"outdoor_seating\": \"yes\", \"website\": \"https://brasserie-trianon.be\"}",
+    "lat": 51.2192539,
+    "lon": 4.4138407
+  },
+  {
+    "id": 7427401560,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2023-04-10\", \"name\": \"Ren\\u00e9\"}",
+    "lat": 51.2178712,
+    "lon": 4.4147302
+  },
+  {
+    "id": 7427401562,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"delivery\": \"yes\", \"name\": \"Express Bar\", \"outdoor_seating\": \"yes\", \"website\": \"https://expressbar.be\"}",
+    "lat": 51.2199911,
+    "lon": 4.4157572
+  },
+  {
+    "id": 7629458165,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Borgerhout\", \"addr:housenumber\": \"25\", \"addr:postcode\": \"2140\", \"addr:street\": \"Luitenant Naeyaertplein\", \"amenity\": \"cafe\", \"bar\": \"yes\", \"capacity\": \"49\", \"internet_access\": \"yes\", \"internet_access:fee\": \"no\", \"internet_access:ssid\": \"PleinMagazijn\", \"name\": \"Plein Magazijn cafe\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2096119,
+    "lon": 4.4393867
+  },
+  {
+    "id": 7638633185,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Ekeren (Antwerpen)\", \"addr:postcode\": \"2180\", \"addr:street\": \"Statiestraat\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"name\": \"Trac\\u00e9 cultuurstation\"}",
+    "lat": 51.2816021,
+    "lon": 4.4341107
+  },
+  {
+    "id": 7652497503,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-02-10\", \"entrance:kerb:height\": \"0.06\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.87\", \"name\": \"Pur Sang\", \"outdoor_seating\": \"yes\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2096089,
+    "lon": 4.4024351
+  },
+  {
+    "id": 7652497508,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"check_date\": \"2024-02-10\", \"cuisine\": \"sandwich\", \"delivery\": \"yes\", \"entrance:kerb:height\": \"0.31\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"2\", \"entrance:width\": \"0.78\", \"name\": \"Karina Broodjeshuis\", \"takeaway\": \"yes\", \"website\": \"https://karinabroodjeshuis.eatbu.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2094216,
+    "lon": 4.4025419
+  },
+  {
+    "id": 7656121404,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-02-17\", \"name\": \"Brooddoos\", \"takeaway\": \"yes\"}",
+    "lat": 51.2104757,
+    "lon": 4.4019355
+  },
+  {
+    "id": 7660431855,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-02-10\", \"name\": \"Lunch & Brunch\", \"website\": \"https://www.lunch-brunch.be\"}",
+    "lat": 51.211959,
+    "lon": 4.4011127
+  },
+  {
+    "id": 7694753786,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Joe & the juice\"}",
+    "lat": 51.2111141,
+    "lon": 4.3957177
+  },
+  {
+    "id": 7694781885,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.211113,
+    "lon": 4.3956719
+  },
+  {
+    "id": 8106195237,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"395\", \"addr:postcode\": \"2600\", \"addr:street\": \"Grotesteenweg\", \"amenity\": \"cafe\", \"check_date\": \"2025-04-05\", \"name\": \"caf\\u00e9 Pulhof\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.1851229,
+    "lon": 4.4298826
+  },
+  {
+    "id": 8151821146,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"2\", \"addr:postcode\": \"2030\", \"addr:street\": \"Dublinstraat\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/ChezVeke/\", \"cuisine\": \"sandwich\", \"email\": \"chezveke@gmail.com\", \"name\": \"Chez Ve'ke\", \"opening_hours\": \"Tu-Fr 08:00-17:00; Sa,Su 09:00-15:00; Mo off\", \"phone\": \"+32 488 47 06 85\", \"takeaway\": \"yes\", \"url\": \"https://chezveke.eatbu.com\"}",
+    "lat": 51.2571126,
+    "lon": 4.4220735
+  },
+  {
+    "id": 8419353422,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Melao Latin dance cafe\"}",
+    "lat": 51.2089184,
+    "lon": 4.4087094
+  },
+  {
+    "id": 8443166148,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2023-04-08\", \"name\": \"Art Bar\", \"opening_hours\": \"We,Su 16:00-22:00; Th-Sa 16:00-23:00\", \"website\": \"https://www.art-bar.be\"}",
+    "lat": 51.206516,
+    "lon": 4.4101962
+  },
+  {
+    "id": 9379359818,
+    "type": "node",
+    "tags": "{\"addr:postcode\": \"2000\", \"amenity\": \"cafe\", \"check_date\": \"2024-02-15\", \"name\": \"Antoine\", \"opening_hours\": \"Mo-Sa 09:00-19:00\"}",
+    "lat": 51.2158148,
+    "lon": 4.4017732
+  },
+  {
+    "id": 9503577291,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"15\", \"addr:postcode\": \"2000\", \"addr:street\": \"Jos Smolderenstraat\", \"amenity\": \"cafe\", \"name\": \"Barchel\", \"website\": \"https://barchel-antwerp.com/\"}",
+    "lat": 51.2064996,
+    "lon": 4.3846215
+  },
+  {
+    "id": 9605995334,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"13\", \"addr:postcode\": \"2060\", \"addr:street\": \"Pijlstraat\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"diet:non-vegetarian\": \"yes\", \"diet:vegan\": \"yes\", \"diet:vegetarian\": \"yes\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"level\": \"0\", \"name\": \"Cornichon\", \"opening_hours\": \"Mo,Tu,Th,Fr 09:00-18:30; Sa,Su 10:00-17:30\", \"outdoor_seating\": \"yes\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:debit_cards\": \"yes\", \"payment:maestro\": \"yes\", \"takeaway\": \"yes\", \"toilets\": \"yes\", \"website\": \"https://cornichonantwerp.be/\", \"wheelchair\": \"limited\"}",
+    "lat": 51.2214435,
+    "lon": 4.4193869
+  },
+  {
+    "id": 9702225837,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"82\", \"addr:postcode\": \"2000\", \"addr:street\": \"Amerikalei\", \"amenity\": \"cafe\", \"contact:email\": \"info@andy-roasters.be\", \"contact:facebook\": \"https://www.facebook.com/Andy-Roasters-112493767111927/\", \"contact:instagram\": \"https://www.instagram.com/andyroasters/\", \"contact:phone\": \"+32 466 10 38 33\", \"contact:website\": \"https://www.andy-roasters.be/\", \"cuisine\": \"coffee_shop\", \"name\": \"Andy Roasters\", \"opening_hours\": \"Mo,Tu off; We-Fr 07:30-16:00; Sa-Su 08:30-16:00\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2076691,
+    "lon": 4.3976935
+  },
+  {
+    "id": 9886718317,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name:ar\": \"\\u0645\\u0642\\u0647\\u0649 \\u0627\\u0644\\u0645\\u0634\\u0631\\u0628\\u064a\\u0629\"}",
+    "lat": 51.2167161,
+    "lon": 4.4295857
+  },
+  {
+    "id": 9933415754,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"email\": \"info@pinkvelvet.be\", \"name\": \"Pink Velvet\", \"opening_hours\": \"Tu-Fr 10:00-19:00; Sa,Su 10:00-22:00\", \"phone\": \"+32 487 98 71 01\", \"website\": \"http://www.pinkvelvet.be\"}",
+    "lat": 51.2301108,
+    "lon": 4.4052105
+  },
+  {
+    "id": 9941138704,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\"}",
+    "lat": 51.1648221,
+    "lon": 4.4083959
+  },
+  {
+    "id": 10052289893,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"50-52\", \"addr:postcode\": \"2100\", \"addr:street\": \"Frank Craeybeckxlaan\", \"amenity\": \"cafe\", \"contact:facebook\": \"https://www.facebook.com/groups/380958726577206\", \"name\": \"New Arena\", \"opening_hours\": \"Mo off; Tu-Fr 10:00-00:00; Sa,Su 11:00-00:00\", \"phone\": \"+32 492 54 50 62\", \"website\": \"https://www.newarena.be/\"}",
+    "lat": 51.2243193,
+    "lon": 4.459218
+  },
+  {
+    "id": 10138003174,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"80\", \"addr:street\": \"Jan Moorkensstraat\", \"amenity\": \"cafe\", \"bar\": \"yes\", \"check_date\": \"2023-11-10\", \"diet:vegetarian\": \"yes\", \"drive_through\": \"no\", \"highchair\": \"yes\", \"level\": \"0\", \"name\": \"Alpheus\", \"opening_hours\": \"Mo-Fr 11:30-21:30; Sa-Su 17:30-21:30\", \"outdoor_seating\": \"yes\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"payment:credit_cards\": \"yes\", \"payment:debit_cards\": \"yes\", \"phone\": \"+32 32307620\", \"source\": \"survey\", \"toilets\": \"yes\", \"website\": \"https://www.alpheusbistro.be\", \"wheelchair\": \"yes\"}",
+    "lat": 51.1887896,
+    "lon": 4.4331766
+  },
+  {
+    "id": 10657138269,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Tartoer\", \"opening_hours\": \"Mo-Su,PH 10:00-18:00\", \"website\": \"https://tartoer.be\"}",
+    "lat": 51.2214799,
+    "lon": 4.4023482
+  },
+  {
+    "id": 10657238701,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"changing_table:adult\": \"no\", \"entrance:kerb:height\": \"0.02\", \"entrance:step_count\": \"1\", \"entrance:width\": \"0.7\", \"name\": \"Garden of flavours\", \"ramp:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2218043,
+    "lon": 4.4024936
+  },
+  {
+    "id": 10657268989,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Tartoer\", \"outdoor_seating\": \"yes\"}",
+    "lat": 51.2216246,
+    "lon": 4.4134479
+  },
+  {
+    "id": 10704063436,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"17\", \"addr:postcode\": \"2000\", \"addr:street\": \"Leysstraat\", \"amenity\": \"cafe\", \"cuisine\": \"bubble_tea\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"1.72\", \"indoor_seating\": \"yes\", \"name\": \"Bubble Bar\", \"outdoor_seating\": \"no\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://bubble-bar.com\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2184204,
+    "lon": 4.4137183
+  },
+  {
+    "id": 10709348436,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"My TEA\"}",
+    "lat": 51.2175606,
+    "lon": 4.411766
+  },
+  {
+    "id": 10728216943,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"22b\", \"addr:street\": \"Sint-Vincentiusstraat\", \"amenity\": \"cafe\", \"entrance:kerb:height\": \"0.0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.86\", \"name\": \"22b\", \"toilets:wheelchair\": \"yes\", \"toilets:wheelchair:door_width\": \"0.92\", \"toilets:wheelchair:level\": \"ground_floor\", \"toilets:wheelchair:space_side\": \"1.2\", \"website\": \"https://22b.be/food-drinks-catering/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2049629,
+    "lon": 4.4134425
+  },
+  {
+    "id": 10853183119,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"87\", \"addr:street\": \"Kloosterstraat\", \"amenity\": \"cafe\", \"email\": \"info@sunhouse-antwerp.com\", \"name\": \"Sunhouse\", \"opening_hours\": \"We-Fr 08:00-16:00; Sa,Su 09:00-18:00\", \"opening_hours:kitchen\": \"We-Fr 09:00-03:00\"}",
+    "lat": 51.2149336,
+    "lon": 4.3945413
+  },
+  {
+    "id": 10929235709,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2000\", \"addr:street\": \"Meir\", \"amenity\": \"cafe\", \"branch\": \"Antwerpen\", \"brand\": \"IzyCoffee\", \"brand:wikidata\": \"Q124358963\", \"cuisine\": \"coffee_shop\", \"internet_access\": \"wlan\", \"internet_access:fee\": \"customers\", \"name\": \"IzyCoffee\", \"opening_hours\": \"Mo-Su,PH 08:00-18:00\", \"payment:cash\": \"yes\", \"payment:contactless\": \"yes\", \"takeaway\": \"yes\", \"toilets\": \"yes\", \"website\": \"https://www.izycoffee.be/locations\", \"website:menu\": \"https://www.izycoffee.be/koffiekaart\"}",
+    "lat": 51.2182132,
+    "lon": 4.4051158
+  },
+  {
+    "id": 10933962222,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"21\", \"addr:postcode\": \"2000\", \"addr:street\": \"Schoenmarkt\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"email\": \"info@kafe\\u00efno.be\", \"entrance:kerb:height\": \"0\", \"entrance:step_count\": \"0\", \"entrance:width\": \"0.77\", \"name\": \"Kafe\\u00efno\", \"opening_hours\": \"Mo-Sa 07:00-19:00; Su 09:00-19:00\", \"phone\": \"+32 471 44 30 16\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.kafe\\u00efno.be/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.2185117,
+    "lon": 4.4024199
+  },
+  {
+    "id": 10980224478,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"2\", \"addr:postcode\": \"2600\", \"addr:street\": \"Waterloostraat\", \"amenity\": \"cafe\", \"name\": \"Cultureel Consulaat\", \"outdoor_seating\": \"yes\", \"website\": \"https://www.cultureelconsulaat.eu/\"}",
+    "lat": 51.2033521,
+    "lon": 4.4310072
+  },
+  {
+    "id": 10980797792,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Tisane\"}",
+    "lat": 51.199647,
+    "lon": 4.3968074
+  },
+  {
+    "id": 11055776305,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Jeugdcentrum Den Eglantier\"}",
+    "lat": 51.1949909,
+    "lon": 4.4439159
+  },
+  {
+    "id": 11083488535,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Berchem\", \"addr:housenumber\": \"1\", \"addr:postcode\": \"2600\", \"addr:street\": \"Burgemeester E. Ryckaertsplein\", \"amenity\": \"cafe\", \"brand\": \"Starbucks\", \"brand:wikidata\": \"Q37158\", \"changing_table\": \"no\", \"cuisine\": \"coffee_shop\", \"entrance:kerb:height\": \"0.0\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"0.0\", \"entrance:width\": \"0.82\", \"name\": \"Starbucks\", \"official_name\": \"Starbucks Coffee\", \"opening_hours\": \"Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-19:00\", \"takeaway\": \"yes\", \"toilets:wheelchair\": \"no\", \"website\": \"https://www.starbucks.com/\", \"wheelchair:turning_circle\": \"yes\"}",
+    "lat": 51.1996857,
+    "lon": 4.4316008
+  },
+  {
+    "id": 11085111404,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"5\", \"addr:postcode\": \"2000\", \"addr:street\": \"Geefsstraat\", \"amenity\": \"cafe\", \"cuisine\": \"winebar;bakery;caf\\u00e9\", \"internet_access\": \"yes\", \"internet_access:fee\": \"no\", \"mobile\": \"+32 468 22 12 51\", \"name\": \"Winebar HET ARCHIEF\", \"opening_hours\": \"Fr-Su 12:00-20:00\", \"outdoor_seating\": \"yes\", \"website\": \"https://www.inhetarchief.be\"}",
+    "lat": 51.2177234,
+    "lon": 4.4024894
+  },
+  {
+    "id": 11248201837,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"changing_table\": \"no\", \"entrance:kerb:height\": \"0.03\", \"entrance:ramp\": \"no\", \"entrance:step_count\": \"1\", \"entrance:width\": \"1.04\", \"name\": \"Pampale\", \"toilets:wheelchair\": \"no\", \"wheelchair:turning_circle\": \"no\"}",
+    "lat": 51.2166768,
+    "lon": 4.4093057
+  },
+  {
+    "id": 11335477172,
+    "type": "node",
+    "tags": "{\"addr:floor\": \"1\", \"addr:housenumber\": \"37A\", \"addr:street\": \"Boomgaardstraat\", \"amenity\": \"cafe\", \"check_date\": \"2023-11-09\", \"level\": \"0\", \"opening_hours\": \"Mo-Fr 10:00-17:00; Sa-Su 11:00-17:00\", \"wheelchair\": \"yes\"}",
+    "lat": 51.2001212,
+    "lon": 4.4198235
+  },
+  {
+    "id": 11338347466,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"138\", \"addr:street\": \"Statiestraat\", \"amenity\": \"cafe\", \"check_date\": \"2023-11-10\", \"name\": \"Maddy's Cafe\", \"opening_hours\": \"Mo-Th 09:00-01:00; Fr-Sa 09:00-03:00; Su 10:00-03:00\"}",
+    "lat": 51.1995332,
+    "lon": 4.4297076
+  },
+  {
+    "id": 11407079419,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"89\", \"addr:postcode\": \"2040\", \"addr:street\": \"Monnikenhofstraat\", \"alt_name\": \"Celle's\", \"amenity\": \"cafe\", \"email\": \"info@cellesontbijtenlunch.be\", \"name\": \"Celle's ontbijt & lunch\", \"opening_hours\": \"Mo-Fr 08:00-15:30; Sa,Su off\", \"website\": \"https://cellesontbijtenlunch.be/\"}",
+    "lat": 51.3454179,
+    "lon": 4.3195818
+  },
+  {
+    "id": 11514335215,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"FUNK\", \"opening_hours\": \"We-Su 08:00-18:00\"}",
+    "lat": 51.2122328,
+    "lon": 4.3966735
+  },
+  {
+    "id": 11541129958,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Caf\\u00e8 Curieus\"}",
+    "lat": 51.1930203,
+    "lon": 4.4184338
+  },
+  {
+    "id": 11677063112,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"diet:vegan\": \"only\", \"diet:vegetarian\": \"only\", \"email\": \"cafe@momu.be\", \"name\": \"MoMu Caf\\u00e9\", \"phone\": \"+32 3 470 27 94\", \"website\": \"https://www.momu.be/en/cafe\"}",
+    "lat": 51.2172387,
+    "lon": 4.399718
+  },
+  {
+    "id": 11725715195,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"level\": \"0\", \"name\": \"Capri Coffee\", \"opening_hours\": \"Mo-Su 06:00-20:00\"}",
+    "lat": 51.2160802,
+    "lon": 4.4206501
+  },
+  {
+    "id": 11832070567,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"check_date\": \"2024-04-20\", \"name\": \"Bloemberen\"}",
+    "lat": 51.1943363,
+    "lon": 4.4577341
+  },
+  {
+    "id": 12118235876,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"name\": \"Polly\", \"opening_hours\": \"We-Fr 08:00-16:00; Sa,Su 09:00-17:00\"}",
+    "lat": 51.2055961,
+    "lon": 4.425879
+  },
+  {
+    "id": 12190095922,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"40\", \"addr:street\": \"Stadionstraat\", \"amenity\": \"cafe\", \"name\": \"De Stadion\"}",
+    "lat": 51.1849292,
+    "lon": 4.3839432
+  },
+  {
+    "id": 12205959276,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Wilrijk\", \"addr:housenumber\": \"3\", \"addr:street\": \"Doornstraat\", \"addr:unit\": \"a\", \"amenity\": \"cafe\", \"name\": \"La cantina\", \"opening_hours\": \"Mo-Fr 08:30-23:30, Sa 10:00-23:30\", \"outdoor_seating\": \"yes\", \"phone\": \"+32 495 53 95 20\", \"website\": \"https://www.lacantina2660.be/\"}",
+    "lat": 51.1683694,
+    "lon": 4.3960015
+  },
+  {
+    "id": 12346611466,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Antwerpen\", \"addr:housenumber\": \"85\", \"addr:postcode\": \"2000\", \"addr:street\": \"Amerikalei\", \"amenity\": \"cafe\", \"name\": \"Cafe De Paris\", \"phone\": \"+3232372243\", \"website\": \"https://www.cafedeparisantwerp.com/\"}",
+    "lat": 51.20698,
+    "lon": 4.3976899
+  },
+  {
+    "id": 12412443584,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Foodmaker\", \"opening_hours\": \"Mo-Fr 10:30-22:00; Sa-Su 09:00-18:00\", \"phone\": \"+32 3 339 49 71\", \"website\": \"https://shops.foodmaker.be/nl/foodmaker-deurne\"}",
+    "lat": 51.2172757,
+    "lon": 4.4858307
+  },
+  {
+    "id": 12460718601,
+    "type": "node",
+    "tags": "{\"amenity\": \"cafe\", \"name\": \"Nordica 31\", \"website\": \"https://www.nordica31.be/\"}",
+    "lat": 51.205251,
+    "lon": 4.3949768
+  },
+  {
+    "id": 12612864302,
+    "type": "node",
+    "tags": "{\"addr:housenumber\": \"59\", \"addr:street\": \"Prinsesstraat\", \"amenity\": \"cafe\", \"cuisine\": \"coffee_shop\", \"name\": \"Velka Koffie\", \"outdoor_seating\": \"no\"}",
+    "lat": 51.2207416,
+    "lon": 4.4100854
+  },
+  {
+    "id": 12645296721,
+    "type": "node",
+    "tags": "{\"addr:city\": \"Hoboken\", \"addr:housenumber\": \"36\", \"addr:postcode\": \"2660\", \"addr:street\": \"Berkenrodelei\", \"amenity\": \"cafe\", \"email\": \"hallo@bar-madam.be\", \"name\": \"Bar Madam\", \"opening_hours\": \"Tu-Sa 09:00-17:00\", \"outdoor_seating\": \"yes\", \"website\": \"https://www.bar-madam.be/\"}",
+    "lat": 51.1787189,
+    "lon": 4.3506435
+  }
+]
