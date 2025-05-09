@@ -10,7 +10,10 @@
             v-for="option in occupationOptions" 
             :key="option.value" 
             class="occupation-card"
-            :class="{ 'selected': selectedOccupation === option.value }"
+            :class="{ 
+              'selected': selectedOccupation === option.value,
+              'disabled': option.value !== 'student'
+            }"
           >
             <input
               type="radio"
@@ -18,9 +21,13 @@
               :value="option.value"
               required
               class="radio-input"
+              :disabled="option.value !== 'student'"
             />
             <div class="occupation-content">
-              <span class="occupation-title">{{ option.label }}</span>
+              <span class="occupation-title">
+                {{ option.label }}
+                <span v-if="option.value !== 'student'" class="coming-soon">(Coming Soon)</span>
+              </span>
               <span class="occupation-emoji">{{ option.emoji }}</span>
             </div>
           </label>
@@ -230,6 +237,24 @@ h3 {
 .occupation-card.selected {
   border: 2px solid #3B82F6;
   background-color: #F8FAFC;
+}
+
+.occupation-card.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+}
+
+.occupation-card.disabled:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+.coming-soon {
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
 }
 
 .radio-input {
