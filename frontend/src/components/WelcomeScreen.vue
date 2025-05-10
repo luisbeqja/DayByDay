@@ -31,14 +31,16 @@
       </div>
       
       <div class="button-container">
-        <button 
-          class="confirm-button" 
-          @click="$emit('start')"
-        >
-          {{ !isAudioAlreadyPlayed ? 'Click the bubble to hear Anty first!' : 
-             isAudioPlaying ? 'Please listen to Anty...' : 
-             'Start helping me!' }}
-        </button>
+      <button 
+        class="confirm-button" 
+        @click="$emit('start')"
+        :disabled="isAudioPlaying || !isAudioAlreadyPlayed"
+        :class="{ 'disabled': isAudioPlaying || !isAudioAlreadyPlayed }"
+      >
+        {{ !isAudioAlreadyPlayed ? 'Click the bubble to hear Anty first!' : 
+           isAudioPlaying ? 'Please listen to Anty...' : 
+           'Start helping me!' }}
+      </button>
       </div>
     </div>
   </div>
