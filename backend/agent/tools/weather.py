@@ -28,6 +28,7 @@ def get_city_name(latitude, longitude):
         return None
 
 def get_weather(latitude, longitude):
+    
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
         'lat': latitude,
@@ -54,7 +55,17 @@ def get_weather(latitude, longitude):
     else:
         print("Full API response:", data)
         return {"error": data.get("message", "Something went wrong, please try again.")}
+def get_weather_category(weather_json):
+    desc = weather_json['description'].lower()
 
+    if any(word in desc for word in ['sun', 'clear']):
+        return 'sunny'
+    elif any(word in desc for word in ['rain', 'drizzle', 'shower']):
+        return 'raining'
+    elif any(word in desc for word in ['cloud', 'overcast']):
+        return 'cloudy'
+    else:
+        return 'sunny'  # fallback default if not sure
 
 if __name__ == "__main__":
     # Actual implementation:
@@ -62,3 +73,4 @@ if __name__ == "__main__":
     longitude = 4.4025  # Example longitude for Antwerp
     weather_data = get_weather(latitude, longitude)
     print(weather_data)
+    print(get_weather_category(weather_data))
