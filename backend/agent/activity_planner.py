@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 from .tools.weather import get_weather
 import json
 from .tools.geosorting import main
+from .activity_history import ActivityHistory
 # Load environment variables
 load_dotenv()
 
@@ -73,6 +74,7 @@ class AntyAIActivityPlanner:
         self.system_prompt = AGENT_PROMPT
         self.current_time = datetime.now().strftime('%H:%M')
         self.antwerp_map_dataset = load_antwerp_map_dataset()
+        self.activity_history = ActivityHistory()
     
     async def select_dataset_to_use(self, activity_description: str):
         prompt = f"""
@@ -108,6 +110,9 @@ class AntyAIActivityPlanner:
             self.antwerp_map_dataset = main(dataset_result['dataset'])
             print("Updated map dataset:", self.antwerp_map_dataset)
             
+            # Get recent activities
+            recent_activities = self.activity_history.get_recent_activities(5)
+            
             # Construct the user prompt
             user_prompt = f"""
             these are the user preferences:
@@ -116,6 +121,12 @@ class AntyAIActivityPlanner:
             Current time: {self.current_time}
             Current weather: {self.weather}
             Antwerp map dataset: {self.antwerp_map_dataset}
+            
+            Recent activities:
+            {json.dumps(recent_activities, indent=2)}
+            
+            Please consider the user's recent activities when making recommendations.
+            Try to suggest something different from what they've done recently.
             
             # [OUTPUT FORMAT]
             You MUST return the following JSON format:

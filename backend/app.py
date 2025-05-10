@@ -8,6 +8,7 @@ from agent.speech.ElevenLabs import ElevenLabsAPI
 from agent.orchestrator import OrchestratorAgent, TaskType
 from io import BytesIO
 from asgiref.wsgi import WsgiToAsgi
+from agent.activity_history import ActivityHistory
 
 # Load environment variables
 load_dotenv()
@@ -77,6 +78,8 @@ user_preferences = load_preferences()
 
 # Initialize ElevenLabs API with development mode
 tts = ElevenLabsAPI()
+
+activity_history = ActivityHistory()
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -192,6 +195,21 @@ async def get_activity():
     activity_planner_result = await orchestrator.handle_activity_planning(daily_planner_result)
 
     return jsonify(activity_planner_result)
+
+@app.route('/api/agent/store-activity', methods=['POST'])
+async def store_activity():
+    try:
+        data = request.json
+        activity = data.get('activity')
+        details = data.get('details')
+        
+        if not activity or not details:
+            return jsonify({"error": "Missing activity or details"}), 400
+            
+        activity_history.add_activity(activity, details)
+        return jsonify({"status": "success"})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 # Convert Flask app to ASGI
 app = WsgiToAsgi(app)
