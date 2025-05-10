@@ -66,13 +66,14 @@ class AntyAIActivityPlanner:
         self.current_time = datetime.now().strftime('%H:%M')
         self.antwerp_map_dataset = load_antwerp_map_dataset()
         
-    async def generate_recommendations(self) -> List[Dict]:
+    async def generate_recommendations(self, activity_description: str) -> List[Dict]:
         """Generate personalized recommendations based on user preferences."""
         
         # Construct the user prompt
         user_prompt = f"""
         these are the user preferences:
 
+        Activity description: {activity_description}
         Current time: {self.current_time}
         Current weather: {self.weather}
         Antwerp map dataset: {self.antwerp_map_dataset}
@@ -119,4 +120,4 @@ class AntyAIActivityPlanner:
 if __name__ == "__main__":
     import asyncio
     planner = AntyAIActivityPlanner()
-    print(asyncio.run(planner.generate_recommendations()))
+    print(asyncio.run(planner.generate_recommendations("Enjoy a coffee at a local cafe")))
