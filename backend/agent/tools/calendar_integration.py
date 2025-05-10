@@ -3,8 +3,6 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
 from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
-from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 # Load environment variables
@@ -13,42 +11,26 @@ load_dotenv()
 # OAuth 2.0 Scopes (calendar read or read/write)
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
-# File to store access/refresh tokens
-TOKEN_FILE = 'data/calendar_tokens/token.json'
-
 
 def authenticate_calendar():
     creds = None
 
-    # Try to load existing token
-    if os.path.exists(TOKEN_FILE):
-        creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
+    # Create the flow using client ID/secret from .env
+    flow = InstalledAppFlow.from_client_config(
+        {
+            "installed": {
+                "client_id": os.getenv("GOOGLE_CLIENT_ID"),
+                "client_secret": os.getenv("GOOGLE_CLIENT_SECRET"),
+                "redirect_uris": ["urn:ietf:wg:oauth:2.0:oob", "http://localhost"],  # noqa
+                "auth_uri": "https://accounts.google.com/o/oauth2/auth",  # noqa
+                "token_uri": "https://oauth2.googleapis.com/token"
+            }
+        },
+        scopes=SCOPES
+    )
 
-    # If no valid credentials, go through OAuth flow
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            # Create the flow using client ID/secret from .env
-            flow = InstalledAppFlow.from_client_config(
-                {
-                    "installed": {
-                        "client_id": os.getenv("GOOGLE_CLIENT_ID"),
-                        "client_secret": os.getenv("GOOGLE_CLIENT_SECRET"),
-                        "redirect_uris": ["urn:ietf:wg:oauth:2.0:oob", "http://localhost"],  # noqa
-                        "auth_uri": "https://accounts.google.com/o/oauth2/auth",  # noqa
-                        "token_uri": "https://oauth2.googleapis.com/token"
-                    }
-                },
-                scopes=SCOPES
-            )
-
-            # Open local server to get auth code
-            creds = flow.run_local_server(port=0)
-
-        # Save the credentials for future use
-        with open(TOKEN_FILE, 'w') as token:
-            token.write(creds.to_json())
+    # Open local server to get auth code
+    creds = flow.run_local_server(port=0)
 
     return creds
 
