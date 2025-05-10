@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 from dotenv import load_dotenv
 from .tools.weather import get_weather
-
+from .tools.calendar_integration import get_today_events
 latitude = 51.2194  # Example latitude for Antwerp
 longitude = 4.4025  # Example longitude for Antwerp
 
@@ -85,6 +85,7 @@ class AntyAIPlanner:
         self.system_prompt = AGENT_PROMPT
         self.aclient = AsyncOpenAI(api_key=self.api_key)
         self.weather = get_weather(latitude, longitude)
+        self.events = get_today_events()
 
     async def generate_recommendations(self, user_preferences: Dict) -> List[Dict]:
         """Generate personalized recommendations based on user preferences."""
@@ -108,7 +109,7 @@ class AntyAIPlanner:
         Preferred activity time: {user_preferences['preferredStartTime']} - {user_preferences['preferredEndTime']}
         Activity pace preference: {user_preferences['pace']}
         Weather: {self.weather}
-        
+        Events from the user's calendar: {self.events}
         # [OUTPUT FORMAT]
         You MUST return the following JSON format:
         {{

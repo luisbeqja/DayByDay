@@ -40,8 +40,8 @@ def get_today_events():
     service = build('calendar', 'v3', credentials=creds)
 
     now = datetime.utcnow()
-    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)  # Start of today  # noqa
-    today_end = today_start + timedelta(days=1)  # End of today (24 hours later)  # noqa
+    today_start = datetime(now.year, 5, 12, 0, 0, 0, 0)  # Start of 12 May
+    today_end = today_start + timedelta(days=1)  # End of 12 May (24 hours later)
 
     events_result = service.events().list(
         calendarId='primary',
