@@ -76,7 +76,7 @@ load_subscriptions()
 user_preferences = load_preferences()
 
 # Initialize ElevenLabs API with development mode
-tts = ElevenLabsAPI(dev_mode=True)
+tts = ElevenLabsAPI()
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -119,6 +119,24 @@ Let's make your everyday... a little more interesting. 🚲✨
         )
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/read-text', methods=['GET'])
+def read_text():
+    text = request.args.get('text')
+    # Generate audio
+    audio_data = tts.text_to_speech(text=text)
+        
+        # Create a BytesIO object
+    audio_buffer = BytesIO(audio_data)
+    audio_buffer.seek(0)
+        
+    return send_file(
+        audio_buffer,
+        mimetype='audio/mpeg',
+        as_attachment=False,
+        download_name='welcome.mp3'
+    )
 
 @app.route('/api/preferences', methods=['POST'])
 async def save_user_preferences():

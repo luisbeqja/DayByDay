@@ -2,36 +2,25 @@ import requests
 import os
 from typing import Optional
 from pathlib import Path
-import base64
 
 class ElevenLabsAPI:
-    def __init__(self, api_key: Optional[str] = None, dev_mode: bool = False):
+    def __init__(self, api_key: Optional[str] = None):
         """Initialize the ElevenLabs API client.
         
         Args:
             api_key (str, optional): The API key for ElevenLabs. 
                                    If not provided, will look for ELEVEN_LABS_API_KEY in environment variables.
-            dev_mode (bool): If True, uses mock responses instead of making API calls.
         """
-        self.dev_mode = dev_mode
-        if not dev_mode:
-            self.api_key = api_key or os.getenv('ELEVEN_LABS_API_KEY')
-            if not self.api_key:
-                raise ValueError("API key must be provided or set as ELEVEN_LABS_API_KEY environment variable")
-            
-            self.base_url = "https://api.elevenlabs.io/v1"
-            self.headers = {
-                "Accept": "application/json",
-                "xi-api-key": self.api_key,
-                "Content-Type": "application/json"
-            }
-
-    def _get_mock_audio(self) -> bytes:
-        """Generate a mock audio response for development mode.
-        Returns a short silent MP3 file."""
-        # This is a base64 encoded 1-second silent MP3 file
-        silent_mp3_base64 = "SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU4Ljc2LjEwMAAAAAAAAAAAAAAA//tQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWGluZwAAAA8AAAACAAADwAD///////////////////////////////////////////8AAAA8TEFNRTMuMTAwAQAAAAAAAAAAABSAJAJAQgAAgAAAA8D1f0bYAAAAAAAAAAAAAAAAAAAA"
-        return base64.b64decode(silent_mp3_base64)
+        self.api_key = api_key or os.getenv('ELEVEN_LABS_API_KEY')
+        if not self.api_key:
+            raise ValueError("API key must be provided or set as ELEVEN_LABS_API_KEY environment variable")
+        
+        self.base_url = "https://api.elevenlabs.io/v1"
+        self.headers = {
+            "Accept": "application/json",
+            "xi-api-key": self.api_key,
+            "Content-Type": "application/json"
+        }
 
     def text_to_speech(
         self,
@@ -51,14 +40,6 @@ class ElevenLabsAPI:
         Returns:
             bytes: The audio data if output_path is not provided
         """
-        if self.dev_mode:
-            print(f"[DEV MODE] Text to speech: {text}")
-            audio_data = self._get_mock_audio()
-            if output_path:
-                Path(output_path).write_bytes(audio_data)
-                return None
-            return audio_data
-
         url = f"{self.base_url}/text-to-speech/{voice_id}"
         
         data = {
@@ -83,15 +64,6 @@ class ElevenLabsAPI:
 
     def get_voice_settings(self, voice_id: str) -> dict:
         """Get the settings for a specific voice."""
-        if self.dev_mode:
-            print(f"[DEV MODE] Getting voice settings for: {voice_id}")
-            return {
-                "stability": 0.35,
-                "similarity_boost": 0.75,
-                "style": 0.85,
-                "use_speaker_boost": True
-            }
-
         response = requests.get(
             f"{self.base_url}/voices/{voice_id}/settings",
             headers=self.headers
@@ -101,22 +73,6 @@ class ElevenLabsAPI:
 
     def get_user_info(self) -> dict:
         """Get information about the user's subscription and quota."""
-        if self.dev_mode:
-            print("[DEV MODE] Getting user info")
-            return {
-                "character_count": 0,
-                "character_limit": 10000,
-                "can_extend_character_limit": True,
-                "available_models": ["eleven_monolingual_v1"],
-                "subscription": {
-                    "tier": "free",
-                    "character_count": 0,
-                    "character_limit": 10000,
-                    "can_extend_character_limit": True,
-                    "available_models": ["eleven_monolingual_v1"]
-                }
-            }
-
         response = requests.get(
             f"{self.base_url}/user/subscription",
             headers=self.headers

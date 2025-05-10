@@ -1,1 +1,1 @@
-{"occupation": "student", "schedule": {"workStartTime": "09:00", "workEndTime": "17:00", "breakTime": "12:00", "breakDuration": 60}, "interests": ["shopping", "food", "culture"], "pace": "moderate", "preferredStartTime": "18:00", "preferredEndTime": "21:00"}
+{"occupation": "student", "schedule": {"workStartTime": "09:00", "workEndTime": "17:00", "breakTime": "12:00", "breakDuration": 60}, "interests": ["culture", "nature", "shopping"], "pace": "moderate", "preferredStartTime": "18:00", "preferredEndTime": "21:00"}

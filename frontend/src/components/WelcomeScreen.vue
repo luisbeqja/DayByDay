@@ -115,12 +115,10 @@ const startTypingAnimation = async () => {
 const playWelcomeAudio = async () => {
   try {
     if (!audio.value) {
-      // Create a mock audio element with a short duration
-      audio.value = new Audio();
-      // Set a mock duration of 5 seconds
-      Object.defineProperty(audio.value, 'duration', { value: 5 });
-      
+      console.log("Playing welcome audio");
+      audio.value = new Audio('http://localhost:5000/api/welcome-audio');
       audio.value.addEventListener('play', () => {
+        console.log("Audio playing");
         isAudioPlaying.value = true;
         isSphereAnimated.value = true;
         startTypingAnimation();
@@ -137,14 +135,7 @@ const playWelcomeAudio = async () => {
     }
     
     if (!isAudioPlaying.value) {
-      // Simulate audio playback
       await audio.value.play();
-      // Automatically end the audio after 5 seconds
-      setTimeout(() => {
-        if (audio.value) {
-          audio.value.dispatchEvent(new Event('ended'));
-        }
-      }, 5000);
     } else {
       audio.value.pause();
       // Reset text when audio is paused
@@ -156,27 +147,6 @@ const playWelcomeAudio = async () => {
     console.error('Error playing audio:', error);
   }
 };
-
-onMounted(() => {
-  // Initialize audio without auto-playing
-  audio.value = new Audio();
-  Object.defineProperty(audio.value, 'duration', { value: 5 });
-  
-  audio.value.addEventListener('play', () => {
-    isAudioPlaying.value = true;
-    isSphereAnimated.value = true;
-    startTypingAnimation();
-  });
-  audio.value.addEventListener('pause', () => {
-    isAudioPlaying.value = false;
-    isSphereAnimated.value = false;
-  });
-  audio.value.addEventListener('ended', () => {
-    isAudioPlaying.value = false;
-    isSphereAnimated.value = false;
-    isAudioAlreadyPlayed.value = true;
-  });
-});
 </script>
 
 <style scoped>

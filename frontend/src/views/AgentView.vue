@@ -14,7 +14,10 @@
     </div>
     <div class="message-box">
       <div class="text-content">
-        <ActivityPlanner ref="activityPlannerRef" />
+        <ActivityPlanner 
+          ref="activityPlannerRef" 
+          @update:sphereAnimated="isSphereAnimated = $event"
+        />
       </div>
       
       <div class="button-container">
@@ -22,7 +25,7 @@
           class="confirm-button" 
           @click="handleContinue"
         >
-          Next Activity
+          Read Activity
         </button>
       </div>
     </div>
@@ -31,16 +34,14 @@
 
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { useRouter } from 'vue-router';
 import ActivityPlanner from '../components/ActivityPlanner.vue';
 
-const router = useRouter();
 const isSphereAnimated = ref(false);
 const activityPlannerRef = ref<InstanceType<typeof ActivityPlanner> | null>(null);
 
 const handleContinue = async () => {
   if (activityPlannerRef.value) {
-    await activityPlannerRef.value.fetchActivity();
+    await activityPlannerRef.value.playAudio();
   }
 };
 </script>
@@ -107,7 +108,6 @@ const handleContinue = async () => {
   overflow-y: auto;
   margin-bottom: 1rem;
   text-align: left;
-  padding: 0 1rem;
 }
 
 .button-container {
@@ -158,7 +158,6 @@ p.typing-text {
 }
 
 .confirm-button {
-  margin-top: 2rem;
   padding: 0.8rem 2rem;
   background-color: #333;
   color: white;
