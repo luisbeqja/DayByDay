@@ -7,7 +7,7 @@ from pywebpush import webpush, WebPushException
 from agent.speech.ElevenLabs import ElevenLabsAPI
 from agent.orchestrator import OrchestratorAgent, TaskType
 from io import BytesIO
-import asyncio
+from asgiref.wsgi import WsgiToAsgi
 
 # Load environment variables
 load_dotenv()
@@ -75,8 +75,8 @@ def save_preferences(preferences):
 load_subscriptions()
 user_preferences = load_preferences()
 
-# Initialize ElevenLabs API
-tts = ElevenLabsAPI()
+# Initialize ElevenLabs API with development mode
+tts = ElevenLabsAPI(dev_mode=True)
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -89,78 +89,6 @@ def get_info():
         "version": "1.0.0",
         "description": "A boilerplate for building Progressive Web Apps with Vue and Flask"
     })
-
-@app.route('/api/vapid-public-key', methods=['GET'])
-def get_vapid_public_key():
-    return jsonify({"publicKey": VAPID_PUBLIC_KEY})
-
-@app.route('/api/notifications/subscribe', methods=['POST'])
-def subscribe():
-    try:
-        subscription_info = request.json.get('subscription')
-        if not subscription_info:
-            return jsonify({"error": "No subscription data provided"}), 400
-        
-        # Check if subscription already exists
-        if subscription_info not in subscriptions:
-            subscriptions.append(subscription_info)
-            save_subscriptions()
-        
-        return jsonify({"success": True})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-@app.route('/api/notifications/unsubscribe', methods=['POST'])
-def unsubscribe():
-    try:
-        subscription_info = request.json.get('subscription')
-        if not subscription_info:
-            return jsonify({"error": "No subscription data provided"}), 400
-        
-        # Remove subscription if exists
-        if subscription_info in subscriptions:
-            subscriptions.remove(subscription_info)
-            save_subscriptions()
-        
-        return jsonify({"success": True})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-@app.route('/api/notifications/send', methods=['POST'])
-def send_notification():
-    try:
-        data = request.json
-        
-        if not data or not data.get('title') or not data.get('body'):
-            return jsonify({"error": "Missing required notification data"}), 400
-        
-        notification_data = {
-            "title": data.get('title'),
-            "body": data.get('body'),
-            "url": data.get('url', '/'),
-        }
-        
-        # Send to all subscriptions
-        for subscription in subscriptions:
-            try:
-                webpush(
-                    subscription_info=subscription,
-                    data=json.dumps(notification_data),
-                    vapid_private_key=VAPID_PRIVATE_KEY,
-                    vapid_claims=VAPID_CLAIMS
-                )
-            except WebPushException as e:
-                print(f"Web Push Exception: {e}")
-                # Remove expired subscriptions
-                if e.response and e.response.status_code == 410:
-                    subscriptions.remove(subscription)
-                    save_subscriptions()
-            except Exception as e:
-                print(f"Error sending notification: {e}")
-        
-        return jsonify({"success": True, "recipients": len(subscriptions)})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
 
 @app.route('/api/welcome-audio', methods=['GET'])
 def get_welcome_audio():
@@ -235,7 +163,20 @@ async def save_user_preferences():
 def get_user_preferences():
     return jsonify(user_preferences)
 
-# Add your API endpoints here
+
+@app.route('/api/agent/get-activity', methods=['GET'])
+async def get_activity():
+    daily_planner_result = await orchestrator.delegate_task(
+            TaskType.DAILY_PLANNER,
+            user_preferences=user_preferences
+        )
+    print(daily_planner_result)
+    activity_planner_result = await orchestrator.handle_activity_planning(daily_planner_result)
+
+    return jsonify(activity_planner_result)
+
+# Convert Flask app to ASGI
+app = WsgiToAsgi(app)
 
 if __name__ == '__main__':
     port = int(os.getenv('PORT', 5000))

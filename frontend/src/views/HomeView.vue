@@ -1,15 +1,16 @@
 <script setup lang="ts">
-import MainContent from '@/components/MainContent.vue'
+import { useRouter } from 'vue-router';
+import WelcomeScreen from '../components/WelcomeScreen.vue';
+
+const router = useRouter();
+
+const handleStart = () => {
+  router.push('/preferences');
+};
 </script>
 
 <template>
-  <main>
-    <div class="header">
-      <h1>Vue PWA Boilerplate</h1>
-      <p>A Progressive Web App built with Vue and Flask</p>
-    </div>
-    <MainContent />
-  </main>
+  <WelcomeScreen @start="handleStart" />
 </template>
 
 <style scoped>
@@ -27,6 +28,23 @@ h1 {
 
 p {
   color: #6c757d;
+  margin-bottom: 20px;
+}
+
+.start-button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.start-button:hover {
+  background: #45a049;
+  transform: translateY(-2px);
 }
 
 main {

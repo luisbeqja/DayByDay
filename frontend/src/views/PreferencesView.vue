@@ -28,7 +28,7 @@ const handlePreferencesSubmit = async (preferences: UserPreferences) => {
 
     const data = await response.json()
     if (data.success) {
-      router.push('/')
+      router.push('/agent')
     }
   } catch (error) {
     console.error('Error saving preferences:', error)

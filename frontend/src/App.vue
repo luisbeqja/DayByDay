@@ -1,62 +1,33 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import WelcomeScreen from './components/WelcomeScreen.vue';
-import PreferencesForm from './components/PreferencesForm.vue';
-import { mockActivities } from './data/mockActivities';
+import { useRouter } from 'vue-router';
 import type { UserPreferences, Activity } from './types';
 
-type Step = 'welcome' | 'preferences' | 'itinerary';
-const currentStep = ref<Step>('welcome');
+const router = useRouter();
 
-const handlePreferencesSubmit = (preferences: UserPreferences) => {
-  // In a real app, this would call an API to get personalized suggestions
-  // For now, we'll just filter the mock activities based on preferences
-  suggestedActivities.value = mockActivities
-    .filter(activity => {
-      // Filter by interests
-      if (!preferences.interests.includes(activity.category)) {
-        return false;
-      }
-      
-      // Filter by time of day based on schedule
-      const workStartHour = parseInt(preferences.schedule.workStartTime.split(':')[0]);
-      const workEndHour = parseInt(preferences.schedule.workEndTime.split(':')[0]);
-      const preferredStartHour = parseInt(preferences.preferredStartTime.split(':')[0]);
-      const preferredEndHour = parseInt(preferences.preferredEndTime.split(':')[0]);
-      
-      // If it's a morning activity, check if it fits before work/study
-      if (activity.timeOfDay === 'morning') {
-        if (preferredStartHour >= workStartHour) return false;
-      }
-      
-      // If it's an afternoon activity, check if it fits during break time
-      if (activity.timeOfDay === 'afternoon') {
-        const breakHour = parseInt(preferences.schedule.breakTime.split(':')[0]);
-        const breakEndHour = breakHour + Math.floor(preferences.schedule.breakDuration / 60);
-        if (activity.duration > preferences.schedule.breakDuration) return false;
-      }
-      
-      // If it's an evening activity or any time activity, check if it fits after work/study
-      if (activity.timeOfDay === 'evening' || activity.timeOfDay === 'any') {
-        if (preferredStartHour < workEndHour) return false;
-        if (preferredEndHour < workEndHour) return false;
-      }
-      
-      return true;
-    })
-    .sort((a, b) => {
-      // Prioritize activities based on pace preference
-      if (preferences.pace === 'relaxed') {
-        return a.duration - b.duration; // Shorter activities first
-      } else if (preferences.pace === 'active') {
-        return b.duration - a.duration; // Longer activities first
-      }
-      return 0; // No specific sorting for moderate pace
-    })
-    .slice(0, 3); // Limit to 3 activities for now
+const handlePreferencesSubmit = async (preferences: UserPreferences) => {
+  try {
+    const response = await fetch('http://localhost:5000/api/preferences', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(preferences)
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to save preferences');
+    }
+
+    const data = await response.json();
+    if (data.success) {
+      router.push('/agent');
+    }
+  } catch (error) {
+    console.error('Error saving preferences:', error);
+    // TODO: Add error notification
+  }
 };
-
-const suggestedActivities = ref<Activity[]>([]);
 
 const formatDuration = (minutes: number) => {
   if (minutes < 60) return `${minutes}min`;
@@ -69,24 +40,11 @@ const formatPrice = (price: number) => {
   if (price === 0) return 'Free';
   return `€${price}`;
 };
-
-const resetApp = () => {
-  currentStep.value = 'welcome';
-  suggestedActivities.value = [];
-};
 </script>
 
 <template>
   <div class="app">
-    <WelcomeScreen
-      v-if="currentStep === 'welcome'"
-      @start="currentStep = 'preferences'"
-    />
-    
-    <PreferencesForm
-      v-else-if="currentStep === 'preferences'"
-      @submit="handlePreferencesSubmit"
-    />
+    <router-view></router-view>
   </div>
 </template>
 

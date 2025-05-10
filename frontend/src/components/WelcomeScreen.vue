@@ -34,8 +34,6 @@
         <button 
           class="confirm-button" 
           @click="$emit('start')"
-          :disabled="isAudioPlaying || !isAudioAlreadyPlayed"
-          :class="{ 'disabled': isAudioPlaying || !isAudioAlreadyPlayed }"
         >
           {{ !isAudioAlreadyPlayed ? 'Click the bubble to hear Anty first!' : 
              isAudioPlaying ? 'Please listen to Anty...' : 
@@ -117,7 +115,11 @@ const startTypingAnimation = async () => {
 const playWelcomeAudio = async () => {
   try {
     if (!audio.value) {
-      audio.value = new Audio('/api/welcome-audio');
+      // Create a mock audio element with a short duration
+      audio.value = new Audio();
+      // Set a mock duration of 5 seconds
+      Object.defineProperty(audio.value, 'duration', { value: 5 });
+      
       audio.value.addEventListener('play', () => {
         isAudioPlaying.value = true;
         isSphereAnimated.value = true;
@@ -135,7 +137,14 @@ const playWelcomeAudio = async () => {
     }
     
     if (!isAudioPlaying.value) {
+      // Simulate audio playback
       await audio.value.play();
+      // Automatically end the audio after 5 seconds
+      setTimeout(() => {
+        if (audio.value) {
+          audio.value.dispatchEvent(new Event('ended'));
+        }
+      }, 5000);
     } else {
       audio.value.pause();
       // Reset text when audio is paused
@@ -150,7 +159,9 @@ const playWelcomeAudio = async () => {
 
 onMounted(() => {
   // Initialize audio without auto-playing
-  audio.value = new Audio('/api/welcome-audio');
+  audio.value = new Audio();
+  Object.defineProperty(audio.value, 'duration', { value: 5 });
+  
   audio.value.addEventListener('play', () => {
     isAudioPlaying.value = true;
     isSphereAnimated.value = true;

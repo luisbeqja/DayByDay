@@ -5,7 +5,6 @@ from .activity_planner import AntyAIActivityPlanner
 import asyncio
 import logging
 from datetime import datetime
-
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -151,6 +150,78 @@ class OrchestratorAgent:
                 "timestamp": asyncio.get_event_loop().time()
             }
         }
+        
+    async def plan_next_activity(self, daily_planner_result: dict, current_period: str) -> dict:
+        """
+        Plans the next activity from the daily plan.
+        
+        Args:
+            daily_planner_result (dict): The result from the daily planner
+            current_period (str): The current time period (morning/afternoon/evening)
+            
+        Returns:
+            dict: A dictionary containing:
+                - activity: The planned activity description
+                - details: The detailed plan for the activity
+                - remaining: List of remaining activities
+        """
+        # Parse daily plan
+        if isinstance(daily_planner_result['result'], str):
+            daily_plan = eval(daily_planner_result['result'])
+        else:
+            daily_plan = daily_planner_result['result']
+        
+        # Get remaining activities for current period
+        remaining_activities = self.get_remaining_activities(daily_plan)
+        print(f"\nRemaining activities for {current_period}:")
+        for i, activity in enumerate(remaining_activities, 1):
+            print(f"{i}. {activity}")
+        
+        if remaining_activities:
+            # Plan the first remaining activity
+            activity_description = remaining_activities[0]
+            activity_planner_result = await self.delegate_task(
+                TaskType.ACTIVITY_PLANNER,
+                activity_description=activity_description
+            )
+            print("\nActivity planner result:", activity_planner_result['result'])
+            
+            # Mark the activity as completed
+            self.mark_activity_completed(activity_description)
+            print(f"\nMarked '{activity_description}' as completed")
+            
+            # Get updated remaining activities
+            updated_remaining = self.get_remaining_activities(daily_plan)
+            print(f"\nUpdated remaining activities for {current_period}:")
+            for i, activity in enumerate(updated_remaining, 1):
+                print(f"{i}. {activity}")
+            
+            return {
+                'activity': activity_description,
+                'details': activity_planner_result['result'],
+                'remaining': updated_remaining
+            }
+        else:
+            print(f"No remaining activities for {current_period}")
+            return {
+                'activity': None,
+                'details': None,
+                'remaining': []
+            }
+
+    async def handle_activity_planning(self, daily_planner_result: dict):
+        """
+        Handles the activity planning process for the current period.
+        
+        Args:
+            daily_planner_result (dict): The result from the daily planner
+            current_period (str): The current time period (morning/afternoon/evening)
+        """
+        result = await self.plan_next_activity(daily_planner_result, self.get_current_time_period())
+        return result
+
+
+
 
 
 
@@ -214,6 +285,9 @@ async def main():
             print(f"{i}. {activity}")
     else:
         print(f"No remaining activities for {current_period}")
+
+    # Example usage
+    result = await orchestrator.handle_activity_planning(daily_planner_result)
 
 if __name__ == "__main__":
     asyncio.run(main())
