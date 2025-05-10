@@ -4,7 +4,7 @@ from openai import AsyncOpenAI
 from datetime import datetime
 import os
 from dotenv import load_dotenv
-from tools.weather import get_weather
+from .tools.weather import get_weather
 
 latitude = 51.2194  # Example latitude for Antwerp
 longitude = 4.4025  # Example longitude for Antwerp

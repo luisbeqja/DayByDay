@@ -5,7 +5,9 @@ import json
 from dotenv import load_dotenv
 from pywebpush import webpush, WebPushException
 from agent.speech.ElevenLabs import ElevenLabsAPI
+from agent.orchestrator import OrchestratorAgent, TaskType
 from io import BytesIO
+import asyncio
 
 # Load environment variables
 load_dotenv()
@@ -13,8 +15,12 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
+# Initialize the orchestrator
+orchestrator = OrchestratorAgent()
+
 # These paths would be for persistent storage in production
 SUBSCRIPTION_FILE = 'subscriptions.json'
+PREFERENCES_FILE = 'user_preferences.json'
 VAPID_PRIVATE_KEY_FILE = 'private_key.pem'
 
 # VAPID keys should be generated and stored securely
@@ -46,8 +52,28 @@ def save_subscriptions():
     except Exception as e:
         print(f"Error saving subscriptions: {e}")
 
-# Load subscriptions on startup
+# Load existing preferences if file exists
+def load_preferences():
+    try:
+        if os.path.exists(PREFERENCES_FILE):
+            with open(PREFERENCES_FILE, 'r') as f:
+                return json.load(f)
+        return {}
+    except Exception as e:
+        print(f"Error loading preferences: {e}")
+        return {}
+
+# Save preferences to file
+def save_preferences(preferences):
+    try:
+        with open(PREFERENCES_FILE, 'w') as f:
+            json.dump(preferences, f)
+    except Exception as e:
+        print(f"Error saving preferences: {e}")
+
+# Load subscriptions and preferences on startup
 load_subscriptions()
+user_preferences = load_preferences()
 
 # Initialize ElevenLabs API
 tts = ElevenLabsAPI()
@@ -165,6 +191,49 @@ Let's make your everyday... a little more interesting. 🚲✨
         )
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+@app.route('/api/preferences', methods=['POST'])
+async def save_user_preferences():
+    try:
+        preferences = request.json
+        if not preferences:
+            return jsonify({"error": "No preferences data provided"}), 400
+            
+        # Validate required fields
+        required_fields = ['occupation', 'schedule', 'interests', 'pace', 'preferredStartTime', 'preferredEndTime']
+        for field in required_fields:
+            if field not in preferences:
+                return jsonify({"error": f"Missing required field: {field}"}), 400
+                
+        # Validate schedule fields
+        schedule_fields = ['workStartTime', 'workEndTime', 'breakTime', 'breakDuration']
+        for field in schedule_fields:
+            if field not in preferences['schedule']:
+                return jsonify({"error": f"Missing required schedule field: {field}"}), 400
+            
+        # Save preferences
+        save_preferences(preferences)
+        
+        # Get daily plan using the orchestrator
+        daily_planner_result = await orchestrator.delegate_task(
+            TaskType.DAILY_PLANNER,
+            user_preferences=preferences
+        )
+        
+        if daily_planner_result['status'] == 'error':
+            return jsonify({"error": daily_planner_result['error']}), 500
+            
+        return jsonify({
+            "success": True,
+            "daily_plan": daily_planner_result['result']
+        })
+        
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/preferences', methods=['GET'])
+def get_user_preferences():
+    return jsonify(user_preferences)
 
 # Add your API endpoints here
 

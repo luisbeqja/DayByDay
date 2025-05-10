@@ -1,7 +1,7 @@
 from typing import Dict, List, Any, Optional
 from enum import Enum
-from daily_planner import AntyAIPlanner
-from activity_planner import AntyAIActivityPlanner
+from .daily_planner import AntyAIPlanner
+from .activity_planner import AntyAIActivityPlanner
 import asyncio
 import logging
 from datetime import datetime
