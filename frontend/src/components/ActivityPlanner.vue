@@ -4,7 +4,7 @@
             <div class="loader"></div>
             <p>Loading activity...</p>
         </div>
-        <div v-else-if="activityDetails" class="map-container">
+        <div v-else-if="activityDetails?.activity_name" class="map-container">
           <h3>{{ activityDetails.activity_name.charAt(0).toUpperCase() + activityDetails.activity_name.slice(1) }}</h3>
             <iframe
               width="100%"
@@ -72,11 +72,11 @@ const fetchActivity = async () => {
     const data = await response.json();
     
     if (data.activity) {
-      currentActivity.value = data.activity;
-      activityDetails.value = JSON.parse(data.details) || null;
-      activityDetailsText.value = JSON.parse(data.details).text_to_speech || null;
+      currentActivity.value = data.activity.result;
+      activityDetails.value = data.details.result || null;
+      activityDetailsText.value = data.details.result.text_to_speech || null;
     }
-    console.log(JSON.parse(data.details));
+    console.log('Activity data:', data);
   } catch (error) {
     console.error('Error fetching activity:', error);
   } finally {

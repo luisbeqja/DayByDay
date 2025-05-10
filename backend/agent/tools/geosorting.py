@@ -53,11 +53,10 @@ def get_place_info(loc):
     }
 
 
-def main():
+def main(category):
     long = 51.2206
     lat = 4.4024
     user_location = (long, lat)
-    category = "cafe"
 
     try:
         locations = load_dataset(category)
